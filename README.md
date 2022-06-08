@@ -1655,6 +1655,7 @@
 
 | API                                                                          | Description                                                           | Auth     | HTTPS | CORS    |
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------- | ----- | ------- |
+| [Mockyard](https://mockyard.in/)                      | Realistic mock data for testing and prototyping                                 | No       | Yes    | Yes |
 | [Bacon Ipsum](https://baconipsum.com/json-api/)                              | A Meatier Lorem Ipsum Generator                                       | No       | Yes   | Unknown |
 | [Dicebear Avatars](https://avatars.dicebear.com/)                            | Generate random pixel-art avatars                                     | No       | Yes   | No      |
 | [English Random Words](https://random-words-api.vercel.app/word)             | Generate English Random Words with Pronunciation                      | No       | Yes   | No      |
