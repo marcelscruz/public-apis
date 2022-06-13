@@ -1572,7 +1572,6 @@
 | [Ayrshare](https://www.ayrshare.com)                                            | Social media APIs to post, get analytics, and manage multiple users social media accounts         | `apiKey` | Yes   | Yes     |
 | [aztro](https://aztro.sameerkumar.website/)                                     | Daily horoscope info for yesterday, today, and tomorrow                                           | No       | Yes   | Unknown |
 | [Blogger](https://developers.google.com/blogger/)                               | The Blogger APIs allows client applications to view and update Blogger content                    | `OAuth`  | Yes   | Unknown |
-| [Cisco Spark](https://developer.ciscospark.com)                                 | Team Collaboration Software                                                                       | `OAuth`  | Yes   | Unknown |
 | [Dangerous Discord Database](https://discord.riverside.rocks/docs/index.php)    | Database of malicious Discord accounts                                                            | `apiKey` | Yes   | Unknown |
 | [Discord](https://discord.com/developers/docs/intro)                            | Make bots for Discord, integrate Discord onto an external platform                                | `OAuth`  | Yes   | Unknown |
 | [Disqus](https://disqus.com/api/docs/auth/)                                     | Communicate with Disqus data                                                                      | `OAuth`  | Yes   | Unknown |
@@ -1608,6 +1607,7 @@
 | [Twitch](https://dev.twitch.tv/docs)                                            | Game Streaming API                                                                                | `OAuth`  | Yes   | Unknown |
 | [Twitter](https://developer.twitter.com/en/docs)                                | Read and write Twitter data                                                                       | `OAuth`  | Yes   | No      |
 | [vk](https://vk.com/dev/sites)                                                  | Read and write vk data                                                                            | `OAuth`  | Yes   | Unknown |
+| [Webex](https://developer.webex.com).                                           | Team collaboration software                                                                        | `OAuth`  | Yes   | Yes     |
 
 **[⬆ Back to Index](#index)**
 
