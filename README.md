@@ -961,7 +961,7 @@
 ### Geocoding
 
 | API                                                                                                                    | Description                                                                                         | Auth     | HTTPS | CORS    |
-| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------- | ----- | ------- | --- |
+| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------- | ----- | ------- |
 | [Abstract IP Geolocation](https://www.abstractapi.com/ip-geolocation-api)                                              | Geolocate website visitors from their IPs                                                           | `apiKey` | Yes   | Yes     |
 | [Actinia Grass GIS](https://actinia.mundialis.de/api_docs/)                                                            | Actinia is an open source REST API for geographical data that uses GRASS GIS                        | `apiKey` | Yes   | Unknown |
 | [administrative-divisons-db](https://github.com/kamikazechaser/administrative-divisions-db)                            | Get all administrative divisions of a country                                                       | No       | Yes   | Yes     |
