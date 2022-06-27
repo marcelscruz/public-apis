@@ -3,7 +3,7 @@
     <i>A collaborative list of public APIs for developers</i>
 </div>
 
-<br />
+<!-- <br />
 
 <div align="center">
     <sup>Status</sup>
@@ -14,8 +14,8 @@
     <a href="https://github.com/public-apis/public-apis">
         <img alt="Number of APIs" src="https://img.shields.io/badge/dynamic/json?url=https://api.publicapis.org/entries&label=Number%20of%20APIs&query=$.count&color=informational" />
     </a>
-    <!-- <br /> -->
-    <!-- <a href="https://github.com/public-apis/public-apis/actions/workflows/test_of_push_and_pull.yml">
+    <br />
+    <a href="https://github.com/public-apis/public-apis/actions/workflows/test_of_push_and_pull.yml">
         <img alt="Tests of push and pull" src="https://github.com/public-apis/public-apis/actions/workflows/test_of_push_and_pull.yml/badge.svg" />
     </a>
     <a href="https://github.com/public-apis/public-apis/actions/workflows/validate_links.yml">
@@ -23,68 +23,31 @@
     </a>
     <a href="https://github.com/public-apis/public-apis/actions/workflows/test_of_validate_package.yml">
         <img alt="Tests of validate package" src="https://github.com/public-apis/public-apis/actions/workflows/test_of_validate_package.yml/badge.svg" />
-    </a> -->
-</div>
+    </a>
+</div> -->
 
-<!-- <br /> -->
+<br />
 
-<!-- <div align="center">
+<div align="center">
     <sub>The Project</sub>
     <br />
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
-    <a href="https://github.com/davemachado/public-api">API for this project</a> •
-    <a href="https://github.com/public-apis/public-apis/issues">Issues</a> •
-    <a href="https://github.com/public-apis/public-apis/pulls">Pull Requests</a> •
+    <!-- <a href="https://github.com/davemachado/public-api">API for this project</a> • -->
+    <a href="https://github.com/public-apis-dev/public-apis/issues">Issues</a> •
+    <a href="https://github.com/public-apis-dev/public-apis/pulls">Pull Requests</a> •
     <a href="LICENSE">License</a>
-</div> -->
+</div>
 
 <!-- <br /> -->
 
 <!-- <div align="center">
     <sub>Alternative sites for the project (unofficials)</sub>
     <br />
+    <a href="https://publicapis.dev">Public APIs</a> •
     <a href="https://free-apis.github.io">Free APIs</a> •
-    <a href="https://devresourc.es/tools-and-utilities/public-apis">Dev Resources</a> •
     <a href="https://www.public-apis.ml">Public APIs Site</a> •
     <a href="https://apihouse.vercel.app">Apihouse</a> •
     <a href="https://collective-api.vercel.app/">Collective APIs</a>
-</div> -->
-
-<!-- <br /> -->
-
-<!-- --- -->
-
-<!-- <br /> -->
-
-<!-- <div align="center">
-    <p>
-        <a href="https://opencollective.com/public-apis">[ <strong>Become a sponsor</strong> and support Public APIs and their maintainers ]</a>
-    </p>
-    <p><strong>Special thanks to:</strong></p>
-    <p>
-        <a href="https://apilayer.com#gh-light-mode-only">
-            <div>
-                <img src=".github/cs1586-APILayerLogoUpdate2022-LJ_v2-HighRes.png" width="250" alt="APILayer Logo" />
-            </div>
-            <div>
-                <p><strong>The fastest way to integrate APIs into any product</strong></p>
-            </div>
-            <div>
-                <sup>Explore, discover and consume public APIs as simpler programmable building blocks all on one platform for a 10x developer experience.</sup>
-            </div>
-        </a>
-        <a href="https://apilayer.com#gh-dark-mode-only">
-            <div>
-                <img src="https://raw.githubusercontent.com/public-apis/public-apis/master/.github/assets/sponsors_logo/m3o_logo_white.png" width="250" alt="APILayer Logo" />
-            </div>
-            <div>
-                <p><strong>The fastest way to integrate APIs into any product</strong></p>
-            </div>
-            <div>
-                <sup>Explore, discover and consume public APIs as simpler programmable building blocks all on one platform for a 10x developer experience.</sup>
-            </div>
-        </a>
-    </p>
 </div> -->
 
 <br />
@@ -962,7 +925,7 @@
 ### Geocoding
 
 | API                                                                                                                    | Description                                                                                         | Auth     | HTTPS | CORS    |
-| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------- | ----- | ------- |
+| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------- | ----- | ------- | --- |
 | [Abstract IP Geolocation](https://www.abstractapi.com/ip-geolocation-api)                                              | Geolocate website visitors from their IPs                                                           | `apiKey` | Yes   | Yes     |
 | [Actinia Grass GIS](https://actinia.mundialis.de/api_docs/)                                                            | Actinia is an open source REST API for geographical data that uses GRASS GIS                        | `apiKey` | Yes   | Unknown |
 | [administrative-divisons-db](https://github.com/kamikazechaser/administrative-divisions-db)                            | Get all administrative divisions of a country                                                       | No       | Yes   | Yes     |
@@ -1449,14 +1412,15 @@
 **[⬆ Back to Index](#index)**
 
 ### Podcasts
-| API                                                                 | Description                                            | Auth     | HTTPS | CORS    |
-| ------------------------------------------------------------------- | ------------------------------------------------------ | -------- | ----- | ------- |
-| [iTunes](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html#//apple_ref/doc/uid/TP40017632-CH3-SW1) | Apple Podcasts Directory  | No | Yes | Unknown |
-| [Listen Notes](https://www.hackerearth.com/docs/wiki/developers/v4/) | Get details on podcasts & episodes, Podcast & Episode Search | `apiKey` | Yes | Unknown |
-| [PodcastIndex](https://podcastindex-org.github.io/docs-api/) | Get details on podcasts & episodes, Podcast Search | `apiKey` | Yes | Unknown |
-| [Spotify](https://developer.spotify.com/documentation/web-api/) | Get details on podcasts & episodes | `OAuth` | Yes | Unknown |
-| [Taddy Podcasts](https://taddy.org/developers/podcast-api) | Get details on podcasts & episodes, Podcast & Episode Search, Webhook notifications | `X-API-KEY` | Yes | Yes |
-    
+
+| API                                                                                                                                                        | Description                                                                         | Auth        | HTTPS | CORS    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------- | ----- | ------- |
+| [iTunes](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html#//apple_ref/doc/uid/TP40017632-CH3-SW1) | Apple Podcasts Directory                                                            | No          | Yes   | Unknown |
+| [Listen Notes](https://www.hackerearth.com/docs/wiki/developers/v4/)                                                                                       | Get details on podcasts & episodes, Podcast & Episode Search                        | `apiKey`    | Yes   | Unknown |
+| [PodcastIndex](https://podcastindex-org.github.io/docs-api/)                                                                                               | Get details on podcasts & episodes, Podcast Search                                  | `apiKey`    | Yes   | Unknown |
+| [Spotify](https://developer.spotify.com/documentation/web-api/)                                                                                            | Get details on podcasts & episodes                                                  | `OAuth`     | Yes   | Unknown |
+| [Taddy Podcasts](https://taddy.org/developers/podcast-api)                                                                                                 | Get details on podcasts & episodes, Podcast & Episode Search, Webhook notifications | `X-API-KEY` | Yes   | Yes     |
+
 **[⬆ Back to Index](#index)**
 
 ### Programming
@@ -1620,7 +1584,7 @@
 | [Twitch](https://dev.twitch.tv/docs)                                            | Game Streaming API                                                                                | `OAuth`  | Yes   | Unknown |
 | [Twitter](https://developer.twitter.com/en/docs)                                | Read and write Twitter data                                                                       | `OAuth`  | Yes   | No      |
 | [vk](https://vk.com/dev/sites)                                                  | Read and write vk data                                                                            | `OAuth`  | Yes   | Unknown |
-| [Webex](https://developer.webex.com).                                           | Team collaboration software                                                                        | `OAuth`  | Yes   | Yes     |
+| [Webex](https://developer.webex.com).                                           | Team collaboration software                                                                       | `OAuth`  | Yes   | Yes     |
 
 **[⬆ Back to Index](#index)**
 
@@ -1668,7 +1632,7 @@
 
 | API                                                                          | Description                                                           | Auth     | HTTPS | CORS    |
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------- | ----- | ------- |
-| [Mockyard](https://mockyard.in/)                      | Realistic mock data for testing and prototyping                                 | No       | Yes    | Yes |
+| [Mockyard](https://mockyard.in/)                                             | Realistic mock data for testing and prototyping                       | No       | Yes   | Yes     |
 | [Bacon Ipsum](https://baconipsum.com/json-api/)                              | A Meatier Lorem Ipsum Generator                                       | No       | Yes   | Unknown |
 | [Dicebear Avatars](https://avatars.dicebear.com/)                            | Generate random pixel-art avatars                                     | No       | Yes   | No      |
 | [English Random Words](https://random-words-api.vercel.app/word)             | Generate English Random Words with Pronunciation                      | No       | Yes   | No      |
