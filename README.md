@@ -842,6 +842,7 @@
 | [PunkAPI](https://punkapi.com/)                                                  | Brewdog Beer Recipes                              | No       | Yes   | Unknown |
 | [Rustybeer](https://rustybeer.herokuapp.com/)                                    | Beer brewing tools                                | No       | Yes   | No      |
 | [Spoonacular](https://spoonacular.com/food-api)                                  | Recipes, Food Products, and Meal Planning         | `apiKey` | Yes   | Unknown |
+| [Status Pizza](https://status.pizza)                                             | Pizza for every HTTP Status                       | No       | Yes   | Unknown |
 | [Systembolaget](https://api-portal.systembolaget.se)                             | Govornment owned liqour store in Sweden           | `apiKey` | Yes   | Unknown |
 | [TacoFancy](https://github.com/evz/tacofancy-api)                                | Community-driven taco database                    | No       | No    | Unknown |
 | [Tasty](https://rapidapi.com/apidojo/api/tasty/)                                 | API to query data about recipe, plan, ingredients | `apiKey` | Yes   | Unknown |
