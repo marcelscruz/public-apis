@@ -273,10 +273,8 @@
 | [Quran](https://quran.api-docs.io/)                                       | RESTful Quran API with multiple languages                                                          | No       | Yes   | Yes     |
 | [Quran Cloud](https://alquran.cloud/api)                                  | A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran                       | No       | Yes   | Yes     |
 | [Quran-api](https://github.com/fawazahmed0/quran-api#readme)              | Free Quran API Service with 90+ different languages and 400+ translations                          | No       | Yes   | Yes     |
-| [Rig Veda](https://aninditabasu.github.io/indica/html/rv.html)            | Gods and poets, their categories, and the verse meters, with the mandal and sukta number           | No       | Yes   | Unknown |
 | [The Bible](https://docs.api.bible)                                       | Everything you need from the Bible in one discoverable place                                       | `apiKey` | Yes   | Unknown |
 | [Thirukkural](https://api-thirukkural.web.app/)                           | 1330 Thirukkural poems and explanation in Tamil and English                                        | No       | Yes   | Yes     |
-| [Vedic Society](https://aninditabasu.github.io/indica/html/vs.html)       | Descriptions of all nouns (names, places, animals, things) from vedic literature                   | No       | Yes   | Unknown |
 | [Wizard World](https://wizard-world-api.herokuapp.com/swagger/index.html) | Get information from the Harry Potter universe                                                     | No       | Yes   | Yes     |
 | [Wolne Lektury](https://wolnelektury.pl/api/)                             | API for obtaining information about e-books available on the WolneLektury.pl website               | No       | Yes   | Unknown |
 
@@ -603,7 +601,7 @@
 | [Statically](https://statically.io/)                                                                                                      | A free CDN for developers                                                                           | No              | Yes   | Yes     |
 | [Supportivekoala](https://developers.supportivekoala.com/)                                                                                | Autogenerate images with template                                                                   | `apiKey`        | Yes   | Yes     |
 | [Tyk](https://tyk.io/open-source/)                                                                                                        | Api and service management platform                                                                 | `apiKey`        | Yes   | Yes     |
-| [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst)                                                                  | Code compiler supporting 35+ languages mentioned at wandbox.org                                     | No              | Yes   | Unknown |
+| [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel/API.md)                                                                    | Code compiler supporting 35+ languages mentioned at wandbox.org                                     | No              | Yes   | Unknown |
 | [WebScraping.AI](https://webscraping.ai/)                                                                                                 | Web Scraping API with built-in proxies and JS rendering                                             | `apiKey`        | Yes   | Yes     |
 | [ZenRows](https://www.zenrows.com/)                                                                                                       | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies | `apiKey`        | Yes   | Unknown |
 
@@ -694,7 +692,6 @@
 | [chucknorris.io](https://api.chucknorris.io)                                        | JSON API for hand curated Chuck Norris jokes                                        | No   | Yes   | Unknown |
 | [Corporate Buzz Words](https://github.com/sameerkumar18/corporate-bs-generator-api) | REST API for Corporate Buzz Words                                                   | No   | Yes   | Yes     |
 | [Excuser](https://excuser.herokuapp.com/)                                           | Get random excuses for various situations                                           | No   | Yes   | Unknown |
-| [Fun Fact](https://api.aakhilv.me)                                                  | A simple HTTPS api that can randomly select and return a fact from the FFA database | No   | Yes   | Yes     |
 | [Imgflip](https://imgflip.com/api)                                                  | Gets an array of popular memes                                                      | No   | Yes   | Unknown |
 | [Meme Maker](https://mememaker.github.io/API/)                                      | REST API for create your own meme                                                   | No   | Yes   | Unknown |
 | [NaMoMemes](https://github.com/theIYD/NaMoMemes)                                    | Memes on Narendra Modi                                                              | No   | Yes   | Unknown |
@@ -1166,7 +1163,6 @@
 | [Upwork](https://developers.upwork.com/)                                                 | Freelance job board and management system                        | `OAuth`  | Yes   | Unknown |
 | [USAJOBS](https://developer.usajobs.gov/)                                                | US government job board                                          | `apiKey` | Yes   | Unknown |
 | [WhatJobs](https://www.whatjobs.com/affiliates)                                          | Job search engine                                                | `apiKey` | Yes   | Unknown |
-| [ZipRecruiter](https://www.ziprecruiter.com/publishers)                                  | Job search app and website                                       | `apiKey` | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -1737,14 +1733,14 @@
 | [Transport for Atlanta, US](http://www.itsmarta.com/app-developer-resources.aspx)                                                         | Marta                                                                                        | No       | No    | Unknown |
 | [Transport for Auckland, New Zealand](https://dev-portal.at.govt.nz/)                                                                     | Auckland Transport                                                                           | No       | Yes   | Unknown |
 | [Transport for Belgium](https://docs.irail.be/)                                                                                           | The iRail API is a third-party API for Belgian public transport by train                     | No       | Yes   | Yes     |
-| [Transport for Berlin, Germany](https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md)                                               | Third-party VBB API                                                                          | No       | Yes   | Unknown |
+| [Transport for Berlin, Germany](https://github.com/derhuerst/vbb-rest/blob/5/docs/api.md)                                                 | Third-party VBB API                                                                          | No       | Yes   | Unknown |
 | [Transport for Bordeaux, France](https://opendata.bordeaux-metropole.fr/explore/)                                                         | Bordeaux Métropole public transport and more (France)                                        | `apiKey` | Yes   | Unknown |
 | [Transport for Budapest, Hungary](https://bkkfutar.docs.apiary.io)                                                                        | Budapest public transport API                                                                | No       | Yes   | Unknown |
 | [Transport for Chicago, US](http://www.transitchicago.com/developers/)                                                                    | Chicago Transit Authority (CTA)                                                              | `apiKey` | No    | Unknown |
 | [Transport for Czech Republic](https://www.chaps.cz/eng/products/idos-internet)                                                           | Czech transport API                                                                          | No       | Yes   | Unknown |
 | [Transport for Denver, US](http://www.rtd-denver.com/gtfs-developer-guide.shtml)                                                          | RTD                                                                                          | No       | No    | Unknown |
 | [Transport for Finland](https://digitransit.fi/en/developers/)                                                                            | Finnish transport API                                                                        | No       | Yes   | Unknown |
-| [Transport for Germany](http://data.deutschebahn.com/dataset/api-fahrplan)                                                                | Deutsche Bahn (DB) API                                                                       | `apiKey` | No    | Unknown |
+| [Transport for Germany](http://data.deutschebahn.com/dataset/api-fahrplan.html)                                                           | Deutsche Bahn (DB) API                                                                       | `apiKey` | No    | Unknown |
 | [Transport for Grenoble, France](https://www.mobilites-m.fr/pages/opendata/OpenDataApi.html)                                              | Grenoble public transport                                                                    | No       | No    | No      |
 | [Transport for Hessen, Germany](https://opendata.rmv.de/site/start.html)                                                                  | RMV API (Public Transport in Hessen)                                                         | No       | Yes   | Unknown |
 | [Transport for Honolulu, US](http://hea.thebus.org/api_info.asp)                                                                          | Honolulu Transportation Information                                                          | `apiKey` | No    | Unknown |
