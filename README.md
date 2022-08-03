@@ -687,17 +687,17 @@
 
 ### Entertainment
 
-| API                                                                                 | Description                                                                         | Auth | HTTPS | CORS    |
-| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---- | ----- | ------- |
-| [chucknorris.io](https://api.chucknorris.io)                                        | JSON API for hand curated Chuck Norris jokes                                        | No   | Yes   | Unknown |
-| [Corporate Buzz Words](https://github.com/sameerkumar18/corporate-bs-generator-api) | REST API for Corporate Buzz Words                                                   | No   | Yes   | Yes     |
-| [Excuser](https://excuser.herokuapp.com/)                                           | Get random excuses for various situations                                           | No   | Yes   | Unknown |
-| [Imgflip](https://imgflip.com/api)                                                  | Gets an array of popular memes                                                      | No   | Yes   | Unknown |
-| [Meme Maker](https://mememaker.github.io/API/)                                      | REST API for create your own meme                                                   | No   | Yes   | Unknown |
-| [NaMoMemes](https://github.com/theIYD/NaMoMemes)                                    | Memes on Narendra Modi                                                              | No   | Yes   | Unknown |
-| [Random Useless Facts](https://uselessfacts.jsph.pl/)                               | Get useless, but true facts                                                         | No   | Yes   | Unknown |
-| [Techy](https://techy-api.vercel.app/)                                              | JSON and Plaintext API for tech-savvy sounding phrases                              | No   | Yes   | Unknown |
-| [Yo Momma Jokes](https://github.com/beanboi7/yomomma-apiv2)                         | REST API for Yo Momma Jokes                                                         | No   | Yes   | Unknown |
+| API                                                                                 | Description                                            | Auth | HTTPS | CORS    |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------ | ---- | ----- | ------- |
+| [chucknorris.io](https://api.chucknorris.io)                                        | JSON API for hand curated Chuck Norris jokes           | No   | Yes   | Unknown |
+| [Corporate Buzz Words](https://github.com/sameerkumar18/corporate-bs-generator-api) | REST API for Corporate Buzz Words                      | No   | Yes   | Yes     |
+| [Excuser](https://excuser.herokuapp.com/)                                           | Get random excuses for various situations              | No   | Yes   | Unknown |
+| [Imgflip](https://imgflip.com/api)                                                  | Gets an array of popular memes                         | No   | Yes   | Unknown |
+| [Meme Maker](https://mememaker.github.io/API/)                                      | REST API for create your own meme                      | No   | Yes   | Unknown |
+| [NaMoMemes](https://github.com/theIYD/NaMoMemes)                                    | Memes on Narendra Modi                                 | No   | Yes   | Unknown |
+| [Random Useless Facts](https://uselessfacts.jsph.pl/)                               | Get useless, but true facts                            | No   | Yes   | Unknown |
+| [Techy](https://techy-api.vercel.app/)                                              | JSON and Plaintext API for tech-savvy sounding phrases | No   | Yes   | Unknown |
+| [Yo Momma Jokes](https://github.com/beanboi7/yomomma-apiv2)                         | REST API for Yo Momma Jokes                            | No   | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -922,7 +922,7 @@
 ### Geocoding
 
 | API                                                                                                                    | Description                                                                                         | Auth     | HTTPS | CORS    |
-| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------- | ----- | ------- | --- |
+| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------- | ----- | ------- |
 | [Abstract IP Geolocation](https://www.abstractapi.com/ip-geolocation-api)                                              | Geolocate website visitors from their IPs                                                           | `apiKey` | Yes   | Yes     |
 | [Actinia Grass GIS](https://actinia.mundialis.de/api_docs/)                                                            | Actinia is an open source REST API for geographical data that uses GRASS GIS                        | `apiKey` | Yes   | Unknown |
 | [administrative-divisons-db](https://github.com/kamikazechaser/administrative-divisions-db)                            | Get all administrative divisions of a country                                                       | No       | Yes   | Yes     |
@@ -978,7 +978,7 @@
 | [LocationIQ](https://locationiq.org/docs/)                                                                             | Provides forward/reverse geocoding and batch geocoding                                              | `apiKey` | Yes   | Yes     |
 | [Longdo Map](https://map.longdo.com/docs/)                                                                             | Interactive map with detailed places and information portal in Thailand                             | `apiKey` | Yes   | Yes     |
 | [Mapbox](https://docs.mapbox.com/)                                                                                     | Create/customize beautiful digital maps                                                             | `apiKey` | Yes   | Unknown |
-| [MapQuest](https://developer.mapquest.com/)                                                                            | To access tools and resources to map the world                                                      | `apiKey` | Yes   | No      | Yes |
+| [MapQuest](https://developer.mapquest.com/)                                                                            | To access tools and resources to map the world                                                      | `apiKey` | Yes   | No      |
 | [Mexico](https://github.com/IcaliaLabs/sepomex)                                                                        | Mexico RESTful zip codes API                                                                        | No       | Yes   | Unknown |
 | [Nominatim](https://nominatim.org/release-docs/latest/api/Overview/)                                                   | Provides worldwide forward / reverse geocoding                                                      | No       | Yes   | Yes     |
 | [One Map, Singapore](https://www.onemap.gov.sg/docs/)                                                                  | Singapore Land Authority REST API services for Singapore addresses                                  | `apiKey` | Yes   | Unknown |
