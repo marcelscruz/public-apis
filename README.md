@@ -687,17 +687,17 @@
 
 ### Entertainment
 
-| API                                                                                 | Description                                                                         | Auth | HTTPS | CORS    |
-| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---- | ----- | ------- |
-| [chucknorris.io](https://api.chucknorris.io)                                        | JSON API for hand curated Chuck Norris jokes                                        | No   | Yes   | Unknown |
-| [Corporate Buzz Words](https://github.com/sameerkumar18/corporate-bs-generator-api) | REST API for Corporate Buzz Words                                                   | No   | Yes   | Yes     |
-| [Excuser](https://excuser.herokuapp.com/)                                           | Get random excuses for various situations                                           | No   | Yes   | Unknown |
-| [Imgflip](https://imgflip.com/api)                                                  | Gets an array of popular memes                                                      | No   | Yes   | Unknown |
-| [Meme Maker](https://mememaker.github.io/API/)                                      | REST API for create your own meme                                                   | No   | Yes   | Unknown |
-| [NaMoMemes](https://github.com/theIYD/NaMoMemes)                                    | Memes on Narendra Modi                                                              | No   | Yes   | Unknown |
-| [Random Useless Facts](https://uselessfacts.jsph.pl/)                               | Get useless, but true facts                                                         | No   | Yes   | Unknown |
-| [Techy](https://techy-api.vercel.app/)                                              | JSON and Plaintext API for tech-savvy sounding phrases                              | No   | Yes   | Unknown |
-| [Yo Momma Jokes](https://github.com/beanboi7/yomomma-apiv2)                         | REST API for Yo Momma Jokes                                                         | No   | Yes   | Unknown |
+| API                                                                                 | Description                                            | Auth | HTTPS | CORS    |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------ | ---- | ----- | ------- |
+| [chucknorris.io](https://api.chucknorris.io)                                        | JSON API for hand curated Chuck Norris jokes           | No   | Yes   | Unknown |
+| [Corporate Buzz Words](https://github.com/sameerkumar18/corporate-bs-generator-api) | REST API for Corporate Buzz Words                      | No   | Yes   | Yes     |
+| [Excuser](https://excuser.herokuapp.com/)                                           | Get random excuses for various situations              | No   | Yes   | Unknown |
+| [Imgflip](https://imgflip.com/api)                                                  | Gets an array of popular memes                         | No   | Yes   | Unknown |
+| [Meme Maker](https://mememaker.github.io/API/)                                      | REST API for create your own meme                      | No   | Yes   | Unknown |
+| [NaMoMemes](https://github.com/theIYD/NaMoMemes)                                    | Memes on Narendra Modi                                 | No   | Yes   | Unknown |
+| [Random Useless Facts](https://uselessfacts.jsph.pl/)                               | Get useless, but true facts                            | No   | Yes   | Unknown |
+| [Techy](https://techy-api.vercel.app/)                                              | JSON and Plaintext API for tech-savvy sounding phrases | No   | Yes   | Unknown |
+| [Yo Momma Jokes](https://github.com/beanboi7/yomomma-apiv2)                         | REST API for Yo Momma Jokes                            | No   | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -744,7 +744,7 @@
 | [Alpaca](https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/)     | Realtime and historical market data on all US equities and ETFs                                     | `apiKey` | Yes   | Yes     |
 | [Alpha Vantage](https://www.alphavantage.co/)                                                      | Realtime and historical stock data                                                                  | `apiKey` | Yes   | Unknown |
 | [apilayer marketstack](https://marketstack.com/)                                                   | Real-Time, Intraday & Historical Market Data API                                                    | `apiKey` | Yes   | Unknown |
-| [Atom Finance](https://atom.finance/) | Atom Finance provides access to market, earnings and news data | `apiKey` | Yes | Yes |
+| [Atom Finance](https://atom.finance/)                                                              | Atom Finance provides access to market, earnings and news data                                      | `apiKey` | Yes   | Yes     |
 | [Banco do Brasil](https://developers.bb.com.br/home)                                               | All Banco do Brasil financial transaction APIs                                                      | `OAuth`  | Yes   | Yes     |
 | [Billplz](https://www.billplz.com/api)                                                             | Payment platform                                                                                    | `apiKey` | Yes   | Unknown |
 | [Binlist](https://binlist.net/)                                                                    | Public access to a database of IIN/BIN information                                                  | No       | Yes   | Unknown |
