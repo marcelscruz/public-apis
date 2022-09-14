@@ -1262,7 +1262,7 @@
 | [The Old Reader](https://github.com/theoldreader/api)                    | RSS reader                                                                                   | `apiKey` | Yes   | Unknown |
 | [TheNews](https://www.thenewsapi.com/)                                   | Aggregated headlines, top story and live news JSON API                                       | `apiKey` | Yes   | Yes     |
 | [Trove](https://trove.nla.gov.au/about/create-something/using-api)       | Search through the National Library of Australia collection of 1000s of digitised newspapers | `apiKey` | Yes   | Unknown |
-| [World News](https://worldnewsapi.com)                                                               | Search through millions of semantically tagged worldwide news                                                                             | `apiKey`        | Yes   | Yes |
+| [World News](https://worldnewsapi.com) | Search through millions of semantically tagged worldwide news | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
