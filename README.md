@@ -438,7 +438,7 @@
 | [Tron Network](https://developers.tron.network/reference/api-key)                   | Provides various endpoints to interact with the Tron Blockchain                                  | No       | Yes   | Unknown |
 | [VALR](https://docs.valr.com/)                                                      | Cryptocurrency Exchange based in South Africa                                                    | `apiKey` | Yes   | Unknown |
 | [WorldCoinIndex](https://www.worldcoinindex.com/apiservice)                         | Cryptocurrencies Prices                                                                          | `apiKey` | Yes   | Unknown |
-| [ZMOK](https://zmok.io)                                                             | Ethereum JSON RPC API and Web3 provider                                                          | No       | Yes   | Unknown |
+| [ZMOK](https://docs.zmok.io)                                                        | Ethereum JSON RPC API and Web3 provider                                                          | No       | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)**
 
