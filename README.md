@@ -213,6 +213,7 @@
 | [PHP-Noise](https://php-noise.com/)                                  | Noise Background Image Generator               | No       | Yes   | Yes     |
 | [Pixel Encounter](https://pixelencounter.com/api)                    | SVG Icon Generator                             | No       | Yes   | No      |
 | [Rijksmuseum](https://data.rijksmuseum.nl/object-metadata/api/)      | RijksMuseum Data                               | `apiKey` | Yes   | Unknown |
+| [The Color](https://www.thecolorapi.com/) 						   | Swiss army knife for color 					| No 	   | No    | Unknown |
 | [Word Cloud](https://wordcloudapi.com/)                              | Easily create word clouds                      | `apiKey` | Yes   | Unknown |
 | [xColors](https://x-colors.herokuapp.com/)                           | Generate & convert colors                      | No       | Yes   | Yes     |
 
