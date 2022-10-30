@@ -1786,6 +1786,7 @@
 | [Free Url Shortener](https://ulvis.net/developer.html)                               | Free URL Shortener offers a powerful API to interact with other sites              | No       | Yes   | Unknown |
 | [GoTiny](https://github.com/robvanbakel/gotiny-api)                                  | A lightweight URL shortener, focused on ease-of-use for the developer and end-user | No       | Yes   | Yes     |
 | [Kutt](https://docs.kutt.it/)                                                        | Free Modern URL Shortener                                                          | `apiKey` | Yes   | Yes     |
+| [Logax](https://l.og.ax/)                                                            | API-first URL Shorterner                                                          | No       | Yes   | Yes     |
 | [Mgnet.me](http://mgnet.me/api.html)                                                 | Torrent URL shorten API                                                            | No       | Yes   | No      |
 | [owo](https://owo.vc/api)                                                            | A simple link obfuscator/shortener                                                 | No       | Yes   | Unknown |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs)                                | Custom URL shortener for sharing branded links                                     | `apiKey` | Yes   | Unknown |
