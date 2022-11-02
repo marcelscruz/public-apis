@@ -58,58 +58,58 @@
 
 ## Index
 
--   [Animals](#animals)
--   [Anime](#anime)
--   [Anti-Malware](#anti-malware)
--   [Art & Design](#art--design)
--   [Authentication & Authorization](#authentication--authorization)
--   [Blockchain](#blockchain)
--   [Books](#books)
--   [Business](#business)
--   [Calendar](#calendar)
--   [Cloud Storage & File Sharing](#cloud-storage--file-sharing)
--   [Continuous Integration](#continuous-integration)
--   [Cryptocurrency](#cryptocurrency)
--   [Currency Exchange](#currency-exchange)
--   [Data Validation](#data-validation)
--   [Development](#development)
--   [Dictionaries](#dictionaries)
--   [Documents & Productivity](#documents--productivity)
--   [Email](#email)
--   [Entertainment](#entertainment)
--   [Environment](#environment)
--   [Events](#events)
--   [Finance](#finance)
--   [Food & Drink](#food--drink)
--   [Games & Comics](#games--comics)
--   [Geocoding](#geocoding)
--   [Government](#government)
--   [Health](#health)
--   [Jobs](#jobs)
--   [Machine Learning](#machine-learning)
--   [Music](#music)
--   [News](#news)
--   [Open Data](#open-data)
--   [Open Source Projects](#open-source-projects)
--   [Patent](#patent)
--   [Personality](#personality)
--   [Phone](#phone)
--   [Photography](#photography)
--   [Podcasts](#podcasts)
--   [Programming](#programming)
--   [Science & Math](#science--math)
--   [Security](#security)
--   [Shopping](#shopping)
--   [Social](#social)
--   [Sports & Fitness](#sports--fitness)
--   [Test Data](#test-data)
--   [Text Analysis](#text-analysis)
--   [Tracking](#tracking)
--   [Transportation](#transportation)
--   [URL Shorteners](#url-shorteners)
--   [Vehicle](#vehicle)
--   [Video](#video)
--   [Weather](#weather)
+- [Animals](#animals)
+- [Anime](#anime)
+- [Anti-Malware](#anti-malware)
+- [Art & Design](#art--design)
+- [Authentication & Authorization](#authentication--authorization)
+- [Blockchain](#blockchain)
+- [Books](#books)
+- [Business](#business)
+- [Calendar](#calendar)
+- [Cloud Storage & File Sharing](#cloud-storage--file-sharing)
+- [Continuous Integration](#continuous-integration)
+- [Cryptocurrency](#cryptocurrency)
+- [Currency Exchange](#currency-exchange)
+- [Data Validation](#data-validation)
+- [Development](#development)
+- [Dictionaries](#dictionaries)
+- [Documents & Productivity](#documents--productivity)
+- [Email](#email)
+- [Entertainment](#entertainment)
+- [Environment](#environment)
+- [Events](#events)
+- [Finance](#finance)
+- [Food & Drink](#food--drink)
+- [Games & Comics](#games--comics)
+- [Geocoding](#geocoding)
+- [Government](#government)
+- [Health](#health)
+- [Jobs](#jobs)
+- [Machine Learning](#machine-learning)
+- [Music](#music)
+- [News](#news)
+- [Open Data](#open-data)
+- [Open Source Projects](#open-source-projects)
+- [Patent](#patent)
+- [Personality](#personality)
+- [Phone](#phone)
+- [Photography](#photography)
+- [Podcasts](#podcasts)
+- [Programming](#programming)
+- [Science & Math](#science--math)
+- [Security](#security)
+- [Shopping](#shopping)
+- [Social](#social)
+- [Sports & Fitness](#sports--fitness)
+- [Test Data](#test-data)
+- [Text Analysis](#text-analysis)
+- [Tracking](#tracking)
+- [Transportation](#transportation)
+- [URL Shorteners](#url-shorteners)
+- [Vehicle](#vehicle)
+- [Video](#video)
+- [Weather](#weather)
 
 ### Animals
 
@@ -148,7 +148,7 @@
 | API                                                                       | Description                                                              | Auth     | HTTPS | CORS    |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------- | ----- | ------- |
 | [AniAPI](https://aniapi.com/docs/)                                        | Anime discovery, streaming & syncing with trackers                       | `OAuth`  | Yes   | Yes     |
-| [AniDB](https://wiki.anidb.net/HTTP_API_Definition)                       | Anime Database                                                           | `apiKey` | No    | Yes |
+| [AniDB](https://wiki.anidb.net/HTTP_API_Definition)                       | Anime Database                                                           | `apiKey` | No    | Yes     |
 | [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs)                  | Anime discovery & tracking                                               | `OAuth`  | Yes   | Unknown |
 | [AnimeChan](https://github.com/RocktimSaikia/anime-chan)                  | Anime quotes (over 10k+)                                                 | No       | Yes   | No      |
 | [AnimeFacts](https://chandan-02.github.io/anime-facts-rest-api/)          | Anime Facts (over 100+)                                                  | No       | Yes   | Yes     |
@@ -213,7 +213,7 @@
 | [PHP-Noise](https://php-noise.com/)                                  | Noise Background Image Generator               | No       | Yes   | Yes     |
 | [Pixel Encounter](https://pixelencounter.com/api)                    | SVG Icon Generator                             | No       | Yes   | No      |
 | [Rijksmuseum](https://data.rijksmuseum.nl/object-metadata/api/)      | RijksMuseum Data                               | `apiKey` | Yes   | Unknown |
-| [The Color](https://www.thecolorapi.com/) 						   | Swiss army knife for color 					| No 	   | No    | Unknown |
+| [The Color](https://www.thecolorapi.com/)                            | Swiss army knife for color                     | No       | No    | Unknown |
 | [Word Cloud](https://wordcloudapi.com/)                              | Easily create word clouds                      | `apiKey` | Yes   | Unknown |
 | [xColors](https://x-colors.herokuapp.com/)                           | Generate & convert colors                      | No       | Yes   | Yes     |
 
@@ -371,72 +371,72 @@
 
 ### Cryptocurrency
 
-| API                                                                                 | Description                                                                                      | Auth     | HTTPS | CORS    |
-| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------- | ----- | ------- |
-| [0x](https://0x.org/api)                                                            | API for querying token and pool stats across various liquidity pools                             | No       | Yes   | Yes     |
-| [1inch](https://1inch.io/api/)                                                      | API for querying decentralize exchange                                                           | No       | Yes   | Unknown |
-| [Alchemy Ethereum](https://docs.alchemy.com/alchemy/)                               | Ethereum Node-as-a-Service Provider                                                              | `apiKey` | Yes   | Yes     |
-| [apilayer coinlayer](https://coinlayer.com)                                         | Real-time Crypto Currency Exchange Rates                                                         | `apiKey` | Yes   | Unknown |
-| [Binance](https://github.com/binance/binance-spot-api-docs)                         | Exchange for Trading Cryptocurrencies based in China                                             | `apiKey` | Yes   | Unknown |
-| [Bitcambio](https://nova.bitcambio.com.br/api/v3/docs#a-public)                     | Get the list of all traded assets in the exchange                                                | No       | Yes   | Unknown |
-| [BitcoinAverage](https://apiv2.bitcoinaverage.com/)                                 | Digital Asset Price Data for the blockchain industry                                             | `apiKey` | Yes   | Unknown |
-| [BitcoinCharts](https://bitcoincharts.com/about/exchanges/)                         | Financial and Technical Data related to the Bitcoin Network                                      | No       | Yes   | Unknown |
-| [Bitfinex](https://docs.bitfinex.com/docs)                                          | Cryptocurrency Trading Platform                                                                  | `apiKey` | Yes   | Unknown |
-| [Bitmex](https://www.bitmex.com/app/apiOverview)                                    | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong                         | `apiKey` | Yes   | Unknown |
-| [Bittrex](https://bittrex.github.io/api/v3)                                         | Next Generation Crypto Trading Platform                                                          | `apiKey` | Yes   | Unknown |
-| [Block](https://block.io/docs/basic)                                                | Bitcoin Payment, Wallet & Transaction Data                                                       | `apiKey` | Yes   | Unknown |
-| [Blockchain](https://www.blockchain.com/api)                                        | Bitcoin Payment, Wallet & Transaction Data                                                       | `apiKey` | Yes   | Unknown |
-| [blockfrost Cardano](https://blockfrost.io/)                                        | Interaction with the Cardano mainnet and several testnets                                        | `apiKey` | Yes   | Unknown |
-| [Brave NewCoin](https://bravenewcoin.com/developers)                                | Real-time and historic crypto data from more than 200+ exchanges                                 | `apiKey` | Yes   | Unknown |
-| [BtcTurk](https://docs.btcturk.com/)                                                | Real-time cryptocurrency data, graphs and API that allows buy&sell                               | `apiKey` | Yes   | Yes     |
-| [Bybit](https://bybit-exchange.github.io/docs/linear/#t-introduction)               | Cryptocurrency data feed and algorithmic trading                                                 | `apiKey` | Yes   | Unknown |
-| [CoinAPI](https://docs.coinapi.io/)                                                 | All Currency Exchanges integrate under a single api                                              | `apiKey` | Yes   | No      |
-| [Coinbase](https://developers.coinbase.com)                                         | Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices                                              | `apiKey` | Yes   | Unknown |
-| [Coinbase Pro](https://docs.pro.coinbase.com/#api)                                  | Cryptocurrency Trading Platform                                                                  | `apiKey` | Yes   | Unknown |
-| [CoinCap](https://docs.coincap.io/)                                                 | Real time Cryptocurrency prices through a RESTful API                                            | No       | Yes   | Unknown |
-| [CoinDCX](https://docs.coindcx.com/)                                                | Cryptocurrency Trading Platform                                                                  | `apiKey` | Yes   | Unknown |
-| [CoinDesk](https://old.coindesk.com/coindesk-api/)                                  | CoinDesk's Bitcoin Price Index (BPI) in multiple currencies                                      | No       | Yes   | Unknown |
-| [CoinGecko](http://www.coingecko.com/api)                                           | Cryptocurrency Price, Market, and Developer/Social Data                                          | No       | Yes   | Yes     |
-| [Coinigy](https://coinigy.docs.apiary.io)                                           | Interacting with Coinigy Accounts and Exchange Directly                                          | `apiKey` | Yes   | Unknown |
-| [Coinlib](https://coinlib.io/apidocs)                                               | Crypto Currency Prices                                                                           | `apiKey` | Yes   | Unknown |
-| [Coinlore](https://www.coinlore.com/cryptocurrency-data-api)                        | Cryptocurrencies prices, volume and more                                                         | No       | Yes   | Unknown |
-| [CoinMarketCap](https://coinmarketcap.com/api/)                                     | Cryptocurrencies Prices                                                                          | `apiKey` | Yes   | Unknown |
-| [Coinpaprika](https://api.coinpaprika.com)                                          | Cryptocurrencies prices, volume and more                                                         | No       | Yes   | Yes     |
-| [CoinRanking](https://developers.coinranking.com/api/documentation)                 | Live Cryptocurrency data                                                                         | `apiKey` | Yes   | Unknown |
-| [Coinremitter](https://coinremitter.com/docs)                                       | Cryptocurrencies Payment & Prices                                                                | `apiKey` | Yes   | Unknown |
-| [CoinStats](https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest) | Crypto Tracker                                                                                   | No       | Yes   | Unknown |
-| [CryptAPI](https://docs.cryptapi.io/)                                               | Cryptocurrency Payment Processor                                                                 | No       | Yes   | Unknown |
-| [CryptingUp](https://www.cryptingup.com/apidoc/#introduction)                       | Cryptocurrency data                                                                              | No       | Yes   | Unknown |
-| [CryptoCompare](https://www.cryptocompare.com/api#)                                 | Cryptocurrencies Comparison                                                                      | No       | Yes   | Unknown |
-| [CryptoMarket](https://api.exchange.cryptomkt.com/)                                 | Cryptocurrencies Trading platform                                                                | `apiKey` | Yes   | Yes     |
-| [Cryptonator](https://www.cryptonator.com/api/)                                     | Cryptocurrencies Exchange Rates                                                                  | No       | Yes   | Unknown |
-| [dYdX](https://docs.dydx.exchange/)                                                 | Decentralized cryptocurrency exchange                                                            | `apiKey` | Yes   | Unknown |
-| [Ethplorer](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API)               | Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures  | `apiKey` | Yes   | Unknown |
-| [EXMO](https://documenter.getpostman.com/view/10287440/SzYXWKPi)                    | Cryptocurrencies exchange based in UK                                                            | `apiKey` | Yes   | Unknown |
-| [FTX](https://docs.ftx.com/)                                                        | Complete REST, websocket, and FTX APIs to suit your algorithmic trading needs                    | `apiKey` | Yes   | Yes     |
-| [Gateio](https://www.gate.io/api2)                                                  | API provides spot, margin and futures trading operations                                         | `apiKey` | Yes   | Unknown |
-| [Gemini](https://docs.gemini.com/rest-api/)                                         | Cryptocurrencies Exchange                                                                        | No       | Yes   | Unknown |
-| [Huobi](https://huobiapi.github.io/docs/spot/v1/en/)                                | Seychelles based cryptocurrency exchange                                                         | `apiKey` | Yes   | Unknown |
-| [icy.tools](https://developers.icy.tools/)                                          | GraphQL based NFT API                                                                            | `apiKey` | Yes   | Unknown |
-| [Indodax](https://github.com/btcid/indodax-official-api-docs)                       | Trade your Bitcoin and other assets with rupiah                                                  | `apiKey` | Yes   | Unknown |
-| [INFURA Ethereum](https://infura.io/product/ethereum)                               | Interaction with the Ethereum mainnet and several testnets                                       | `apiKey` | Yes   | Yes     |
-| [Kraken](https://docs.kraken.com/rest/)                                             | Cryptocurrencies Exchange                                                                        | `apiKey` | Yes   | Unknown |
-| [KuCoin](https://docs.kucoin.com/)                                                  | Cryptocurrency Trading Platform                                                                  | `apiKey` | Yes   | Unknown |
-| [Localbitcoins](https://localbitcoins.com/api-docs/)                                | P2P platform to buy and sell Bitcoins                                                            | No       | Yes   | Unknown |
-| [Mempool](https://mempool.space/api)                                                | Bitcoin API Service focusing on the transaction fee                                              | No       | Yes   | No      |
-| [MercadoBitcoin](https://www.mercadobitcoin.com.br/api-doc/)                        | Brazilian Cryptocurrency Information                                                             | No       | Yes   | Unknown |
-| [Messari](https://messari.io/api)                                                   | Provides API endpoints for thousands of crypto assets                                            | No       | Yes   | Unknown |
-| [Nexchange](https://nexchange2.docs.apiary.io/)                                     | Automated cryptocurrency exchange service                                                        | No       | No    | Yes     |
-| [Nomics](https://nomics.com/docs/)                                                  | Historical and realtime cryptocurrency prices and market data                                    | `apiKey` | Yes   | Yes     |
-| [NovaDax](https://doc.novadax.com/en-US/#introduction)                              | NovaDAX API to access all market data, trading management endpoints                              | `apiKey` | Yes   | Unknown |
-| [OKEx](https://www.okex.com/docs/)                                                  | Cryptocurrency exchange based in Seychelles                                                      | `apiKey` | Yes   | Unknown |
-| [Poloniex](https://docs.poloniex.com)                                               | US based digital asset exchange                                                                  | `apiKey` | Yes   | Unknown |
-| [Solana JSON RPC](https://docs.solana.com/developing/clients/jsonrpc-api)           | Provides various endpoints to interact with the Solana Blockchain                                | No       | Yes   | Unknown |
-| [Technical Analysis](https://technical-analysis-api.com)                            | Cryptocurrency prices and technical analysis                                                     | `apiKey` | Yes   | No      |
-| [Tron Network](https://developers.tron.network/reference/api-key)                   | Provides various endpoints to interact with the Tron Blockchain                                  | No       | Yes   | Unknown |
-| [VALR](https://docs.valr.com/)                                                      | Cryptocurrency Exchange based in South Africa                                                    | `apiKey` | Yes   | Unknown |
-| [WorldCoinIndex](https://www.worldcoinindex.com/apiservice)                         | Cryptocurrencies Prices                                                                          | `apiKey` | Yes   | Unknown |
-| [ZMOK](https://docs.zmok.io)                                                        | Ethereum JSON RPC API and Web3 provider                                                          | No       | Yes   | Unknown |
+| API                                                                                 | Description                                                                                     | Auth     | HTTPS | CORS    |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------- | ----- | ------- |
+| [0x](https://0x.org/api)                                                            | API for querying token and pool stats across various liquidity pools                            | No       | Yes   | Yes     |
+| [1inch](https://1inch.io/api/)                                                      | API for querying decentralize exchange                                                          | No       | Yes   | Unknown |
+| [Alchemy Ethereum](https://docs.alchemy.com/alchemy/)                               | Ethereum Node-as-a-Service Provider                                                             | `apiKey` | Yes   | Yes     |
+| [apilayer coinlayer](https://coinlayer.com)                                         | Real-time Crypto Currency Exchange Rates                                                        | `apiKey` | Yes   | Unknown |
+| [Binance](https://github.com/binance/binance-spot-api-docs)                         | Exchange for Trading Cryptocurrencies based in China                                            | `apiKey` | Yes   | Unknown |
+| [Bitcambio](https://nova.bitcambio.com.br/api/v3/docs#a-public)                     | Get the list of all traded assets in the exchange                                               | No       | Yes   | Unknown |
+| [BitcoinAverage](https://apiv2.bitcoinaverage.com/)                                 | Digital Asset Price Data for the blockchain industry                                            | `apiKey` | Yes   | Unknown |
+| [BitcoinCharts](https://bitcoincharts.com/about/exchanges/)                         | Financial and Technical Data related to the Bitcoin Network                                     | No       | Yes   | Unknown |
+| [Bitfinex](https://docs.bitfinex.com/docs)                                          | Cryptocurrency Trading Platform                                                                 | `apiKey` | Yes   | Unknown |
+| [Bitmex](https://www.bitmex.com/app/apiOverview)                                    | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong                        | `apiKey` | Yes   | Unknown |
+| [Bittrex](https://bittrex.github.io/api/v3)                                         | Next Generation Crypto Trading Platform                                                         | `apiKey` | Yes   | Unknown |
+| [Block](https://block.io/docs/basic)                                                | Bitcoin Payment, Wallet & Transaction Data                                                      | `apiKey` | Yes   | Unknown |
+| [Blockchain](https://www.blockchain.com/api)                                        | Bitcoin Payment, Wallet & Transaction Data                                                      | `apiKey` | Yes   | Unknown |
+| [blockfrost Cardano](https://blockfrost.io/)                                        | Interaction with the Cardano mainnet and several testnets                                       | `apiKey` | Yes   | Unknown |
+| [Brave NewCoin](https://bravenewcoin.com/developers)                                | Real-time and historic crypto data from more than 200+ exchanges                                | `apiKey` | Yes   | Unknown |
+| [BtcTurk](https://docs.btcturk.com/)                                                | Real-time cryptocurrency data, graphs and API that allows buy&sell                              | `apiKey` | Yes   | Yes     |
+| [Bybit](https://bybit-exchange.github.io/docs/linear/#t-introduction)               | Cryptocurrency data feed and algorithmic trading                                                | `apiKey` | Yes   | Unknown |
+| [CoinAPI](https://docs.coinapi.io/)                                                 | All Currency Exchanges integrate under a single api                                             | `apiKey` | Yes   | No      |
+| [Coinbase](https://developers.coinbase.com)                                         | Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices                                             | `apiKey` | Yes   | Unknown |
+| [Coinbase Pro](https://docs.pro.coinbase.com/#api)                                  | Cryptocurrency Trading Platform                                                                 | `apiKey` | Yes   | Unknown |
+| [CoinCap](https://docs.coincap.io/)                                                 | Real time Cryptocurrency prices through a RESTful API                                           | No       | Yes   | Unknown |
+| [CoinDCX](https://docs.coindcx.com/)                                                | Cryptocurrency Trading Platform                                                                 | `apiKey` | Yes   | Unknown |
+| [CoinDesk](https://old.coindesk.com/coindesk-api/)                                  | CoinDesk's Bitcoin Price Index (BPI) in multiple currencies                                     | No       | Yes   | Unknown |
+| [CoinGecko](http://www.coingecko.com/api)                                           | Cryptocurrency Price, Market, and Developer/Social Data                                         | No       | Yes   | Yes     |
+| [Coinigy](https://coinigy.docs.apiary.io)                                           | Interacting with Coinigy Accounts and Exchange Directly                                         | `apiKey` | Yes   | Unknown |
+| [Coinlib](https://coinlib.io/apidocs)                                               | Crypto Currency Prices                                                                          | `apiKey` | Yes   | Unknown |
+| [Coinlore](https://www.coinlore.com/cryptocurrency-data-api)                        | Cryptocurrencies prices, volume and more                                                        | No       | Yes   | Unknown |
+| [CoinMarketCap](https://coinmarketcap.com/api/)                                     | Cryptocurrencies Prices                                                                         | `apiKey` | Yes   | Unknown |
+| [Coinpaprika](https://api.coinpaprika.com)                                          | Cryptocurrencies prices, volume and more                                                        | No       | Yes   | Yes     |
+| [CoinRanking](https://developers.coinranking.com/api/documentation)                 | Live Cryptocurrency data                                                                        | `apiKey` | Yes   | Unknown |
+| [Coinremitter](https://coinremitter.com/docs)                                       | Cryptocurrencies Payment & Prices                                                               | `apiKey` | Yes   | Unknown |
+| [CoinStats](https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest) | Crypto Tracker                                                                                  | No       | Yes   | Unknown |
+| [CryptAPI](https://docs.cryptapi.io/)                                               | Cryptocurrency Payment Processor                                                                | No       | Yes   | Unknown |
+| [CryptingUp](https://www.cryptingup.com/apidoc/#introduction)                       | Cryptocurrency data                                                                             | No       | Yes   | Unknown |
+| [CryptoCompare](https://www.cryptocompare.com/api#)                                 | Cryptocurrencies Comparison                                                                     | No       | Yes   | Unknown |
+| [CryptoMarket](https://api.exchange.cryptomkt.com/)                                 | Cryptocurrencies Trading platform                                                               | `apiKey` | Yes   | Yes     |
+| [Cryptonator](https://www.cryptonator.com/api/)                                     | Cryptocurrencies Exchange Rates                                                                 | No       | Yes   | Unknown |
+| [dYdX](https://docs.dydx.exchange/)                                                 | Decentralized cryptocurrency exchange                                                           | `apiKey` | Yes   | Unknown |
+| [Ethplorer](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API)               | Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures | `apiKey` | Yes   | Unknown |
+| [EXMO](https://documenter.getpostman.com/view/10287440/SzYXWKPi)                    | Cryptocurrencies exchange based in UK                                                           | `apiKey` | Yes   | Unknown |
+| [FTX](https://docs.ftx.com/)                                                        | Complete REST, websocket, and FTX APIs to suit your algorithmic trading needs                   | `apiKey` | Yes   | Yes     |
+| [Gateio](https://www.gate.io/api2)                                                  | API provides spot, margin and futures trading operations                                        | `apiKey` | Yes   | Unknown |
+| [Gemini](https://docs.gemini.com/rest-api/)                                         | Cryptocurrencies Exchange                                                                       | No       | Yes   | Unknown |
+| [Huobi](https://huobiapi.github.io/docs/spot/v1/en/)                                | Seychelles based cryptocurrency exchange                                                        | `apiKey` | Yes   | Unknown |
+| [icy.tools](https://developers.icy.tools/)                                          | GraphQL based NFT API                                                                           | `apiKey` | Yes   | Unknown |
+| [Indodax](https://github.com/btcid/indodax-official-api-docs)                       | Trade your Bitcoin and other assets with rupiah                                                 | `apiKey` | Yes   | Unknown |
+| [INFURA Ethereum](https://infura.io/product/ethereum)                               | Interaction with the Ethereum mainnet and several testnets                                      | `apiKey` | Yes   | Yes     |
+| [Kraken](https://docs.kraken.com/rest/)                                             | Cryptocurrencies Exchange                                                                       | `apiKey` | Yes   | Unknown |
+| [KuCoin](https://docs.kucoin.com/)                                                  | Cryptocurrency Trading Platform                                                                 | `apiKey` | Yes   | Unknown |
+| [Localbitcoins](https://localbitcoins.com/api-docs/)                                | P2P platform to buy and sell Bitcoins                                                           | No       | Yes   | Unknown |
+| [Mempool](https://mempool.space/api)                                                | Bitcoin API Service focusing on the transaction fee                                             | No       | Yes   | No      |
+| [MercadoBitcoin](https://www.mercadobitcoin.com.br/api-doc/)                        | Brazilian Cryptocurrency Information                                                            | No       | Yes   | Unknown |
+| [Messari](https://messari.io/api)                                                   | Provides API endpoints for thousands of crypto assets                                           | No       | Yes   | Unknown |
+| [Nexchange](https://nexchange2.docs.apiary.io/)                                     | Automated cryptocurrency exchange service                                                       | No       | No    | Yes     |
+| [Nomics](https://nomics.com/docs/)                                                  | Historical and realtime cryptocurrency prices and market data                                   | `apiKey` | Yes   | Yes     |
+| [NovaDax](https://doc.novadax.com/en-US/#introduction)                              | NovaDAX API to access all market data, trading management endpoints                             | `apiKey` | Yes   | Unknown |
+| [OKEx](https://www.okex.com/docs/)                                                  | Cryptocurrency exchange based in Seychelles                                                     | `apiKey` | Yes   | Unknown |
+| [Poloniex](https://docs.poloniex.com)                                               | US based digital asset exchange                                                                 | `apiKey` | Yes   | Unknown |
+| [Solana JSON RPC](https://docs.solana.com/developing/clients/jsonrpc-api)           | Provides various endpoints to interact with the Solana Blockchain                               | No       | Yes   | Unknown |
+| [Technical Analysis](https://technical-analysis-api.com)                            | Cryptocurrency prices and technical analysis                                                    | `apiKey` | Yes   | No      |
+| [Tron Network](https://developers.tron.network/reference/api-key)                   | Provides various endpoints to interact with the Tron Blockchain                                 | No       | Yes   | Unknown |
+| [VALR](https://docs.valr.com/)                                                      | Cryptocurrency Exchange based in South Africa                                                   | `apiKey` | Yes   | Unknown |
+| [WorldCoinIndex](https://www.worldcoinindex.com/apiservice)                         | Cryptocurrencies Prices                                                                         | `apiKey` | Yes   | Unknown |
+| [ZMOK](https://docs.zmok.io)                                                        | Ethereum JSON RPC API and Web3 provider                                                         | No       | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -772,7 +772,7 @@
 | [Portfolio Optimizer](https://portfoliooptimizer.io/)                                              | Portfolio analysis and optimization                                                                 | No       | Yes   | Yes     |
 | [Razorpay IFSC](https://razorpay.com/docs/)                                                        | Indian Financial Systems Code (Bank Branch Codes)                                                   | No       | Yes   | Unknown |
 | [Real Time Finance](https://github.com/Real-time-finance/finance-websocket-API/)                   | Websocket API to access realtime stock data                                                         | `apiKey` | No    | Unknown |
-| [Repetiti](https://developers.repetiti.com/)                                                       | Repetiti 3d Printer Management Service                                                             | `apiKey` | Yes   | Yes |
+| [Repetiti](https://developers.repetiti.com/)                                                       | Repetiti 3d Printer Management Service                                                              | `apiKey` | Yes   | Yes     |
 | [SEC EDGAR Data](https://www.sec.gov/edgar/sec-api-documentation)                                  | API to access annual reports of public US companies                                                 | No       | Yes   | Yes     |
 | [SmartAPI](https://smartapi.angelbroking.com/)                                                     | Gain access to set of <SmartAPI> and create end-to-end broking services                             | `apiKey` | Yes   | Unknown |
 | [StockData](https://www.StockData.org)                                                             | Real-Time, Intraday & Historical Market Data, News and Sentiment API                                | `apiKey` | Yes   | Yes     |
@@ -900,7 +900,7 @@
 | [Raider](https://raider.io/api)                                                             | Provides detailed character and guild rankings for Raiding and Mythic+ content in World of Warcraft | No              | Yes   | Unknown |
 | [RAWG.io](https://rawg.io/apidocs)                                                          | 500,000+ games for 50 platforms including mobiles                                                   | `apiKey`        | Yes   | Unknown |
 | [Rick and Morty](https://rickandmortyapi.com)                                               | All the Rick and Morty information, including images                                                | No              | Yes   | Yes     |
-| [Riot Games](https://developer.riotgames.com/)                                              | League of Legends, Teamfight Tactics, Legends of Runetera and Valorant information               | `apiKey`        | Yes   | Unknown |
+| [Riot Games](https://developer.riotgames.com/)                                              | League of Legends, Teamfight Tactics, Legends of Runetera and Valorant information                  | `apiKey`        | Yes   | Unknown |
 | [RPS 101](https://rps101.pythonanywhere.com/api)                                            | Rock, Paper, Scissors with 101 objects                                                              | No              | Yes   | Yes     |
 | [RuneScape](https://runescape.wiki/w/Application_programming_interface)                     | RuneScape and OSRS RPGs information                                                                 | No              | Yes   | No      |
 | [Sakura CardCaptor](https://github.com/JessVel/sakura-card-captor-api)                      | Sakura CardCaptor Cards Information                                                                 | No              | Yes   | Unknown |
@@ -919,7 +919,7 @@
 | [When is next MCU film](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md) | Upcoming MCU film information                                                                       | No              | Yes   | Unknown |
 | [xkcd](https://xkcd.com/json.html)                                                          | Retrieve xkcd comics as JSON                                                                        | No              | Yes   | No      |
 | [Yu-Gi-Oh!](https://db.ygoprodeck.com/api-guide/)                                           | Yu-Gi-Oh! TCG Information                                                                           | No              | Yes   | Unknown |
-| [Zelda](https://docs.zelda.fanapis.com/docs)                                                | The Legend of Zelda franchise data                                                                   | No              | Yes   | Unknown |
+| [Zelda](https://docs.zelda.fanapis.com/docs)                                                | The Legend of Zelda franchise data                                                                  | No              | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -1260,7 +1260,7 @@
 | [The Old Reader](https://github.com/theoldreader/api)                    | RSS reader                                                                                   | `apiKey` | Yes   | Unknown |
 | [TheNews](https://www.thenewsapi.com/)                                   | Aggregated headlines, top story and live news JSON API                                       | `apiKey` | Yes   | Yes     |
 | [Trove](https://trove.nla.gov.au/about/create-something/using-api)       | Search through the National Library of Australia collection of 1000s of digitised newspapers | `apiKey` | Yes   | Unknown |
-| [World News](https://worldnewsapi.com) | Search through millions of semantically tagged worldwide news | `apiKey` | Yes | Yes |
+| [World News](https://worldnewsapi.com)                                   | Search through millions of semantically tagged worldwide news                                | `apiKey` | Yes   | Yes     |
 
 **[⬆ Back to Index](#index)**
 
@@ -1449,13 +1449,12 @@
 | [Launch Library 2](https://thespacedevs.com/llapi)                             | Spaceflight launches and events database                                                     | No       | Yes   | Yes     |
 | [Materials Platform for Data Science](https://mpds.io)                         | Curated experimental data for materials science                                              | `apiKey` | Yes   | No      |
 | [Minor Planet Center](http://www.asterank.com/mpc)                             | Asterank.com Information                                                                     | No       | No    | Unknown |
-| [NASA](https://api.nasa.gov)                                                   | NASA data, including imagery                                                                 | No       | Yes   | No      |
+| [NASA](https://api.nasa.gov)                                                   | NASA data, including imagery                                                                 | apiKey   | Yes   | No      |
 | [NASA ADS](https://ui.adsabs.harvard.edu/help/api/api-docs.html)               | NASA Astrophysics Data System                                                                | `OAuth`  | Yes   | Yes     |
 | [Newton](https://newton.vercel.app)                                            | Symbolic and Arithmetic Math Calculator                                                      | No       | Yes   | No      |
 | [Noctua](https://api.noctuasky.com/api/v1/swaggerdoc/)                         | REST API used to access NoctuaSky features                                                   | No       | Yes   | Unknown |
 | [Numbers](https://math.tools/api/numbers/)                                     | Number of the day, random number, number facts and anything else you want to do with numbers | `apiKey` | Yes   | No      |
 | [Numbers](http://numbersapi.com)                                               | Facts about numbers                                                                          | No       | No    | No      |
-| [Ocean Facts](https://oceanfacts.herokuapp.com/)                               | Facts pertaining to the physical science of Oceanography                                     | No       | Yes   | Unknown |
 | [Open Notify](http://open-notify.org/Open-Notify-API/)                         | ISS astronauts, current location, etc                                                        | No       | No    | No      |
 | [Open Science Framework](https://developer.osf.io)                             | Repository and archive for study designs, research materials, data, manuscripts, etc         | No       | Yes   | Unknown |
 | [Purple Air](https://www2.purpleair.com/)                                      | Real Time Air Quality Monitoring                                                             | No       | Yes   | Unknown |
@@ -1575,7 +1574,7 @@
 | [TamTam](https://dev.tamtam.chat/)                                              | Bot API to interact with TamTam                                                                   | `apiKey` | Yes   | Unknown |
 | [Telegram Bot](https://core.telegram.org/bots/api)                              | Simplified HTTP version of the MTProto API for bots                                               | `apiKey` | Yes   | Unknown |
 | [Telegram MTProto](https://core.telegram.org/api#getting-started)               | Read and write Telegram data                                                                      | `OAuth`  | Yes   | Unknown |
-| [Telegraph](https://telegraph.org/api)                                             | Create attractive blogs easily, to share [Other domain - [graph.org](https://graph.org/api)]                                                         | `apiKey` | Yes   | Unknown |
+| [Telegraph](https://telegraph.org/api)                                          | Create attractive blogs easily, to share [Other domain - [graph.org](https://graph.org/api)]      | `apiKey` | Yes   | Unknown |
 | [TikTok](https://developers.tiktok.com/doc/login-kit-web)                       | Fetches user info and user's video posts on TikTok platform                                       | `OAuth`  | Yes   | Unknown |
 | [Trash Nothing](https://trashnothing.com/developer)                             | A freecycling community with thousands of free items posted every day                             | `OAuth`  | Yes   | Yes     |
 | [Tumblr](https://www.tumblr.com/docs/en/api/v2)                                 | Read and write Tumblr Data                                                                        | `OAuth`  | Yes   | Unknown |
@@ -1661,22 +1660,22 @@
 
 ### Text Analysis
 
-| API                                                                                                                                  | Description                                                                                      | Auth     | HTTPS | CORS    |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | -------- | ----- | ------- |
-| [Code Detection API](https://codedetectionapi.runtime.dev)                                                                           | Detect, label, format and enrich the code in your app or in your data pipeline                   | `OAuth`  | Yes   | Unknown |
-| [apilayer languagelayer](https://languagelayer.com/)                                                                                 | Language Detection JSON API supporting 173 languages                                             | `OAuth`  | Yes   | Unknown |
-| [Aylien Text Analysis](https://docs.aylien.com/textapi/#getting-started)                                                             | A collection of information retrieval and natural language APIs                                  | `apiKey` | Yes   | Unknown |
-| [Cloudmersive Natural Language Processing](https://www.cloudmersive.com/nlp-api)                                                     | Natural language processing and text analysis                                                    | `apiKey` | Yes   | Yes     |
-| [Detect Language](https://detectlanguage.com/)                                                                                       | Detects text language                                                                            | `apiKey` | Yes   | Unknown |
-| [ELI](https://nlp.insightera.co.th/docs/v1.0)                                                                                        | Natural Language Processing Tools for Thai Language                                              | `apiKey` | Yes   | Unknown |
-| [Google Cloud Natural](https://cloud.google.com/natural-language/docs/)                                                              | Natural language understanding technology, including sentiment, entity and syntax analysis       | `apiKey` | Yes   | Unknown |
-| [LanguageTool](https://languagetool.org/http-api/) | Style and Grammar Checker for 25+ Languages | No | Yes | Unknown |
-| [Lecto Translation](https://rapidapi.com/lecto-lecto-default/api/lecto-translation/)                                                 | Translation API with free tier and reasonable prices                                             | `apiKey` | Yes   | Yes     |
-| [LibreTranslate](https://libretranslate.com/docs)                                                                                    | Translation tool with 17 available languages                                                     | No       | Yes   | Unknown |
-| [Semantria](https://semantria.readme.io/docs)                                                                                        | Text Analytics with sentiment analysis, categorization & named entity extraction                 | `OAuth`  | Yes   | Unknown |
-| [Sentiment Analysis](https://www.meaningcloud.com/developer/sentiment-analysis)                                                      | Multilingual sentiment analysis of texts from different sources                                  | `apiKey` | Yes   | Yes     |
-| [Tisane](https://tisane.ai/)                                                                                                         | Text Analytics with focus on detection of abusive content and law enforcement applications       | `OAuth`  | Yes   | Yes     |
-| [Watson Natural Language Understanding](https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding) | Natural language processing for advanced text analysis                                           | `OAuth`  | Yes   | Unknown |
+| API                                                                                                                                  | Description                                                                                | Auth     | HTTPS | CORS    |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | -------- | ----- | ------- |
+| [Code Detection API](https://codedetectionapi.runtime.dev)                                                                           | Detect, label, format and enrich the code in your app or in your data pipeline             | `OAuth`  | Yes   | Unknown |
+| [apilayer languagelayer](https://languagelayer.com/)                                                                                 | Language Detection JSON API supporting 173 languages                                       | `OAuth`  | Yes   | Unknown |
+| [Aylien Text Analysis](https://docs.aylien.com/textapi/#getting-started)                                                             | A collection of information retrieval and natural language APIs                            | `apiKey` | Yes   | Unknown |
+| [Cloudmersive Natural Language Processing](https://www.cloudmersive.com/nlp-api)                                                     | Natural language processing and text analysis                                              | `apiKey` | Yes   | Yes     |
+| [Detect Language](https://detectlanguage.com/)                                                                                       | Detects text language                                                                      | `apiKey` | Yes   | Unknown |
+| [ELI](https://nlp.insightera.co.th/docs/v1.0)                                                                                        | Natural Language Processing Tools for Thai Language                                        | `apiKey` | Yes   | Unknown |
+| [Google Cloud Natural](https://cloud.google.com/natural-language/docs/)                                                              | Natural language understanding technology, including sentiment, entity and syntax analysis | `apiKey` | Yes   | Unknown |
+| [LanguageTool](https://languagetool.org/http-api/)                                                                                   | Style and Grammar Checker for 25+ Languages                                                | No       | Yes   | Unknown |
+| [Lecto Translation](https://rapidapi.com/lecto-lecto-default/api/lecto-translation/)                                                 | Translation API with free tier and reasonable prices                                       | `apiKey` | Yes   | Yes     |
+| [LibreTranslate](https://libretranslate.com/docs)                                                                                    | Translation tool with 17 available languages                                               | No       | Yes   | Unknown |
+| [Semantria](https://semantria.readme.io/docs)                                                                                        | Text Analytics with sentiment analysis, categorization & named entity extraction           | `OAuth`  | Yes   | Unknown |
+| [Sentiment Analysis](https://www.meaningcloud.com/developer/sentiment-analysis)                                                      | Multilingual sentiment analysis of texts from different sources                            | `apiKey` | Yes   | Yes     |
+| [Tisane](https://tisane.ai/)                                                                                                         | Text Analytics with focus on detection of abusive content and law enforcement applications | `OAuth`  | Yes   | Yes     |
+| [Watson Natural Language Understanding](https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding) | Natural language processing for advanced text analysis                                     | `OAuth`  | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)**
 
