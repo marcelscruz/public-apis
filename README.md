@@ -32,6 +32,7 @@
     <sub>The Project</sub>
     <br />
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
+    <!-- Let's re-added this API once it starts using the APIs from this repository -->
     <!-- <a href="https://github.com/davemachado/public-api">API for this project</a> • -->
     <a href="https://github.com/public-apis-dev/public-apis/issues">Issues</a> •
     <a href="https://github.com/public-apis-dev/public-apis/pulls">Pull Requests</a> •
@@ -40,7 +41,8 @@
 
 <br />
 
-<div align="center">
+<!-- Let's re-added these sites once they start using the APIs from this repository -->
+<!-- <div align="center">
     <sub>Alternative sites for the project (unofficials)</sub>
     <br />
     <a href="https://publicapis.dev">Public APIs</a> •
@@ -49,7 +51,7 @@
     <a href="https://collective-api.vercel.app/">Collective APIs</a>
 </div>
 
-<br />
+<br /> -->
 
 ---
 
