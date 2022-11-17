@@ -38,17 +38,16 @@
     <a href="LICENSE">License</a>
 </div>
 
-<!-- <br /> -->
+<br />
 
-<!-- <div align="center">
+<div align="center">
     <sub>Alternative sites for the project (unofficials)</sub>
     <br />
     <a href="https://publicapis.dev">Public APIs</a> •
     <a href="https://free-apis.github.io">Free APIs</a> •
-    <a href="https://www.public-apis.ml">Public APIs Site</a> •
     <a href="https://apihouse.vercel.app">Apihouse</a> •
     <a href="https://collective-api.vercel.app/">Collective APIs</a>
-</div> -->
+</div>
 
 <br />
 
