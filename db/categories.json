@@ -1,0 +1,212 @@
+{
+"count": 52,
+"entries": [
+    {
+        "name": "Animals",
+        "slug": "animals"
+    },
+    {
+        "name": "Anime",
+        "slug": "anime"
+    },
+    {
+        "name": "Anti-Malware",
+        "slug": "anti-malware"
+    },
+    {
+        "name": "Art & Design",
+        "slug": "art-and-design"
+    },
+    {
+        "name": "Authentication & Authorization",
+        "slug": "authentication-and-authorization"
+    },
+    {
+        "name": "Blockchain",
+        "slug": "blockchain"
+    },
+    {
+        "name": "Books",
+        "slug": "books"
+    },
+    {
+        "name": "Business",
+        "slug": "business"
+    },
+    {
+        "name": "Calendar",
+        "slug": "calendar"
+    },
+    {
+        "name": "Cloud Storage & File Sharing",
+        "slug": "cloud-storage-and-file-sharing"
+    },
+    {
+        "name": "Continuous Integration",
+        "slug": "continuous-integration"
+    },
+    {
+        "name": "Cryptocurrency",
+        "slug": "cryptocurrency"
+    },
+    {
+        "name": "Currency Exchange",
+        "slug": "currency-exchange"
+    },
+    {
+        "name": "Data Validation",
+        "slug": "data-validation"
+    },
+    {
+        "name": "Development",
+        "slug": "development"
+    },
+    {
+        "name": "Dictionaries",
+        "slug": "dictionaries"
+    },
+    {
+        "name": "Documents & Productivity",
+        "slug": "documents-and-productivity"
+    },
+    {
+        "name": "Email",
+        "slug": "email"
+    },
+    {
+        "name": "Entertainment",
+        "slug": "entertainment"
+    },
+    {
+        "name": "Environment",
+        "slug": "environment"
+    },
+    {
+        "name": "Events",
+        "slug": "events"
+    },
+    {
+        "name": "Finance",
+        "slug": "finance"
+    },
+    {
+        "name": "Food & Drink",
+        "slug": "food-and-drink"
+    },
+    {
+        "name": "Games & Comics",
+        "slug": "games-and-comics"
+    },
+    {
+        "name": "Geocoding",
+        "slug": "geocoding"
+    },
+    {
+        "name": "Government",
+        "slug": "government"
+    },
+    {
+        "name": "Health",
+        "slug": "health"
+    },
+    {
+        "name": "Jobs",
+        "slug": "jobs"
+    },
+    {
+        "name": "Machine Learning",
+        "slug": "machine-learning"
+    },
+    {
+        "name": "Music",
+        "slug": "music"
+    },
+    {
+        "name": "News",
+        "slug": "news"
+    },
+    {
+        "name": "Open Data",
+        "slug": "open-data"
+    },
+    {
+        "name": "Open Source Projects",
+        "slug": "open-source-projects"
+    },
+    {
+        "name": "Patent",
+        "slug": "patent"
+    },
+    {
+        "name": "Personality",
+        "slug": "personality"
+    },
+    {
+        "name": "Phone",
+        "slug": "phone"
+    },
+    {
+        "name": "Photography",
+        "slug": "photography"
+    },
+    {
+        "name": "Podcasts",
+        "slug": "podcasts"
+    },
+    {
+        "name": "Programming",
+        "slug": "programming"
+    },
+    {
+        "name": "Science & Math",
+        "slug": "science-and-math"
+    },
+    {
+        "name": "Security",
+        "slug": "security"
+    },
+    {
+        "name": "Shopping",
+        "slug": "shopping"
+    },
+    {
+        "name": "Social",
+        "slug": "social"
+    },
+    {
+        "name": "Sports & Fitness",
+        "slug": "sports-and-fitness"
+    },
+    {
+        "name": "Test Data",
+        "slug": "test-data"
+    },
+    {
+        "name": "Text Analysis",
+        "slug": "text-analysis"
+    },
+    {
+        "name": "Tracking",
+        "slug": "tracking"
+    },
+    {
+        "name": "Transportation",
+        "slug": "transportation"
+    },
+    {
+        "name": "URL Shorteners",
+        "slug": "url-shorteners"
+    },
+    {
+        "name": "Vehicle",
+        "slug": "vehicle"
+    },
+    {
+        "name": "Video",
+        "slug": "video"
+    },
+    {
+        "name": "Weather",
+        "slug": "weather"
+    }
+]}
