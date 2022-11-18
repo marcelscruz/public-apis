@@ -15,6 +15,9 @@ jobs:
             - uses: actions/setup-node@v3
             - run: npm install
             - run: npm run update-db
+            - run: |
+                  git config user.name "GitHub Actions Bot"
+                  git config user.email "<>"
             - run: git add .
             - run: git commit -m "Auto updating db" || echo "Nothing to commit"
             - run: git push origin HEAD:main
