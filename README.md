@@ -498,6 +498,7 @@ API | Description | Auth | HTTPS | CORS |
 | [DigitalOcean Status](https://status.digitalocean.com/api)| Status of all DigitalOcean services | No| Yes | Unknown |
 | [Docker Hub](https://docs.docker.com/docker-hub/api/latest/)| Interact with Docker Hub| `apiKey`| Yes | Yes |
 | [DomainDb Info](https://api.domainsdb.info/)| Domain name search to find all domains containing particular words/phrases/etc| No| Yes | Unknown |
+| [Easy Converter](https://easyconverter.com/api) | A simple API for encoding, decoding and formatting strings | No| Yes | No |
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | A simple JSON store API | No| Yes | Yes |
 | [GeekFlare](https://apidocs.geekflare.com/docs/geekflare-api) | Provide numerous capabilities for important testing and monitoring methods for websites | `apiKey`| Yes | Unknown |
 | [Genderize.io](https://genderize.io)| Estimates a gender from a first name| No| Yes | Yes |
@@ -524,6 +525,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Hunter](https://hunter.io/api) | API for domain search, professional email finder, author finder and email verifier| `apiKey`| Yes | Unknown |
 | [IBM Text to Speech](https://cloud.ibm.com/docs/text-to-speech/getting-started.html)| Convert text to speech| `apiKey`| Yes | Yes |
 | [Icanhazepoch](https://icanhazepoch.com)| Get Epoch time| No| Yes | Yes |
+| [icanhazidentity](https://icanhazidentity.com)| Get a random identity| No| Yes | No |
 | [Icanhazip](https://major.io/icanhazip-com-faq/)| IP Address API| No| Yes | Yes |
 | [IFTTT](https://platform.ifttt.com/docs/connect_api)| IFTTT Connect API | No| Yes | Unknown |
 | [Image-Charts](https://documentation.image-charts.com/) | Generate charts, QR codes and graph images| No| Yes | Yes |
