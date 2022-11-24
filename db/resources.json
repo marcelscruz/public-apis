@@ -10576,9 +10576,9 @@
     },
     {
         "API": "Webex",
-        "Description": ".",
-        "Auth": "Team collaboration software",
-        "HTTPS": false,
+        "Description": "Team collaboration software",
+        "Auth": "OAuth",
+        "HTTPS": true,
         "Cors": "yes",
         "Link": "https://developer.webex.com",
         "Category": "Social"
