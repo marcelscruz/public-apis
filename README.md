@@ -211,7 +211,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Rijksmuseum](https://data.rijksmuseum.nl/object-metadata/api/)| RijksMuseum Data | `apiKey` | Yes | Unknown |
 | [The Color](https://www.thecolorapi.com/) | Swiss army knife for color | No| No| Unknown |
 | [Word Cloud](https://wordcloudapi.com/)| Easily create word clouds| `apiKey` | Yes | Unknown |
-| [xColors](https://x-colors.herokuapp.com/) | Generate & convert colors| No | Yes | Yes |
+| [xColors](https://github.com/cheatsnake/xColors-api) | Generate & convert colors| No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
@@ -1444,7 +1444,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Botd](https://github.com/fingerprintjs/botd) | Botd is a browser library for JavaScript bot detection | `apiKey` | Yes | Yes |
 | [Bugcrowd](https://docs.bugcrowd.com/api/getting-started/)| Bugcrowd API for interacting and tracking the reported issues programmatically | `apiKey` | Yes | Unknown |
 | [Censys](https://search.censys.io/api)| Search engine for Internet connected host and devices| `apiKey` | Yes | No|
-| [Classify](https://classify-web.herokuapp.com/#/api)| Encrypting & decrypting text messages| No | Yes | Yes |
+| [Classify](https://github.com/cheatsnake/classify)| Encrypting & decrypting text messages| No | Yes | Yes |
 | [Complete Criminal Checks](https://completecriminalchecks.com/Developers) | Provides data of offenders from all U.S. States and Pureto Rico| `apiKey` | Yes | Yes |
 | [CRXcavator](https://crxcavator.io/apidocs) | Chrome extension risk scoring| `apiKey` | Yes | Unknown |
 | [Dehash.lt](https://github.com/Dehash-lt/api) | Hash decryption MD5, SHA1, SHA3, SHA256, SHA384, SHA512| No | Yes | Unknown |
