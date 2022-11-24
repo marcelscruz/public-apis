@@ -1,5 +1,5 @@
 {
-"count": 1426,
+"count": 1425,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -12651,15 +12651,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.hko.gov.hk/en/abouthko/opendata_intro.htm",
-        "Category": "Weather"
-    },
-    {
-        "API": "MetaWeather",
-        "Description": "Weather",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://www.metaweather.com/api/",
         "Category": "Weather"
     },
     {
