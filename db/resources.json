@@ -1,5 +1,5 @@
 {
-"count": 1425,
+"count": 1426,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3428,6 +3428,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://serpstack.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "Shadify",
+        "Description": "Service for generating data and executing logic to create various games and puzzles",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://github.com/cheatsnake/shadify",
         "Category": "Development"
     },
     {
