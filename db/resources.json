@@ -718,7 +718,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://x-colors.herokuapp.com/",
+        "Link": "https://github.com/cheatsnake/xColors-api",
         "Category": "Art & Design"
     },
     {
@@ -9817,7 +9817,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://classify-web.herokuapp.com/#/api",
+        "Link": "https://github.com/cheatsnake/classify",
         "Category": "Security"
     },
     {
