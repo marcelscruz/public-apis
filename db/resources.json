@@ -1,5 +1,5 @@
 {
-"count": 1427,
+"count": 1428,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -1088,6 +1088,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://superset.apache.org/docs/api",
+        "Category": "Business"
+    },
+    {
+        "API": "ArvanCloud",
+        "Description": "Enables you to use ArvanCloud services",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://www.arvancloud.ir/en/docs/api",
         "Category": "Business"
     },
     {
