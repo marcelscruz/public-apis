@@ -1,5 +1,5 @@
 {
-"count": 1428,
+"count": 1429,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -4994,6 +4994,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://develop.battle.net/documentation/guides/getting-started",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "Blue Archive",
+        "Description": "Provides Blue Archive characters information",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://github.com/arufars/api-blue-archive",
         "Category": "Games & Comics"
     },
     {
