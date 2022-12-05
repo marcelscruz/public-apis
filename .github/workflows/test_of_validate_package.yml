@@ -1,6 +1,7 @@
 name: 'Tests of validate package'
 
 on:
+    workflow_dispatch:
     # push:
     # branches: [ main ]
     # pull_request:
