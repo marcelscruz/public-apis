@@ -227,15 +227,6 @@
         "Category": "Animals"
     },
     {
-        "API": "AniAPI",
-        "Description": "Anime discovery, streaming & syncing with trackers",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://aniapi.com/docs/",
-        "Category": "Anime"
-    },
-    {
         "API": "AniDB",
         "Description": "Anime Database",
         "Auth": "apiKey",
