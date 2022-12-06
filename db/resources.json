@@ -3953,6 +3953,15 @@
         "Category": "Email"
     },
     {
+        "API": "Emailvalidation",
+        "Description": "GraphQL API for creating and managing ephemeral e-mail inboxes",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": true,
+        "Link": "https://emailvalidation.io/email-validation-api/",
+        "Category": "Email"
+    },
+    {
         "API": "EVA",
         "Description": "Validate email addresses",
         "Auth": "",
