@@ -1,5 +1,5 @@
 {
-"count": 1429,
+"count": 1430,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -152,6 +152,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://placekitten.com/",
+        "Category": "Animals"
+    },
+    {
+        "API": "Quokkas",
+        "Description": "Random pictures of quokkas",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://quokka.pics/",
         "Category": "Animals"
     },
     {
