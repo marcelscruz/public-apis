@@ -1590,7 +1590,6 @@ API | Description | Auth | HTTPS | CORS |
 ### Test Data
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [Mockyard](https://mockyard.in/) | Realistic mock data for testing and prototyping | No | Yes | Yes |
 | [Bacon Ipsum](https://baconipsum.com/json-api/)| A Meatier Lorem Ipsum Generator | No | Yes | Unknown |
 | [Dicebear Avatars](https://avatars.dicebear.com/)| Generate random pixel-art avatars | No | Yes | No|
 | [English Random Words](https://random-words-api.vercel.app/word) | Generate English Random Words with Pronunciation| No | Yes | No|
@@ -1604,6 +1603,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Mailsac](https://mailsac.com/docs/api)| Disposable Email| `apiKey` | Yes | Unknown |
 | [Metaphorsum](http://metaphorpsum.com/)| Generate demo paragraphs giving number of words and sentences | No | No| Unknown |
 | [Mockaroo](https://www.mockaroo.com/docs)| Generate fake data to JSON, CSV, TXT, SQL and XML | `apiKey` | Yes | Unknown |
+| [Mockyard](https://mockyard.in/) | Realistic mock data for testing and prototyping | No | Yes | Yes |
 | [QuickMocker](https://quickmocker.com) | API mocking tool to generate contextual, fake or random data| No | Yes | Yes |
 | [Random Data](https://random-data-api.com) | Random data generator | No | Yes | Unknown |
 | [Randommer](https://randommer.io/randommer-api)| Random data generator | `apiKey` | Yes | Yes |
@@ -1622,10 +1622,10 @@ API | Description | Auth | HTTPS | CORS |
 ### Text Analysis
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [Code Detection API](https://codedetectionapi.runtime.dev) | Detect, label, format and enrich the code in your app or in your data pipeline | `OAuth`| Yes | Unknown |
 | [apilayer languagelayer](https://languagelayer.com/) | Language Detection JSON API supporting 173 languages | `OAuth`| Yes | Unknown |
 | [Aylien Text Analysis](https://docs.aylien.com/textapi/#getting-started) | A collection of information retrieval and natural language APIs| `apiKey` | Yes | Unknown |
 | [Cloudmersive Natural Language Processing](https://www.cloudmersive.com/nlp-api) | Natural language processing and text analysis| `apiKey` | Yes | Yes |
+| [Code Detection API](https://codedetectionapi.runtime.dev) | Detect, label, format and enrich the code in your app or in your data pipeline | `OAuth`| Yes | Unknown |
 | [Detect Language](https://detectlanguage.com/) | Detects text language| `apiKey` | Yes | Unknown |
 | [ELI](https://nlp.insightera.co.th/docs/v1.0)| Natural Language Processing Tools for Thai Language| `apiKey` | Yes | Unknown |
 | [Google Cloud Natural](https://cloud.google.com/natural-language/docs/)| Natural language understanding technology, including sentiment, entity and syntax analysis | `apiKey` | Yes | Unknown |
