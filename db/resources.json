@@ -10917,15 +10917,6 @@
         "Category": "Sports & Fitness"
     },
     {
-        "API": "Mockyard",
-        "Description": "Realistic mock data for testing and prototyping",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://mockyard.in/",
-        "Category": "Test Data"
-    },
-    {
         "API": "Bacon Ipsum",
         "Description": "A Meatier Lorem Ipsum Generator",
         "Auth": "",
@@ -11043,6 +11034,15 @@
         "Category": "Test Data"
     },
     {
+        "API": "Mockyard",
+        "Description": "Realistic mock data for testing and prototyping",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://mockyard.in/",
+        "Category": "Test Data"
+    },
+    {
         "API": "QuickMocker",
         "Description": "API mocking tool to generate contextual, fake or random data",
         "Auth": "",
@@ -11151,15 +11151,6 @@
         "Category": "Test Data"
     },
     {
-        "API": "Code Detection API",
-        "Description": "Detect, label, format and enrich the code in your app or in your data pipeline",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://codedetectionapi.runtime.dev",
-        "Category": "Text Analysis"
-    },
-    {
         "API": "apilayer languagelayer",
         "Description": "Language Detection JSON API supporting 173 languages",
         "Auth": "OAuth",
@@ -11184,6 +11175,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.cloudmersive.com/nlp-api",
+        "Category": "Text Analysis"
+    },
+    {
+        "API": "Code Detection API",
+        "Description": "Detect, label, format and enrich the code in your app or in your data pipeline",
+        "Auth": "OAuth",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://codedetectionapi.runtime.dev",
         "Category": "Text Analysis"
     },
     {
