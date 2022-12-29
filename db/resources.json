@@ -2,6 +2,15 @@
 "count": 1430,
 "entries": [
     {
+        "API": "Gladia",
+        "Description": "Lots of artificial intelligence tasks as API's",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://api.gladia.io",
+        "Category": "AI"
+    },
+    {
         "API": "AdoptAPet",
         "Description": "Resource to help get pets adopted",
         "Auth": "apiKey",
