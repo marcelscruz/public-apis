@@ -147,6 +147,7 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AniDB](https://wiki.anidb.net/HTTP_API_Definition) | Anime Database | `apiKey` | No| Yes |
+| [Axolotl](https://axolotlapi.netlify.app/) | Fetches over 100 posts from r/axolotls and sends back a number of those based on filters provided | No | Yes | Unknown |
 | [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs)| Anime discovery & tracking | `OAuth`| Yes | Unknown |
 | [AnimeChan](https://github.com/RocktimSaikia/anime-chan)| Anime quotes (over 10k+) | No | Yes | No|
 | [AnimeFacts](https://chandan-02.github.io/anime-facts-rest-api/)| Anime Facts (over 100+)| No | Yes | Yes |
