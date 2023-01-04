@@ -1,5 +1,5 @@
 {
-"count": 1431,
+"count": 1432,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -242,6 +242,15 @@
         "HTTPS": false,
         "Cors": "yes",
         "Link": "https://wiki.anidb.net/HTTP_API_Definition",
+        "Category": "Anime"
+    },
+    {
+        "API": "Axolotl",
+        "Description": "Fetches over 100 posts from r/axolotls and sends back a number of those based on filters provided",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://axolotlapi.netlify.app/",
         "Category": "Anime"
     },
     {
