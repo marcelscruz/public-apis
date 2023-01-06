@@ -1,5 +1,5 @@
 {
-"count": 1432,
+"count": 1433,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -11076,6 +11076,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://random-data-api.com",
+        "Category": "Test Data"
+    },
+    {
+        "API": "Random Identity",
+        "Description": "Random Identity Generator with custom response format",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/edualc1018/api/random-identity-generator",
         "Category": "Test Data"
     },
     {
