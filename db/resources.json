@@ -1,5 +1,5 @@
 {
-"count": 1433,
+"count": 1429,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -227,15 +227,6 @@
         "Category": "Animals"
     },
     {
-        "API": "Zoo Animals",
-        "Description": "Facts and pictures of zoo animals",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://zoo-animal-api.herokuapp.com/",
-        "Category": "Animals"
-    },
-    {
         "API": "AniDB",
         "Description": "Anime Database",
         "Auth": "apiKey",
@@ -368,15 +359,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://shikimori.one/api/doc",
-        "Category": "Anime"
-    },
-    {
-        "API": "Studio Ghibli",
-        "Description": "Resources from Studio Ghibli films",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://ghibliapi.herokuapp.com",
         "Category": "Anime"
     },
     {
@@ -3590,15 +3572,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://dictionaryapi.dev/",
-        "Category": "Dictionaries"
-    },
-    {
-        "API": "Indonesia Dictionary",
-        "Description": "Indonesia dictionary many words",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://new-kbbi-api.herokuapp.com/",
         "Category": "Dictionaries"
     },
     {
@@ -10358,15 +10331,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.foursquare.com/",
-        "Category": "Social"
-    },
-    {
-        "API": "Fuck Off as a Service",
-        "Description": "Asks someone to fuck off",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.foaas.com",
         "Category": "Social"
     },
     {
