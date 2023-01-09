@@ -12441,9 +12441,9 @@
         "API": "STAPI",
         "Description": "Information on all things Star Trek",
         "Auth": "",
-        "HTTPS": false,
-        "Cors": "no",
-        "Link": "http://stapi.co",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://stapi.co",
         "Category": "Video"
     },
     {
