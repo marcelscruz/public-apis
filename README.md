@@ -1795,7 +1795,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television | No | Yes | Unknown |
 | [Shotstack](https://shotstack.io/) | Cloud-based video editing API | `apiKey` | Yes | Unknown |
 | [Simkl](https://simkl.docs.apiary.io)| Movie, TV and Anime data | `apiKey` | Yes | Unknown |
-| [STAPI](http://stapi.co) | Information on all things Star Trek| No | No| No|
+| [STAPI](https://stapi.co) | Information on all things Star Trek| No | Yes| Yes |
 | [Stranger Things Quotes](https://github.com/shadowoff09/strangerthings-quotes) | Returns Stranger Things quotes | No | Yes | Unknown |
 | [Stream](https://api.stream.cz/graphiql) | Czech internet television, films, series and online videos for free| No | Yes | No|
 | [Stromberg Quotes](https://www.stromberg-api.de/)| Returns Stromberg quotes and more| No | Yes | Unknown |
