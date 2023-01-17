@@ -1,5 +1,5 @@
 {
-"count": 1430,
+"count": 1431,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -7847,6 +7847,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "http://uttesh.com/exude-api/",
+        "Category": "Machine Learning"
+    },
+    {
+        "API": "Gladia",
+        "Description": "Artificial intelligence API's",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://api.gladia.io/docs",
         "Category": "Machine Learning"
     },
     {
