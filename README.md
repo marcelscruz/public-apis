@@ -115,6 +115,7 @@
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AdoptAPet](https://www.adoptapet.com/public/apis/pet_list.html) | Resource to help get pets adopted | `apiKey` | Yes | Yes |
+| [Axolotl](https://axolotlapi.netlify.app/) | Fetches over 100 posts from r/axolotls and sends back a number of those based on filters provided | No | Yes | Unknown |
 | [Cat Facts](https://alexwohlbruck.github.io/cat-facts/)| Daily cat facts | No | Yes | No|
 | [Cataas](https://cataas.com/)| Cat as a service (cats pictures and gifs) | No | Yes | No|
 | [Cats](https://docs.thecatapi.com/)| Pictures of cats from Tumblr| `apiKey` | Yes | No|
@@ -146,7 +147,6 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AniDB](https://wiki.anidb.net/HTTP_API_Definition) | Anime Database | `apiKey` | No| Yes |
-| [Axolotl](https://axolotlapi.netlify.app/) | Fetches over 100 posts from r/axolotls and sends back a number of those based on filters provided | No | Yes | Unknown |
 | [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs)| Anime discovery & tracking | `OAuth`| Yes | Unknown |
 | [AnimeChan](https://github.com/RocktimSaikia/anime-chan)| Anime quotes (over 10k+) | No | Yes | No|
 | [AnimeFacts](https://chandan-02.github.io/anime-facts-rest-api/)| Anime Facts (over 100+)| No | Yes | Yes |
