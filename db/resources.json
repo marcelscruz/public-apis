@@ -1,5 +1,5 @@
 {
-"count": 1431,
+"count": 1432,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -8351,6 +8351,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://corona.dnsforfamily.com/api.txt",
+        "Category": "News"
+    },
+    {
+        "API": "HackerNews Node",
+        "Description": "Api to get related articles about Node.js in Hacker News",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://github.com/EdixonAlberto/api-hackernews-node",
         "Category": "News"
     },
     {
