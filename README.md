@@ -914,7 +914,11 @@ API | Description | Auth | HTTPS | CORS |
 | [Apiip](https://apiip.net/)| Get location information by IP address| `apiKey` | Yes | Yes |
 | [apilayer ipstack](https://ipstack.com/) | Locate and identify website visitors by IP address| `apiKey` | Yes | Unknown |
 | [Battuta](http://battuta.medunes.net)| A (country/region/city) in-cascade location API | `apiKey` | No| Unknown |
-| [BigDataCloud](https://www.bigdatacloud.com/ip-geolocation-apis) | Provides fast and accurate IP geolocation APIs along with security checks and confidence area | `apiKey` | Yes | Unknown |
+| [BigDataCloud's IP Geolocation API](https://www.bigdatacloud.com/packages/ip-geolocation) | Provides fast and accurate IP geolocation APIs along with security checks and confidence area. | `apiKey` | Yes | Yes |
+| [BigDataCloud's Reverse Geocoding API](https://www.bigdatacloud.com/packages/reverse-geocoding) | Get rich locality information from the geographical coordinates. | `apiKey` | Yes | Yes |
+| [BigDataCloud's Phone and Email Verification API](https://www.bigdatacloud.com/packages/phone-email-verification) | Syntax and Format Validation of Phone Number and Email address. | `apiKey` | Yes | Yes |
+| [BigDataCloud's Network Engineering API](https://www.bigdatacloud.com/packages/network-engineering) | Get detailed ASN and Network looup of an IP address. | `apiKey` | Yes | Yes |
+| [BigDataCloud's Free API](https://www.bigdatacloud.com/packages/free-api) | Get free client-side reverse geocoding API and Client Info API. No account creation and API key required.| No | Yes | Yes |    
 | [Bing Maps](https://www.microsoft.com/maps/) | Create/customize digital maps based on Bing Maps data | `apiKey` | Yes | Unknown |
 | [bng2latlong](https://www.getthedata.com/bng2latlong)| Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude | No | Yes | Yes |
 | [Cartes.io](https://github.com/M-Media-Group/Cartes.io/wiki/API) | Create maps and markers for anything| No | Yes | Unknown |
