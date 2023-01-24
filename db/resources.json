@@ -1,5 +1,5 @@
 {
-"count": 1432,
+"count": 1436,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -5906,12 +5906,48 @@
         "Category": "Geocoding"
     },
     {
-        "API": "BigDataCloud",
-        "Description": "Provides fast and accurate IP geolocation APIs along with security checks and confidence area",
+        "API": "BigDataCloud's IP Geolocation API",
+        "Description": "Provides fast and accurate IP geolocation APIs along with security checks and confidence area.",
         "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.bigdatacloud.com/ip-geolocation-apis",
+        "Cors": "yes",
+        "Link": "https://www.bigdatacloud.com/packages/ip-geolocation",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "BigDataCloud's Reverse Geocoding API",
+        "Description": "Get rich locality information from the geographical coordinates.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.bigdatacloud.com/packages/reverse-geocoding",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "BigDataCloud's Phone and Email Verification API",
+        "Description": "Syntax and Format Validation of Phone Number and Email address.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.bigdatacloud.com/packages/phone-email-verification",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "BigDataCloud's Network Engineering API",
+        "Description": "Get detailed ASN and Network looup of an IP address.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.bigdatacloud.com/packages/network-engineering",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "BigDataCloud's Free API",
+        "Description": "Get free client-side reverse geocoding API and Client Info API. No account creation and API key required.",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.bigdatacloud.com/packages/free-api",
         "Category": "Geocoding"
     },
     {
