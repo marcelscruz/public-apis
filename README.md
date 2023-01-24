@@ -1222,6 +1222,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Feedbin](https://github.com/feedbin/feedbin-api)| RSS reader | `OAuth`| Yes | Unknown |
 | [GNews](https://gnews.io/) | Search for news from various sources | `apiKey` | Yes | Yes |
 | [Graphs for Coronavirus](https://corona.dnsforfamily.com/api.txt)| Each Country separately and Worldwide Graphs for Coronavirus. Daily updates| No | Yes | Yes |
+| [HackerNews Node](https://github.com/EdixonAlberto/api-hackernews-node) | Api to get related articles about Node.js in Hacker News | `apiKey` | Yes | No |
 | [Inshorts News](https://github.com/cyberboysumanjay/Inshorts-News-API) | Provides news from inshorts| No | Yes | Unknown |
 | [MarketAux](https://www.marketaux.com/)| Live stock market news with tagged tickers + sentiment and stats JSON API| `apiKey` | Yes | Yes |
 | [New York Times](https://developer.nytimes.com/) | The New York Times Developer Network | `apiKey` | Yes | Unknown |
