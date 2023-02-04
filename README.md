@@ -1153,9 +1153,9 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AI For Thai](https://aiforthai.in.th/index.php)| Free Various Thai AI API| `apiKey` | Yes | Yes |
-| [NASA](https://cohere.ai/) | Harness the power of language understanding. Join the developers and businesses who are using Cohere to generate, categorize and organize text at a scale that was previously unimaginable. | `apiKey` | Yes | Yes |
 | [Clarifai](https://docs.clarifai.com/api-guide/api-overview)| Computer Vision | `OAuth`| Yes | Unknown |
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` | Yes | Yes |
+| [Cohere](https://cohere.ai/) | Harness the power of language understanding. Join the developers and businesses who are using Cohere to generate, categorize and organize text at a scale that was previously unimaginable. | `apiKey` | Yes | Yes |
 | [Deepcode](https://www.deepcode.ai) | AI for code review| No | Yes | Unknown |
 | [Dialogflow](https://cloud.google.com/dialogflow/docs/) | Natural Language Processing | `apiKey` | Yes | Unknown |
 | [EXUDE-API](http://uttesh.com/exude-api/) | Used for the primary ways for filtering the stopping, stemming words from the text data | No | Yes | Yes |
