@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>Public APIs</h1>
-    <i>A collaborative list of public APIs for developers</i>
+    <h1>Public API's</h1>
+    <i>A list of public API's with the help of our great contributers</i>
 </div>
 
 <!-- <br />
