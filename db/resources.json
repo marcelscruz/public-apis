@@ -1,5 +1,5 @@
 {
-"count": 1441,
+"count": 1442,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -8603,6 +8603,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://collegescorecard.ed.gov/data/",
+        "Category": "Open Data"
+    },
+    {
+        "API": "DataStream",
+        "Description": "An open access platform for sharing Canadian water quality data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://github.com/datastreamapp/api-docs",
         "Category": "Open Data"
     },
     {
