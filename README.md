@@ -703,6 +703,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Srp Energy](https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html)| Hourly usage energy report for Srp customers | `apiKey` | Yes | No|
 | [Thames Water Open Data](https://data.thameswater.co.uk) | Open Data from the UK's largest water and wastewater services company | `apiKey` | Yes | Unknown |
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | The Official Carbon Intensity API for Great Britain developed by National Grid | No | Yes | Unknown |
+| [WattBuy](https://wattbuy.readme.io/reference/getting-started-with-your-api) | Electricity usage estimations, carbon footprint estimations, and utility data | `apiKey` | Yes | Yes |
 | [Website Carbon](https://api.websitecarbon.com/) | API to estimate the carbon footprint of loading web pages| No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
