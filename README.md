@@ -1839,6 +1839,7 @@ API | Description | Auth | HTTPS | CORS |
 | [HG Weather](https://hgbrasil.com/status/weather) | Provides weather forecast data for cities in Brazil| `apiKey` | Yes | Yes |
 | [Hong Kong Obervatory](https://www.hko.gov.hk/en/abouthko/opendata_intro.htm) | Provide weather information, earthquake information, and climate data| No | Yes | Unknown |
 | [Meteorologisk Institutt](https://api.met.no/weatherapi/documentation)| Weather and climate data | `User-Agent` | Yes | Unknown |
+| [Meteosource](https://www.meteosource.com/) | Global weather forecasts based on machine learning and historical data | `apiKey` | Yes | Unknown |
 | [Met Office DataPoint](https://www.metoffice.gov.uk/services/data/datapoint/) | Weather data for the UK| `apiKey` | Yes | Unknown |
 | [Micro Weather](https://m3o.com/weather/api)| Real time weather forecasts and historic data| `apiKey` | Yes | Unknown |
 | [ODWeather](http://api.oceandrivers.com/static/docs.html) | Weather and weather webcams| No | No| Unknown |
