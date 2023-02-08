@@ -1,5 +1,5 @@
 {
-"count": 1437,
+"count": 1441,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -2180,6 +2180,15 @@
         "Category": "Cryptocurrency"
     },
     {
+        "API": "Trading View",
+        "Description": "Market price, data, graph for brokers and traders",
+        "Auth": "OAuth",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.tradingview.com/rest-api-spec/",
+        "Category": "Cryptocurrency"
+    },
+    {
         "API": "Tron Network",
         "Description": "Provides various endpoints to interact with the Tron Blockchain",
         "Auth": "",
@@ -4274,6 +4283,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0",
+        "Category": "Environment"
+    },
+    {
+        "API": "WattBuy",
+        "Description": "Electricity usage estimations, carbon footprint estimations, and utility data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://wattbuy.readme.io/reference/getting-started-with-your-api",
         "Category": "Environment"
     },
     {
@@ -8885,6 +8903,15 @@
         "Category": "Open Source Projects"
     },
     {
+        "API": "GitHub Profile README Generator",
+        "Description": "Generate an image for your GitHub Profile README",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://github.com/Harman-Sandhu/github-profile-readme-generator",
+        "Category": "Open Source Projects"
+    },
+    {
         "API": "GitHub ReadMe Stats",
         "Description": "Add dynamically generated statistics to your GitHub profile ReadMe",
         "Auth": "",
@@ -12768,6 +12795,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.met.no/weatherapi/documentation",
+        "Category": "Weather"
+    },
+    {
+        "API": "Meteosource",
+        "Description": "Global weather forecasts based on machine learning and historical data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.meteosource.com/",
         "Category": "Weather"
     },
     {
