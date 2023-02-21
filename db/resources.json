@@ -1,5 +1,5 @@
 {
-"count": 1442,
+"count": 1443,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -1087,7 +1087,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "no",
-        "Link": "https://www.arvancloud.ir/en/docs/api",
+        "Link": "https://www.arvancloud.ir/en/dev/sdk",
         "Category": "Business"
     },
     {
@@ -7874,6 +7874,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.cloudmersive.com/image-recognition-and-processing-api",
+        "Category": "Machine Learning"
+    },
+    {
+        "API": "Cohere",
+        "Description": "Harness the power of language understanding. Join the developers and businesses who are using Cohere to generate, categorize and organize text at a scale that was previously unimaginable.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.cohere.ai/",
         "Category": "Machine Learning"
     },
     {
