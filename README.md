@@ -1762,6 +1762,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Shrtlnk](https://shrtlnk.dev/developer) | Simple and efficient short link creation | `apiKey` | Yes | Yes |
 | [TinyURL](https://tinyurl.com/app/dev) | Shorten long URLs| `apiKey` | Yes | No|
 | [UrlBae](https://urlbae.com/developers)| Simple and efficient short link creation | `apiKey` | Yes | Yes |
+| [Urlmskr](https://github.com/Axorax/urlmskr#urlmskr-api) | Easy and fast masked, shortened link creation | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
