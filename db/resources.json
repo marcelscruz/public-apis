@@ -1,5 +1,5 @@
 {
-"count": 1443,
+"count": 1444,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -12246,6 +12246,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://urlbae.com/developers",
+        "Category": "URL Shorteners"
+    },
+    {
+        "API": "Urlmskr",
+        "Description": "Easy and fast masked, shortened link creation",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://github.com/Axorax/urlmskr#urlmskr-api",
         "Category": "URL Shorteners"
     },
     {
