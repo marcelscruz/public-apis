@@ -332,6 +332,7 @@ API | Description | Auth | HTTPS | CORS |
 | [ddownload](https://ddownload.com/api)| File Sharing and Storage| `apiKey` | Yes | Unknown |
 | [Dropbox](https://www.dropbox.com/developers) | File Sharing and Storage| `OAuth`| Yes | Unknown |
 | [File.io](https://www.file.io)| Super simple file sharing, convenient, anonymous and secure | No | Yes | Unknown |
+| [Gcore Storage](https://docs.gcore.com/storage) | S3-Compatible Object Storage is a fast and scalable cloud storage system by Gcore that gives you an opportunity to store and retrieve any amount of data at any time. High-performance storage for use as a CDN origin. | `apiKey` | Yes | Yes |
 | [GoFile](https://gofile.io/api) | Unlimited size file uploads for free| `apiKey` | Yes | Unknown |
 | [Google Drive](https://developers.google.com/drive/)| File Sharing and Storage| `OAuth`| Yes | Unknown |
 | [Gyazo](https://gyazo.com/api/docs) | Save & Share screen captures instantly| `apiKey` | Yes | Unknown |
@@ -501,6 +502,9 @@ API | Description | Auth | HTTPS | CORS |
 | [Docker Hub](https://docs.docker.com/docker-hub/api/latest/)| Interact with Docker Hub| `apiKey`| Yes | Yes |
 | [DomainDb Info](https://api.domainsdb.info/)| Domain name search to find all domains containing particular words/phrases/etc| No| Yes | Unknown |
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | A simple JSON store API | No| Yes | Yes |
+| [Gcore CDN](https://docs.gcore.com/cdn) | Make your app fast and responsive for a global audience with Gcore CDN. | `apiKey` | Yes | Yes |
+| [Gcore Cloud](https://docs.gcore.com/cloud) | Scalable, secure, and reliable hybrid cloud services anywhere in the world. | `apiKey` | Yes | Yes |
+| [Gcore DNS](https://docs.gcore.com/dns) | Fast and resilient DNS hosting service by Gcore. Improve the performance and availability of your online business. | `apiKey` | Yes | Yes |
 | [GeekFlare](https://apidocs.geekflare.com/docs/geekflare-api) | Provide numerous capabilities for important testing and monitoring methods for websites | `apiKey`| Yes | Unknown |
 | [Genderize.io](https://genderize.io)| Estimates a gender from a first name| No| Yes | Yes |
 | [GETPing](https://www.getping.info) | Trigger an email notification with a simple GET request | `apiKey`| Yes | Unknown |
@@ -1792,6 +1796,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Dune](https://github.com/ywalia01/dune-api) | A simple API which provides you with book, character, movie and quotes JSON data | No | Yes | Yes |
 | [Final Space](https://finalspaceapi.com/docs/) | Final Space API| No | Yes | Yes |
 | [Game of Thrones Quotes](https://gameofthronesquotes.xyz/) | Some Game of Thrones quotes| No | Yes | Unknown |
+| [Gcore Streaming](https://docs.gcore.com/streaming) | Scale to 100+ million viewers and beyond. Stream everything from online games to online events reliably in minutes instead of months. | `apiKey` | Yes | Yes |
 | [Harry Potter Charactes](https://hp-api.herokuapp.com/)| Harry Potter Characters Data with with imagery | No | Yes | Unknown |
 | [IMDb-API](https://imdb-api.com/)| API for receiving movie, serial and cast information | `apiKey` | Yes | Unknown |
 | [IMDbOT](https://github.com/SpEcHiDe/IMDbOT) | Unofficial IMDb Movie / Series Information | No | Yes | Yes |
