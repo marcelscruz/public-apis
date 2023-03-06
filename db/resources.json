@@ -1,5 +1,5 @@
 {
-"count": 1444,
+"count": 1449,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -1478,6 +1478,15 @@
         "Category": "Cloud Storage & File Sharing"
     },
     {
+        "API": "Gcore Storage",
+        "Description": "S3-Compatible Object Storage is a fast and scalable cloud storage system by Gcore that gives you an opportunity to store and retrieve any amount of data at any time. High-performance storage for use as a CDN origin.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.gcore.com/storage",
+        "Category": "Cloud Storage & File Sharing"
+    },
+    {
         "API": "GoFile",
         "Description": "Unlimited size file uploads for free",
         "Auth": "apiKey",
@@ -2726,6 +2735,33 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://extendsclass.com/json-storage.html",
+        "Category": "Development"
+    },
+    {
+        "API": "Gcore CDN",
+        "Description": "Make your app fast and responsive for a global audience with Gcore CDN.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.gcore.com/cdn",
+        "Category": "Development"
+    },
+    {
+        "API": "Gcore Cloud",
+        "Description": "Scalable, secure, and reliable hybrid cloud services anywhere in the world.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.gcore.com/cloud",
+        "Category": "Development"
+    },
+    {
+        "API": "Gcore DNS",
+        "Description": "Fast and resilient DNS hosting service by Gcore. Improve the performance and availability of your online business.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.gcore.com/dns",
         "Category": "Development"
     },
     {
@@ -12408,6 +12444,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://gameofthronesquotes.xyz/",
+        "Category": "Video"
+    },
+    {
+        "API": "Gcore Streaming",
+        "Description": "Scale to 100+ million viewers and beyond. Stream everything from online games to online events reliably in minutes instead of months.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.gcore.com/streaming",
         "Category": "Video"
     },
     {
