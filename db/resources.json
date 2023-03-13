@@ -1,5 +1,5 @@
 {
-"count": 1449,
+"count": 1450,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -161,6 +161,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://quokka.pics/",
+        "Category": "Animals"
+    },
+    {
+        "API": "RandomBigCat",
+        "Description": "Random pictures of big cats",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://randombig.cat/roar.json",
         "Category": "Animals"
     },
     {
