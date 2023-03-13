@@ -1,5 +1,5 @@
 {
-"count": 1450,
+"count": 1451,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -10178,6 +10178,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog",
+        "Category": "Security"
+    },
+    {
+        "API": "OWASP ZAP",
+        "Description": "Automated security testing API for web apps",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.zaproxy.org/docs/api/",
         "Category": "Security"
     },
     {
