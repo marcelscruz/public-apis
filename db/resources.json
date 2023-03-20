@@ -1,5 +1,5 @@
 {
-"count": 1451,
+"count": 1452,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -4121,6 +4121,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/sameerkumar18/corporate-bs-generator-api",
+        "Category": "Entertainment"
+    },
+    {
+        "API": "elonmu.sh",
+        "Description": "Get random news article featuring Elon Musk",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://elonmu.sh/",
         "Category": "Entertainment"
     },
     {
