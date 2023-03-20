@@ -680,6 +680,7 @@ API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [chucknorris.io](https://api.chucknorris.io)| JSON API for hand curated Chuck Norris jokes | No | Yes | Unknown |
 | [Corporate Buzz Words](https://github.com/sameerkumar18/corporate-bs-generator-api) | REST API for Corporate Buzz Words| No | Yes | Yes |
+| [elonmu.sh](https://elonmu.sh/) | Get random news article featuring Elon Musk | No | Yes | Unknown |
 | [Imgflip](https://imgflip.com/api)| Gets an array of popular memes | No | Yes | Unknown |
 | [Meme Maker](https://mememaker.github.io/API/)| REST API for create your own meme| No | Yes | Unknown |
 | [NaMoMemes](https://github.com/theIYD/NaMoMemes)| Memes on Narendra Modi | No | Yes | Unknown |
