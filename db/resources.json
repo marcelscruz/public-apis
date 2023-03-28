@@ -1,5 +1,5 @@
 {
-"count": 1452,
+"count": 1451,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -9557,15 +9557,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html#//apple_ref/doc/uid/TP40017632-CH3-SW1",
-        "Category": "Podcasts"
-    },
-    {
-        "API": "Listen Notes",
-        "Description": "Get details on podcasts & episodes, Podcast & Episode Search",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.hackerearth.com/docs/wiki/developers/v4/",
         "Category": "Podcasts"
     },
     {
