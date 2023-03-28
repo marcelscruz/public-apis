@@ -736,7 +736,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://clerk.dev",
+        "Link": "https://clerk.com/docs",
         "Category": "Authentication & Authorization"
     },
     {
