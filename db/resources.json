@@ -619,7 +619,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://icon.horse",
+        "Link": "https://icon.horse/usage",
         "Category": "Art & Design"
     },
     {
@@ -790,7 +790,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://warrant.dev/",
+        "Link": "https://docs.warrant.dev/",
         "Category": "Authentication & Authorization"
     },
     {
