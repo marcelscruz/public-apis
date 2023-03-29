@@ -147,7 +147,6 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AniDB](https://wiki.anidb.net/HTTP_API_Definition) | Anime Database | `apiKey` | No| Yes |
-| [Axolotl](https://axolotlapi.netlify.app/) | Fetches over 100 posts from r/axolotls and sends back a number of those based on filters provided | No | Yes | Unknown |
 | [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs)| Anime discovery & tracking | `OAuth`| Yes | Unknown |
 | [AnimeChan](https://github.com/RocktimSaikia/anime-chan)| Anime quotes (over 10k+) | No | Yes | No|
 | [AnimeFacts](https://chandan-02.github.io/anime-facts-rest-api/)| Anime Facts (over 100+)| No | Yes | Yes |
@@ -771,7 +770,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Tradier](https://developer.tradier.com) | US equity/option market data (delayed, intraday, historical)| `OAuth`| Yes | Yes |
 | [Twelve Data](https://twelvedata.com/) | Stock market data (real-time & historical)| `apiKey` | Yes | Unknown |
 | [WallstreetBets](https://dashboard.nbshare.io/apps/reddit/api/)| WallstreetBets Stock Comments Sentiment Analysis| No | Yes | Unknown |
-| [Yahoo Finance](https://www.yahoofinanceapi.com/)| Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange| `apiKey` | Yes | Yes |
 | [YNAB](https://api.youneedabudget.com/)| Budgeting & Planning| `OAuth`| Yes | Yes |
 | [Zoho Books](https://www.zoho.com/books/api/v3/) | Online accounting software, built for your business | `OAuth`| Yes | Unknown |
 
@@ -792,7 +790,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Open Brewery DB](https://www.openbrewerydb.org) | Breweries, Cideries and Craft Beer Bottle Shops | No | Yes | Yes |
 | [Open Food Facts](https://world.openfoodfacts.org/data)| Food Products Database| No | Yes | Unknown |
 | [PunkAPI](https://punkapi.com/)| Brewdog Beer Recipes| No | Yes | Unknown |
-| [Rustybeer](https://rustybeer.herokuapp.com/)| Beer brewing tools| No | Yes | No|
 | [Spoonacular](https://spoonacular.com/food-api)| Recipes, Food Products, and Meal Planning | `apiKey` | Yes | Unknown |
 | [Status Pizza](https://status.pizza) | Pizza for every HTTP Status | No | Yes | Unknown |
 | [Systembolaget](https://api-portal.systembolaget.se) | Govornment owned liqour store in Sweden | `apiKey` | Yes | Unknown |
@@ -811,7 +808,6 @@ API | Description | Auth | HTTPS | CORS |
 ### Games & Comics
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [Age of Empires II](https://age-of-empires-2-api.herokuapp.com) | Get information about Age of Empires II resources | No| Yes | No|
 | [AmiiboAPI](https://amiiboapi.com/) | Nintendo Amiibo Information | No| Yes | Yes |
 | [Animal Crossing: New Horizons](http://acnhapi.com/)| API for critters, fossils, art, music, furniture and villagers| No| Yes | Unknown |
 | [Autochess VNG](https://github.com/didadadida93/autochess-vng-api)| Rest Api for Autochess VNG| No| Yes | Yes |
@@ -845,7 +841,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Fortnite](https://fortnitetracker.com/site-api)| Fortnite Stats| `apiKey`| Yes | Unknown |
 | [Forza](https://docs.forza-api.tk)| Show random image of car from Forza | No| Yes | Unknown |
 | [FreeToGame](https://www.freetogame.com/api-doc)| Free-To-Play Games Database | No| Yes | Yes |
-| [Fun Facts](https://asli-fun-fact-api.herokuapp.com/) | Random Fun Facts| No| Yes | Yes |
 | [FunTranslations](https://api.funtranslations.com/) | Translate Text into funny languages | No| Yes | Yes |
 | [GamerPower](https://www.gamerpower.com/api-read) | Game Giveaways Tracker| No| Yes | Yes |
 | [GDBrowser](https://gdbrowser.com/api)| Easy way to use the Geometry Dash Servers | No| Yes | Unknown |
@@ -868,7 +863,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Jservice](http://jservice.io)| Jeopardy Question Database| No| No| Unknown |
 | [Lichess](https://lichess.org/api)| Access to all data of users, games, puzzles and etc on Lichess| `OAuth` | Yes | Unknown |
 | [Magic The Gathering](http://magicthegathering.io/) | Magic The Gathering Game Information| No| No| Unknown |
-| [Mario Kart Tour](https://mario-kart-tour-api.herokuapp.com/) | API for Drivers, Karts, Gliders and Courses | `OAuth` | Yes | Unknown |
 | [Marvel](https://developer.marvel.com)| Marvel Comics | `apiKey`| Yes | Unknown |
 | [Minecraft Server Status](https://api.mcsrvstat.us) | API to get Information about a Minecraft Server | No| Yes | No|
 | [MMO Games](https://www.mmobomb.com/api)| MMO Games Database, News and Giveaways| No| Yes | No|
@@ -1182,7 +1176,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Perspective](https://perspectiveapi.com) | NLP API to return probability that if text is toxic, obscene, insulting or threatening| `apiKey` | Yes | Unknown |
 | [Roboflow Universe](https://universe.roboflow.com)| Pre-trained computer vision models| `apiKey` | Yes | Yes |
 | [SkyBiometry](https://skybiometry.com/documentation/) | Face Detection, Face Recognition and Face Grouping| `apiKey` | Yes | Unknown |
-| [Time Door](https://timedoor.io)| A time series analysis API| `apiKey` | Yes | Yes |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Yes | Unknown |
 | [WolframAlpha](https://products.wolframalpha.com/api/)| Provides specific answers to questions using data and algorithms| `apiKey` | Yes | Unknown |
 
@@ -1218,7 +1211,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Radio Browser](https://api.radio-browser.info/) | List of internet radio stations| No | Yes | Yes |
 | [Songkick](https://www.songkick.com/developer/)| Music Events | `apiKey` | Yes | Unknown |
 | [Songlink / Odesli](https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741)| Get all the services on which a song is available| `apiKey` | Yes | Yes |
-| [Songsterr](https://www.songsterr.com/a/wa/api/) | Provides guitar, bass and drums tabs and chords| No | Yes | Unknown |
 | [SoundCloud](https://developers.soundcloud.com/docs/api/guide) | With SoundCloud API you can build applications that will give more power to control your content | `OAuth`| Yes | Unknown |
 | [Spotify](https://beta.developer.spotify.com/documentation/web-api/) | View Spotify music catalog, manage users' libraries, get recommendations and more| `OAuth`| Yes | Unknown |
 | [TasteDive](https://tastedive.com/read/api)| Similar artist API (also works for movies and TV shows)| `apiKey` | Yes | Unknown |
@@ -1335,7 +1327,6 @@ API | Description | Auth | HTTPS | CORS |
 | [icanhazdadjoke](https://icanhazdadjoke.com/api)| The largest selection of dad jokes on the internet | No | Yes | Unknown |
 | [Inspiration](https://inspiration.goprogram.ai/docs/) | Motivational and Inspirational quotes| No | Yes | Yes |
 | [kanye.rest](https://kanye.rest)| REST API for random Kanye West quotes| No | Yes | Yes |
-| [kimiquotes](https://kimiquotes.herokuapp.com/doc)| Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen| No | Yes | Yes |
 | [Medium](https://github.com/Medium/medium-api-docs) | Community of readers and writers offering unique perspectives on ideas | `OAuth`| Yes | Unknown |
 | [Programming Quotes](https://github.com/skolakoda/programming-quotes-api) | Programming Quotes API for open source projects| No | Yes | Unknown |
 | [Quotable Quotes](https://github.com/lukePeavey/quotable) | Quotable is a free, open source quotations API | No | Yes | Unknown |
@@ -1379,7 +1370,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Giphy](https://developers.giphy.com/docs/) | Get all your gifs| `apiKey` | Yes | Unknown |
 | [Google Photos](https://developers.google.com/photos) | Integrate Google Photos with your apps or devices| `OAuth`| Yes | Unknown |
 | [Imgur](https://apidocs.imgur.com/) | Images | `OAuth`| Yes | Unknown |
-| [Imsea](https://imsea.herokuapp.com/) | Free image search| No | Yes | Unknown |
 | [Lorem Picsum](https://picsum.photos/)| Images from Unsplash | No | Yes | Unknown |
 | [ObjectCut](https://objectcut.com/) | Image Background removal | `apiKey` | Yes | Yes |
 | [Pexels](https://www.pexels.com/api/) | Free Stock Photos and Videos | `apiKey` | Yes | Yes |
@@ -1439,7 +1429,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Noctua](https://api.noctuasky.com/api/v1/swaggerdoc/) | REST API used to access NoctuaSky features | No | Yes | Unknown |
 | [Numbers](https://math.tools/api/numbers/) | Number of the day, random number, number facts and anything else you want to do with numbers | `apiKey` | Yes | No|
 | [Numbers](http://numbersapi.com) | Facts about numbers| No | No| No|
-| [Ocean Facts](https://oceanfacts.herokuapp.com/) | Facts pertaining to the physical science of Oceanography | No | Yes | Unknown |
 | [Open Notify](http://open-notify.org/Open-Notify-API/) | ISS astronauts, current location, etc| No | No| No|
 | [Open Science Framework](https://developer.osf.io) | Repository and archive for study designs, research materials, data, manuscripts, etc | No | Yes | Unknown |
 | [Prime Number](https://prime-number-api-docs.onrender.com/) | Check if a number(s) is prime, or query a list of prime numbers | No | Yes | Yes |
@@ -1454,7 +1443,6 @@ API | Description | Auth | HTTPS | CORS |
 | [USGS Earthquake Hazards Program](https://earthquake.usgs.gov/fdsnws/event/1/) | Earthquakes data real-time | No | Yes | No|
 | [USGS Water Services](https://waterservices.usgs.gov/) | Water quality and level info for rivers and lakes| No | Yes | No|
 | [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589) | World Data | No | Yes | No|
-| [xMath](https://x-math.herokuapp.com/) | Random mathematical expressions| No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
@@ -1508,7 +1496,6 @@ API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview)| Products, Buying Options, Categories, Recommendations, Stores and Commerce | `apiKey` | Yes | Unknown |
 | [Digi-Key](https://www.digikey.com/en/resources/api-solutions) | Retrieve price and inventory of electronic components as well as place orders| `OAuth`| Yes | Unknown |
-| [Dummy Products](https://dummyproducts-api.herokuapp.com/) | An api to fetch dummy e-commerce products JSON data with placeholder images| `apiKey` | Yes | Yes |
 | [eBay](https://developer.ebay.com/)| Sell and Buy on eBay | `OAuth`| Yes | Unknown |
 | [Etsy](https://www.etsy.com/developers/documentation/getting_started/api_basics) | Manage shop and interact with listings | `OAuth`| Yes | Unknown |
 | [Flipkart Marketplace](https://seller.flipkart.com/api-docs/FMSAPI.html) | Product listing management, Order Fulfilment in the Flipkart Marketplace | `OAuth`| Yes | Yes |
@@ -1530,7 +1517,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Ayrshare](https://www.ayrshare.com)| Social media APIs to post, get analytics, and manage multiple users social media accounts | `apiKey` | Yes | Yes |
 | [aztro](https://aztro.sameerkumar.website/) | Daily horoscope info for yesterday, today, and tomorrow | No | Yes | Unknown |
 | [Blogger](https://developers.google.com/blogger/) | The Blogger APIs allows client applications to view and update Blogger content| `OAuth`| Yes | Unknown |
-| [Dangerous Discord Database](https://discord.riverside.rocks/docs/index.php)| Database of malicious Discord accounts| `apiKey` | Yes | Unknown |
 | [Discord](https://discord.com/developers/docs/intro)| Make bots for Discord, integrate Discord onto an external platform| `OAuth`| Yes | Unknown |
 | [Disqus](https://disqus.com/api/docs/auth/) | Communicate with Disqus data| `OAuth`| Yes | Unknown |
 | [Doge-Meme](https://api.doge-meme.lol/docs) | Top meme posts from r/dogecoin which include 'Meme' flair | No | Yes | Yes |
@@ -1630,10 +1616,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Randommer](https://randommer.io/randommer-api)| Random data generator | `apiKey` | Yes | Yes |
 | [RandomUser](https://randomuser.me)| Generates and list user data| No | Yes | Unknown |
 | [RoboHash](https://robohash.org/)| Generate random robot/alien avatars | No | Yes | Unknown |
-| [Spanish random names](https://random-names-api.herokuapp.com/public)| Generate spanish names (with gender) randomly | No | Yes | Unknown |
-| [Spanish random words](https://palabras-aleatorias-public-api.herokuapp.com) | Generate spanish words randomly | No | Yes | Unknown |
 | [This Person Does not Exist](https://thispersondoesnotexist.com) | Generates real-life faces of people who do not exist| No | Yes | Unknown |
-| [Toolcarton](https://testimonialapi.toolcarton.com/) | Generate random testimonial data| No | Yes | Unknown |
 | [UUID Generator](https://www.uuidtools.com/docs) | Generate UUIDs| No | Yes | No|
 | [What The Commit](http://whatthecommit.com/index.txt)| Random commit message generator | No | No| Yes |
 | [Yes No](https://yesno.wtf/api)| Generate yes or no randomly | No | Yes | Unknown |
@@ -1795,7 +1778,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Breaking Bad](https://breakingbadapi.com/documentation) | Breaking Bad API | No | Yes | Unknown |
 | [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) | Some Breaking Bad quotes | No | Yes | Unknown |
 | [Catalogopolis](https://api.catalogopolis.xyz/docs/) | Doctor Who API | No | Yes | Unknown |
-| [Catch The Show](https://catchtheshow.herokuapp.com/api/documentation) | REST API for next-episode.net| No | Yes | Unknown |
 | [Czech Television](http://www.ceskatelevize.cz/xml/tv-program/)| TV programme of Czech TV | No | No| Unknown |
 | [Dailymotion](https://developer.dailymotion.com/)| Dailymotion Developer API| `OAuth`| Yes | Unknown |
 | [Dune](https://github.com/ywalia01/dune-api) | A simple API which provides you with book, character, movie and quotes JSON data | No | Yes | Yes |
@@ -1808,10 +1790,8 @@ API | Description | Auth | HTTPS | CORS |
 | [JSON2Video](https://json2video.com) | Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations | `apiKey` | Yes | No|
 | [Lucifer Quotes](https://github.com/shadowoff09/lucifer-quotes)| Returns Lucifer quotes | No | Yes | Unknown |
 | [MCU Countdown](https://github.com/DiljotSG/MCU-Countdown) | A Countdown to the next MCU Film | No | Yes | Yes |
-| [Motivational Quotes](https://nodejs-quoteapp.herokuapp.com/)| Random Motivational Quotes | No | Yes | Unknown |
 | [Movie Quote](https://github.com/F4R4N/movie-quote/) | Random Movie and Series Quotes | No | Yes | Yes |
 | [Open Movie Database](http://www.omdbapi.com/) | Movie information| `apiKey` | Yes | Unknown |
-| [Owen Wilson Wow](https://owen-wilson-wow-api.herokuapp.com) | API for actor Owen Wilson's "wow" exclamations in movies | No | Yes | Yes |
 | [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television | No | Yes | Unknown |
 | [Shotstack](https://shotstack.io/) | Cloud-based video editing API | `apiKey` | Yes | Unknown |
 | [Simkl](https://simkl.docs.apiary.io)| Movie, TV and Anime data | `apiKey` | Yes | Unknown |
