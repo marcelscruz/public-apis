@@ -439,6 +439,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Amdoren](https://www.amdoren.com/currency-api/) | Free currency API with over 150 currencies | `apiKey` | Yes | Unknown |
 | [apilayer fixer.io](https://fixer.io)| Exchange rates and currency conversion | `apiKey` | No| Unknown |
 | [Bank of Russia](https://www.cbr.ru/development/SXML/) | Exchange rates and currency conversion | No | Yes | Unknown |
+| [Currencyapi](https://currencyapi.com) | Currency Conversion API and crpyto currency prices, updated minutely | `apiKey` | Yes | Yes |
 | [Currency-api](https://github.com/fawazahmed0/currency-api#readme) | Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits | No | Yes | Yes |
 | [CurrencyFreaks](https://currencyfreaks.com/)| Provides current and historical currency exchange rates with free plan 1K requests/month | `apiKey` | Yes | Yes |
 | [Currencylayer](https://currencylayer.com/documentation) | Exchange rates and currency conversion | `apiKey` | Yes | Unknown |
@@ -466,6 +467,7 @@ API | Description | Auth | HTTPS | CORS |
 | [US Extract](https://www.smarty.com/products/apis/us-extract-api)| Extract postal addresses from any text including emails | `apiKey` | Yes | Yes |
 | [US Street Address](https://www.smarty.com/docs/cloud/us-street-api) | Validate and append data for any US postal address| `apiKey` | Yes | Yes |
 | [vatlayer](https://vatlayer.com/documentation) | VAT number validation | `apiKey` | Yes | Unknown |
+| [VatcheckAPI](https://vatcheckapi.com) | VAT Number Validation & Lookup REST API | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
@@ -1355,6 +1357,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Abstract Phone Validation](https://www.abstractapi.com/phone-validation-api) | Validate phone numbers globally| `apiKey` | Yes | Yes |
 | [apilayer numverify](https://numverify.com) | Phone number validation| `apiKey` | Yes | Unknown |
 | [Cloudmersive Validate](https://cloudmersive.com/phone-number-validation-API) | Validate international phone numbers | `apiKey` | Yes | Yes |
+| [NumlookupAPI](https://numlookupapi.com) | Worldwide Phone Number Lookup & Verification API | `apiKey` | Yes | Yes |
 | [Phone Specification](https://github.com/azharimm/phone-specs-api)| Rest Api for Phone specifications| No | Yes | Yes |
 | [Veriphone](https://veriphone.io) | Phone number validation & carrier lookup | `apiKey` | Yes | Yes |
 
