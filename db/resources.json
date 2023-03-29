@@ -1,5 +1,5 @@
 {
-"count": 1451,
+"count": 1454,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -2279,6 +2279,15 @@
         "Category": "Currency Exchange"
     },
     {
+        "API": "Currencyapi",
+        "Description": "Currency Conversion API and crpyto currency prices, updated minutely",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://currencyapi.com",
+        "Category": "Currency Exchange"
+    },
+    {
         "API": "Currency-api",
         "Description": "Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits",
         "Auth": "",
@@ -2465,6 +2474,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://vatlayer.com/documentation",
+        "Category": "Data Validation"
+    },
+    {
+        "API": "VatcheckAPI",
+        "Description": "VAT Number Validation & Lookup REST API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://vatcheckapi.com",
         "Category": "Data Validation"
     },
     {
@@ -9278,6 +9296,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://cloudmersive.com/phone-number-validation-API",
+        "Category": "Phone"
+    },
+    {
+        "API": "NumlookupAPI",
+        "Description": "Worldwide Phone Number Lookup & Verification API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://numlookupapi.com",
         "Category": "Phone"
     },
     {
