@@ -1,5 +1,5 @@
 {
-"count": 1454,
+"count": 1434,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -242,15 +242,6 @@
         "HTTPS": false,
         "Cors": "yes",
         "Link": "https://wiki.anidb.net/HTTP_API_Definition",
-        "Category": "Anime"
-    },
-    {
-        "API": "Axolotl",
-        "Description": "Fetches over 100 posts from r/axolotls and sends back a number of those based on filters provided",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://axolotlapi.netlify.app/",
         "Category": "Anime"
     },
     {
@@ -4781,15 +4772,6 @@
         "Category": "Finance"
     },
     {
-        "API": "Yahoo Finance",
-        "Description": "Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://www.yahoofinanceapi.com/",
-        "Category": "Finance"
-    },
-    {
         "API": "YNAB",
         "Description": "Budgeting & Planning",
         "Auth": "OAuth",
@@ -4916,15 +4898,6 @@
         "Category": "Food & Drink"
     },
     {
-        "API": "Rustybeer",
-        "Description": "Beer brewing tools",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://rustybeer.herokuapp.com/",
-        "Category": "Food & Drink"
-    },
-    {
         "API": "Spoonacular",
         "Description": "Recipes, Food Products, and Meal Planning",
         "Auth": "apiKey",
@@ -5031,15 +5004,6 @@
         "Cors": "yes",
         "Link": "https://zestfuldata.com/",
         "Category": "Food & Drink"
-    },
-    {
-        "API": "Age of Empires II",
-        "Description": "Get information about Age of Empires II resources",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://age-of-empires-2-api.herokuapp.com",
-        "Category": "Games & Comics"
     },
     {
         "API": "AmiiboAPI",
@@ -5339,15 +5303,6 @@
         "Category": "Games & Comics"
     },
     {
-        "API": "Fun Facts",
-        "Description": "Random Fun Facts",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://asli-fun-fact-api.herokuapp.com/",
-        "Category": "Games & Comics"
-    },
-    {
         "API": "FunTranslations",
         "Description": "Translate Text into funny languages",
         "Auth": "",
@@ -5543,15 +5498,6 @@
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://magicthegathering.io/",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "Mario Kart Tour",
-        "Description": "API for Drivers, Karts, Gliders and Courses",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://mario-kart-tour-api.herokuapp.com/",
         "Category": "Games & Comics"
     },
     {
@@ -8102,15 +8048,6 @@
         "Category": "Machine Learning"
     },
     {
-        "API": "Time Door",
-        "Description": "A time series analysis API",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://timedoor.io",
-        "Category": "Machine Learning"
-    },
-    {
         "API": "Unplugg",
         "Description": "Forecasting API for timeseries data",
         "Auth": "apiKey",
@@ -8369,15 +8306,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741",
-        "Category": "Music"
-    },
-    {
-        "API": "Songsterr",
-        "Description": "Provides guitar, bass and drums tabs and chords",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.songsterr.com/a/wa/api/",
         "Category": "Music"
     },
     {
@@ -9155,15 +9083,6 @@
         "Category": "Personality"
     },
     {
-        "API": "kimiquotes",
-        "Description": "Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://kimiquotes.herokuapp.com/doc",
-        "Category": "Personality"
-    },
-    {
         "API": "Medium",
         "Description": "Community of readers and writers offering unique perspectives on ideas",
         "Auth": "OAuth",
@@ -9440,15 +9359,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://apidocs.imgur.com/",
-        "Category": "Photography"
-    },
-    {
-        "API": "Imsea",
-        "Description": "Free image search",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://imsea.herokuapp.com/",
         "Category": "Photography"
     },
     {
@@ -9821,15 +9731,6 @@
         "Category": "Science & Math"
     },
     {
-        "API": "Ocean Facts",
-        "Description": "Facts pertaining to the physical science of Oceanography",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://oceanfacts.herokuapp.com/",
-        "Category": "Science & Math"
-    },
-    {
         "API": "Open Notify",
         "Description": "ISS astronauts, current location, etc",
         "Auth": "",
@@ -9953,15 +9854,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://datahelpdesk.worldbank.org/knowledgebase/topics/125589",
-        "Category": "Science & Math"
-    },
-    {
-        "API": "xMath",
-        "Description": "Random mathematical expressions",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://x-math.herokuapp.com/",
         "Category": "Science & Math"
     },
     {
@@ -10334,15 +10226,6 @@
         "Category": "Shopping"
     },
     {
-        "API": "Dummy Products",
-        "Description": "An api to fetch dummy e-commerce products JSON data with placeholder images",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://dummyproducts-api.herokuapp.com/",
-        "Category": "Shopping"
-    },
-    {
         "API": "eBay",
         "Description": "Sell and Buy on eBay",
         "Auth": "OAuth",
@@ -10475,15 +10358,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.google.com/blogger/",
-        "Category": "Social"
-    },
-    {
-        "API": "Dangerous Discord Database",
-        "Description": "Database of malicious Discord accounts",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://discord.riverside.rocks/docs/index.php",
         "Category": "Social"
     },
     {
@@ -11277,39 +11151,12 @@
         "Category": "Test Data"
     },
     {
-        "API": "Spanish random names",
-        "Description": "Generate spanish names (with gender) randomly",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://random-names-api.herokuapp.com/public",
-        "Category": "Test Data"
-    },
-    {
-        "API": "Spanish random words",
-        "Description": "Generate spanish words randomly",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://palabras-aleatorias-public-api.herokuapp.com",
-        "Category": "Test Data"
-    },
-    {
         "API": "This Person Does not Exist",
         "Description": "Generates real-life faces of people who do not exist",
         "Auth": "",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://thispersondoesnotexist.com",
-        "Category": "Test Data"
-    },
-    {
-        "API": "Toolcarton",
-        "Description": "Generate random testimonial data",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://testimonialapi.toolcarton.com/",
         "Category": "Test Data"
     },
     {
@@ -12438,15 +12285,6 @@
         "Category": "Video"
     },
     {
-        "API": "Catch The Show",
-        "Description": "REST API for next-episode.net",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://catchtheshow.herokuapp.com/api/documentation",
-        "Category": "Video"
-    },
-    {
         "API": "Czech Television",
         "Description": "TV programme of Czech TV",
         "Auth": "",
@@ -12555,15 +12393,6 @@
         "Category": "Video"
     },
     {
-        "API": "Motivational Quotes",
-        "Description": "Random Motivational Quotes",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://nodejs-quoteapp.herokuapp.com/",
-        "Category": "Video"
-    },
-    {
         "API": "Movie Quote",
         "Description": "Random Movie and Series Quotes",
         "Auth": "",
@@ -12579,15 +12408,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://www.omdbapi.com/",
-        "Category": "Video"
-    },
-    {
-        "API": "Owen Wilson Wow",
-        "Description": "API for actor Owen Wilson's \"wow\" exclamations in movies",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://owen-wilson-wow-api.herokuapp.com",
         "Category": "Video"
     },
     {
