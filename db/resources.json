@@ -1,5 +1,5 @@
 {
-"count": 1434,
+"count": 1424,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -2558,15 +2558,6 @@
         "Category": "Development"
     },
     {
-        "API": "Base",
-        "Description": "Building quick backends",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://www.base-api.io/",
-        "Category": "Development"
-    },
-    {
         "API": "Beeceptor",
         "Description": "Build a mock Rest API endpoint in seconds",
         "Auth": "",
@@ -2936,15 +2927,6 @@
         "Category": "Development"
     },
     {
-        "API": "host-t.com",
-        "Description": "Basic DNS query via HTTP GET request",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://host-t.com",
-        "Category": "Development"
-    },
-    {
         "API": "Host.io",
         "Description": "Domains Data API for Developers",
         "Auth": "apiKey",
@@ -2999,24 +2981,6 @@
         "Category": "Development"
     },
     {
-        "API": "Icanhazepoch",
-        "Description": "Get Epoch time",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://icanhazepoch.com",
-        "Category": "Development"
-    },
-    {
-        "API": "Icanhazip",
-        "Description": "IP Address API",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://major.io/icanhazip-com-faq/",
-        "Category": "Development"
-    },
-    {
         "API": "IFTTT",
         "Description": "IFTTT Connect API",
         "Auth": "",
@@ -3041,15 +3005,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://api.docs.import.io/",
-        "Category": "Development"
-    },
-    {
-        "API": "ip-fast.com",
-        "Description": "IP address, country and city",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://ip-fast.com/docs/",
         "Category": "Development"
     },
     {
@@ -3131,15 +3086,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://github.com/cmccandless/license-api/blob/master/README.md",
-        "Category": "Development"
-    },
-    {
-        "API": "Logs.to",
-        "Description": "Generate logs",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://logs.to/",
         "Category": "Development"
     },
     {
@@ -3509,15 +3455,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://sheetsu.com/",
-        "Category": "Development"
-    },
-    {
-        "API": "SHOUTCLOUD",
-        "Description": "ALL-CAPS AS A SERVICE",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://shoutcloud.io/",
         "Category": "Development"
     },
     {
@@ -5285,15 +5222,6 @@
         "Category": "Games & Comics"
     },
     {
-        "API": "Forza",
-        "Description": "Show random image of car from Forza",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.forza-api.tk",
-        "Category": "Games & Comics"
-    },
-    {
         "API": "FreeToGame",
         "Description": "Free-To-Play Games Database",
         "Auth": "",
@@ -5318,15 +5246,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.gamerpower.com/api-read",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "GDBrowser",
-        "Description": "Easy way to use the Geometry Dash Servers",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://gdbrowser.com/api",
         "Category": "Games & Comics"
     },
     {
@@ -7901,15 +7820,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://docs.cohere.ai/",
-        "Category": "Machine Learning"
-    },
-    {
-        "API": "Deepcode",
-        "Description": "AI for code review",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.deepcode.ai",
         "Category": "Machine Learning"
     },
     {
@@ -12339,12 +12249,12 @@
         "Category": "Video"
     },
     {
-        "API": "Harry Potter Charactes",
+        "API": "Harry Potter Characters",
         "Description": "Harry Potter Characters Data with with imagery",
         "Auth": "",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "https://hp-api.herokuapp.com/",
+        "Link": "https://hp-api.onrender.com/",
         "Category": "Video"
     },
     {
