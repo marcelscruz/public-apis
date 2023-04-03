@@ -1,5 +1,5 @@
 {
-"count": 1425,
+"count": 1426,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -1322,6 +1322,15 @@
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://svatky.adresa.info",
+        "Category": "Calendar"
+    },
+    {
+        "API": "DigiDates",
+        "Description": "Various date and time calculations",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://digidates.de/en/",
         "Category": "Calendar"
     },
     {
