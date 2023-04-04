@@ -992,6 +992,7 @@
 | [ZipCodeAPI](https://www.zipcodeapi.com) | US zip code distance, radius and location API | `apiKey` | Yes | Unknown |
 | [Zippopotam.us](http://www.zippopotam.us) | Get information about place such as country, city, state, etc | No | No | Unknown |
 | [Ziptastic](https://ziptasticapi.com/) | Get the country, state, and city of any US zip-code | No | Yes | Unknown |
+| [Zipcodestack](https://zipcodestack.com/) | Zip Code API - Free Postal Code Validation | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
