@@ -1,5 +1,5 @@
 {
-"count": 1427,
+"count": 1428,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -6614,6 +6614,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://ziptasticapi.com/",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "Zipcodestack",
+        "Description": "Zip Code API - Free Postal Code Validation",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://zipcodestack.com/",
         "Category": "Geocoding"
     },
     {
