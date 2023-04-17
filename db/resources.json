@@ -322,7 +322,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "https://api.mangadex.org/docs.html",
+        "Link": "https://api.mangadex.org/docs/",
         "Category": "Anime"
     },
     {
