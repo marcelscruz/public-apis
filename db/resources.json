@@ -34,7 +34,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "no",
-        "Link": "https://docs.thecatapi.com/",
+        "Link": "https://developers.thecatapi.com/",
         "Category": "Animals"
     },
     {
