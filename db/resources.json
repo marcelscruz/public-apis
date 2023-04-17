@@ -1,5 +1,5 @@
 {
-"count": 1429,
+"count": 1430,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3887,6 +3887,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://vector.express",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Vertopal",
+        "Description": "Convert your files to a variety of formats using Vertopal API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://www.vertopal.com/en/developer/api/introduction",
         "Category": "Documents & Productivity"
     },
     {
