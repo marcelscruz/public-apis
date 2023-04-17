@@ -1,5 +1,5 @@
 {
-"count": 1428,
+"count": 1429,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -1574,6 +1574,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://quip.com/dev/automation/documentation",
+        "Category": "Cloud Storage & File Sharing"
+    },
+    {
+        "API": "Smash",
+        "Description": "Upload large files on websites, mobile apps, SaaS solutions and custom workflows",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://api.fromsmash.com/",
         "Category": "Cloud Storage & File Sharing"
     },
     {
