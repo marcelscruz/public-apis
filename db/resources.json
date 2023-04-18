@@ -1,5 +1,5 @@
 {
-"count": 1431,
+"count": 1432,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3284,6 +3284,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://pusher.com/beams",
+        "Category": "Development"
+    },
+    {
+        "API": "Pusher Channels",
+        "Description": "Realtime features",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://pusher.com/channels",
         "Category": "Development"
     },
     {
@@ -12368,7 +12377,7 @@
     {
         "API": "Mux",
         "Description": "Mux Video is an API that enables developers to build unique live and on-demand video experiences",
-        "Auth": "Yes",
+        "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.mux.com/",
