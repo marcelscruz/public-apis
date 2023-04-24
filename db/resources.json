@@ -898,7 +898,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://docs.bhagavadgitaapi.in",
+        "Link": "https://bhagavadgitaapi.in",
         "Category": "Books"
     },
     {
