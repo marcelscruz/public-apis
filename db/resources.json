@@ -1,5 +1,5 @@
 {
-"count": 1431,
+"count": 1430,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -755,15 +755,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://mojoauth.com",
-        "Category": "Authentication & Authorization"
-    },
-    {
-        "API": "SAWO Labs",
-        "Description": "Simplify login and improve user experience by integrating passwordless authentication in your app",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://sawolabs.com",
         "Category": "Authentication & Authorization"
     },
     {
