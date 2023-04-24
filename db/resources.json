@@ -1,5 +1,5 @@
 {
-"count": 1432,
+"count": 1431,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -962,15 +962,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.google.com/books/",
-        "Category": "Books"
-    },
-    {
-        "API": "GurbaniNow",
-        "Description": "Fast and Accurate Gurbani RESTful API",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://github.com/GurbaniNow/api",
         "Category": "Books"
     },
     {
