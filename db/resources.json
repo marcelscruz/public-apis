@@ -1,5 +1,5 @@
 {
-"count": 1431,
+"count": 1430,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -863,15 +863,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://thegraph.com",
-        "Category": "Blockchain"
-    },
-    {
-        "API": "Walltime",
-        "Description": "To retrieve Walltime's market info",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://walltime.info/api.html",
         "Category": "Blockchain"
     },
     {
