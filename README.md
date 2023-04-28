@@ -1749,7 +1749,7 @@
 | [Shrtlnk](https://shrtlnk.dev/developer) | Simple and efficient short link creation | `apiKey` | Yes | Yes |
 | [TinyURL](https://tinyurl.com/app/dev) | Shorten long URLs | `apiKey` | Yes | No |
 | [UrlBae](https://urlbae.com/developers) | Simple and efficient short link creation | `apiKey` | Yes | Yes |
-| [url.dev](https://autocode.com/url/api/temporary/0.3.0/create) | Create short, temporary, self-destructing messages and links that automatically expire in anywhere from a minute to a week. | No | Yes | Unknown
+| [url.dev](https://autocode.com/url/api/temporary/0.3.0/create) | Create short, temporary, self-destructing links that expire anywhere from a minute to a week. | No | Yes | Unknown
 | [Urlmskr](https://github.com/Axorax/urlmskr#urlmskr-api) | Easy and fast masked, shortened link creation | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
