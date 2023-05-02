@@ -11711,7 +11711,7 @@
     {
         "API": "Transport for Finland",
         "Description": "Finnish transport API",
-        "Auth": "",
+        "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://digitransit.fi/en/developers/",
