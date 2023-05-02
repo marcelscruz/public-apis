@@ -1,5 +1,5 @@
 {
-"count": 1430,
+"count": 1431,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -12129,6 +12129,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://urlbae.com/developers",
+        "Category": "URL Shorteners"
+    },
+    {
+        "API": "url.dev",
+        "Description": "Create short, temporary, self-destructing links that expire anywhere from a minute to a week.",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://autocode.com/url/api/temporary/0.3.0/create",
         "Category": "URL Shorteners"
     },
     {
