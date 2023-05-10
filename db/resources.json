@@ -1,5 +1,5 @@
 {
-"count": 1431,
+"count": 1432,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -12444,6 +12444,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.stromberg-api.de/",
+        "Category": "Video"
+    },
+    {
+        "API": "Supernatural Quotes",
+        "Description": "100+ Supernatural quotes",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "lidiakovac.github.io/supernatural-api",
         "Category": "Video"
     },
     {
