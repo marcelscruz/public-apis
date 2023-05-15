@@ -1,5 +1,5 @@
 {
-"count": 1433,
+"count": 1432,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -10340,15 +10340,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://disqus.com/api/docs/auth/",
-        "Category": "Social"
-    },
-    {
-        "API": "Doge-Meme",
-        "Description": "Top meme posts from r/dogecoin which include 'Meme' flair",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://api.doge-meme.lol/docs",
         "Category": "Social"
     },
     {
