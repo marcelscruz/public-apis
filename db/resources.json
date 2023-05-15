@@ -1,5 +1,5 @@
 {
-"count": 1432,
+"count": 1433,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3509,6 +3509,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://developers.supportivekoala.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "Tolgee",
+        "Description": "Open-source localization (i18n) platform enabling you to translate you app fast",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://tolgee.io",
         "Category": "Development"
     },
     {
