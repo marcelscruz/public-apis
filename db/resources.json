@@ -1,5 +1,5 @@
 {
-"count": 1432,
+"count": 1433,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -9602,6 +9602,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://isro.vercel.app",
+        "Category": "Science & Math"
+    },
+    {
+        "API": "ISRO Statistics",
+        "Description": "ISRO Launches and Spacecrafts details",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://isrostats.in/apis",
         "Category": "Science & Math"
     },
     {
