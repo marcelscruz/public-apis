@@ -1,5 +1,5 @@
 {
-"count": 1434,
+"count": 1435,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -10403,6 +10403,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://hashnode.com",
+        "Category": "Social"
+    },
+    {
+        "API": "Hashtag",
+        "Description": "Generate Hashtags using a keyword or an Image",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://mukeshsolanki.gitbook.io/hashtag-api/",
         "Category": "Social"
     },
     {
