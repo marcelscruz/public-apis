@@ -1,5 +1,5 @@
 {
-"count": 1435,
+"count": 1436,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -728,6 +728,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://clerk.com",
+        "Category": "Authentication & Authorization"
+    },
+    {
+        "API": "Corbado",
+        "Description": "Passkey-first authentication",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://corbado.com",
         "Category": "Authentication & Authorization"
     },
     {
