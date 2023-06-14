@@ -1,5 +1,5 @@
 {
-"count": 1437,
+"count": 1436,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -4529,15 +4529,6 @@
         "Category": "Finance"
     },
     {
-        "API": "Hotstoks",
-        "Description": "Stock market data powered by SQL",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://hotstoks.com?utm_source=public-apis",
-        "Category": "Finance"
-    },
-    {
         "API": "IEX Cloud",
         "Description": "Realtime & Historical Stock and Market Data",
         "Auth": "apiKey",
@@ -7231,7 +7222,7 @@
     {
         "API": "Open Government, Portugal",
         "Description": "Portugal Government Open Data",
-        "Auth": "",
+        "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://dados.gov.pt/en/docapi/",
