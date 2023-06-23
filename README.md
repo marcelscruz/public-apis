@@ -1589,6 +1589,7 @@
 | [TheSportsDB](https://www.thesportsdb.com/api.php) | Crowd-Sourced Sports Data and Artwork | `apiKey`| Yes | Yes |
 | [Tredict](https://www.tredict.com/blog/oauth_docs/) | Get and set activities, health data and more | `OAuth` | Yes | Unknown |
 | [Wger](https://wger.de/en/software/api) | Workout manager data as exercises, muscles or equipment | `apiKey`| Yes | Unknown |
+| [NBA Stats](https://documenter.getpostman.com/view/24232555/2s93shzpR3) | NBA player statistics and data | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
