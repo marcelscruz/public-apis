@@ -1573,6 +1573,7 @@
 | [MLB Records and Stats](https://appac.github.io/mlb-data-api-docs/) | Current and historical MLB statistics | No | No | Unknown |
 | [NBA Data](https://rapidapi.com/api-sports/api/api-nba/) | All NBA Stats DATA, Games, Livescore, Standings, Statistics | `apiKey`| Yes | Unknown |
 | [NBA Stats](https://any-api.com/nba_com/nba_com/docs/API_Description) | Current and historical NBA Statistics | No | Yes | Unknown |
+| [NBA Stats](https://documenter.getpostman.com/view/24232555/2s93shzpR3) | NBA player statistics and data | No | Yes | Yes |
 | [NHL Records and Stats](https://gitlab.com/dword4/nhlapi) | NHL historical data and statistics | No | Yes | Unknown |
 | [Oddsmagnet](https://data.oddsmagnet.com) | Odds history from multiple UK bookmakers | No | Yes | Yes |
 | [OpenLigaDB](https://www.openligadb.de) | Crowd sourced sports league results | No | Yes | Yes |
@@ -1589,7 +1590,6 @@
 | [TheSportsDB](https://www.thesportsdb.com/api.php) | Crowd-Sourced Sports Data and Artwork | `apiKey`| Yes | Yes |
 | [Tredict](https://www.tredict.com/blog/oauth_docs/) | Get and set activities, health data and more | `OAuth` | Yes | Unknown |
 | [Wger](https://wger.de/en/software/api) | Workout manager data as exercises, muscles or equipment | `apiKey`| Yes | Unknown |
-| [NBA Stats](https://documenter.getpostman.com/view/24232555/2s93shzpR3) | NBA player statistics and data | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
