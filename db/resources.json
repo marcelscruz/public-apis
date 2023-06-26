@@ -1,5 +1,5 @@
 {
-"count": 1437,
+"count": 1438,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -10815,6 +10815,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://any-api.com/nba_com/nba_com/docs/API_Description",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "NBA Stats",
+        "Description": "NBA player statistics and data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://documenter.getpostman.com/view/24232555/2s93shzpR3",
         "Category": "Sports & Fitness"
     },
     {
