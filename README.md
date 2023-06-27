@@ -1391,7 +1391,7 @@
 | [iTunes](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html#//apple_ref/doc/uid/TP40017632-CH3-SW1) | Apple Podcasts Directory | No | Yes | Unknown |
 | [PodcastIndex](https://podcastindex-org.github.io/docs-api/) | Get details on podcasts & episodes, Podcast Search | `apiKey`| Yes | Unknown |
 | [Spotify](https://developer.spotify.com/documentation/web-api/) | Get details on podcasts & episodes | `OAuth` | Yes | Unknown |
-| [Taddy Podcasts](https://taddy.org/developers/podcast-api) | Get details on podcasts & episodes, Podcast & Episode Search, Webhook notifications | `X-API-KEY` | Yes | Yes |
+| [Taddy Podcasts](https://taddy.org/developers/podcast-api) | Get details on podcasts & episodes, Podcast & Episode Search, Webhook notifications | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
