@@ -9499,7 +9499,7 @@
     {
         "API": "Taddy Podcasts",
         "Description": "Get details on podcasts & episodes, Podcast & Episode Search, Webhook notifications",
-        "Auth": "X-API-KEY",
+        "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://taddy.org/developers/podcast-api",
