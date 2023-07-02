@@ -8336,6 +8336,15 @@
         "Category": "Music"
     },
     {
+        "API": "Listen Notes",
+        "Description": "API for Search, Directory, and Insights",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.listennotes.com/api/",
+        "Category": "Music"
+    },
+    {
         "API": "apilayer mediastack",
         "Description": "Free, Simple REST API for Live News & Blog Articles",
         "Auth": "apiKey",
