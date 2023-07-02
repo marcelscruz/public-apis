@@ -8335,6 +8335,15 @@
         "Link": "https://api.vagalume.com.br/docs/",
         "Category": "Music"
     },
+     {
+        "API": "Podcast Index",
+        "Description": "Crowdsourced lyrics and music knowledge",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://podcastindex-org.github.io/docs-api/",
+        "Category": "Music"
+    },
     {
         "API": "apilayer mediastack",
         "Description": "Free, Simple REST API for Live News & Blog Articles",
