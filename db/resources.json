@@ -1,5 +1,5 @@
 {
-"count": 1439,
+"count": 1438,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -1647,15 +1647,6 @@
         "Cors": "unknown",
         "Link": "https://docs.travis-ci.com/api/",
         "Category": "Continuous Integration"
-    },
-    {
-        "API": "0x",
-        "Description": "API for querying token and pool stats across various liquidity pools",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://0x.org/api",
-        "Category": "Cryptocurrency"
     },
     {
         "API": "1inch",
