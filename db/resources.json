@@ -1,5 +1,5 @@
 {
-"count": 1438,
+"count": 1437,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -8189,15 +8189,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.last.fm/api",
-        "Category": "Music"
-    },
-    {
-        "API": "Lyrics.ovh",
-        "Description": "Simple API to retrieve the lyrics of a song",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://lyricsovh.docs.apiary.io",
         "Category": "Music"
     },
     {
