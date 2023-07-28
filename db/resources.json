@@ -1,5 +1,5 @@
 {
-"count": 1437,
+"count": 1436,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -4121,15 +4121,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://mememaker.github.io/API/",
-        "Category": "Entertainment"
-    },
-    {
-        "API": "NaMoMemes",
-        "Description": "Memes on Narendra Modi",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://github.com/theIYD/NaMoMemes",
         "Category": "Entertainment"
     },
     {
