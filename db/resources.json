@@ -1,5 +1,5 @@
 {
-"count": 1436,
+"count": 1437,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -1745,6 +1745,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://block.io/docs/basic",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "BlockBee",
+        "Description": "Cryptocurrency Payment Processor",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://docs.blockbee.io/",
         "Category": "Cryptocurrency"
     },
     {
