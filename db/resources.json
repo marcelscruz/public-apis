@@ -1,5 +1,5 @@
 {
-"count": 1437,
+"count": 1438,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -386,6 +386,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://waifu.pics/docs",
+        "Category": "Anime"
+    },
+    {
+        "API": "Wibu API",
+        "Description": "Anime, Donghua, Manga, Manhua, Manhwa, J-Drama, Genshin Impact. All-in-one weebs related stuff api.",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://wibu-api.eu.org",
         "Category": "Anime"
     },
     {
