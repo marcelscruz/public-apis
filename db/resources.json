@@ -1,5 +1,5 @@
 {
-"count": 1439,
+"count": 1440,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -71,6 +71,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.fishwatch.gov/developers",
+        "Category": "Animals"
+    },
+    {
+        "API": "Foxes",
+        "Description": "Random fox images with multiple different tags",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://foxes.cool",
         "Category": "Animals"
     },
     {
