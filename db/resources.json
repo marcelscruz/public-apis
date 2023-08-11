@@ -1,5 +1,5 @@
 {
-"count": 1440,
+"count": 1441,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3455,6 +3455,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://screenshotone.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "SearchApi",
+        "Description": "Real-Time Google SERP API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://www.searchapi.io/",
         "Category": "Development"
     },
     {
