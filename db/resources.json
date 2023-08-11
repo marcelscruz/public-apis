@@ -1,5 +1,5 @@
 {
-"count": 1441,
+"count": 1442,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -8774,6 +8774,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://dev.socrata.com/",
+        "Category": "Open Data"
+    },
+    {
+        "API": "Sofiaplan",
+        "Description": "Access to urban research data for the Bulgarian capital Sofia",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://sofiaplan.bg/api/",
         "Category": "Open Data"
     },
     {
