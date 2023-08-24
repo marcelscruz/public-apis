@@ -1676,7 +1676,6 @@
 | [BlaBlaCar](https://dev.blablacar.com) | Search car sharing trips | `apiKey` | Yes | Unknown |
 | [Boston MBTA Transit](https://www.mbta.com/developers/v3-api) | Stations and predicted arrivals for MBTA | `apiKey` | Yes | Unknown |
 | [Community Transit](https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints) | Transitland API | No | Yes | Unknown |
-| [Compare Flight Prices](https://rapidapi.com/obryan-software-obryan-software-default/api/compare-flight-prices/) | API for comparing flight prices across platforms | `apiKey` | Yes | Unknown |
 | [CTS](https://api.cts-strasbourg.eu/) | CTS Realtime API | `apiKey` | Yes | Yes |
 | [facha](https://docs.api.facha.dev/) | Aircraft Tracking, AIS Ship Tracking, Temporary Email Detection, IP GeoLocation, Package Tracking  | No | Yes | Unknown |
 | [Grab](https://developer.grab.com/docs/) | Track deliveries, ride fares, payments and loyalty points | `OAuth`| Yes | Unknown |
@@ -1779,7 +1778,6 @@
 |---|---|---|---|---|
 | [An API of Ice And Fire](https://anapioficeandfire.com/) | Game Of Thrones API | No | Yes | Unknown |
 | [Bob's Burgers](https://bobs-burgers-api-ui.herokuapp.com) | Bob's Burgers API | No | Yes | Yes |
-| [Breaking Bad](https://breakingbadapi.com/documentation) | Breaking Bad API | No | Yes | Unknown |
 | [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) | Some Breaking Bad quotes | No | Yes | Unknown |
 | [Buffy the Vampire Slayer and Angel](https://github.com/Thatskat/btvs-angel-api) | Get episode, cast and crew data from Buffy the Vampire Slayer and Angel | No | Yes | Yes |
 | [Catalogopolis](https://api.catalogopolis.xyz/docs/) | Doctor Who API | No | Yes | Unknown |
