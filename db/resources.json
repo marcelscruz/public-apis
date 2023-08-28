@@ -1,5 +1,5 @@
 {
-"count": 1442,
+"count": 1443,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -12795,6 +12795,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.hko.gov.hk/en/abouthko/opendata_intro.htm",
+        "Category": "Weather"
+    },
+    {
+        "API": "Korea Meteorological Administration",
+        "Description": "Weather and climate data from KMA",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://apihub.kma.go.kr/",
         "Category": "Weather"
     },
     {
