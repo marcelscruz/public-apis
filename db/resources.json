@@ -1,5 +1,5 @@
 {
-"count": 1440,
+"count": 1439,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -260,15 +260,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/AniList/ApiV2-GraphQL-Docs",
-        "Category": "Anime"
-    },
-    {
-        "API": "AnimeChan",
-        "Description": "Anime quotes (over 10k+)",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://github.com/RocktimSaikia/anime-chan",
         "Category": "Anime"
     },
     {
