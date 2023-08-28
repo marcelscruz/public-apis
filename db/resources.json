@@ -1,5 +1,5 @@
 {
-"count": 1443,
+"count": 1441,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -11529,15 +11529,6 @@
         "Category": "Transportation"
     },
     {
-        "API": "Compare Flight Prices",
-        "Description": "API for comparing flight prices across platforms",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://rapidapi.com/obryan-software-obryan-software-default/api/compare-flight-prices/",
-        "Category": "Transportation"
-    },
-    {
         "API": "CTS",
         "Description": "CTS Realtime API",
         "Auth": "apiKey",
@@ -12291,15 +12282,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://bobs-burgers-api-ui.herokuapp.com",
-        "Category": "Video"
-    },
-    {
-        "API": "Breaking Bad",
-        "Description": "Breaking Bad API",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://breakingbadapi.com/documentation",
         "Category": "Video"
     },
     {
