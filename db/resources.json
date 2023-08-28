@@ -1,5 +1,5 @@
 {
-"count": 1441,
+"count": 1440,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -5102,15 +5102,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.chess.com/news/view/published-data-api",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "Chuck Norris Database",
-        "Description": "Jokes",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://www.icndb.com/api/",
         "Category": "Games & Comics"
     },
     {
