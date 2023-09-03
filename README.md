@@ -1556,6 +1556,7 @@
 ### Sports & Fitness
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [American Football Highlights API](https://highlightly.net/documentation/american-football/) | Real time American Football (NFL/NCAA) highlights | `apiKey`| Yes | Unknown |
 | [API-FOOTBALL](https://www.api-football.com/documentation-v3) | Get information about Football Leagues & Cups | `apiKey`| Yes | Yes |
 | [ApiMedic](https://apimedic.com/) | ApiMedic offers a medical symptom checker API primarily for patients | `apiKey`| Yes | Unknown |
 | [balldontlie](https://www.balldontlie.io) | Balldontlie provides access to stats data from the NBA | No | Yes | Yes |
