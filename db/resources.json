@@ -1,5 +1,5 @@
 {
-"count": 1442,
+"count": 1441,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -9026,15 +9026,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://favqs.com/api",
-        "Category": "Personality"
-    },
-    {
-        "API": "FOAAS",
-        "Description": "Fuck Off As A Service",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://www.foaas.com/",
         "Category": "Personality"
     },
     {
