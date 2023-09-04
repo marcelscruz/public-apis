@@ -1,5 +1,5 @@
 {
-"count": 1441,
+"count": 1442,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -10770,6 +10770,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://rapidapi.com/GiulianoCrescimbeni/api/football98/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "Football Highlights",
+        "Description": "Real time football (soccer) highlights from over +950 leagues",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://highlightly.net/documentation/football/",
         "Category": "Sports & Fitness"
     },
     {
