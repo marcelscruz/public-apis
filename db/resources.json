@@ -1,5 +1,5 @@
 {
-"count": 1440,
+"count": 1441,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -10672,6 +10672,15 @@
         "Cors": "yes",
         "Link": "https://developer.webex.com",
         "Category": "Social"
+    },
+    {
+        "API": "American Football Highlights API",
+        "Description": "Real time American Football (NFL/NCAA) highlights",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://highlightly.net/documentation/american-football/",
+        "Category": "Sports & Fitness"
     },
     {
         "API": "API-FOOTBALL",
