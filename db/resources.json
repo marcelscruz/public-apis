@@ -1,5 +1,5 @@
 {
-"count": 1429,
+"count": 1430,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -386,6 +386,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://waifu.im/docs",
+        "Category": "Anime"
+    },
+    {
+        "API": "Waifu.it",
+        "Description": "Free RESTful API for Anime Quotes, Facts, Emotes, Gifs, Nekos, Waifus and More!",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.waifu.it",
         "Category": "Anime"
     },
     {
