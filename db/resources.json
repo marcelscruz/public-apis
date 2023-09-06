@@ -1,5 +1,5 @@
 {
-"count": 1430,
+"count": 1423,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -2306,15 +2306,6 @@
         "Category": "Currency Exchange"
     },
     {
-        "API": "Currencylayer",
-        "Description": "Exchange rates and currency conversion",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://currencylayer.com/documentation",
-        "Category": "Currency Exchange"
-    },
-    {
         "API": "CurrencyScoop",
         "Description": "Real-time and historical currency rates JSON API",
         "Auth": "apiKey",
@@ -2357,15 +2348,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://exchangerate.host",
-        "Category": "Currency Exchange"
-    },
-    {
-        "API": "Exchangeratesapi.io",
-        "Description": "Exchange rates with currency conversion",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://exchangeratesapi.io",
         "Category": "Currency Exchange"
     },
     {
@@ -2465,15 +2447,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.smarty.com/docs/cloud/us-street-api",
-        "Category": "Data Validation"
-    },
-    {
-        "API": "vatlayer",
-        "Description": "VAT number validation",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://vatlayer.com/documentation",
         "Category": "Data Validation"
     },
     {
@@ -3395,15 +3368,6 @@
         "Category": "Development"
     },
     {
-        "API": "scrapestack",
-        "Description": "Real-time, Scalable Proxy & Web Scraping REST API",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://scrapestack.com/",
-        "Category": "Development"
-    },
-    {
         "API": "ScrapingAnt",
         "Description": "Headless Chrome scraping with a simple API",
         "Auth": "apiKey",
@@ -3455,15 +3419,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://color.serialif.com/",
-        "Category": "Development"
-    },
-    {
-        "API": "serpstack",
-        "Description": "Real-Time & Accurate Google Search Results API",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://serpstack.com/",
         "Category": "Development"
     },
     {
@@ -6248,15 +6203,6 @@
         "Category": "Geocoding"
     },
     {
-        "API": "ipapi.com",
-        "Description": "Real-time Geolocation & Reverse IP Lookup REST API",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://ipapi.com/",
-        "Category": "Geocoding"
-    },
-    {
         "API": "IPGEO",
         "Description": "Unlimited free IP Address API with useful information",
         "Auth": "",
@@ -6416,15 +6362,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://pinballmap.com/api/v1/docs",
-        "Category": "Geocoding"
-    },
-    {
-        "API": "positionstack",
-        "Description": "Forward & Reverse Batch Geocoding REST API",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://positionstack.com/",
         "Category": "Geocoding"
     },
     {
