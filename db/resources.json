@@ -1,5 +1,5 @@
 {
-"count": 1442,
+"count": 1429,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -1685,15 +1685,6 @@
         "Category": "Cryptocurrency"
     },
     {
-        "API": "apilayer coinlayer",
-        "Description": "Real-time Crypto Currency Exchange Rates",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://coinlayer.com",
-        "Category": "Cryptocurrency"
-    },
-    {
         "API": "Binance",
         "Description": "Exchange for Trading Cryptocurrencies based in China",
         "Auth": "apiKey",
@@ -2270,15 +2261,6 @@
         "Category": "Currency Exchange"
     },
     {
-        "API": "apilayer fixer.io",
-        "Description": "Exchange rates and currency conversion",
-        "Auth": "apiKey",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "https://fixer.io",
-        "Category": "Currency Exchange"
-    },
-    {
         "API": "Bank of Russia",
         "Description": "Exchange rates and currency conversion",
         "Auth": "",
@@ -2546,15 +2528,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://apiflash.com/",
-        "Category": "Development"
-    },
-    {
-        "API": "apilayer userstack",
-        "Description": "Secure User-Agent String Lookup JSON API",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://userstack.com/",
         "Category": "Development"
     },
     {
@@ -3719,15 +3692,6 @@
         "Category": "Documents & Productivity"
     },
     {
-        "API": "apilayer pdflayer",
-        "Description": "HTML/URL to PDF",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://pdflayer.com",
-        "Category": "Documents & Productivity"
-    },
-    {
         "API": "Asana",
         "Description": "Programmatic access to all data in your asana system",
         "Auth": "apiKey",
@@ -3959,15 +3923,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.abstractapi.com/email-verification-validation-api",
-        "Category": "Email"
-    },
-    {
-        "API": "apilayer mailboxlayer",
-        "Description": "Email address validation",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://mailboxlayer.com",
         "Category": "Email"
     },
     {
@@ -4418,15 +4373,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.alphavantage.co/",
-        "Category": "Finance"
-    },
-    {
-        "API": "apilayer marketstack",
-        "Description": "Real-Time, Intraday & Historical Market Data API",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://marketstack.com/",
         "Category": "Finance"
     },
     {
@@ -5903,15 +5849,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apiip.net/",
-        "Category": "Geocoding"
-    },
-    {
-        "API": "apilayer ipstack",
-        "Description": "Locate and identify website visitors by IP address",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://ipstack.com/",
         "Category": "Geocoding"
     },
     {
@@ -8336,15 +8273,6 @@
         "Category": "Music"
     },
     {
-        "API": "apilayer mediastack",
-        "Description": "Free, Simple REST API for Live News & Blog Articles",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://mediastack.com/",
-        "Category": "News"
-    },
-    {
         "API": "Associated Press",
         "Description": "Search for news and metadata from Associated Press",
         "Auth": "apiKey",
@@ -9191,15 +9119,6 @@
         "Category": "Phone"
     },
     {
-        "API": "apilayer numverify",
-        "Description": "Phone number validation",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://numverify.com",
-        "Category": "Phone"
-    },
-    {
         "API": "Cloudmersive Validate",
         "Description": "Validate international phone numbers",
         "Auth": "apiKey",
@@ -9234,15 +9153,6 @@
         "Cors": "yes",
         "Link": "https://veriphone.io",
         "Category": "Phone"
-    },
-    {
-        "API": "apilayer screenshotlayer",
-        "Description": "URL 2 Image",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://screenshotlayer.com",
-        "Category": "Photography"
     },
     {
         "API": "APITemplate.io",
@@ -11214,15 +11124,6 @@
         "Category": "Test Data"
     },
     {
-        "API": "apilayer languagelayer",
-        "Description": "Language Detection JSON API supporting 173 languages",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://languagelayer.com/",
-        "Category": "Text Analysis"
-    },
-    {
         "API": "Aylien Text Analysis",
         "Description": "A collection of information retrieval and natural language APIs",
         "Auth": "apiKey",
@@ -11454,15 +11355,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.amadeus.com/self-service",
-        "Category": "Transportation"
-    },
-    {
-        "API": "apilayer aviationstack",
-        "Description": "Real-time Flight Status & Global Aviation Data API",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://aviationstack.com/",
         "Category": "Transportation"
     },
     {
@@ -12705,15 +12597,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://opendata.aemet.es/centrodedescargas/inicio",
-        "Category": "Weather"
-    },
-    {
-        "API": "apilayer weatherstack",
-        "Description": "Real-Time & Historical World Weather Data API",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://weatherstack.com/",
         "Category": "Weather"
     },
     {
