@@ -1,5 +1,5 @@
 {
-"count": 1423,
+"count": 1424,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3797,6 +3797,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://developers.pandadoc.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "PDFEndpoint",
+        "Description": "HTML and URL to PDF API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://pdfendpoint.com",
         "Category": "Documents & Productivity"
     },
     {
