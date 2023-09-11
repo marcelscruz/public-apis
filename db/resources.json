@@ -1,5 +1,5 @@
 {
-"count": 1425,
+"count": 1422,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -269,15 +269,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/AniList/ApiV2-GraphQL-Docs",
-        "Category": "Anime"
-    },
-    {
-        "API": "AnimeFacts",
-        "Description": "Anime Facts (over 100+)",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://chandan-02.github.io/anime-facts-rest-api/",
         "Category": "Anime"
     },
     {
@@ -1449,24 +1440,6 @@
         "Cors": "unknown",
         "Link": "https://www.gov.uk/bank-holidays.json",
         "Category": "Calendar"
-    },
-    {
-        "API": "AnonFiles",
-        "Description": "Upload and share your files anonymously",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://anonfiles.com/docs/api",
-        "Category": "Cloud Storage & File Sharing"
-    },
-    {
-        "API": "BayFiles",
-        "Description": "Upload and share your files",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://bayfiles.com/docs/api",
-        "Category": "Cloud Storage & File Sharing"
     },
     {
         "API": "Box",
