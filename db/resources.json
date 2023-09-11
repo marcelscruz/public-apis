@@ -1,5 +1,5 @@
 {
-"count": 1422,
+"count": 1421,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -8918,15 +8918,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://icanhazdadjoke.com/api",
-        "Category": "Personality"
-    },
-    {
-        "API": "Inspiration",
-        "Description": "Motivational and Inspirational quotes",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://inspiration.goprogram.ai/docs/",
         "Category": "Personality"
     },
     {
