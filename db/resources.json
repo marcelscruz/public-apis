@@ -1,5 +1,5 @@
 {
-"count": 1424,
+"count": 1425,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -305,6 +305,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://danbooru.donmai.us/wiki_pages/help:api",
+        "Category": "Anime"
+    },
+    {
+        "API": "Dattebayo API",
+        "Description": "Dattebayo: Your Ultimate Naruto Anime API",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://api-dattebayo.vercel.app/",
         "Category": "Anime"
     },
     {
