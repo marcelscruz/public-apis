@@ -1,5 +1,5 @@
 {
-"count": 1421,
+"count": 1422,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -350,6 +350,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://myanimelist.net/clubs.php?cid=13727",
+        "Category": "Anime"
+    },
+    {
+        "API": "Nekos API",
+        "Description": "Anime images with lots of metadata",
+        "Auth": "OAuth",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://nekosapi.com/docs",
         "Category": "Anime"
     },
     {
@@ -5830,7 +5839,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://www.bigdatacloud.com/packages/ip-geolocation",
+        "Link": "https://www.bigdatacloud.com/ip-geolocation",
         "Category": "Geocoding"
     },
     {
@@ -5839,7 +5848,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://www.bigdatacloud.com/packages/reverse-geocoding",
+        "Link": "https://www.bigdatacloud.com/reverse-geocoding",
         "Category": "Geocoding"
     },
     {
@@ -5848,7 +5857,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://www.bigdatacloud.com/packages/phone-email-verification",
+        "Link": "https://www.bigdatacloud.com/phone-email-verification",
         "Category": "Geocoding"
     },
     {
@@ -5857,7 +5866,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://www.bigdatacloud.com/packages/network-engineering",
+        "Link": "https://www.bigdatacloud.com/network-engineering",
         "Category": "Geocoding"
     },
     {
@@ -5866,7 +5875,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://www.bigdatacloud.com/packages/free-api",
+        "Link": "https://www.bigdatacloud.com//free-api",
         "Category": "Geocoding"
     },
     {
