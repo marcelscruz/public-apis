@@ -1,5 +1,5 @@
 {
-"count": 1422,
+"count": 1423,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -1430,6 +1430,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://isdayoff.ru",
+        "Category": "Calendar"
+    },
+    {
+        "API": "Orthodox Church Calendar",
+        "Description": "Orthodox Church calendar",
+        "Auth": "",
+        "HTTPS": false,
+        "Cors": "unknown",
+        "Link": "http://orthodox-calendar.org/swagger-ui/index.html?urls.primaryName=public#/public-controller/getData",
         "Category": "Calendar"
     },
     {
