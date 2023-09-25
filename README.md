@@ -1345,7 +1345,7 @@
 | [Bruzu](https://docs.bruzu.com) | Image generation with query string | `apiKey` | Yes | Yes |
 | [CheetahO](https://cheetaho.com/docs/getting-started/) | Photo optimization and resize | `apiKey` | Yes | Unknown |
 | [Dagpi](https://dagpi.xyz) | Image manipulation and processing | `apiKey` | Yes | Unknown |
-| [Duply](https://duply.co/docs#getting-started-api) | Generate, Edit, Scale and Manage Images and Videos Smarter & Faster | `apiKey` | Yes | Yes |
+| [Duply](https://app.duply.co/docs) | Generate, Edit, Scale and Manage Images and Videos Smarter & Faster | `apiKey` | Yes | Yes |
 | [DynaPictures](https://dynapictures.com/docs/) | Generate Hundreds of Personalized Images in Minutes | `apiKey` | Yes | Yes |
 | [Flickr](https://www.flickr.com/services/api/) | Flickr Services | `OAuth`| Yes | Unknown |
 | [Getty Images](http://developers.gettyimages.com/en/) | Build applications using the world's most powerful imagery | `OAuth`| Yes | Unknown |
