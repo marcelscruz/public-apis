@@ -1,5 +1,5 @@
 {
-"count": 1423,
+"count": 1422,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -2663,15 +2663,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/burhanuday/cors-proxy",
-        "Category": "Development"
-    },
-    {
-        "API": "CountAPI",
-        "Description": "Free and simple counting service. You can use it to track page hits and specific events",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://countapi.xyz",
         "Category": "Development"
     },
     {
