@@ -38,21 +38,21 @@
         "Category": "Animals"
     },
     {
-        "API": "Dog Facts",
-        "Description": "Random facts of Dogs",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://kinduff.github.io/dog-api/",
-        "Category": "Animals"
-    },
-    {
-        "API": "Dogs",
-        "Description": "Based on the Stanford Dogs Dataset",
+        "API": "Dog Pics",
+        "Description": "Pictures of dogs based on the Stanford Dogs Dataset",
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://dog.ceo/dog-api/",
+        "Category": "Animals"
+    },
+    {
+        "API": "Dogs",
+        "Description": "Random facts and breed information about dogs",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://dogapi.dog/docs/api-v2",
         "Category": "Animals"
     },
     {
