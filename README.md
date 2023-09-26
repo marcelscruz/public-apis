@@ -118,8 +118,8 @@
 | [Cat Facts](https://alexwohlbruck.github.io/cat-facts/) | Daily cat facts | No | Yes | No |
 | [Cataas](https://cataas.com/) | Cat as a service (cats pictures and gifs) | No | Yes | No |
 | [Cats](https://developers.thecatapi.com/) | Pictures of cats from Tumblr | `apiKey` | Yes | No |
-| [Dog Facts](https://kinduff.github.io/dog-api/) | Random facts of Dogs | No | Yes | Yes |
-| [Dogs](https://dog.ceo/dog-api/) | Based on the Stanford Dogs Dataset | No | Yes | Yes |
+| [Dog Pics](https://dog.ceo/dog-api/) | Pictures of dogs based on the Stanford Dogs Dataset | No | Yes | Yes |
+| [Dogs](https://dogapi.dog/docs/api-v2) | Random facts and breed information about dogs | No | Yes | Yes |
 | [eBird](https://documenter.getpostman.com/view/664302/S1ENwy59) | Retrieve recent or notable birding observations within a region | `apiKey` | Yes | No |
 | [FishWatch](https://www.fishwatch.gov/developers) | Information and pictures about individual fish species | No | Yes | Yes |
 | [Foxes](https://foxes.cool) | Random fox images with multiple different tags | No | Yes | Yes |
