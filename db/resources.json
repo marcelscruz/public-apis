@@ -2280,7 +2280,7 @@
     },
     {
         "API": "Currencyapi",
-        "Description": "Currency Conversion API and crpyto currency prices, updated minutely",
+        "Description": "Currency Conversion API and cryptocurrency prices, updated minutely",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
@@ -3135,7 +3135,7 @@
     },
     {
         "API": "npm Registry",
-        "Description": "Query information about your favorite Node.js libraries programatically",
+        "Description": "Query information about your favorite Node.js libraries programmatically",
         "Auth": "",
         "HTTPS": true,
         "Cors": "unknown",
@@ -5115,7 +5115,7 @@
     },
     {
         "API": "Dota 2",
-        "Description": "Provides information about Player stats , Match stats, Rankings for Dota 2",
+        "Description": "Provides information about Player stats, Match stats, Rankings for Dota 2",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
@@ -5862,7 +5862,7 @@
     },
     {
         "API": "BigDataCloud's Network Engineering API",
-        "Description": "Get detailed ASN and Network looup of an IP address.",
+        "Description": "Get detailed ASN and Network lookup of an IP address.",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
@@ -6420,7 +6420,7 @@
     },
     {
         "API": "Rwanda Locations",
-        "Description": "Rwanda Provences, Districts, Cities, Capital City, Sector, cells, villages and streets",
+        "Description": "Rwanda Provinces, Districts, Cities, Capital City, Sector, cells, villages and streets",
         "Auth": "",
         "HTTPS": true,
         "Cors": "unknown",
@@ -8670,7 +8670,7 @@
     },
     {
         "API": "Umeå Open Data",
-        "Description": "Open data of the city Umeå in northen Sweden",
+        "Description": "Open data of the city Umeå in northern Sweden",
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
@@ -9660,7 +9660,7 @@
     },
     {
         "API": "Times Adder",
-        "Description": "With this API you can add each of the times introduced in the array sended",
+        "Description": "With this API you can add each of the times introduced in the array sent",
         "Auth": "",
         "HTTPS": true,
         "Cors": "no",
