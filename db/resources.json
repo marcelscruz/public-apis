@@ -2362,7 +2362,7 @@
     {
         "API": "FreeForexAPI",
         "Description": "Real-time foreign exchange rates for major currency pairs",
-        "Auth": "",
+        "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://freeforexapi.com/Home/Api",
