@@ -1,5 +1,5 @@
 {
-"count": 1423,
+"count": 1424,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -7892,6 +7892,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://nlpcloud.io",
+        "Category": "Machine Learning"
+    },
+    {
+        "API": "OpenAI",
+        "Description": "Use AI models such as ChatGPT or DALL-E to experience the capabilities of AI",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://openai.com/blog/openai-api",
         "Category": "Machine Learning"
     },
     {
