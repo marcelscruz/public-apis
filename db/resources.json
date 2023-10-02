@@ -1,5 +1,5 @@
 {
-"count": 1424,
+"count": 1425,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -10572,6 +10572,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.balldontlie.io",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "Basketball Highlights API",
+        "Description": "Real time basketball video highlights",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://highlightly.net/documentation/basketball/",
         "Category": "Sports & Fitness"
     },
     {
