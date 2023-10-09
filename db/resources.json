@@ -1,5 +1,5 @@
 {
-"count": 1427,
+"count": 1428,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -4031,6 +4031,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.sendinblue.com/docs",
+        "Category": "Email"
+    },
+    {
+        "API": "Valid Email",
+        "Description": "Verify email addresses for spam and delivery",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://validemail.io/",
         "Category": "Email"
     },
     {
