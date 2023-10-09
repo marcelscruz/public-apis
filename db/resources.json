@@ -1,5 +1,5 @@
 {
-"count": 1426,
+"count": 1427,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -2366,6 +2366,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://freeforexapi.com/Home/Api",
+        "Category": "Currency Exchange"
+    },
+    {
+        "API": "FxRatesAPI",
+        "Description": "Real-time exchange rates, historical rates and currency conversion",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://fxratesapi.com/",
         "Category": "Currency Exchange"
     },
     {
