@@ -1,5 +1,5 @@
 {
-"count": 1425,
+"count": 1426,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -7802,6 +7802,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://cloud.google.com/dialogflow/docs/",
+        "Category": "Machine Learning"
+    },
+    {
+        "API": "Eden",
+        "Description": "Get all AI models in one place, e.g. OpenAI, Google and lots more!",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.edenai.co/",
         "Category": "Machine Learning"
     },
     {
