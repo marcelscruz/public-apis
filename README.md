@@ -449,6 +449,7 @@
 | [Exchangerate.host](https://exchangerate.host) | Free foreign exchange & crypto rates API | No | Yes | Unknown |
 | [Frankfurter](https://www.frankfurter.app/docs) | Exchange rates, currency conversion and time series | No | Yes | Yes |
 | [FreeForexAPI](https://freeforexapi.com/Home/Api) | Real-time foreign exchange rates for major currency pairs | `apiKey` | Yes | No |
+| [FxRatesAPI](https://fxratesapi.com/) | Real-time exchange rates, historical rates and currency conversion | No | Yes | No |
 | [MetalpriceAPI](https://metalpriceapi.com) | Real-time and historical exchange rates and currency conversion API | `apiKey` | Yes | Unknown |
 | [National Bank of Poland](http://api.nbp.pl/en.html) | A collection of currency exchange rates (data in XML and JSON) | No | Yes | Yes |
 | [VATComply.com](https://www.vatcomply.com/documentation) | Exchange rates, geolocation and VAT number validation | No | Yes | Yes |
