@@ -1,5 +1,5 @@
 {
-"count": 1428,
+"count": 1429,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3500,6 +3500,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://tyk.io/open-source/",
+        "Category": "Development"
+    },
+    {
+        "API": "YADG",
+        "Description": "An API that scrapes music release data and renders it using different templates",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://yadg.cc/api/v2/",
         "Category": "Development"
     },
     {
