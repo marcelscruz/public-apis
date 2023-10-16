@@ -1,5 +1,5 @@
 {
-"count": 1429,
+"count": 1430,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -4103,6 +4103,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://mememaker.github.io/API/",
+        "Category": "Entertainment"
+    },
+    {
+        "API": "Official Joke",
+        "Description": "API for random and programming jokes",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://official-joke-api.appspot.com/",
         "Category": "Entertainment"
     },
     {
