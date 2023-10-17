@@ -1,5 +1,5 @@
 {
-"count": 1428,
+"count": 1430,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3503,6 +3503,15 @@
         "Category": "Development"
     },
     {
+        "API": "YADG",
+        "Description": "An API that scrapes music release data and renders it using different templates",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://yadg.cc/api/v2/",
+        "Category": "Development"
+    },
+    {
         "API": "Wandbox",
         "Description": "Code compiler supporting 35+ languages mentioned at wandbox.org",
         "Auth": "",
@@ -4094,6 +4103,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://mememaker.github.io/API/",
+        "Category": "Entertainment"
+    },
+    {
+        "API": "Official Joke",
+        "Description": "API for random and programming jokes",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://official-joke-api.appspot.com/",
         "Category": "Entertainment"
     },
     {
