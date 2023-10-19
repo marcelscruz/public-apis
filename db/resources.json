@@ -1,5 +1,5 @@
 {
-"count": 1430,
+"count": 1431,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -2177,6 +2177,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.okex.com/docs/",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "OpenSea",
+        "Description": "The Largest NFT Marketplace",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://docs.opensea.io/reference/api-overview",
         "Category": "Cryptocurrency"
     },
     {
