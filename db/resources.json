@@ -1,5 +1,5 @@
 {
-"count": 1431,
+"count": 1432,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3649,6 +3649,15 @@
     {
         "API": "Words",
         "Description": "Definitions and synonyms for more than 150,000 words",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.wordsapi.com/docs/",
+        "Category": "Dictionaries"
+    },
+    {
+        "API": "WordsAPI",
+        "Description": "An API for the English Language. Find definitions, related words, and more",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
