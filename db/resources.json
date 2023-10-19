@@ -1,5 +1,5 @@
 {
-"count": 1431,
+"count": 1430,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -7424,15 +7424,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://covidtracking.com/data/api/version-2",
-        "Category": "Health"
-    },
-    {
-        "API": "Covid-19",
-        "Description": "Covid 19 spread, infection and recovery",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://covid19api.com/",
         "Category": "Health"
     },
     {
