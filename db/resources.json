@@ -1,5 +1,5 @@
 {
-"count": 1429,
+"count": 1428,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -7640,15 +7640,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://open.fda.gov",
-        "Category": "Health"
-    },
-    {
-        "API": "Orion Health",
-        "Description": "Medical platform which allows the development of applications for different healthcare scenarios",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://developer.orionhealth.io/",
         "Category": "Health"
     },
     {
