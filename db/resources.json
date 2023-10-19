@@ -1,5 +1,5 @@
 {
-"count": 1433,
+"count": 1434,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -4139,6 +4139,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://official-joke-api.appspot.com/",
+        "Category": "Entertainment"
+    },
+    {
+        "API": "Puns",
+        "Description": "Puns and pun based memes. REST API",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://punapi.rest/",
         "Category": "Entertainment"
     },
     {
