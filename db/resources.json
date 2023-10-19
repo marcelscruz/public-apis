@@ -1,5 +1,5 @@
 {
-"count": 1432,
+"count": 1433,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3050,6 +3050,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://jsonbin.io",
+        "Category": "Development"
+    },
+    {
+        "API": "JSONsilo.com",
+        "Description": "Hassle-free JSON hosting. Convert your JSON file to an API in minutes at no cost.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://jsonsilo.com",
         "Category": "Development"
     },
     {
