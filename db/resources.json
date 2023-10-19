@@ -590,7 +590,7 @@
         "API": "ColourLovers",
         "Description": "Get various patterns, palettes and images",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://www.colourlovers.com/api",
         "Category": "Art & Design"
