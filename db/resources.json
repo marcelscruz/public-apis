@@ -1,5 +1,5 @@
 {
-"count": 1428,
+"count": 1427,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -7397,15 +7397,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.cms.gov/provider-data/",
-        "Category": "Health"
-    },
-    {
-        "API": "Coronavirus",
-        "Description": "HTTP API for Latest Covid-19 Data",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme",
         "Category": "Health"
     },
     {
