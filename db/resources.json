@@ -1,5 +1,5 @@
 {
-"count": 1426,
+"count": 1427,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -764,6 +764,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://otp.dev/en/docs/",
+        "Category": "Authentication & Authorization"
+    },
+    {
+        "API": "Kinde",
+        "Description": "Authentication for modern applications. Integrates in minutes and free up to 7,500 MAU",
+        "Auth": "OAuth",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://kinde.com",
         "Category": "Authentication & Authorization"
     },
     {
