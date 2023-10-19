@@ -225,6 +225,7 @@
 | [Clerk](https://clerk.com) | Drop-in React components for authentication and authorization | `apiKey` | Yes | Yes |
 | [Corbado](https://corbado.com) | Passkey-first authentication | `apiKey` | Yes | Yes |
 | [GetOTP](https://otp.dev/en/docs/) | Implement OTP flow quickly | `apiKey` | Yes | No |
+| [Kinde](https://kinde.com) | Authentication for modern applications. Integrates in minutes and free up to 7,500 MAU | `OAuth` | Yes | No |
 | [Micro User Service](https://m3o.com/user) | User management and authentication | `apiKey` | Yes | No |
 | [MojoAuth](https://mojoauth.com) | Secure and modern passwordless authentication platform | `apiKey` | Yes | Yes |
 | [Stytch](https://stytch.com/) | User infrastructure for modern applications | `apiKey` | Yes | No |
