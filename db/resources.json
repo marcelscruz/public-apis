@@ -1,5 +1,5 @@
 {
-"count": 1430,
+"count": 1429,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -182,15 +182,6 @@
         "Category": "Animals"
     },
     {
-        "API": "RandomBigCat",
-        "Description": "Random pictures of big cats",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://randombig.cat/roar.json",
-        "Category": "Animals"
-    },
-    {
         "API": "RandomDog",
         "Description": "Random pictures of dogs",
         "Auth": "",
@@ -278,15 +269,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.animenewsnetwork.com/encyclopedia/api.php",
-        "Category": "Anime"
-    },
-    {
-        "API": "Catboy",
-        "Description": "Neko images, funny GIFs & more",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://catboys.com/api",
         "Category": "Anime"
     },
     {
@@ -590,7 +572,7 @@
         "API": "ColourLovers",
         "Description": "Get various patterns, palettes and images",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://www.colourlovers.com/api",
         "Category": "Art & Design"
@@ -2180,6 +2162,15 @@
         "Category": "Cryptocurrency"
     },
     {
+        "API": "OpenSea",
+        "Description": "The Largest NFT Marketplace",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://docs.opensea.io/reference/api-overview",
+        "Category": "Cryptocurrency"
+    },
+    {
         "API": "Poloniex",
         "Description": "US based digital asset exchange",
         "Auth": "apiKey",
@@ -3044,6 +3035,15 @@
         "Category": "Development"
     },
     {
+        "API": "JSONsilo.com",
+        "Description": "Hassle-free JSON hosting. Convert your JSON file to an API in minutes at no cost.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://jsonsilo.com",
+        "Category": "Development"
+    },
+    {
         "API": "Kroki",
         "Description": "Creates diagrams from textual descriptions",
         "Auth": "",
@@ -3647,6 +3647,15 @@
         "Category": "Dictionaries"
     },
     {
+        "API": "WordsAPI",
+        "Description": "An API for the English Language. Find definitions, related words, and more",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.wordsapi.com/docs/",
+        "Category": "Dictionaries"
+    },
+    {
         "API": "Airtable",
         "Description": "Integrate with Airtable",
         "Auth": "apiKey",
@@ -4112,6 +4121,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://official-joke-api.appspot.com/",
+        "Category": "Entertainment"
+    },
+    {
+        "API": "Puns",
+        "Description": "Puns and pun based memes. REST API",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://punapi.rest/",
         "Category": "Entertainment"
     },
     {
@@ -7410,15 +7428,6 @@
     },
     {
         "API": "Covid-19",
-        "Description": "Covid 19 spread, infection and recovery",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://covid19api.com/",
-        "Category": "Health"
-    },
-    {
-        "API": "Covid-19",
         "Description": "Covid 19 cases, deaths and recovery per country",
         "Auth": "",
         "HTTPS": true,
@@ -7640,15 +7649,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.orionhealth.io/",
-        "Category": "Health"
-    },
-    {
-        "API": "Quarantine",
-        "Description": "Coronavirus API with free COVID-19 live updates",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://quarantine.country/coronavirus/api/",
         "Category": "Health"
     },
     {
@@ -8675,15 +8675,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.opensanctions.org/docs/api/",
-        "Category": "Open Data"
-    },
-    {
-        "API": "PeakMetrics",
-        "Description": "News articles and public datasets",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news",
         "Category": "Open Data"
     },
     {

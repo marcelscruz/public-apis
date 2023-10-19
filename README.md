@@ -134,7 +134,6 @@
 | [PlaceDog](https://place.dog) | Placeholder Dog pictures | No | Yes | Yes |
 | [PlaceKitten](https://placekitten.com/) | Placeholder Kitten pictures | No | Yes | Yes |
 | [Quokkas](https://quokka.pics/) | Random pictures of quokkas | No | Yes | Yes |
-| [RandomBigCat](https://randombig.cat/roar.json) | Random pictures of big cats | No | Yes | Yes |
 | [RandomDog](https://random.dog/woof.json) | Random pictures of dogs | No | Yes | Yes |
 | [RandomDuck](https://random-d.uk/api) | Random pictures of ducks | No | Yes | No |
 | [RandomFox](https://randomfox.ca/floof/) | Random pictures of foxes | No | Yes | No |
@@ -151,7 +150,6 @@
 | [AniDB](https://wiki.anidb.net/HTTP_API_Definition) | Anime Database | `apiKey` | No | Yes |
 | [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) | Anime discovery & tracking | `OAuth`| Yes | Unknown |
 | [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news | No | Yes | Yes |
-| [Catboy](https://catboys.com/api) | Neko images, funny GIFs & more | No | Yes | Yes |
 | [Danbooru Anime](https://danbooru.donmai.us/wiki_pages/help:api) | Thousands of anime artist database to find good anime art | `apiKey` | Yes | Yes |
 | [Dattebayo API](https://api-dattebayo.vercel.app/) | Dattebayo: Your Ultimate Naruto Anime API | No | Yes | No |
 | [Jikan](https://jikan.moe) | Unofficial MyAnimeList API | No | Yes | Yes |
@@ -197,7 +195,7 @@
 | [Améthyste](https://api.amethyste.moe/) | Generate images for Discord users | `apiKey` | Yes | Unknown |
 | [Art Institute of Chicago](https://api.artic.edu/docs/) | Art | No | Yes | Yes |
 | [Colormind](http://colormind.io/api-access/) | Color scheme generator | No | No | Unknown |
-| [ColourLovers](http://www.colourlovers.com/api) | Get various patterns, palettes and images | No | No | Unknown |
+| [ColourLovers](http://www.colourlovers.com/api) | Get various patterns, palettes and images | No | Yes | Unknown |
 | [Cooper Hewitt](https://collection.cooperhewitt.org/api) | Smithsonian Design Museum | `apiKey` | Yes | Unknown |
 | [Dribbble](https://developer.dribbble.com) | Discover the world’s top designers & creatives | `OAuth`| Yes | Unknown |
 | [EmojiHub](https://github.com/cheatsnake/emojihub) | Get emojis by categories and groups | No | Yes | Yes |
@@ -422,6 +420,7 @@
 | [Nomics](https://nomics.com/docs/) | Historical and realtime cryptocurrency prices and market data | `apiKey` | Yes | Yes |
 | [NovaDax](https://doc.novadax.com/en-US/#introduction) | NovaDAX API to access all market data, trading management endpoints | `apiKey` | Yes | Unknown |
 | [OKEx](https://www.okex.com/docs/) | Cryptocurrency exchange based in Seychelles | `apiKey` | Yes | Unknown |
+| [OpenSea](https://docs.opensea.io/reference/api-overview) | The Largest NFT Marketplace | `apiKey` | Yes | No |
 | [Poloniex](https://docs.poloniex.com) | US based digital asset exchange | `apiKey` | Yes | Unknown |
 | [Solana JSON RPC](https://docs.solana.com/developing/clients/jsonrpc-api) | Provides various endpoints to interact with the Solana Blockchain | No | Yes | Unknown |
 | [Technical Analysis](https://technical-analysis-api.com) | Cryptocurrency prices and technical analysis | `apiKey` | Yes | No |
@@ -536,6 +535,7 @@
 | [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) | Package info and download stats on jsDelivr CDN | No | Yes | Yes |
 | [JSON 2 JSONP](https://json2jsonp.com/) | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript | No | Yes | Unknown |
 | [JSONbin.io](https://jsonbin.io) | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps | `apiKey`| Yes | Yes |
+| [JSONsilo.com](https://jsonsilo.com) | Hassle-free JSON hosting. Convert your JSON file to an API in minutes at no cost. | `apiKey` | Yes | Yes | No |
 | [Kroki](https://kroki.io) | Creates diagrams from textual descriptions | No | Yes | Yes |
 | [License-API](https://github.com/cmccandless/license-api/blob/master/README.md) | Unofficial REST API for choosealicense.com | No | Yes | No |
 | [Lua Decompiler](https://lua-decompiler.ferib.dev/) | Online Lua 5.1 Decompiler | No | Yes | Yes |
@@ -609,6 +609,7 @@
 | [Wiktionary](https://en.wiktionary.org/w/api.php) | Collaborative dictionary data | No | Yes | Yes |
 | [Wordnik](https://developer.wordnik.com) | Dictionary Data | `apiKey` | Yes | Unknown |
 | [Words](https://www.wordsapi.com/docs/) | Definitions and synonyms for more than 150,000 words | `apiKey` | Yes | Unknown |
+| [WordsAPI](https://www.wordsapi.com/docs/) | An API for the English Language. Find definitions, related words, and more | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -679,6 +680,7 @@
 | [Imgflip](https://imgflip.com/api) | Gets an array of popular memes | No | Yes | Unknown |
 | [Meme Maker](https://mememaker.github.io/API/) | REST API for create your own meme | No | Yes | Unknown |
 | [Official Joke](https://official-joke-api.appspot.com/) | API for random and programming jokes | No | Yes | Unknown |
+| [Puns](https://punapi.rest/) | Puns and pun based memes. REST API | No | Yes | Yes |
 | [Random Dad Joke](https://icanhazdadjoke.com/) | API for largest selection of dad jokes on the internet | No | Yes | Unknown |
 | [Random Useless Facts](https://uselessfacts.jsph.pl/) | Get useless, but true facts | No | Yes | Unknown |
 | [Techy](https://techy-api.vercel.app/) | JSON and Plaintext API for tech-savvy sounding phrases | No | Yes | Unknown |
@@ -1093,7 +1095,6 @@
 | [Coronavirus](https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme) | HTTP API for Latest Covid-19 Data | No | Yes | Unknown |
 | [Coronavirus in the UK](https://coronavirus.data.gov.uk/details/developers-guide) | UK Government coronavirus data, including deaths and cases by region | No | Yes | Unknown |
 | [Covid Tracking Project](https://covidtracking.com/data/api/version-2) | Covid-19 data for the US | No | Yes | No |
-| [Covid-19](https://covid19api.com/) | Covid 19 spread, infection and recovery | No | Yes | Yes |
 | [Covid-19](https://github.com/M-Media-Group/Covid-19-API) | Covid 19 cases, deaths and recovery per country | No | Yes | Yes |
 | [Covid-19 Datenhub](https://npgeo-corona-npgeo-de.hub.arcgis.com) | Maps, datasets, applications and more in the context of COVID-19 | No | Yes | Unknown |
 | [Covid-19 Government Response](https://covidtracker.bsg.ox.ac.uk) | Government measures tracker to fight against the Covid-19 pandemic | No | Yes | Yes |
@@ -1118,7 +1119,6 @@
 | [Open Data NHS Scotland](https://www.opendata.nhs.scot) | Medical reference data and statistics by Public Health Scotland | No | Yes | Unknown |
 | [Open Disease](https://disease.sh/) | API for Current cases and more stuff about COVID-19 and Influenza | No | Yes | Yes |
 | [openFDA](https://open.fda.gov) | Public FDA data about drugs, devices and foods | `apiKey` | Yes | Unknown |
-| [Quarantine](https://quarantine.country/coronavirus/api/) | Coronavirus API with free COVID-19 live updates | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
@@ -1263,7 +1263,6 @@
 | [openAFRICA](https://africaopendata.org/) | Large datasets repository of African open data | No | Yes | Unknown |
 | [OpenCorporates](http://api.opencorporates.com/documentation/API-Reference) | Data on corporate entities and directors in many countries | `apiKey` | Yes | Unknown |
 | [OpenSanctions](https://www.opensanctions.org/docs/api/) | Data on international sanctions, crime and politically exposed persons | No | Yes | Yes |
-| [PeakMetrics](https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news) | News articles and public datasets | `apiKey` | Yes | Unknown |
 | [Recreation Information Database](https://ridb.recreation.gov/) | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US) | `apiKey` | Yes | Unknown |
 | [Scoop.it](http://www.scoop.it/dev) | Content Curation Service | `apiKey` | No | Unknown |
 | [Socrata](https://dev.socrata.com/) | Access to Open Data from Governments, Non-profits and NGOs around the world | `OAuth`| Yes | Yes |
