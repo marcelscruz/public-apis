@@ -1,5 +1,5 @@
 {
-"count": 1430,
+"count": 1429,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -7649,15 +7649,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.orionhealth.io/",
-        "Category": "Health"
-    },
-    {
-        "API": "Quarantine",
-        "Description": "Coronavirus API with free COVID-19 live updates",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://quarantine.country/coronavirus/api/",
         "Category": "Health"
     },
     {
