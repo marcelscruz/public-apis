@@ -1,5 +1,5 @@
 {
-"count": 1427,
+"count": 1426,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -7865,15 +7865,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://rapidapi.com/user/inferdo",
-        "Category": "Machine Learning"
-    },
-    {
-        "API": "IPS Online",
-        "Description": "Face and License Plate Anonymization",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.identity.ps/docs",
         "Category": "Machine Learning"
     },
     {
