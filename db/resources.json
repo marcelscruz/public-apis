@@ -9445,7 +9445,7 @@
     {
         "API": "arcsecond.io",
         "Description": "Multiple astronomy data sources",
-        "Auth": "",
+        "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.arcsecond.io/",
