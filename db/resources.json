@@ -1,5 +1,5 @@
 {
-"count": 1427,
+"count": 1428,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3275,6 +3275,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://goqr.me/api/",
+        "Category": "Development"
+    },
+    {
+        "API": "QR code Generator",
+        "Description": "Static and Dynamic QR code generator with custom and unique QR code design",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://docs.openqr.io/",
         "Category": "Development"
     },
     {
