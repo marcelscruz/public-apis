@@ -1,5 +1,5 @@
 {
-"count": 1428,
+"count": 1427,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -11013,15 +11013,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.mockaroo.com/docs",
-        "Category": "Test Data"
-    },
-    {
-        "API": "Mockyard",
-        "Description": "Realistic mock data for testing and prototyping",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://mockyard.in/",
         "Category": "Test Data"
     },
     {
