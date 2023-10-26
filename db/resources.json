@@ -1,5 +1,5 @@
 {
-"count": 1428,
+"count": 1429,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -6263,6 +6263,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.ip2location.com/web-service/ip2location",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "IP2Location.io",
+        "Description": "Bundle of Free IP geolocation and WHOIS API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.ip2location.io",
         "Category": "Geocoding"
     },
     {
