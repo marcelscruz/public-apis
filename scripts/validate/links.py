@@ -16,11 +16,7 @@ def find_links_in_text(text: str) -> List[str]:
 
     raw_links = re.findall(link_pattern, text)
 
-    links = [
-        str(raw_link[0]) for raw_link in raw_links
-    ]
-
-    return links
+    return [str(raw_link[0]) for raw_link in raw_links]
 
 
 def find_links_in_file(filename: str) -> List[str]:
@@ -33,9 +29,7 @@ def find_links_in_file(filename: str) -> List[str]:
             index_section = 0
         content = readme[index_section:]
 
-    links = find_links_in_text(content)
-
-    return links
+    return find_links_in_text(content)
 
 
 def check_duplicate_links(links: List[str]) -> Tuple[bool, List]:
@@ -46,19 +40,14 @@ def check_duplicate_links(links: List[str]) -> Tuple[bool, List]:
 
     seen = {}
     duplicates = []
-    has_duplicate = False
-
     for link in links:
         link = link.rstrip('/')
         if link not in seen:
             seen[link] = 1
-        else:
-            if seen[link] == 1:
-                duplicates.append(link)
+        elif seen[link] == 1:
+            duplicates.append(link)
 
-    if duplicates:
-        has_duplicate = True
-
+    has_duplicate = bool(duplicates)
     return (has_duplicate, duplicates)
 
 
@@ -115,30 +104,30 @@ def has_cloudflare_protection(resp: Response) -> bool:
 
     code = resp.status_code
     server = resp.headers.get('Server') or resp.headers.get('server')
-    cloudflare_flags = [
-        '403 Forbidden',
-        'cloudflare',
-        'Cloudflare',
-        'Security check',
-        'Please Wait... | Cloudflare',
-        'We are checking your browser...',
-        'Please stand by, while we are checking your browser...',
-        'Checking your browser before accessing',
-        'This process is automatic.',
-        'Your browser will redirect to your requested content shortly.',
-        'Please allow up to 5 seconds',
-        'DDoS protection by',
-        'Ray ID:',
-        'Cloudflare Ray ID:',
-        '_cf_chl',
-        '_cf_chl_opt',
-        '__cf_chl_rt_tk',
-        'cf-spinner-please-wait',
-        'cf-spinner-redirecting'
-    ]
-
     if code in [403, 503] and server == 'cloudflare':
         html = resp.text
+
+        cloudflare_flags = [
+            '403 Forbidden',
+            'cloudflare',
+            'Cloudflare',
+            'Security check',
+            'Please Wait... | Cloudflare',
+            'We are checking your browser...',
+            'Please stand by, while we are checking your browser...',
+            'Checking your browser before accessing',
+            'This process is automatic.',
+            'Your browser will redirect to your requested content shortly.',
+            'Please allow up to 5 seconds',
+            'DDoS protection by',
+            'Ray ID:',
+            'Cloudflare Ray ID:',
+            '_cf_chl',
+            '_cf_chl_opt',
+            '__cf_chl_rt_tk',
+            'cf-spinner-please-wait',
+            'cf-spinner-redirecting'
+        ]
 
         flags_found = [flag in html for flag in cloudflare_flags]
         any_flag_found = any(flags_found)
@@ -216,7 +205,7 @@ def start_duplicate_links_checker(links: List[str]) -> None:
     has_duplicate_link, duplicates_links = check_duplicate_links(links)
 
     if has_duplicate_link:
-        print(f'Found duplicate links:')
+        print('Found duplicate links:')
 
         for duplicate_link in duplicates_links:
             print(duplicate_link)
@@ -230,9 +219,7 @@ def start_links_working_checker(links: List[str]) -> None:
 
     print(f'Checking if {len(links)} links are working...')
 
-    errors = check_if_list_of_links_are_working(links)
-    if errors:
-
+    if errors := check_if_list_of_links_are_working(links):
         num_errors = len(errors)
         print(f'Apparently {num_errors} links are not working properly. See in:')
 
@@ -262,7 +249,7 @@ if __name__ == '__main__':
     elif num_args == 3:
         third_arg = sys.argv[2].lower()
 
-        if third_arg == '-odlc' or third_arg == '--only_duplicate_links_checker':
+        if third_arg in ['-odlc', '--only_duplicate_links_checker']:
             only_duplicate_links_checker = True
         else:
             print(f'Third invalid argument. Usage: python {__file__} [-odlc | --only_duplicate_links_checker]')
