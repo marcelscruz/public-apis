@@ -459,6 +459,7 @@
 ### Data Validation
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [API Adresse](https://adresse.data.gouv.fr/api-doc/adresse) | Official French address validation service | No | Yes | Unknown |
 | [Lob.com](https://lob.com/) | US Address Verification | `apiKey` | Yes | Unknown |
 | [Postman Echo](https://www.postman-echo.com) | Test api server to receive and return value from HTTP method | No | Yes | Unknown |
 | [PurgoMalum](http://www.purgomalum.com) | Content validator against profanity & obscenity | No | No | Unknown |
