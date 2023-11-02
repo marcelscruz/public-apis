@@ -1,5 +1,5 @@
 {
-"count": 1430,
+"count": 1429,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -12093,15 +12093,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://tinyurl.com/app/dev",
-        "Category": "URL Shorteners"
-    },
-    {
-        "API": "UrlBae",
-        "Description": "Simple and efficient short link creation",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://urlbae.com/developers",
         "Category": "URL Shorteners"
     },
     {
