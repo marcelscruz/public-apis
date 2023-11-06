@@ -1,5 +1,5 @@
 {
-"count": 1429,
+"count": 1430,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -10734,6 +10734,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.football-data.org",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "Hockey Highlights",
+        "Description": "Real time hockey highlights",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://highlightly.net/documentation/hockey/",
         "Category": "Sports & Fitness"
     },
     {
