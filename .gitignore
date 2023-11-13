@@ -131,3 +131,6 @@ dmypy.json
 
 # Node
 node_modules/
+
+# VS Code Configs
+.vscode/
