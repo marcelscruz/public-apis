@@ -1,5 +1,5 @@
 {
-"count": 1431,
+"count": 1432,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3419,6 +3419,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://screenshotapi.net/",
+        "Category": "Development"
+    },
+    {
+        "API": "Screenshotbase",
+        "Description": "Screenshot API, 1000 free requests per month",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://screenshotbase.com/",
         "Category": "Development"
     },
     {
