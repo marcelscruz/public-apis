@@ -1,5 +1,5 @@
 {
-"count": 1432,
+"count": 1433,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -1043,6 +1043,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/fawazahmed0/quran-api#readme",
+        "Category": "Books"
+    },
+    {
+        "API": "Stephen King",
+        "Description": "The varied works and characters of the prolific author Stephen King",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://stephen-king-api.onrender.com/",
         "Category": "Books"
     },
     {
