@@ -321,6 +321,7 @@
 | [Namedays Calendar](https://nameday.abalin.net) | Provides namedays for multiple countries | No | Yes | Yes |
 | [Non-Working Days](https://github.com/gadael/icsdb) | Database of ICS files for non working days | No | Yes | Unknown |
 | [Non-Working Days](https://isdayoff.ru) | Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other | No | Yes | Yes |
+| [OpenHolidays API](https://www.openholidaysapi.org/) | Public and school holidays for many countries via an open REST API | No | Yes | Yes |
 | [Orthodox Church Calendar](http://orthodox-calendar.org/swagger-ui/index.html?urls.primaryName=public#/public-controller/getData) | Orthodox Church calendar | No | No | Unknown |
 | [Russian Calendar](https://github.com/egno/work-calendar) | Check if a date is a Russian holiday or not | No | Yes | No |
 | [UK Bank Holidays](https://www.gov.uk/bank-holidays.json) | Bank holidays in England and Wales, Scotland and Northern Ireland | No | Yes | Unknown |
