@@ -1578,6 +1578,7 @@
 | [OpenLigaDB](https://www.openligadb.de) | Crowd sourced sports league results | No | Yes | Yes |
 | [Premier League Standings ](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | All Current Premier League Standings and Statistics | `apiKey`| Yes | Unknown |
 | [Sport Data](https://sportdataapi.com) | Get sports data from all over the world | `apiKey`| Yes | Unknown |
+| [Sport Highlights](https://highlightly.net/documentation/sports/) | Real time Sport Highlights | `apiKey`| Yes | Unknown |
 | [Sport List & Data](https://developers.decathlon.com/products/sports) | List of and resources related to sports | No | Yes | Yes |
 | [Sport Places](https://developers.decathlon.com/products/sport-places) | Crowd-source sports places around the world | No | Yes | No |
 | [Sport Vision](https://developers.decathlon.com/products/sport-vision) | Identify sport, brands and gear in an image. Also does image sports captioning | `apiKey`| Yes | Yes |
