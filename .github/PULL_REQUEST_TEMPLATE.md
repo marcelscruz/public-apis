@@ -1,7 +1,7 @@
 <!-- Thank you for taking the time to work on a Pull Request for this project! -->
 <!-- To ensure your PR is dealt with swiftly please check the following: -->
 
--   [ ] My submission is formatted according to the guidelines in the [contributing guide](https://github.com/public-apis-dev/public-apis/blob/main/CONTRIBUTING.md)
+-   [ ] My submission is formatted according to the guidelines in the [contributing guide](https://github.com/marcelscruz/public-apis/blob/main/CONTRIBUTING.md)
 -   [ ] My addition is ordered alphabetically
 -   [ ] My submission has a useful description
 -   [ ] The description does not have more than 100 characters

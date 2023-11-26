@@ -6,12 +6,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/public-apis-dev/public-apis.git"
+        "url": "git+https://github.com/marcelscruz/public-apis.git"
     },
     "license": "MIT",
-    "homepage": "https://github.com/public-apis-dev/public-apis#readme",
+    "homepage": "https://github.com/marcelscruz/public-apis#readme",
     "bugs": {
-        "url": "https://github.com/public-apis-dev/public-apis/issues"
+        "url": "https://github.com/marcelscruz/public-apis/issues"
     },
     "dependencies": {
         "remark-parse": "^9.0.0",

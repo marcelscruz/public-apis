@@ -34,8 +34,8 @@
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <!-- Let's re-added this API once it starts using the APIs from this repository -->
     <!-- <a href="https://github.com/davemachado/public-api">API for this project</a> • -->
-    <a href="https://github.com/public-apis-dev/public-apis/issues">Issues</a> •
-    <a href="https://github.com/public-apis-dev/public-apis/pulls">Pull Requests</a> •
+    <a href="https://github.com/marcelscruz/public-apis/issues">Issues</a> •
+    <a href="https://github.com/marcelscruz/public-apis/pulls">Pull Requests</a> •
     <a href="LICENSE">License</a>
 </div>
 
