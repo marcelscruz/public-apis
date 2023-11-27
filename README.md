@@ -1659,6 +1659,7 @@
 ### Transportation
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [adsbdb](https://www.adsbdb.com) | Open access to aircraft, airline, and flight route data | No | Yes | Yes |
 | [ADS-B Exchange](https://www.adsbexchange.com/data/) | Access real-time and historical data of any and all airborne aircraft | No | Yes | Unknown |
 | [airportsapi](https://airport-web.appspot.com/api/docs/) | Get name and website-URL for airports by ICAO code | No | Yes | Unknown |
 | [AIS Hub](http://www.aishub.net/api) | Real-time data of any marine and inland vessel equipped with AIS tracking system | `apiKey` | No | Unknown |
