@@ -1,5 +1,5 @@
 {
-"count": 1435,
+"count": 1436,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -11374,6 +11374,15 @@
         "Cors": "unknown",
         "Link": "https://developer.whatpulse.org/#web-api",
         "Category": "Tracking"
+    },
+    {
+        "API": "adsbdb",
+        "Description": "Open access to aircraft, airline, and flight route data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.adsbdb.com",
+        "Category": "Transportation"
     },
     {
         "API": "ADS-B Exchange",
