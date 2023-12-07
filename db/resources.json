@@ -1,5 +1,5 @@
 {
-"count": 1437,
+"count": 1432,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -9497,15 +9497,6 @@
         "Category": "Programming"
     },
     {
-        "API": "KONTESTS",
-        "Description": "For upcoming and ongoing competitive coding contests",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://kontests.net/api",
-        "Category": "Programming"
-    },
-    {
         "API": "Volca",
         "Description": "List of programming languages and technologies",
         "Auth": "",
@@ -10881,33 +10872,6 @@
         "Category": "Sports & Fitness"
     },
     {
-        "API": "Sport List & Data",
-        "Description": "List of and resources related to sports",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://developers.decathlon.com/products/sports",
-        "Category": "Sports & Fitness"
-    },
-    {
-        "API": "Sport Places",
-        "Description": "Crowd-source sports places around the world",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://developers.decathlon.com/products/sport-places",
-        "Category": "Sports & Fitness"
-    },
-    {
-        "API": "Sport Vision",
-        "Description": "Identify sport, brands and gear in an image. Also does image sports captioning",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://developers.decathlon.com/products/sport-vision",
-        "Category": "Sports & Fitness"
-    },
-    {
         "API": "Sportmonks Cricket",
         "Description": "Live cricket score, player statistics and fantasy API",
         "Auth": "apiKey",
@@ -12246,15 +12210,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://anapioficeandfire.com/",
-        "Category": "Video"
-    },
-    {
-        "API": "Bob's Burgers",
-        "Description": "Bob's Burgers API",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://bobs-burgers-api-ui.herokuapp.com",
         "Category": "Video"
     },
     {
