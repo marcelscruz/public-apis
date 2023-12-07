@@ -1,5 +1,5 @@
 {
-"count": 1436,
+"count": 1437,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -2393,6 +2393,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://fxratesapi.com/",
+        "Category": "Currency Exchange"
+    },
+    {
+        "API": "FyGraph",
+        "Description": "GraphQL API of latest 1.000+ crypto and 167+ fiat updated every minute",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://fygraph.com",
         "Category": "Currency Exchange"
     },
     {
