@@ -1276,6 +1276,7 @@
 | [Sofiaplan](https://sofiaplan.bg/api/) | Access to urban research data for the Bulgarian capital Sofia | No | Yes | Yes |
 | [Teleport](https://developers.teleport.org/) | Quality of Life Data | No | Yes | Unknown |
 | [Umeå Open Data](https://opendata.umea.se/api/) | Open data of the city Umeå in northern Sweden | No | Yes | Yes |
+| [UniDb](https://unidbapi.com) | Data that helps people gain useful insight into universities in the United Kingdom | `apiKey` | Yes | Yes |
 | [Universities List](https://github.com/Hipo/university-domains-list) | University names, countries and domains | No | Yes | Unknown |
 | [University of Oslo](https://data.uio.no/) | Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway) | No | Yes | Unknown |
 | [UPC database](https://upcdatabase.org/api) | More than 1.5 million barcode numbers from all around the world | `apiKey` | Yes | Unknown |
