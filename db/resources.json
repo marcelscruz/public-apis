@@ -1,5 +1,5 @@
 {
-"count": 1432,
+"count": 1430,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -170,15 +170,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://placekitten.com/",
-        "Category": "Animals"
-    },
-    {
-        "API": "Quokkas",
-        "Description": "Random pictures of quokkas",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://quokka.pics/",
         "Category": "Animals"
     },
     {
@@ -12093,15 +12084,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.rebrandly.com/v1/docs",
-        "Category": "URL Shorteners"
-    },
-    {
-        "API": "Short Link",
-        "Description": "Short URLs support so many domains",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://github.com/FayasNoushad/Short-Link-API",
         "Category": "URL Shorteners"
     },
     {
