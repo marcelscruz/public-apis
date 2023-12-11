@@ -1,5 +1,5 @@
 {
-"count": 1430,
+"count": 1431,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -8774,6 +8774,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://opendata.umea.se/api/",
+        "Category": "Open Data"
+    },
+    {
+        "API": "UniDb",
+        "Description": "Data that helps people gain useful insight into universities in the United Kingdom",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://unidbapi.com",
         "Category": "Open Data"
     },
     {
