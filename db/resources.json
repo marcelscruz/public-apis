@@ -1,5 +1,5 @@
 {
-"count": 1431,
+"count": 1432,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -4148,6 +4148,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://elonmu.sh/",
+        "Category": "Entertainment"
+    },
+    {
+        "API": "Fuck Off As A Service",
+        "Description": "FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://foaas.dev/",
         "Category": "Entertainment"
     },
     {
