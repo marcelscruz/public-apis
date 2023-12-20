@@ -984,7 +984,7 @@
 | [Postali](https://postali.app/api) | Mexico Zip Codes API | No | Yes | Yes |
 | [PostcodeData.nl](http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json) | Provide geolocation data based on postcode for Dutch addresses | No | No | Unknown |
 | [Postcodes.io](https://postcodes.io) | Postcode lookup & Geolocation for the UK | No | Yes | Yes |
-| [Proweblook](https://proweblook.com/ipapi) | Proweblook lookup & Geolocation | `apiKey` | Yes | Yes |
+| [Proweblook IP Checker](https://proweblook.com/ipapi) | Proweblook lookup & Geolocation | `apiKey` | Yes | Yes |
 | [Queimadas INPE](https://queimadas.dgi.inpe.br/queimadas/dados-abertos/) | Access to heat focus data (probable wildfire) | No | Yes | Unknown |
 | [REST Countries](https://restcountries.com) | Get information about countries via a RESTful API | No | Yes | Yes |
 | [RoadGoat Cities](https://www.roadgoat.com/business/cities-api) | Cities content & photos API | `apiKey` | Yes | No |
@@ -1348,9 +1348,10 @@
 | [Cloudmersive Validate](https://cloudmersive.com/phone-number-validation-API) | Validate international phone numbers | `apiKey` | Yes | Yes |
 | [NumlookupAPI](https://numlookupapi.com) | Worldwide Phone Number Lookup & Verification API | `apiKey` | Yes | Yes |
 | [Phone Specification](https://github.com/azharimm/phone-specs-api) | Rest Api for Phone specifications | No | Yes | Yes |
-| [Proweblook](https://proweblook.com/phone-number-validator) | Phone number validation | `apiKey` | Yes | Yes |
+| [Proweblook Phone Number Checker](https://proweblook.com/phone-number-validator) | Phone number validation | `apiKey` | Yes | Yes |
 | [Veriphone](https://veriphone.io) | Phone number validation & carrier lookup | `apiKey` | Yes | Yes |
-| [Whatsapp Contact Checker Proweblook](https://proweblook.com/whatsapp-number-checker) | Whatsapp number validation | `apiKey` | Yes | Yes |
+| [Proweblook Whatsapp Contact Checker](https://proweblook.com/whatsapp-number-checker) | Whatsapp number validation | `apiKey` | Yes | Yes |
+
 **[⬆ Back to Index](#index)**
 
 ### Photography
