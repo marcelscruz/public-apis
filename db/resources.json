@@ -1,5 +1,5 @@
 {
-"count": 1432,
+"count": 1436,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -4088,6 +4088,15 @@
         "Category": "Email"
     },
     {
+        "API": "Proweblook Email Checker",
+        "Description": "Validate email addresses without sending",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://proweblook.com/email-verifier",
+        "Category": "Email"
+    },
+    {
         "API": "Sendgrid",
         "Description": "A cloud-based SMTP provider that allows you to send emails without having to maintain email servers",
         "Auth": "apiKey",
@@ -6524,6 +6533,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://postcodes.io",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "Proweblook IP Checker",
+        "Description": "Proweblook lookup & Geolocation",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://proweblook.com/ipapi",
         "Category": "Geocoding"
     },
     {
@@ -9200,12 +9218,30 @@
         "Category": "Phone"
     },
     {
+        "API": "Proweblook Phone Number Checker",
+        "Description": "Phone number validation",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://proweblook.com/phone-number-validator",
+        "Category": "Phone"
+    },
+    {
         "API": "Veriphone",
         "Description": "Phone number validation & carrier lookup",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://veriphone.io",
+        "Category": "Phone"
+    },
+    {
+        "API": "Proweblook Whatsapp Contact Checker",
+        "Description": "Whatsapp number validation",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://proweblook.com/whatsapp-number-checker",
         "Category": "Phone"
     },
     {
