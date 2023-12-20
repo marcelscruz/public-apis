@@ -1,5 +1,5 @@
 {
-"count": 1437,
+"count": 1438,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3536,6 +3536,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://developers.supportivekoala.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "Svix",
+        "Description": "Webhooks as a Service",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.svix.com",
         "Category": "Development"
     },
     {
