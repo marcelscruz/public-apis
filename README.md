@@ -452,6 +452,7 @@
 | [FreeForexAPI](https://freeforexapi.com/Home/Api) | Real-time foreign exchange rates for major currency pairs | `apiKey` | Yes | No |
 | [FxRatesAPI](https://fxratesapi.com/) | Real-time exchange rates, historical rates and currency conversion | No | Yes | No |
 | [FyGraph](https://fygraph.com) | GraphQL API of latest 1.000+ crypto and 167+ fiat updated every minute | `apiKey` | Yes | Yes |
+| [Manyapis](https://manyapis.com/products/currency/usd-to-eur-rate) | Exchange rates and currency conversion with free plan 50 requests/day | `apiKey` | Yes | Yes |
 | [MetalpriceAPI](https://metalpriceapi.com) | Real-time and historical exchange rates and currency conversion API | `apiKey` | Yes | Unknown |
 | [National Bank of Poland](http://api.nbp.pl/en.html) | A collection of currency exchange rates (data in XML and JSON) | No | Yes | Yes |
 | [VATComply.com](https://www.vatcomply.com/documentation) | Exchange rates, geolocation and VAT number validation | No | Yes | Yes |
