@@ -1,5 +1,5 @@
 {
-"count": 1439,
+"count": 1435,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -470,15 +470,6 @@
         "Category": "Anti-Malware"
     },
     {
-        "API": "NoPhishy",
-        "Description": "Check links to see if they're known phishing attempts",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://rapidapi.com/Amiichu/api/exerra-phishing-check/",
-        "Category": "Anti-Malware"
-    },
-    {
         "API": "Phisherman",
         "Description": "IP/domain/URL reputation",
         "Auth": "apiKey",
@@ -674,15 +665,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://php-noise.com/",
-        "Category": "Art & Design"
-    },
-    {
-        "API": "Pixel Encounter",
-        "Description": "SVG Icon Generator",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://pixelencounter.com/api",
         "Category": "Art & Design"
     },
     {
@@ -935,15 +917,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://bible-api.com/",
-        "Category": "Books"
-    },
-    {
-        "API": "British National Bibliography",
-        "Description": "Books",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://bnb.data.bl.uk/",
         "Category": "Books"
     },
     {
@@ -11390,7 +11363,7 @@
         "Auth": "apiKey",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "https://developer.postnord.com/api",
+        "Link": "https://developer.postnord.com/apis",
         "Category": "Tracking"
     },
     {
@@ -12795,15 +12768,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.metoffice.gov.uk/services/data/datapoint/",
-        "Category": "Weather"
-    },
-    {
-        "API": "Micro Weather",
-        "Description": "Real time weather forecasts and historic data",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://m3o.com/weather/api",
         "Category": "Weather"
     },
     {
