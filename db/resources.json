@@ -1,5 +1,5 @@
 {
-"count": 1435,
+"count": 1436,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3941,6 +3941,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://wakatime.com/developers",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "WebPDF",
+        "Description": "Work with PDF files via API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://webpdf.xyz/",
         "Category": "Documents & Productivity"
     },
     {
