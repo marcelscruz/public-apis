@@ -1757,6 +1757,7 @@
 | [TinyURL](https://tinyurl.com/app/dev) | Shorten long URLs | `apiKey` | Yes | No |
 | [url.dev](https://autocode.com/url/api/temporary/0.3.0/create) | Create short, temporary, self-destructing links that expire anywhere from a minute to a week. | No | Yes | Unknown
 | [Urlmskr](https://github.com/Axorax/urlmskr#urlmskr-api) | Easy and fast masked, shortened link creation | No | Yes | Unknown |
+| [Manyapis.com](https://manyapis.com/products/short-url) | Free URL shortener API with up to 50 requests per day  | Yes | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
