@@ -1,5 +1,5 @@
 {
-"count": 1438,
+"count": 1429,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -1676,15 +1676,6 @@
         "Category": "Cryptocurrency"
     },
     {
-        "API": "Bitcambio",
-        "Description": "Get the list of all traded assets in the exchange",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://nova.bitcambio.com.br/api/v3/docs#a-public",
-        "Category": "Cryptocurrency"
-    },
-    {
         "API": "BitcoinAverage",
         "Description": "Digital Asset Price Data for the blockchain industry",
         "Auth": "apiKey",
@@ -1718,15 +1709,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.bitmex.com/app/apiOverview",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Bittrex",
-        "Description": "Next Generation Crypto Trading Platform",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://bittrex.github.io/api/v3",
         "Category": "Cryptocurrency"
     },
     {
@@ -1838,15 +1820,6 @@
         "Category": "Cryptocurrency"
     },
     {
-        "API": "CoinDesk",
-        "Description": "CoinDesk's Bitcoin Price Index (BPI) in multiple currencies",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://old.coindesk.com/coindesk-api/",
-        "Category": "Cryptocurrency"
-    },
-    {
         "API": "CoinGecko",
         "Description": "Cryptocurrency Price, Market, and Developer/Social Data",
         "Auth": "",
@@ -1937,15 +1910,6 @@
         "Category": "Cryptocurrency"
     },
     {
-        "API": "CryptingUp",
-        "Description": "Cryptocurrency data",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.cryptingup.com/apidoc/#introduction",
-        "Category": "Cryptocurrency"
-    },
-    {
         "API": "CryptoCompare",
         "Description": "Cryptocurrencies Comparison",
         "Auth": "",
@@ -1961,15 +1925,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://api.exchange.cryptomkt.com/",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Cryptonator",
-        "Description": "Cryptocurrencies Exchange Rates",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.cryptonator.com/api/",
         "Category": "Cryptocurrency"
     },
     {
@@ -2000,15 +1955,6 @@
         "Category": "Cryptocurrency"
     },
     {
-        "API": "FTX",
-        "Description": "Complete REST, websocket, and FTX APIs to suit your algorithmic trading needs",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://docs.ftx.com/",
-        "Category": "Cryptocurrency"
-    },
-    {
         "API": "Gateio",
         "Description": "API provides spot, margin and futures trading operations",
         "Auth": "apiKey",
@@ -2033,15 +1979,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://huobiapi.github.io/docs/spot/v1/en/",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "icy.tools",
-        "Description": "GraphQL based NFT API",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://developers.icy.tools/",
         "Category": "Cryptocurrency"
     },
     {
@@ -2081,15 +2018,6 @@
         "Category": "Cryptocurrency"
     },
     {
-        "API": "Localbitcoins",
-        "Description": "P2P platform to buy and sell Bitcoins",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://localbitcoins.com/api-docs/",
-        "Category": "Cryptocurrency"
-    },
-    {
         "API": "Mempool",
         "Description": "Bitcoin API Service focusing on the transaction fee",
         "Auth": "",
@@ -2126,15 +2054,6 @@
         "Category": "Cryptocurrency"
     },
     {
-        "API": "Nomics",
-        "Description": "Historical and realtime cryptocurrency prices and market data",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://nomics.com/docs/",
-        "Category": "Cryptocurrency"
-    },
-    {
         "API": "NovaDax",
         "Description": "NovaDAX API to access all market data, trading management endpoints",
         "Auth": "apiKey",
@@ -2149,7 +2068,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "https://www.okex.com/docs/",
+        "Link": "https://okx.com/okx-api",
         "Category": "Cryptocurrency"
     },
     {
