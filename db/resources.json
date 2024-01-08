@@ -1,5 +1,5 @@
 {
-"count": 1429,
+"count": 1430,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -12057,6 +12057,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://docs.kutt.it/",
+        "Category": "URL Shorteners"
+    },
+    {
+        "API": "Manyapis.com",
+        "Description": "Free URL shortener API with up to 50 requests per day",
+        "Auth": "Yes",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://manyapis.com/products/short-url",
         "Category": "URL Shorteners"
     },
     {
