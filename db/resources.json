@@ -1,5 +1,5 @@
 {
-"count": 1429,
+"count": 1428,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -1160,15 +1160,6 @@
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://markerapi.com",
-        "Category": "Business"
-    },
-    {
-        "API": "ORB Intelligence",
-        "Description": "Company lookup",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://api.orb-intelligence.com/docs/",
         "Category": "Business"
     },
     {
