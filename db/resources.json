@@ -1,5 +1,5 @@
 {
-"count": 1428,
+"count": 1429,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -4013,6 +4013,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://proweblook.com/email-verifier",
+        "Category": "Email"
+    },
+    {
+        "API": "Resend",
+        "Description": "Email API for developers",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://resend.com/docs/",
         "Category": "Email"
     },
     {
