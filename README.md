@@ -1374,6 +1374,7 @@
 | [ReSmush.it](https://resmush.it/api) | Photo optimization | No | No | Unknown |
 | [shutterstock](https://api-reference.shutterstock.com/) | Stock Photos and Videos | `OAuth`| Yes | Unknown |
 | [Sirv](https://apidocs.sirv.com/) | Image management solutions like optimization, manipulation, hosting | `apiKey` | Yes | Unknown |
+| [Templated](https://templated.io) | Automate your images with a simple API. Design in a Canva-like editor and render images with code | `apiKey` | Yes | Yes |
 | [Unsplash](https://unsplash.com/developers) | Photography | `OAuth`| Yes | Unknown |
 | [Wallhaven](https://wallhaven.cc/help/api) | Wallpapers | `apiKey` | Yes | Unknown |
 | [Webdam](https://www.damsuccess.com/hc/en-us/articles/202134055-REST-API) | Images | `OAuth`| Yes | Unknown |
