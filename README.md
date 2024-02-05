@@ -1396,6 +1396,7 @@
 | [Codeforces](https://codeforces.com/apiHelp) | Get access to Codeforces data | `apiKey` | Yes | Unknown |
 | [Hackerearth](https://www.hackerearth.com/docs/wiki/developers/v4/) | For compiling and running code in several languages | `apiKey` | Yes | Unknown |
 | [Judge0 CE](https://ce.judge0.com/) | Online code execution system | `apiKey` | Yes | Unknown |
+| [Softwium](https://softwium.com/sql-validator/) | Validate SQL queries | No | Yes | No |
 | [Volca](https://volca.io#api) | List of programming languages and technologies | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
