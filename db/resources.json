@@ -1,5 +1,5 @@
 {
-"count": 1433,
+"count": 1434,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -7775,6 +7775,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.reed.co.uk/developers",
+        "Category": "Jobs"
+    },
+    {
+        "API": "Techmap's Job Postings",
+        "Description": "API for International Job postings",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://jobdatafeeds.com/job-api",
         "Category": "Jobs"
     },
     {
