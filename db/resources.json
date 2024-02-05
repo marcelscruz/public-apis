@@ -1,5 +1,5 @@
 {
-"count": 1432,
+"count": 1433,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -9395,6 +9395,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://apidocs.sirv.com/",
+        "Category": "Photography"
+    },
+    {
+        "API": "Templated",
+        "Description": "Automate your images with a simple API. Design in a Canva-like editor and render images with code",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://templated.io",
         "Category": "Photography"
     },
     {
