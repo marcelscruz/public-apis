@@ -1,5 +1,5 @@
 {
-"count": 1430,
+"count": 1431,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -7739,6 +7739,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://jooble.org/api/about",
+        "Category": "Jobs"
+    },
+    {
+        "API": "Jobicy",
+        "Description": "Remote Jobs API Feed",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://jobicy.com/jobs-rss-feed",
         "Category": "Jobs"
     },
     {
