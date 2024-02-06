@@ -1,5 +1,5 @@
 {
-"count": 1434,
+"count": 1435,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -665,6 +665,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://php-noise.com/",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "Pika",
+        "Description": "Image Generation API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://pika.style/image-generation-api/templates",
         "Category": "Art & Design"
     },
     {
