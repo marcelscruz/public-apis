@@ -1601,6 +1601,7 @@
 | [Dicebear Avatars](https://avatars.dicebear.com/) | Generate random pixel-art avatars | No | Yes | No |
 | [English Random Words](https://random-words-api.vercel.app/word) | Generate English Random Words with Pronunciation | No | Yes | No |
 | [FakeJSON](https://fakejson.com) | Service to generate test and fake data | `apiKey` | Yes | Yes |
+| [Faker](https://fakerjs.dev/) | Generate massive amounts of fake (but realistic) data for testing and development. | No | Yes | Unknown |
 | [FakerAPI](https://fakerapi.it/en) | APIs collection to get fake data | No | Yes | Yes |
 | [FakeStoreAPI](https://fakestoreapi.com/) | Fake store rest API for your e-commerce or shopping website prototype | No | Yes | Unknown |
 | [GeneradorDNI](https://api.generadordni.es) | Data generator API. Profiles, vehicles, banks and cards, etc | `apiKey` | Yes | Unknown |
