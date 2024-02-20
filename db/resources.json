@@ -1,5 +1,5 @@
 {
-"count": 1440,
+"count": 1437,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3581,15 +3581,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://dictionaryapi.com/",
-        "Category": "Dictionaries"
-    },
-    {
-        "API": "OwlBot",
-        "Description": "Definitions with example sentence and photo if available",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://owlbot.info/",
         "Category": "Dictionaries"
     },
     {
@@ -9011,15 +9002,6 @@
         "Category": "Personality"
     },
     {
-        "API": "Biriyani As A Service",
-        "Description": "Biriyani images placeholder",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://biriyani.anoram.com/",
-        "Category": "Personality"
-    },
-    {
         "API": "Dev.to",
         "Description": "Access Forem articles, users and other resources via API",
         "Auth": "apiKey",
@@ -9800,15 +9782,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://github.com/r-spacex/SpaceX-API",
-        "Category": "Science & Math"
-    },
-    {
-        "API": "SpaceX",
-        "Description": "GraphQL, Company, Ships, launchpad and launch data",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://api.spacex.land/graphql/",
         "Category": "Science & Math"
     },
     {
