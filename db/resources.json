@@ -5180,9 +5180,9 @@
         "API": "Deck of Cards",
         "Description": "Deck of Cards",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://deckofcardsapi.com/",
+        "Link": "https://deckofcardsapi.com/",
         "Category": "Games & Comics"
     },
     {
@@ -5234,7 +5234,7 @@
         "API": "Dungeons and Dragons",
         "Description": "Reference for 5th edition spells, classes, monsters, and more",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "no",
         "Link": "https://www.dnd5eapi.co/docs/",
         "Category": "Games & Comics"
