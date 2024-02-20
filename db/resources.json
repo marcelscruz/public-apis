@@ -1,5 +1,5 @@
 {
-"count": 1436,
+"count": 1437,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -341,6 +341,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://docs.nekos.best",
+        "Category": "Anime"
+    },
+    {
+        "API": "NekosPro",
+        "Description": "Neko images, roleplaying GIFs, & NSFW content",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://documentation.nekos.pro",
         "Category": "Anime"
     },
     {
