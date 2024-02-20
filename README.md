@@ -827,13 +827,13 @@
 | [Crafatar](https://crafatar.com) | API for Minecraft skins and faces | No | Yes | Yes |
 | [Cross Universe](https://crossuniverse.psychpsyo.com/apiDocs.html) | Cross Universe Card Data | No | Yes | Yes |
 | [CSGO](https://bymykel.github.io/CSGO-API/) | An unofficial JSON API for Counter-Strike: Global Offensive | No | Yes | No |
-| [Deck of Cards](http://deckofcardsapi.com/) | Deck of Cards | No | No | Unknown |
+| [Deck of Cards](https://deckofcardsapi.com/) | Deck of Cards | No | Yes | Unknown |
 | [Destiny The Game](https://bungie-net.github.io/multi/index.html) | Bungie Platform API | `apiKey`| Yes | Unknown |
 | [Digimon Information](https://digimon-api.vercel.app/) | Provides information about digimon creatures | No | Yes | Unknown |
 | [Digimon TCG](https://documenter.getpostman.com/view/14059948/TzecB4fH) | Search for Digimon cards in digimoncard.io | No | Yes | Unknown |
 | [Disney](https://disneyapi.dev) | Information of Disney characters | No | Yes | Yes |
 | [Dota 2](https://docs.opendota.com/) | Provides information about Player stats, Match stats, Rankings for Dota 2| `apiKey`| Yes | Unknown |
-| [Dungeons and Dragons](https://www.dnd5eapi.co/docs/) | Reference for 5th edition spells, classes, monsters, and more | No | No | No |
+| [Dungeons and Dragons](https://www.dnd5eapi.co/docs/) | Reference for 5th edition spells, classes, monsters, and more | No | Yes | No |
 | [Dungeons and Dragons (Alternate)](https://open5e.com/) | Includes all monsters and spells from the SRD (System Reference Document) as well as a search API | No | Yes | Yes |
 | [Eve Online](https://esi.evetech.net/ui) | Third-Party Developer Documentation | `OAuth` | Yes | Unknown |
 | [FFXIV Collect](https://ffxivcollect.com/) | Final Fantasy XIV data on collectables | No | Yes | Yes |
