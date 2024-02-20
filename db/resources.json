@@ -1,5 +1,5 @@
 {
-"count": 1439,
+"count": 1440,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -11607,6 +11607,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://api-docs.izi.travel/",
+        "Category": "Transportation"
+    },
+    {
+        "API": "Konkan Railway Live Train Position",
+        "Description": "Realtime data for trains on India's Konkan Railway",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://konkan-railway-api.vercel.app/",
         "Category": "Transportation"
     },
     {
