@@ -100,6 +100,7 @@
 * [Science & Math](#science--math)
 * [Security](#security)
 * [Shopping](#shopping)
+* [SMS](#sms)
 * [Social](#social)
 * [Sports & Fitness](#sports--fitness)
 * [Test Data](#test-data)
@@ -1506,6 +1507,13 @@
 | [Shopee](https://open.shopee.com/documents?version=1) | Shopee's official API for integration of various services from Shopee | `apiKey` | Yes | Unknown |
 | [Tokopedia](https://developer.tokopedia.com/openapi/guide/#/) | Tokopedia's Official API for integration of various services from Tokopedia | `OAuth`| Yes | Unknown |
 | [WooCommerce](https://woocommerce.github.io/woocommerce-rest-api-docs/) | WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format | `apiKey` | Yes | Yes |
+
+**[⬆ Back to Index](#index)**
+
+### SMS
+| API | Description | Auth | HTTPS | CORS |
+|---|---|---|---|---|
+| [httpSMS](https://docs.httpsms.com/introduction/getting-started) | Use your Android phone as an SMS gateway to send and receive SMS messages via a simple HTTP API | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
