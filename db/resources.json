@@ -1,5 +1,5 @@
 {
-"count": 1437,
+"count": 1438,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -10205,6 +10205,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://bestbuyapis.github.io/api-documentation/#overview",
+        "Category": "Shopping"
+    },
+    {
+        "API": "Canopy",
+        "Description": "A modern API for Amazon Data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.canopyapi.co/",
         "Category": "Shopping"
     },
     {
