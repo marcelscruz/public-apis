@@ -1,5 +1,5 @@
 {
-"count": 1439,
+"count": 1440,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -7793,6 +7793,15 @@
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://www.juju.com/publisher/spec/",
+        "Category": "Jobs"
+    },
+    {
+        "API": "OkJob",
+        "Description": "4 day week job board",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://okjob.io/api",
         "Category": "Jobs"
     },
     {
