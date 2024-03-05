@@ -1,5 +1,5 @@
 {
-"count": 1441,
+"count": 1442,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -11229,6 +11229,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.aylien.com/textapi/#getting-started",
+        "Category": "Text Analysis"
+    },
+    {
+        "API": "Chatpdf",
+        "Description": "Chat with pdf using GPT4 and ChatGPT",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://chatpdf.so/api",
         "Category": "Text Analysis"
     },
     {
