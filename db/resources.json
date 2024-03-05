@@ -1,5 +1,5 @@
 {
-"count": 1441,
+"count": 1439,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -907,7 +907,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://bhagavadgitaapi.in",
+        "Link": "https://docs.bhagavadgitaapi.in",
         "Category": "Books"
     },
     {
@@ -938,6 +938,24 @@
         "Category": "Books"
     },
     {
+        "API": "Big Book",
+        "Description": "Search through millions of English books",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://bigbookapi.com",
+        "Category": "Books"
+    },
+    {
+        "API": "British National Bibliography",
+        "Description": "Books",
+        "Auth": "",
+        "HTTPS": false,
+        "Cors": "unknown",
+        "Link": "http://bnb.data.bl.uk/",
+        "Category": "Books"
+    },
+    {
         "API": "Crossref Metadata Search",
         "Description": "Books & Articles Metadata",
         "Auth": "",
@@ -962,6 +980,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.google.com/books/",
+        "Category": "Books"
+    },
+    {
+        "API": "GurbaniNow",
+        "Description": "Fast and Accurate Gurbani RESTful API",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://github.com/GurbaniNow/api",
         "Category": "Books"
     },
     {
@@ -1025,15 +1052,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/fawazahmed0/quran-api#readme",
-        "Category": "Books"
-    },
-    {
-        "API": "Stephen King",
-        "Description": "The varied works and characters of the prolific author Stephen King",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://stephen-king-api.onrender.com/",
         "Category": "Books"
     },
     {
@@ -2450,6 +2468,15 @@
         "Category": "Development"
     },
     {
+        "API": "API League",
+        "Description": "World Class APIs in a single Hub",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apileague.com",
+        "Category": "Development"
+    },
+    {
         "API": "ApicAgent",
         "Description": "Extract device details from user-agent string",
         "Auth": "",
@@ -2468,6 +2495,15 @@
         "Category": "Development"
     },
     {
+        "API": "apilayer userstack",
+        "Description": "Secure User-Agent String Lookup JSON API",
+        "Auth": "OAuth",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://userstack.com/",
+        "Category": "Development"
+    },
+    {
         "API": "APIs.guru",
         "Description": "Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs",
         "Auth": "",
@@ -2483,6 +2519,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.microsoft.com/en-us/rest/api/azure/devops",
+        "Category": "Development"
+    },
+    {
+        "API": "Base",
+        "Description": "Building quick backends",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.base-api.io/",
         "Category": "Development"
     },
     {
@@ -2546,15 +2591,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://brainshop.ai/",
-        "Category": "Development"
-    },
-    {
-        "API": "BrowserCat",
-        "Description": "Headless browser API for automation, scraping, and more",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://www.browsercat.com/",
         "Category": "Development"
     },
     {
@@ -2630,6 +2666,15 @@
         "Category": "Development"
     },
     {
+        "API": "CountAPI",
+        "Description": "Free and simple counting service. You can use it to track page hits and specific events",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://countapi.xyz",
+        "Category": "Development"
+    },
+    {
         "API": "Databricks",
         "Description": "Service to manage your databricks account,clusters, notebooks, jobs and workspaces",
         "Auth": "apiKey",
@@ -2672,33 +2717,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://extendsclass.com/json-storage.html",
-        "Category": "Development"
-    },
-    {
-        "API": "Gcore CDN",
-        "Description": "Make your app fast and responsive for a global audience with Gcore CDN.",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://docs.gcore.com/cdn",
-        "Category": "Development"
-    },
-    {
-        "API": "Gcore Cloud",
-        "Description": "Scalable, secure, and reliable hybrid cloud services anywhere in the world.",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://docs.gcore.com/cloud",
-        "Category": "Development"
-    },
-    {
-        "API": "Gcore DNS",
-        "Description": "Fast and resilient DNS hosting service by Gcore. Improve the performance and availability of your online business.",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://docs.gcore.com/dns",
         "Category": "Development"
     },
     {
@@ -2855,6 +2873,15 @@
         "Category": "Development"
     },
     {
+        "API": "host-t.com",
+        "Description": "Basic DNS query via HTTP GET request",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://host-t.com",
+        "Category": "Development"
+    },
+    {
         "API": "Host.io",
         "Description": "Domains Data API for Developers",
         "Auth": "apiKey",
@@ -2909,6 +2936,24 @@
         "Category": "Development"
     },
     {
+        "API": "Icanhazepoch",
+        "Description": "Get Epoch time",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://icanhazepoch.com",
+        "Category": "Development"
+    },
+    {
+        "API": "Icanhazip",
+        "Description": "IP Address API",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://major.io/icanhazip-com-faq/",
+        "Category": "Development"
+    },
+    {
         "API": "IFTTT",
         "Description": "IFTTT Connect API",
         "Auth": "",
@@ -2933,6 +2978,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://api.docs.import.io/",
+        "Category": "Development"
+    },
+    {
+        "API": "ip-fast.com",
+        "Description": "IP address, country and city",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://ip-fast.com/docs/",
         "Category": "Development"
     },
     {
@@ -2999,15 +3053,6 @@
         "Category": "Development"
     },
     {
-        "API": "JSONsilo.com",
-        "Description": "Hassle-free JSON hosting. Convert your JSON file to an API in minutes at no cost.",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://jsonsilo.com",
-        "Category": "Development"
-    },
-    {
         "API": "Kroki",
         "Description": "Creates diagrams from textual descriptions",
         "Auth": "",
@@ -3023,6 +3068,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://github.com/cmccandless/license-api/blob/master/README.md",
+        "Category": "Development"
+    },
+    {
+        "API": "Logs.to",
+        "Description": "Generate logs",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://logs.to/",
         "Category": "Development"
     },
     {
@@ -3108,7 +3162,7 @@
     },
     {
         "API": "npm Registry",
-        "Description": "Query information about your favorite Node.js libraries programmatically",
+        "Description": "Query information about your favorite Node.js libraries programatically",
         "Auth": "",
         "HTTPS": true,
         "Cors": "unknown",
@@ -3206,15 +3260,6 @@
         "Category": "Development"
     },
     {
-        "API": "Pusher Channels",
-        "Description": "Realtime features",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://pusher.com/channels",
-        "Category": "Development"
-    },
-    {
         "API": "QR code",
         "Description": "Create an easy to read QR code and URL shortener",
         "Auth": "",
@@ -3230,15 +3275,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://goqr.me/api/",
-        "Category": "Development"
-    },
-    {
-        "API": "QR code Generator",
-        "Description": "Static and Dynamic QR code generator with custom and unique QR code design",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.openqr.io/",
         "Category": "Development"
     },
     {
@@ -3341,6 +3377,15 @@
         "Category": "Development"
     },
     {
+        "API": "scrapestack",
+        "Description": "Real-time, Scalable Proxy & Web Scraping REST API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://scrapestack.com/",
+        "Category": "Development"
+    },
+    {
         "API": "ScrapingAnt",
         "Description": "Headless Chrome scraping with a simple API",
         "Auth": "apiKey",
@@ -3368,33 +3413,6 @@
         "Category": "Development"
     },
     {
-        "API": "Screenshotbase",
-        "Description": "Screenshot API, 1000 free requests per month",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://screenshotbase.com/",
-        "Category": "Development"
-    },
-    {
-        "API": "ScreenshotOne.com",
-        "Description": "Convert URLs, HTML, or Markdown into PNG, JPEG, WebP, or PDF with a simple screenshot API",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://screenshotone.com/",
-        "Category": "Development"
-    },
-    {
-        "API": "SearchApi",
-        "Description": "Real-Time Google SERP API",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://www.searchapi.io/",
-        "Category": "Development"
-    },
-    {
         "API": "Serialif Color",
         "Description": "Color conversion, complementary, grayscale and contrasted text",
         "Auth": "",
@@ -3404,12 +3422,12 @@
         "Category": "Development"
     },
     {
-        "API": "Shadify",
-        "Description": "Service for generating data and executing logic to create various games and puzzles",
-        "Auth": "",
+        "API": "serpstack",
+        "Description": "Real-Time & Accurate Google Search Results API",
+        "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://github.com/cheatsnake/shadify",
+        "Link": "https://serpstack.com/",
         "Category": "Development"
     },
     {
@@ -3419,6 +3437,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://sheetsu.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "SHOUTCLOUD",
+        "Description": "ALL-CAPS AS A SERVICE",
+        "Auth": "",
+        "HTTPS": false,
+        "Cors": "unknown",
+        "Link": "http://shoutcloud.io/",
         "Category": "Development"
     },
     {
@@ -3467,39 +3494,12 @@
         "Category": "Development"
     },
     {
-        "API": "Svix",
-        "Description": "Webhooks as a Service",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.svix.com",
-        "Category": "Development"
-    },
-    {
-        "API": "Tolgee",
-        "Description": "Open-source localization (i18n) platform enabling you to translate you app fast",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://tolgee.io",
-        "Category": "Development"
-    },
-    {
         "API": "Tyk",
         "Description": "Api and service management platform",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://tyk.io/open-source/",
-        "Category": "Development"
-    },
-    {
-        "API": "YADG",
-        "Description": "An API that scrapes music release data and renders it using different templates",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://yadg.cc/api/v2/",
         "Category": "Development"
     },
     {
@@ -8345,6 +8345,15 @@
         "Category": "Music"
     },
     {
+        "API": "apilayer mediastack",
+        "Description": "Free, Simple REST API for Live News & Blog Articles",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://mediastack.com/",
+        "Category": "News"
+    },
+    {
         "API": "Associated Press",
         "Description": "Search for news and metadata from Associated Press",
         "Auth": "apiKey",
@@ -8399,15 +8408,6 @@
         "Category": "News"
     },
     {
-        "API": "HackerNews Node",
-        "Description": "Api to get related articles about Node.js in Hacker News",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://github.com/EdixonAlberto/api-hackernews-node",
-        "Category": "News"
-    },
-    {
         "API": "Inshorts News",
         "Description": "Provides news from inshorts",
         "Auth": "",
@@ -8444,15 +8444,6 @@
         "Category": "News"
     },
     {
-        "API": "NewsAPI.ai",
-        "Description": "News API access to real-time and archive news content",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://www.newsapi.ai/documentation",
-        "Category": "News"
-    },
-    {
         "API": "NewsData",
         "Description": "News data API for live-breaking news and headlines from reputed news sources",
         "Auth": "apiKey",
@@ -8486,15 +8477,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://spaceflightnewsapi.net",
-        "Category": "News"
-    },
-    {
-        "API": "Substack API Wrapper",
-        "Description": "Substack's newsletter platform now has an API wrapper, for easy access to latest posts",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://github.com/NHagar/substack_api",
         "Category": "News"
     },
     {
