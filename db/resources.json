@@ -1,5 +1,5 @@
 {
-"count": 1440,
+"count": 1441,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -4859,6 +4859,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.fruityvice.com",
+        "Category": "Food & Drink"
+    },
+    {
+        "API": "Jelly Belly Wiki",
+        "Description": "Data about Jelly Belly beans- flavores, facts, history and more endpoints",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://jelly-belly-wiki.netlify.app/",
         "Category": "Food & Drink"
     },
     {
