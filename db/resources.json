@@ -1,5 +1,5 @@
 {
-"count": 1442,
+"count": 1441,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -5291,15 +5291,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://xivapi.com/",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "Fortnite",
-        "Description": "Fortnite Stats",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://fortnitetracker.com/site-api",
         "Category": "Games & Comics"
     },
     {
