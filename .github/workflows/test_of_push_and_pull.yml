@@ -1,10 +1,11 @@
 name: 'Tests of push & pull'
 
 on:
-    push:
-        # branches: [ main ]
-    pull_request:
-        # branches: [ main ]
+    workflow_dispatch:
+    # push:
+    # branches: [ main ]
+    # pull_request:
+    # branches: [ main ]
 
 env:
     FILENAME: README.md
