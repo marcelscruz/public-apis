@@ -261,6 +261,7 @@
 | [Bhagavad Gita](https://bhagavadgita.io/api)                              | Bhagavad Gita text                                                                                 | `OAuth`  | Yes   | Yes     |
 | [Bhagavad Gita telugu](https://gita-api.vercel.app)                       | Bhagavad Gita API in telugu and odia languages                                                     | No       | Yes   | Yes     |
 | [Bible-api](https://bible-api.com/)                                       | Free Bible API with multiple languages                                                             | No       | Yes   | Yes     |
+| [Big Book](https://bigbookapi.com)                                        | Search through millions of English books                                                           | `apiKey` | Yes   | Yes     |
 | [British National Bibliography](http://bnb.data.bl.uk/)                   | Books                                                                                              | No       | No    | Unknown |
 | [Crossref Metadata Search](https://github.com/CrossRef/rest-api-doc)      | Books & Articles Metadata                                                                          | No       | Yes   | Unknown |
 | [Ganjoor](https://api.ganjoor.net)                                        | Classic Persian poetry works including access to related manuscripts, recitations and music tracks | `OAuth`  | Yes   | Yes     |
@@ -489,6 +490,7 @@
 | [Abstract Screenshot](https://www.abstractapi.com/website-screenshot-api)                                                                 | Take programmatic screenshots of web pages from any website                                         | `apiKey`        | Yes   | Yes     |
 | [Agify.io](https://agify.io)                                                                                                              | Estimates the age from a first name                                                                 | No              | Yes   | Yes     |
 | [API Grátis](https://apigratis.com.br/)                                                                                                   | Multiples services and public APIs                                                                  | No              | Yes   | Unknown |
+| [API League](https://apileague.com)                                                                                                       | World Class APIs in a single Hub                                                                    | `apiKey`        | Yes   | Yes     |
 | [ApicAgent](https://www.apicagent.com)                                                                                                    | Extract device details from user-agent string                                                       | No              | Yes   | Yes     |
 | [ApiFlash](https://apiflash.com/)                                                                                                         | Chrome based screenshot API for developers                                                          | `apiKey`        | Yes   | Unknown |
 | [apilayer userstack](https://userstack.com/)                                                                                              | Secure User-Agent String Lookup JSON API                                                            | `OAuth`         | Yes   | Unknown |
@@ -1262,7 +1264,7 @@
 | [The Old Reader](https://github.com/theoldreader/api)                    | RSS reader                                                                                   | `apiKey` | Yes   | Unknown |
 | [TheNews](https://www.thenewsapi.com/)                                   | Aggregated headlines, top story and live news JSON API                                       | `apiKey` | Yes   | Yes     |
 | [Trove](https://trove.nla.gov.au/about/create-something/using-api)       | Search through the National Library of Australia collection of 1000s of digitised newspapers | `apiKey` | Yes   | Unknown |
-| [World News](https://worldnewsapi.com) | Search through millions of semantically tagged worldwide news | `apiKey` | Yes | Yes |
+| [World News](https://worldnewsapi.com)                                   | Search through millions of semantically tagged worldwide news                                | `apiKey` | Yes   | Yes     |
 
 **[⬆ Back to Index](#index)**
 
