@@ -1,5 +1,5 @@
 {
-"count": 1440,
+"count": 1441,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -10286,6 +10286,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.olx.pl/api/doc#section/",
+        "Category": "Shopping"
+    },
+    {
+        "API": "Platzi Fake Store",
+        "Description": "A fake store API for your e-commerce or shopping website prototype. For testing and learning",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://fakeapi.platzi.com/",
         "Category": "Shopping"
     },
     {
