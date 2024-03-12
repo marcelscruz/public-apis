@@ -1,5 +1,5 @@
 {
-"count": 1435,
+"count": 1441,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -344,6 +344,15 @@
         "Category": "Anime"
     },
     {
+        "API": "NekosPro",
+        "Description": "Neko images, roleplaying GIFs, & NSFW content",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://documentation.nekos.pro",
+        "Category": "Anime"
+    },
+    {
         "API": "Shikimori",
         "Description": "Anime discovery, tracking, forum, rates",
         "Auth": "OAuth",
@@ -673,7 +682,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://pika.style/image-generation-api/templates",
+        "Link": "https://pika.style/image-generation-api",
         "Category": "Art & Design"
     },
     {
@@ -2333,6 +2342,15 @@
         "Category": "Data Validation"
     },
     {
+        "API": "Brevo Suit",
+        "Description": "Connection for brevo CRM suite",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://developers.brevo.com/",
+        "Category": "Data Validation"
+    },
+    {
         "API": "Lob.com",
         "Description": "US Address Verification",
         "Auth": "apiKey",
@@ -3566,15 +3584,6 @@
         "Category": "Dictionaries"
     },
     {
-        "API": "OwlBot",
-        "Description": "Definitions with example sentence and photo if available",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://owlbot.info/",
-        "Category": "Dictionaries"
-    },
-    {
         "API": "Oxford",
         "Description": "Dictionary Data",
         "Auth": "apiKey",
@@ -3707,6 +3716,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://craftmypdf.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "FastApi Simple Calculator",
+        "Description": "Math, Stadistics, Conversions, Currency and more",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://fastapi-calculadora.onrender.com/",
         "Category": "Documents & Productivity"
     },
     {
@@ -3932,6 +3950,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://emailvalidation.io/email-validation-api/",
+        "Category": "Email"
+    },
+    {
+        "API": "Enveloop",
+        "Description": "Design, host, and send emails and texts. All from one place - with a simple API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://enveloop.com",
         "Category": "Email"
     },
     {
@@ -4835,6 +4862,15 @@
         "Category": "Food & Drink"
     },
     {
+        "API": "Jelly Belly Wiki",
+        "Description": "Data about Jelly Belly beans- flavores, facts, history and more endpoints",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://jelly-belly-wiki.netlify.app/",
+        "Category": "Food & Drink"
+    },
+    {
         "API": "Kroger",
         "Description": "Supermarket Data",
         "Auth": "apiKey",
@@ -5153,9 +5189,9 @@
         "API": "Deck of Cards",
         "Description": "Deck of Cards",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://deckofcardsapi.com/",
+        "Link": "https://deckofcardsapi.com/",
         "Category": "Games & Comics"
     },
     {
@@ -5207,7 +5243,7 @@
         "API": "Dungeons and Dragons",
         "Description": "Reference for 5th edition spells, classes, monsters, and more",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "no",
         "Link": "https://www.dnd5eapi.co/docs/",
         "Category": "Games & Comics"
@@ -5255,15 +5291,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://xivapi.com/",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "Fortnite",
-        "Description": "Fortnite Stats",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://fortnitetracker.com/site-api",
         "Category": "Games & Comics"
     },
     {
@@ -7769,6 +7796,15 @@
         "Category": "Jobs"
     },
     {
+        "API": "OkJob",
+        "Description": "4 day week job board",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://okjob.io/api",
+        "Category": "Jobs"
+    },
+    {
         "API": "Open Skills",
         "Description": "Job titles, skills and related jobs data",
         "Auth": "",
@@ -8126,15 +8162,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://binaryjazz.us/genrenator-api/",
-        "Category": "Music"
-    },
-    {
-        "API": "iTunes Search",
-        "Description": "Software products",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/",
         "Category": "Music"
     },
     {
@@ -8975,15 +9002,6 @@
         "Category": "Personality"
     },
     {
-        "API": "Biriyani As A Service",
-        "Description": "Biriyani images placeholder",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://biriyani.anoram.com/",
-        "Category": "Personality"
-    },
-    {
         "API": "Dev.to",
         "Description": "Access Forem articles, users and other resources via API",
         "Auth": "apiKey",
@@ -9767,15 +9785,6 @@
         "Category": "Science & Math"
     },
     {
-        "API": "SpaceX",
-        "Description": "GraphQL, Company, Ships, launchpad and launch data",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://api.spacex.land/graphql/",
-        "Category": "Science & Math"
-    },
-    {
         "API": "Sunrise and Sunset",
         "Description": "Sunset and sunrise times for a given latitude and longitude",
         "Auth": "",
@@ -10199,6 +10208,15 @@
         "Category": "Shopping"
     },
     {
+        "API": "Canopy",
+        "Description": "A modern API for Amazon Data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.canopyapi.co/",
+        "Category": "Shopping"
+    },
+    {
         "API": "Digi-Key",
         "Description": "Retrieve price and inventory of electronic components as well as place orders",
         "Auth": "OAuth",
@@ -10268,6 +10286,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.olx.pl/api/doc#section/",
+        "Category": "Shopping"
+    },
+    {
+        "API": "Platzi Fake Store",
+        "Description": "A fake store API for your e-commerce or shopping website prototype. For testing and learning",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://fakeapi.platzi.com/",
         "Category": "Shopping"
     },
     {
@@ -11007,15 +11034,6 @@
         "Category": "Test Data"
     },
     {
-        "API": "FakeJSON",
-        "Description": "Service to generate test and fake data",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://fakejson.com",
-        "Category": "Test Data"
-    },
-    {
         "API": "FakerAPI",
         "Description": "APIs collection to get fake data",
         "Auth": "",
@@ -11196,6 +11214,15 @@
         "Category": "Text Analysis"
     },
     {
+        "API": "Chatpdf",
+        "Description": "Chat with pdf using GPT4 and ChatGPT",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://chatpdf.so/api",
+        "Category": "Text Analysis"
+    },
+    {
         "API": "Cloudmersive Natural Language Processing",
         "Description": "Natural language processing and text analysis",
         "Auth": "apiKey",
@@ -11319,6 +11346,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://cws.correios.com.br/ajuda",
+        "Category": "Tracking"
+    },
+    {
+        "API": "IndianPincodes",
+        "Description": "API for getting Pincode details in India",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.indianpincodes.co.in",
         "Category": "Tracking"
     },
     {
@@ -11571,6 +11607,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://api-docs.izi.travel/",
+        "Category": "Transportation"
+    },
+    {
+        "API": "Konkan Railway Live Train Position",
+        "Description": "Realtime data for trains on India's Konkan Railway",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://konkan-railway-api.vercel.app/",
         "Category": "Transportation"
     },
     {
@@ -12246,6 +12291,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://anapioficeandfire.com/",
+        "Category": "Video"
+    },
+    {
+        "API": "Bob's Burgers API",
+        "Description": "The Bob's Burgers API contains data for hundreds of characters, episodes, running gags, and images from the show",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://bobsburgersapi.com/",
         "Category": "Video"
     },
     {
