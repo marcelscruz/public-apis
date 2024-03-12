@@ -1,5 +1,5 @@
 {
-"count": 1440,
+"count": 1439,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -11022,15 +11022,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://random-words-api.vercel.app/word",
-        "Category": "Test Data"
-    },
-    {
-        "API": "FakeJSON",
-        "Description": "Service to generate test and fake data",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://fakejson.com",
         "Category": "Test Data"
     },
     {
