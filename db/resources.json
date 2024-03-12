@@ -1,5 +1,5 @@
 {
-"count": 1439,
+"count": 1440,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -8165,15 +8165,6 @@
         "Category": "Music"
     },
     {
-        "API": "iTunes Search",
-        "Description": "Software products",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/",
-        "Category": "Music"
-    },
-    {
         "API": "Jamendo",
         "Description": "Music",
         "Auth": "OAuth",
@@ -10280,6 +10271,15 @@
         "Category": "Shopping"
     },
     {
+        "API": "Platzi Fake Store",
+        "Description": "A fake store API for your e-commerce or shopping website prototype. For testing and learning",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://fakeapi.platzi.com/",
+        "Category": "Shopping"
+    },
+    {
         "API": "Rappi",
         "Description": "Manage orders from Rappi's app",
         "Auth": "OAuth",
@@ -11016,12 +11016,12 @@
         "Category": "Test Data"
     },
     {
-        "API": "FakeJSON",
-        "Description": "Service to generate test and fake data",
-        "Auth": "apiKey",
+        "API": "Faker",
+        "Description": "Generate massive amounts of fake (but realistic) data for testing and development.",
+        "Auth": "",
         "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://fakejson.com",
+        "Cors": "unknown",
+        "Link": "https://fakerjs.dev/",
         "Category": "Test Data"
     },
     {
@@ -11337,6 +11337,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://cws.correios.com.br/ajuda",
+        "Category": "Tracking"
+    },
+    {
+        "API": "IndianPincodes",
+        "Description": "API for getting Pincode details in India",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.indianpincodes.co.in",
         "Category": "Tracking"
     },
     {
