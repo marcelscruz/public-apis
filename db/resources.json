@@ -1,5 +1,5 @@
 {
-"count": 1441,
+"count": 1440,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -8162,15 +8162,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://binaryjazz.us/genrenator-api/",
-        "Category": "Music"
-    },
-    {
-        "API": "iTunes Search",
-        "Description": "Software products",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/",
         "Category": "Music"
     },
     {
