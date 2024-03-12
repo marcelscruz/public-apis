@@ -1,5 +1,5 @@
 {
-"count": 1439,
+"count": 1440,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -11337,6 +11337,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://cws.correios.com.br/ajuda",
+        "Category": "Tracking"
+    },
+    {
+        "API": "IndianPincodes",
+        "Description": "API for getting Pincode details in India",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.indianpincodes.co.in",
         "Category": "Tracking"
     },
     {
