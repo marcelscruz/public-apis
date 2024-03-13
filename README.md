@@ -1513,7 +1513,7 @@
 ### Sms
 | API                                                                   | Description                                                                              | Auth | HTTPS | CORS |
 |-----------------------------------------------------------------------|------------------------------------------------------------------------------------------|---|---|------|
-| [Notilify](https://documenter.getpostman.com/view/32462468/2s9YsT6ong) | An SMS analytics platform designed to help businesses engage their customers effectively | `apiKey` | Yes | Yes   |
+| [Notilify](https://documenter.getpostman.com/view/32462468/2s9YsT6ong) | A one-stop platform to send marketing, transactional, reminders, notifications, and other types of SMS | `apiKey` | Yes | Yes   |
 **[⬆ Back to Index](#index)**
 
 ### Social
