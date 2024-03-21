@@ -1,5 +1,5 @@
 {
-"count": 1442,
+"count": 1441,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -8189,15 +8189,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.kkbox.com",
-        "Category": "Music"
-    },
-    {
-        "API": "KSoft.Si Lyrics",
-        "Description": "API to get lyrics for songs",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.ksoft.si/api/lyrics-api",
         "Category": "Music"
     },
     {
