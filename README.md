@@ -322,6 +322,8 @@
 | [Orthodox Church Calendar](http://orthodox-calendar.org/swagger-ui/index.html?urls.primaryName=public#/public-controller/getData) | Orthodox Church calendar | No | No | Unknown |
 | [Russian Calendar](https://github.com/egno/work-calendar) | Check if a date is a Russian holiday or not | No | Yes | No |
 | [UK Bank Holidays](https://www.gov.uk/bank-holidays.json) | Bank holidays in England and Wales, Scotland and Northern Ireland | No | Yes | Unknown |
+| [Generate iCAL](https://apyhub.com/utility/generator-ical) | Generates iCal calendar events that can be used across calendar applications | `apiKey` | Yes | Yes | 
+
 
 **[⬆ Back to Index](#index)**
 
@@ -445,6 +447,7 @@
 | [MetalpriceAPI](https://metalpriceapi.com) | Real-time and historical exchange rates and currency conversion API | `apiKey` | Yes | Unknown |
 | [National Bank of Poland](http://api.nbp.pl/en.html) | A collection of currency exchange rates (data in XML and JSON) | No | Yes | Yes |
 | [VATComply.com](https://www.vatcomply.com/documentation) | Exchange rates, geolocation and VAT number validation | No | Yes | Yes |
+| [Convert Currency to Multiple Currencies](https://apyhub.com/utility/currency-conversion-multiple) | Convert currencies from a source currency to multiple target currencies. | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
@@ -460,6 +463,7 @@
 | [US Extract](https://www.smarty.com/products/apis/us-extract-api) | Extract postal addresses from any text including emails | `apiKey` | Yes | Yes |
 | [US Street Address](https://www.smarty.com/docs/cloud/us-street-api) | Validate and append data for any US postal address | `apiKey` | Yes | Yes |
 | [VatcheckAPI](https://vatcheckapi.com) | VAT Number Validation & Lookup REST API | `apiKey` | Yes | Yes |
+| [Validate UK Postcodes](https://apyhub.com/utility/data-postcodes-uk) | This API validates postal codes within UK | `apiKey` | Yes | Yes | 
 
 **[⬆ Back to Index](#index)**
 
@@ -590,6 +594,7 @@
 | [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel/API.md) | Code compiler supporting 35+ languages mentioned at wandbox.org | No | Yes | Unknown |
 | [WebScraping.AI](https://webscraping.ai/) | Web Scraping API with built-in proxies and JS rendering | `apiKey`| Yes | Yes |
 | [ZenRows](https://www.zenrows.com/) | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies | `apiKey`| Yes | Unknown |
+| [ApyHub](https://apyhub.com) | 100+ APIs Simplifies APIS for implement to basics to complex logic | `apiKey` | Yes | Yes | 
 
 **[⬆ Back to Index](#index)**
 
@@ -644,6 +649,7 @@
 | [WakaTime](https://wakatime.com/developers) | Automated time tracking leaderboards for programmers | No | Yes | Unknown |
 | [WebPDF](https://webpdf.xyz/) | Work with PDF files via API | `apiKey`| Yes | No |
 | [Zube](https://zube.io/docs/api) | Full stack project management | `OAuth`| Yes | Unknown |
+| [ApyHub'S File Conversion] | Word to PDF, HTML to WORD, HEIC to PNG, CSV to JSON, RSS to JSON, Wav to MP3, CSV to Excel and more | `apiKey` | Yes | Yes
 
 **[⬆ Back to Index](#index)**
 
@@ -671,6 +677,7 @@
 | [Sendinblue](https://developers.sendinblue.com/docs) | A service that provides solutions relating to marketing and/or transactional email and/or SMS | `apiKey` | Yes | Unknown |
 | [Valid Email](https://validemail.io/) | Verify email addresses for spam and delivery | `apiKey` | Yes | Unknown |
 | [Verifier](https://verifier.meetchopra.com/docs#/) | Verifies that a given email is real | `apiKey` | Yes | Yes |
+[ [Validate Email DNS (including Disposable Emails)] | Verifies whether the email domain provided can receive emails. In addition to this check, it also can check that the emails are not disposable ones | `apiKey` | Yes | Yes
 
 **[⬆ Back to Index](#index)**
 
@@ -773,6 +780,7 @@
 | [WallstreetBets](https://dashboard.nbshare.io/apps/reddit/api/) | WallstreetBets Stock Comments Sentiment Analysis | No | Yes | Unknown |
 | [YNAB](https://api.youneedabudget.com/) | Budgeting & Planning | `OAuth`| Yes | Yes |
 | [Zoho Books](https://www.zoho.com/books/api/v3/) | Online accounting software, built for your business | `OAuth`| Yes | Unknown |
+| [Validate Swift/BIC ](https://apyhub.com/utility/finance-validator-bic) | Validates BIC/SWIFT code. |  `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
