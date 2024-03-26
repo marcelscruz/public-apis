@@ -1,5 +1,5 @@
 {
-"count": 1439,
+"count": 1440,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -12183,6 +12183,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://shrtlnk.dev/developer",
+        "Category": "URL Shorteners"
+    },
+    {
+        "API": "Spoo.me",
+        "Description": "Free URL shortener with custom alias, max-clicks, password protection and advanced analytics support",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://spoo.me/api",
         "Category": "URL Shorteners"
     },
     {
