@@ -683,6 +683,7 @@
 | [Fuck Off As A Service](https://foaas.dev/) | FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. | No | Yes | Unknown |
 | [Imgflip](https://imgflip.com/api) | Gets an array of popular memes | No | Yes | Unknown |
 | [JokeAPI](https://jokeapi.dev/) | Jokes in multiple formats | No | Yes | Yes |
+| [Keanu Reeves Whoa](https://whoa.onrender.com/) | JSON API for every "whoa" said by actor Keanu Reeves in his movies | No | Yes | Unknown |
 | [Meme Maker](https://mememaker.github.io/API/) | REST API for create your own meme | No | Yes | Unknown |
 | [Official Joke](https://official-joke-api.appspot.com/) | API for random and programming jokes | No | Yes | Unknown |
 | [Puns](https://punapi.rest/) | Puns and pun based memes. REST API | No | Yes | Yes |
