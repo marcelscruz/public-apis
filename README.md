@@ -100,6 +100,7 @@
 * [Science & Math](#science--math)
 * [Security](#security)
 * [Shopping](#shopping)
+* [SMS](#sms)
 * [Social](#social)
 * [Sports & Fitness](#sports--fitness)
 * [Test Data](#test-data)
@@ -1510,6 +1511,12 @@
 
 **[⬆ Back to Index](#index)**
 
+### Sms
+| API                                                                   | Description                                                                              | Auth | HTTPS | CORS |
+|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------|---|---|------|
+| [Notilify](https://documenter.getpostman.com/view/32462468/2s9YsT6ong) | A one-stop platform to send marketing, transactional, reminders, notifications, and other types of SMS | `apiKey` | Yes | Yes   |
+**[⬆ Back to Index](#index)**
+
 ### Social
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
@@ -1863,4 +1870,3 @@
 | [Yandex.Weather](https://yandex.com/dev/weather/) | Assesses weather condition in specific locations | `apiKey` | Yes | No |
 
 **[⬆ Back to Index](#index)**
-
