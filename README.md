@@ -258,6 +258,7 @@
 | [Ganjoor](https://api.ganjoor.net) | Classic Persian poetry works including access to related manuscripts, recitations and music tracks | `OAuth`| Yes | Yes |
 | [Google Books](https://developers.google.com/books/) | Books | `OAuth`| Yes | Unknown |
 | [Gutendex](https://gutendex.com/) | Web-API for fetching data from Project Gutenberg Books Library | No | Yes | Unknown |
+| [Harry Potter](https://github.com/fedeperin/potterapi) | API to get data from Harry Potter books, movies and characters | No | Yes | Yes |
 | [Open Library](https://openlibrary.org/developers/api) | Books, book covers and related data | No | Yes | No |
 | [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/) | Books, book covers and related data | No | Yes | Yes |
 | [PoetryDB](https://github.com/thundercomb/poetrydb#readme) | Enables you to get instant data from our vast poetry collection | No | Yes | Yes |
@@ -269,7 +270,6 @@
 | [Thirukkural](https://api-thirukkural.web.app/) | 1330 Thirukkural poems and explanation in Tamil and English | No | Yes | Yes |
 | [Wizard World](https://wizard-world-api.herokuapp.com/swagger/index.html) | Get information from the Harry Potter universe | No | Yes | Yes |
 | [Wolne Lektury](https://wolnelektury.pl/api/) | API for obtaining information about e-books available on the WolneLektury.pl website | No | Yes | Unknown |
-| [Harry Potter](https://github.com/fedeperin/potterapi) | API to get data from Harry Potter books, movies and characters | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
