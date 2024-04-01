@@ -1,5 +1,5 @@
 {
-"count": 1447,
+"count": 1448,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -4184,6 +4184,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://jokeapi.dev/",
+        "Category": "Entertainment"
+    },
+    {
+        "API": "Keanu Reeves Whoa",
+        "Description": "JSON API for every \"whoa\" said by actor Keanu Reeves in his movies",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://whoa.onrender.com/",
         "Category": "Entertainment"
     },
     {
