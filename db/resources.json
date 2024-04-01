@@ -1,5 +1,5 @@
 {
-"count": 1448,
+"count": 1449,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -971,6 +971,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://gutendex.com/",
+        "Category": "Books"
+    },
+    {
+        "API": "Harry Potter",
+        "Description": "API to get data from Harry Potter books, movies and characters",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://github.com/fedeperin/potterapi",
         "Category": "Books"
     },
     {
