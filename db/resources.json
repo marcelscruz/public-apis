@@ -1,5 +1,5 @@
 {
-"count": 1442,
+"count": 1447,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -1334,6 +1334,15 @@
         "Category": "Calendar"
     },
     {
+        "API": "Generate iCAL",
+        "Description": "Generates iCal calendar events that can be used across calendar applications",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/generator-ical",
+        "Category": "Calendar"
+    },
+    {
         "API": "Google Calendar",
         "Description": "Display, create and modify Google calendar events",
         "Auth": "OAuth",
@@ -2333,6 +2342,15 @@
         "Category": "Currency Exchange"
     },
     {
+        "API": "Convert Currency to Multiple Currencies",
+        "Description": "Convert currencies from a source currency to multiple target currencies.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/currency-conversion-multiple",
+        "Category": "Currency Exchange"
+    },
+    {
         "API": "API Adresse",
         "Description": "Official French address validation service",
         "Auth": "",
@@ -2405,6 +2423,15 @@
         "Category": "Data Validation"
     },
     {
+        "API": "Validate UK Postcodes",
+        "Description": "This API validates postal codes within UK",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/data-postcodes-uk",
+        "Category": "Data Validation"
+    },
+    {
         "API": "VatcheckAPI",
         "Description": "VAT Number Validation & Lookup REST API",
         "Auth": "apiKey",
@@ -2474,6 +2501,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://apis.guru/api-doc/",
+        "Category": "Development"
+    },
+    {
+        "API": "ApyHub",
+        "Description": "100+ APIs Simplifies APIS for implement to basics to complex logic",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com",
         "Category": "Development"
     },
     {
@@ -4778,6 +4814,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://dashboard.nbshare.io/apps/reddit/api/",
+        "Category": "Finance"
+    },
+    {
+        "API": "Validate Swift/BIC ",
+        "Description": "Validates BIC/SWIFT code.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/finance-validator-bic",
         "Category": "Finance"
     },
     {
