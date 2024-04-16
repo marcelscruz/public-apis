@@ -1,5 +1,5 @@
 {
-"count": 1450,
+"count": 1451,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -845,6 +845,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://etherscan.io/apis",
+        "Category": "Blockchain"
+    },
+    {
+        "API": "GetBlock",
+        "Description": "Blockchain RPC Node provider that supports over 50 multiple blockchains",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://getblock.io/",
         "Category": "Blockchain"
     },
     {
