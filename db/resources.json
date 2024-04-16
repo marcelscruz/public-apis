@@ -1,5 +1,5 @@
 {
-"count": 1455,
+"count": 1453,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -161,15 +161,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://place.dog",
-        "Category": "Animals"
-    },
-    {
-        "API": "PlaceKitten",
-        "Description": "Placeholder Kitten pictures",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://placekitten.com/",
         "Category": "Animals"
     },
     {
@@ -11121,15 +11112,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://avatars.dicebear.com/",
-        "Category": "Test Data"
-    },
-    {
-        "API": "English Random Words",
-        "Description": "Generate English Random Words with Pronunciation",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://random-words-api.vercel.app/word",
         "Category": "Test Data"
     },
     {
