@@ -1,5 +1,5 @@
 {
-"count": 1449,
+"count": 1450,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -10914,6 +10914,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://rapidapi.com/api-sports/api/api-nba/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "NBA GraphQL",
+        "Description": "Advanced NBA Player, Team, and Season Statistics and Data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://nbaapi.com/graphql/",
         "Category": "Sports & Fitness"
     },
     {
