@@ -2299,7 +2299,7 @@
     {
         "API": "Exchangerate.host",
         "Description": "Free foreign exchange & crypto rates API",
-        "Auth": "",
+        "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://exchangerate.host",
