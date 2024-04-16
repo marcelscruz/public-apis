@@ -1,5 +1,5 @@
 {
-"count": 1451,
+"count": 1452,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -11643,6 +11643,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://rapidapi.com/farish978/api/flight-fare-search",
+        "Category": "Transportation"
+    },
+    {
+        "API": "Fuel Prices at Spanish Gas Stations",
+        "Description": "Provides information about fuel prices at gas stations in Spain",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://datos.gob.es/en/apidata",
         "Category": "Transportation"
     },
     {
