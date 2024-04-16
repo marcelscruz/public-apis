@@ -1,5 +1,5 @@
 {
-"count": 1452,
+"count": 1453,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -8621,6 +8621,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://archive.readme.io/docs",
+        "Category": "Open Data"
+    },
+    {
+        "API": "ArgentinaDatos",
+        "Description": "Unofficial Argentinian data API",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://argentinadatos.com/",
         "Category": "Open Data"
     },
     {
