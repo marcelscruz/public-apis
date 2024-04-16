@@ -1,5 +1,5 @@
 {
-"count": 1454,
+"count": 1455,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -809,6 +809,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://graphql.bitquery.io/ide",
+        "Category": "Blockchain"
+    },
+    {
+        "API": "Bscscan",
+        "Description": "Binance Smart Chain explorer API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://bscscan.com/apis",
         "Category": "Blockchain"
     },
     {
