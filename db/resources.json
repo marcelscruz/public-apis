@@ -1,5 +1,5 @@
 {
-"count": 1453,
+"count": 1454,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -7947,6 +7947,15 @@
         "Cors": "unknown",
         "Link": "https://www.whatjobs.com/affiliates",
         "Category": "Jobs"
+    },
+    {
+        "API": "AI/ML API",
+        "Description": "Access 100+ curated AI Models over 1 API",
+        "Auth": "Yes",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://aimlapi.com",
+        "Category": "Machine Learning"
     },
     {
         "API": "AI For Thai",
