@@ -1,5 +1,5 @@
 {
-"count": 1457,
+"count": 1458,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3941,6 +3941,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.todoist.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "URL to Markdown",
+        "Description": "Convert web page to MarkDown",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://github.com/macsplit/urltomarkdown",
         "Category": "Documents & Productivity"
     },
     {
