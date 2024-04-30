@@ -437,6 +437,7 @@
 | [Currency-api](https://github.com/fawazahmed0/currency-api#readme) | Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits | No | Yes | Yes |
 | [CurrencyFreaks](https://currencyfreaks.com/) | Provides current and historical currency exchange rates with free plan 1K requests/month | `apiKey` | Yes | Yes |
 | [CurrencyScoop](https://currencyscoop.com/api-documentation) | Real-time and historical currency rates JSON API | `apiKey` | Yes | Yes |
+| [Convert Currency](https://apyhub.com/utility/currency-conversion) | Converts a source currency to a target currency| `apiKey` | Yes | Yes |
 | [Czech National Bank](https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml) | A collection of exchange rates | No | Yes | Unknown |
 | [Economia.Awesome](https://docs.awesomeapi.com.br/api-de-moedas) | Portuguese free currency prices and conversion with no rate limits | No | Yes | Unknown |
 | [ExchangeRate-API](https://www.exchangerate-api.com) | Free currency conversion | `apiKey` | Yes | Yes |
@@ -465,6 +466,11 @@
 | [US Extract](https://www.smarty.com/products/apis/us-extract-api) | Extract postal addresses from any text including emails | `apiKey` | Yes | Yes |
 | [US Street Address](https://www.smarty.com/docs/cloud/us-street-api) | Validate and append data for any US postal address | `apiKey` | Yes | Yes |
 | [Validate UK Postcodes](https://apyhub.com/utility/data-postcodes-uk) | This API validates postal codes within UK | `apiKey` | Yes | Yes |
+| [Validate Indian Postcodes](https://apyhub.com/utility/data-postcodes-india) | This API validates postcodes within India | `apiKey` | Yes | Yes |
+| [Validate IFSC Code](https://apyhub.com/utility/finance-validator-ifsc) |This API validates IFSC (Indian Financial System Code) codes.  | ``apiKey`` | Yes | Yes |
+| [Validate Aadhar number](https://apyhub.com/utility/aadhar-validator) | This API validates UIDAI Aadhaar numbers. | `apiKey` | Yes | Yes |
+| [Validate IBAN Code](https://apyhub.com/utility/finance-validator-iban) | This API validates the IBAN (International Bank Account Number) code. | `apiKey` | Yes | Yes |
+| [Validate EU VAT](https://apyhub.com/utility/vat-number-validator) |  Checks whether a VAT number is valid in any of the EU member states.| `apiKey` | Yes | Yes |
 | [VatcheckAPI](https://vatcheckapi.com) | VAT Number Validation & Lookup REST API | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
@@ -479,8 +485,10 @@
 | [ApicAgent](https://www.apicagent.com) | Extract device details from user-agent string | No | Yes | Yes |
 | [ApiFlash](https://apiflash.com/) | Chrome based screenshot API for developers | `apiKey`| Yes | Unknown |
 | [APIs.guru](https://apis.guru/api-doc/) | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | No | Yes | Unknown |
-| [ApyHub](https://apyhub.com) | 100+ APIs Simplifies APIS for implement to basics to complex logic | `apiKey` | Yes | Yes |
+| [ApyHub](https://apyhub.com) | 100+ APIs Simplifies APIS for implement to basics to complex logic | `apiKey` | Yes | Yes | 
+| [Archive Files](https://apyhub.com/utility/generate-file-archive) | ZIP Archive File using this API | ``apiKey`` | Yes | Yes |
 | [Azure DevOps](https://docs.microsoft.com/en-us/rest/api/azure/devops) | The Azure DevOps basic components of a REST API request/response pair | `apiKey`| Yes | Unknown |
+| [Bar Code](https://apyhub.com/utility/generate-bar-code) | Dynamically generate Barcodes | `apiKey` | Yes | Yes |
 | [Beeceptor](https://beeceptor.com/) | Build a mock Rest API endpoint in seconds | No | Yes | Yes |
 | [Bitbucket](https://developer.atlassian.com/bitbucket/api/2/reference/) | Bitbucket API | `OAuth` | Yes | Unknown |
 | [Blague.xyz](https://blague.xyz/) | La plus grande API de Blagues FR/The biggest FR jokes API | `apiKey`| Yes | Yes |
@@ -496,12 +504,14 @@
 | [Cloudflare Trace](https://github.com/fawazahmed0/cloudflare-trace-api) | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More | No | Yes | Yes |
 | [Codex](https://github.com/Jaagrav/CodeX) | Online Compiler for Various Languages | No | Yes | Unknown |
 | [Contentful Images](https://www.contentful.com/developers/docs/references/images-api/) | Used to retrieve and apply transformations to images | `apiKey`| Yes | Yes |
+| [Country Information](https://apyhub.com/utility/data-info-country) | Get details about a specific country. | ``apiKey`` | Yes | Yes |
 | [CORS Proxy](https://github.com/burhanuday/cors-proxy) | Get around the dreaded CORS error by using this proxy as a middle man | No | Yes | Yes |
 | [Databricks](https://docs.databricks.com/dev-tools/api/latest/index.html) | Service to manage your databricks account,clusters, notebooks, jobs and workspaces | `apiKey`| Yes | Yes |
 | [DigitalOcean Status](https://status.digitalocean.com/api) | Status of all DigitalOcean services | No | Yes | Unknown |
 | [Docker Hub](https://docs.docker.com/docker-hub/api/latest/) | Interact with Docker Hub | `apiKey`| Yes | Yes |
 | [DomainDb Info](https://api.domainsdb.info/) | Domain name search to find all domains containing particular words/phrases/etc | No | Yes | Unknown |
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | A simple JSON store API | No | Yes | Yes |
+| [Generate Full Webpage Screenshot](https://apyhub.com/utility/generate-webpage-screenshot) |  Dynamically capture full page screenshots of websites.| ``apiKey`` | Yes | Yes |
 | [Gcore CDN](https://docs.gcore.com/cdn) | Make your app fast and responsive for a global audience with Gcore CDN. | `apiKey` | Yes | Yes |
 | [Gcore Cloud](https://docs.gcore.com/cloud) | Scalable, secure, and reliable hybrid cloud services anywhere in the world. | `apiKey` | Yes | Yes |
 | [Gcore DNS](https://docs.gcore.com/dns) | Fast and resilient DNS hosting service by Gcore. Improve the performance and availability of your online business. | `apiKey` | Yes | Yes |
@@ -528,6 +538,7 @@
 | [Httpbin Cloudflare](https://cloudflare-quic.com/b/) | A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare | No | Yes | Yes |
 | [Hunter](https://hunter.io/api) | API for domain search, professional email finder, author finder and email verifier | `apiKey`| Yes | Unknown |
 | [IBM Text to Speech](https://cloud.ibm.com/docs/text-to-speech/getting-started.html) | Convert text to speech | `apiKey`| Yes | Yes |
+| [HEIC to JPG/PNG API](https://apyhub.com/utility/image-converter-heic-jpeg-png) |  Converts a HEIC Image file to JPG/PNG | `apiKey` | Yes | Yes |
 | [IFTTT](https://platform.ifttt.com/docs/connect_api) | IFTTT Connect API | No | Yes | Unknown |
 | [Image-Charts](https://documentation.image-charts.com/) | Generate charts, QR codes and graph images | No | Yes | Yes |
 | [import.io](http://api.docs.import.io/) | Retrieve structured data from a website or RSS feed | `apiKey`| Yes | Unknown |
@@ -536,6 +547,7 @@
 | [IPify](https://www.ipify.org/) | A simple IP Address API | No | Yes | Unknown |
 | [IPinfo](https://ipinfo.io/developers) | Another simple IP Address API | No | Yes | Unknown |
 | [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) | Package info and download stats on jsDelivr CDN | No | Yes | Yes |
+| [JPEG to WebP API](https://apyhub.com/utility/image-converter-jpeg-webp) |  Converts a JPEG Image file to WebP| `apiKey` | Yes | Yes |
 | [JSON 2 JSONP](https://json2jsonp.com/) | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript | No | Yes | Unknown |
 | [JSONbin.io](https://jsonbin.io) | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps | `apiKey`| Yes | Yes |
 | [JSONsilo.com](https://jsonsilo.com) | Hassle-free JSON hosting. Convert your JSON file to an API in minutes at no cost. | `apiKey` | Yes | Yes | No |
@@ -558,13 +570,16 @@
 | [oyyi](https://oyyi.xyz/docs/1.0) | API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation | No | Yes | Yes |
 | [PageCDN](https://pagecdn.com/docs/public-api) | Public API for javascript, css and font libraries on PageCDN | `apiKey`| Yes | Yes |
 | [Postman](https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a) | Tool for testing APIs | `apiKey`| Yes | Unknown |
+| [PNG to WebP](https://apyhub.com/utility/image-converter-png-webp) |  Converts a PNG Image file to WebP | `apiKey` | Yes | Yes |
 | [ProxyCrawl](https://proxycrawl.com) | Scraping and crawling anticaptcha service | `apiKey`| Yes | Unknown |
 | [ProxyKingdom](https://proxykingdom.com) | Rotating Proxy API that produces a working proxy on every request | `apiKey`| Yes | Yes |
 | [Pusher Beams](https://pusher.com/beams) | Push notifications for Android & iOS | `apiKey`| Yes | Unknown |
+| [Protect Files using Password](https://apyhub.com/utility/generate-secure-file-archive) | archive multiple files to a password-protected ZIP file.  | `apiKey` | Yes | Yes |
 | [Pusher Channels](https://pusher.com/channels) | Realtime features | `apiKey`| Yes | Unknown |
 | [QR code](https://www.qrtag.net/api/) | Create an easy to read QR code and URL shortener | No | Yes | Yes |
 | [QR code](http://goqr.me/api/) | Generate and decode / read QR code graphics | No | Yes | Unknown |
 | [QR code Generator](https://docs.openqr.io/) | Static and Dynamic QR code generator with custom and unique QR code design | `apiKey` | Yes | Unknown |
+| [QR Code Generator](https://apyhub.com/utility/generate-qr-code) | Generate Personalized QR Codes | ``apiKey`` | Yes | Yes |
 | [Qrcode Monkey](https://www.qrcode-monkey.com/qr-code-api-with-logo/) | Integrate custom and unique looking QR codes into your system or workflow | No | Yes | Unknown |
 | [QuickChart](https://quickchart.io/) | Generate chart and graph images | No | Yes | Yes |
 | [Random Stuff](https://api-docs.pgamerx.com/) | Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed | `apiKey`| Yes | Yes |
@@ -582,6 +597,7 @@
 | [Screenshotbase](https://screenshotbase.com/) | Screenshot API, 1000 free requests per month | `apiKey`| Yes | Yes |
 | [ScreenshotOne.com](https://screenshotone.com/) | Convert URLs, HTML, or Markdown into PNG, JPEG, WebP, or PDF with a simple screenshot API | `apiKey`| Yes | Yes |
 | [SearchApi](https://www.searchapi.io/) | Real-Time Google SERP API | `apiKey` | Yes | No |
+| [SERP Rank Checker](https://apyhub.com/utility/serp-rank) | Check realtime Google SERP Rank of any keywords.  | `apiKey` | Yes | Yes |
 | [Serialif Color](https://color.serialif.com/) | Color conversion, complementary, grayscale and contrasted text | No | Yes | No |
 | [SerpApi](https://serpapi.com/) | Scrape Google and other search engines  | `apiKey` | Yes | No |
 | [Shadify](https://github.com/cheatsnake/shadify) | Service for generating data and executing logic to create various games and puzzles | No | Yes | Yes |
@@ -589,11 +605,17 @@
 | [Sonar](https://github.com/Cgboal/SonarSearch) | Project Sonar DNS Enumeration API | No | Yes | Yes |
 | [SonarQube](https://sonarcloud.io/web_api) | SonarQube REST APIs to detect bugs, code smells & security vulnerabilities | `OAuth` | Yes | Unknown |
 | [StackExchange](https://api.stackexchange.com/) | Q&A forum for developers | `OAuth` | Yes | Unknown |
+| [Speech to Text](https://apyhub.com/utility/speech-to-text) | Convert spoken word into text.| ``apiKey`` | Yes | Yes |
 | [Statically](https://statically.io/) | A free CDN for developers | No | Yes | Yes |
 | [Supportivekoala](https://developers.supportivekoala.com/) | Autogenerate images with template | `apiKey`| Yes | Yes |
 | [Svix](https://www.svix.com) | Webhooks as a Service | `apiKey` | Yes | Unknown |
+| [SVG to WebP](https://apyhub.com/utility/image-converter-svg-webp) | Converts a SVG Image file to WebP | ``apiKey`` | Yes | Yes |
 | [Tolgee](https://tolgee.io) | Open-source localization (i18n) platform enabling you to translate you app fast | `apiKey` | Yes | No |
 | [Tyk](https://tyk.io/open-source/) | Api and service management platform | `apiKey`| Yes | Yes |
+| [Text to Speech](https://apyhub.com/utility/text-to-speech) | Convert written text to speech.| ``apiKey`` | Yes | Yes |
+| [Unarchive Password Protected Files](https://apyhub.com/utility/extract-file-secure-unarchive) |  Extracts files from a password protected archive. | `apiKey` | Yes | Yes |
+| [Unarchive Files](https://apyhub.com/utility/extract-file-unarchive) | Unarchive Files easily. | `apiKey` | Yes | Yes |
+| [User Agent](https://apyhub.com/utility/extract-user-agent) | Dynamically find the user agent information based on the user agent string passed. | `apiKey` | Yes | Yes |
 | [YADG](https://yadg.cc/api/v2/) | An API that scrapes music release data and renders it using different templates | `apiKey`| Yes | Unknown |
 | [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel/API.md) | Code compiler supporting 35+ languages mentioned at wandbox.org | No | Yes | Unknown |
 | [WebScraping.AI](https://webscraping.ai/) | Web Scraping API with built-in proxies and JS rendering | `apiKey`| Yes | Yes |
@@ -607,11 +629,14 @@
 | [Chinese Character Web](http://ccdb.hemiola.com/) | Chinese character definitions and pronunciations | No | No | No |
 | [Chinese Text Project](https://ctext.org/tools/api) | Online open-access digital library for pre-modern Chinese texts | No | Yes | Unknown |
 | [Collins](https://api.collinsdictionary.com/api/v1/documentation/html/) | Bilingual Dictionary and Thesaurus Data | `apiKey` | Yes | Unknown |
+| [Countries Dictionary](https://apyhub.com/utility/data-lists-country) |   Provides the list of all officially listed countries | `apiKey` | Yes | Yes |
+| [Currencies Dictionary](https://apyhub.com/utility/data-lists-currency) | Provides the list of all officially listed currencies | `apiKey` | Yes | Yes |
 | [Free Dictionary](https://dictionaryapi.dev/) | Definitions, phonetics, pronounciations, parts of speech, examples, synonyms | No | Yes | Unknown |
 | [Lingua Robot](https://www.linguarobot.io) | Word definitions, pronunciations, synonyms, antonyms and others | `apiKey` | Yes | Yes |
 | [Merriam-Webster](https://dictionaryapi.com/) | Dictionary and Thesaurus Data | `apiKey` | Yes | Unknown |
 | [Oxford](https://developer.oxforddictionaries.com/) | Dictionary Data | `apiKey` | Yes | No |
 | [Synonyms](https://www.synonyms.com/synonyms_api.php) | Synonyms, thesaurus and antonyms information for any given word | `apiKey` | Yes | Unknown |
+| [Timezones Dictionary](https://apyhub.com/utility/data-lists-timezone) |  Provides the list of all available timezones| `apiKey` | Yes | Yes |
 | [Wiktionary](https://en.wiktionary.org/w/api.php) | Collaborative dictionary data | No | Yes | Yes |
 | [Wordnik](https://developer.wordnik.com) | Dictionary Data | `apiKey` | Yes | Unknown |
 | [Words](https://www.wordsapi.com/docs/) | Definitions and synonyms for more than 150,000 words | `apiKey` | Yes | Unknown |
@@ -624,15 +649,35 @@
 |---|---|---|---|---|
 | [Airtable](https://airtable.com/api) | Integrate with Airtable | `apiKey` | Yes | Unknown |
 | [Api2Convert](https://www.api2convert.com/) | Online File Conversion API | `apiKey` | Yes | Unknown |
+| [Apply Watermark and Footers on PDF](https://apyhub.com/utility/pdf-stamp-watermark-footers) |  This API adds a header, footer, and watermark to your PDF file. | `apiKey` | Yes | Yes |
+| [Apply Footers on PDF](https://apyhub.com/utility/pdf-stamp-footers) |  This API adds a header or footer to your PDF file. | `apiKey` | Yes | Yes |
+| [Apply Watermark on PDF](https://apyhub.com/utility/pdf-stamp-watermark) | This API lets you add a watermark to your existing PDF file. | `apiKey` | Yes | Yes |
 | [Asana](https://developers.asana.com/docs) | Programmatic access to all data in your asana system | `apiKey` | Yes | Yes |
 | [ClickUp](https://clickup.com/api) | ClickUp is a robust, cloud-based project management tool for boosting productivity | `OAuth`| Yes | Unknown |
 | [Clockify](https://clockify.me/developers-api) | Clockify's REST-based API can be used to push/pull data to/from it & integrate it with other systems | `apiKey` | Yes | Unknown |
 | [CloudConvert](https://cloudconvert.com/api/v2) | Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation | `apiKey` | Yes | Unknown |
 | [Cloudmersive Document and Data Conversion](https://cloudmersive.com/convert-api) | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | `apiKey` | Yes | Yes |
 | [Code::Stats](https://codestats.net/api-docs) | Automatic time tracking for programmers | `apiKey` | Yes | No |
+| [Convert Word to PDF](https://apyhub.com/utility/converter-doc-pdf) | Convert a Word document (doc, docx, or ODF formats) to a PDF document | `apiKey` | Yes | Yes |
+| [Convert Spreadsheet to PDF](https://apyhub.com/utility/converter-spreadsheet-pdf) | Convert a spreadsheet ( xls, xlsx or odf formats) to a pdf document  | `apiKey` | Yes | Yes |
+| [Convert Presentation to PDF](https://apyhub.com/utility/converter-presentation-pdf) |  Convert a presentation ( ppt, pptx, or odf formats) to a pdf document| ``apiKey`` | Yes | Yes | 
+| [Convert Images to PDF](https://apyhub.com/utility/converter-image-pdf) | Convert an Image ( jpeg, jpg, or png formats) to a pdf document. | `apiKey` | Yes | Yes |
+| [Convert Webpage to PDF](https://apyhub.com/utility/generate-url-pdf) | Converts a Webpage using URL to a PDF | `apiKey` | Yes | Yes |
+| [Convert HTML Content to PDF](https://apyhub.com/utility/generate-html-pdf) |  Convert HTML content into a pdf file | `apiKey` | Yes | Yes |
+| [Convert HTML to Word](https://apyhub.com/utility/html-to-docx) | Transform an HTML document (compatible with HTML or XHTML) into a Microsoft Word document. | `apiKey` | Yes | Yes |
+| [Convert CSV to JSON](https://apyhub.com/utility/converter-csv-json) | Converts a CSV File to a JSON File | `apiKey` | Yes | Yes |
+| [Convert JSON to CSV](https://apyhub.com/utility/converter-json-csv) | Converts a JSON File to a CSV File. | `apiKey` | Yes | Yes |
+| [Convert RSS to JSON](https://apyhub.com/utility/converter-rss-json) |  Transform raw RSS data into structured JSON | `apiKey` | Yes | Yes |
+| [Convert MD File to HTML File](https://apyhub.com/utility/converter-md-html) | Convert a Markdown file to HTML file | `apiKey` | Yes | Yes |
+| [Convert Markdown Content to HTML Content](https://apyhub.com/utility/md-content-html) |  Convert Markdown content to HTML Content | `apiKey` | Yes | Yes |
+| [Convert CSV to Excel](https://apyhub.com/utility/converter-csv-excel) | Converts a comma-separated values (CSV) file to an Excel spreadsheet. | `apiKey` | Yes | Yes
 | [CraftMyPDF](https://craftmypdf.com) | Generate PDF documents from templates with a drop-and-drop editor and a simple API | `apiKey` | Yes | No |
+| [Extract Text from Webpage](https://apyhub.com/utility/extractor-webpage-text) | Extracts plain text from a Webpage | ``apiKey`` | Yes | Yes |
+| [Extract Text from Word](https://apyhub.com/utility/extractor-word-text) | Extracts plain text from a word document | ``apiKey`` | Yes | Yes |
+| [Extract Text from PDF](https://apyhub.com/utility/extractor-pdf-text) | Extracts plain text from a PDF document | ``apiKey`` | Yes | Yes |
 | [FastApi Simple Calculator](https://fastapi-calculadora.onrender.com/) | Math, Stadistics, Conversions, Currency and more | No | Yes | Unknown |
 | [Flowdash](https://docs.flowdash.com/docs/api-introduction) | Automate business workflows | `apiKey` | Yes | Unknown |
+| [Fuzzy Text Search](https://apyhub.com/utility/search-fuzzy-text) | Find most relatable text from sentennce.  | ``apiKey`` | Yes | Yes |
 | [Html2PDF](https://html2pdf.app/) | HTML/URL to PDF | `apiKey` | Yes | Unknown |
 | [iLovePDF](https://developer.ilovepdf.com/) | Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month | `apiKey` | Yes | Yes |
 | [JIRA](https://developer.atlassian.com/server/jira/platform/rest-apis/) | JIRA is a proprietary issue tracking product that allows bug tracking and agile project management | `OAuth`| Yes | Unknown |
@@ -648,6 +693,7 @@
 | [RenderPDF.io](https://renderpdf.io) | HTML to PDF crazy fast, 500 pdfs/month + CDN-ready | `apiKey` | Yes | Yes |
 | [Restpack](https://restpack.io/) | Provides screenshot, HTML to PDF and content extraction APIs | `apiKey` | Yes | Unknown |
 | [Todoist](https://developer.todoist.com) | Todo Lists | `OAuth`| Yes | Unknown |
+| [Translate Documents](https://apyhub.com/utility/text-translator) |  Translate a document to a specified langiage. | ``apiKey`` | Yes | Yes |
 | [URL to Markdown](https://github.com/macsplit/urltomarkdown) | Convert web page to MarkDown | No | Yes | Yes |
 | [Vector Express v2.0](https://vector.express) | Free vector file converting API | No | Yes | No |
 | [Vertopal](https://www.vertopal.com/en/developer/api/introduction) | Convert your files to a variety of formats using Vertopal API | `apiKey` | Yes | No |
@@ -661,6 +707,7 @@
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Abstract Email Validation](https://www.abstractapi.com/email-verification-validation-api) | Validate email addresses for deliverability and spam | `apiKey` | Yes | Yes |
+| [Academic Email Validation](https://apyhub.com/utility/validator-academic-email) | Verify whether the email belongs to a recognized educational institution.| `apiKey` | Yes | Yes |
 | [Cloudmersive Validate](https://cloudmersive.com/validate-api) | Validate email addresses, phone numbers, VAT numbers and domain names | `apiKey` | Yes | Yes |
 | [Disify](https://www.disify.com/) | Validate and detect disposable and temporary email addresses | No | Yes | Yes |
 | [DropMail](https://dropmail.me/api/#live-demo) | GraphQL API for creating and managing ephemeral e-mail inboxes | No | Yes | Unknown |
@@ -680,6 +727,7 @@
 | [Sendgrid](https://docs.sendgrid.com/api-reference/) | A cloud-based SMTP provider that allows you to send emails without having to maintain email servers | `apiKey` | Yes | Unknown |
 | [Sendinblue](https://developers.sendinblue.com/docs) | A service that provides solutions relating to marketing and/or transactional email and/or SMS | `apiKey` | Yes | Unknown |
 | [Valid Email](https://validemail.io/) | Verify email addresses for spam and delivery | `apiKey` | Yes | Unknown |
+| [Validate Email DNS ( including Disposable Emails )](https://apyhub.com/utility/validator-dns-email) | Verify whether the email domain provided can receive emails | ``apiKey`` | Yes | Yes |
 | [Verifier](https://verifier.meetchopra.com/docs#/) | Verifies that a given email is real | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
@@ -1189,6 +1237,8 @@
 | [Perspective](https://perspectiveapi.com) | NLP API to return probability that if text is toxic, obscene, insulting or threatening | `apiKey` | Yes | Unknown |
 | [Roboflow Universe](https://universe.roboflow.com) | Pre-trained computer vision models | `apiKey` | Yes | Yes |
 | [SkyBiometry](https://skybiometry.com/documentation/) | Face Detection, Face Recognition and Face Grouping | `apiKey` | Yes | Unknown |
+| [Summarize Text with AI](https://apyhub.com/utility/ai-summarize) | Generates summaries of text and web pages using AI | `apiKey` | Yes | Yes |
+| [Summarize Documents with AI](https://apyhub.com/utility/ai-summarize-documents) | Genartes summarize of PDFs, DOCs, and ODFs Documents | `apiKey` | Yes | Yes |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Yes | Unknown |
 | [WolframAlpha](https://products.wolframalpha.com/api/) | Provides specific answers to questions using data and algorithms | `apiKey` | Yes | Unknown |
 
@@ -1226,6 +1276,7 @@
 | [TasteDive](https://tastedive.com/read/api) | Similar artist API (also works for movies and TV shows) | `apiKey` | Yes | Unknown |
 | [TheAudioDB](https://www.theaudiodb.com/api_guide.php) | Music | `apiKey` | Yes | Unknown |
 | [Vagalume](https://api.vagalume.com.br/docs/) | Crowdsourced lyrics and music knowledge | `apiKey` | Yes | Unknown |
+| [WAV to MP3](https://apyhub.com/utility/audio-converter-wav-mp3) | Converts a WAV file into MP3 File | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
@@ -1273,6 +1324,7 @@
 | [Enigma Public](https://developers.enigma.com/docs) | Broadest collection of public data | `apiKey` | Yes | Yes |
 | [French Address Search](https://geo.api.gouv.fr/adresse) | Address search via the French Government | No | Yes | Unknown |
 | [GENESIS](https://www.destatis.de/EN/Service/OpenData/api-webservice.html) | Federal Statistical Office Germany | `OAuth`| Yes | Unknown |
+| [Generate Link Preview (including checking for malicious links)](https://apyhub.com/utility/link-preview) | Fetches metadata from any URL passed to it, including Open Graph tags. | `apiKey` | Yes | Yes |
 | [Joshua Project](https://api.joshuaproject.net/) | People groups of the world with the fewest followers of Christ | `apiKey` | Yes | Unknown |
 | [Kaggle](https://www.kaggle.com/docs/api) | Create and interact with Datasets, Notebooks, and connect with Kaggle | `apiKey` | Yes | Unknown |
 | [LinkPreview](https://www.linkpreview.net) | Get JSON formatted summary with title, description and preview image for any requested URL | `apiKey` | Yes | Yes |
@@ -1372,14 +1424,20 @@
 | [Bruzu](https://docs.bruzu.com) | Image generation with query string | `apiKey` | Yes | Yes |
 | [CheetahO](https://cheetaho.com/docs/getting-started/) | Photo optimization and resize | `apiKey` | Yes | Unknown |
 | [Dagpi](https://dagpi.xyz) | Image manipulation and processing | `apiKey` | Yes | Unknown |
+| [Compress Images](https://apyhub.com/utility/image-processor-compress) | Compress images in png, jpeg or jpg formats. | `apiKey` | Yes | Yes |
+| [Change Image Background ](https://apyhub.com/utility/image-processor-change-background) | Replace backgrounds in images programmatically  | `apiKey` | Yes | Yes |
+| [Crop Images](https://apyhub.com/utility/image-processor-crop) | Crop images either in png, jpeg or jpg formats  | `apiKey` | Yes | Yes |
 | [Duply](https://app.duply.co/docs) | Generate, Edit, Scale and Manage Images and Videos Smarter & Faster | `apiKey` | Yes | Yes |
 | [DynaPictures](https://dynapictures.com/docs/) | Generate Hundreds of Personalized Images in Minutes | `apiKey` | Yes | Yes |
+| [Extract Image Metadata](https://apyhub.com/utility/image-processor-extract-metadata) | Provides metadata of the image such as height, width, size, format, quality and so on| `apiKey` | Yes | Yes |
 | [Flickr](https://www.flickr.com/services/api/) | Flickr Services | `OAuth`| Yes | Unknown |
 | [Getty Images](http://developers.gettyimages.com/en/) | Build applications using the world's most powerful imagery | `OAuth`| Yes | Unknown |
 | [Gfycat](https://developers.gfycat.com/api/) | Jiffier GIFs | `OAuth`| Yes | Unknown |
 | [Giphy](https://developers.giphy.com/docs/) | Get all your gifs | `apiKey` | Yes | Unknown |
 | [Google Photos](https://developers.google.com/photos) | Integrate Google Photos with your apps or devices | `OAuth`| Yes | Unknown |
 | [Imgur](https://apidocs.imgur.com/) | Images | `OAuth`| Yes | Unknown |
+| [Image Filter](https://apyhub.com/utility/image-processor-filters) | Apply filters such as image rotation, brightness adjustments, flipping, or Gaussian blur to enhance the aesthetics of the images. | `apiKey` | Yes | Yes |
+| [Image Thumbnails](https://apyhub.com/utility/image-processor-thumbnail) | Generates a thumbnail image from an image by providing the dimensions (height and width). | `apiKey` | Yes | Yes |
 | [Lorem Picsum](https://picsum.photos/) | Images from Unsplash | No | Yes | Unknown |
 | [ObjectCut](https://objectcut.com/) | Image Background removal | `apiKey` | Yes | Yes |
 | [Pexels](https://www.pexels.com/api/) | Free Stock Photos and Videos | `apiKey` | Yes | Yes |
@@ -1388,12 +1446,15 @@
 | [PlaceKeanu](https://placekeanu.com/) | Resizable Keanu Reeves placeholder images with grayscale and young Keanu options | No | Yes | Unknown |
 | [Readme typing SVG](https://github.com/DenverCoder1/readme-typing-svg) | Customizable typing and deleting text SVG | No | Yes | Unknown |
 | [Remove.bg](https://www.remove.bg/api) | Image Background removal | `apiKey` | Yes | Unknown |
+| [Remove Image Background ](https://apyhub.com/utility/image-processor-remove-background) | Remove backgrounds from images programmatically | ``apiKey`` | Yes | Yes |
 | [ReSmush.it](https://resmush.it/api) | Photo optimization | No | No | Unknown |
+| [Resize Images](https://apyhub.com/utility/image-processor-resize) | Resize any image image either in png, jpeg or jpg formats. | `apiKey` | Yes | Yes |
 | [shutterstock](https://api-reference.shutterstock.com/) | Stock Photos and Videos | `OAuth`| Yes | Unknown |
 | [Sirv](https://apidocs.sirv.com/) | Image management solutions like optimization, manipulation, hosting | `apiKey` | Yes | Unknown |
 | [Templated](https://templated.io) | Automate your images with a simple API. Design in a Canva-like editor and render images with code | `apiKey` | Yes | Yes |
 | [Unsplash](https://unsplash.com/developers) | Photography | `OAuth`| Yes | Unknown |
 | [Wallhaven](https://wallhaven.cc/help/api) | Wallpapers | `apiKey` | Yes | Unknown |
+| [Watermark Images](https://apyhub.com/utility/image-processor-watermark) | Watermark an image using Text or Image | `apiKey` | Yes | Yes |
 | [Webdam](https://www.damsuccess.com/hc/en-us/articles/202134055-REST-API) | Images | `OAuth`| Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
@@ -1425,6 +1486,7 @@
 |---|---|---|---|---|
 | [arcsecond.io](https://api.arcsecond.io/) | Multiple astronomy data sources | `apiKey` | Yes | Unknown |
 | [arXiv](https://arxiv.org/help/api/user-manual) | Curated research-sharing platform: physics, mathematics, quantitative finance, and economics | No | Yes | Unknown |
+| [Bar Graph](https://apyhub.com/utility/bar-graph) |  Generate Bar Graph using JSON Data| ``apiKey`` | Yes | Yes |
 | [CORE](https://core.ac.uk/services#api) | Access the world's Open Access research papers | `apiKey` | Yes | Unknown |
 | [GBIF](https://www.gbif.org/developer/summary) | Global Biodiversity Information Facility | No | Yes | Yes |
 | [iDigBio](https://github.com/idigbio/idigbio-search-api/wiki) | Access millions of museum specimens from organizations around the world | No | Yes | Unknown |
@@ -1446,10 +1508,12 @@
 | [Open Science Framework](https://developer.osf.io) | Repository and archive for study designs, research materials, data, manuscripts, etc | No | Yes | Unknown |
 | [Prime Number](https://prime-number-api-docs.onrender.com/) | Check if a number(s) is prime, or query a list of prime numbers | No | Yes | Yes |
 | [Purple Air](https://www2.purpleair.com/) | Real Time Air Quality Monitoring | No | Yes | Unknown |
+| [Pie Chart](https://apyhub.com/utility/pie-chart) | Generate a Pie chart for the provided JSON data.  | `apiKey` | Yes | Yes |
 | [Remote Calc](https://github.com/elizabethadegbaju/remotecalc) | Decodes base64 encoding and parses it to return a solution to the calculation in JSON | No | Yes | Yes |
 | [SHARE](https://share.osf.io/api/v2/) | A free, open, dataset about research and scholarly activities | No | Yes | No |
 | [SpaceX](https://github.com/r-spacex/SpaceX-API) | Company, vehicle, launchpad and launch data | No | Yes | No |
 | [Sunrise and Sunset](https://sunrise-sunset.org/api) | Sunset and sunrise times for a given latitude and longitude | No | Yes | No |
+| [Stacked Graph](https://apyhub.com/utility/stacked-graph) | Generate a stacked graph for the provided JSON data. | ``apiKey`` | Yes | Yes |
 | [Times Adder](https://github.com/FranP-code/API-Times-Adder) | With this API you can add each of the times introduced in the array sent | No | Yes | No |
 | [TLE](https://tle.ivanstanojevic.me/#/docs) | Satellite information | No | Yes | No |
 | [USGS Earthquake Hazards Program](https://earthquake.usgs.gov/fdsnws/event/1/) | Earthquakes data real-time | No | Yes | No |
@@ -1644,10 +1708,15 @@
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Aylien Text Analysis](https://docs.aylien.com/textapi/#getting-started) | A collection of information retrieval and natural language APIs | `apiKey` | Yes | Unknown |
+| [Analyse Text Sentiment](https://apyhub.com/utility/ai-text-sentiment-analysis) | Identify prevailing emotional opinions, classifying them as positive, negative, or neutral within any textual content | `apiKey` | Yes | Yes |
+| [Analyse Keywords in Text](https://apyhub.com/utility/analyse-keywords) | Extracts high-frequency keywords, keyphrases, and latent semantic keywords| `apiKey` | Yes | Yes |
+| [Calculate Text Readability Score](https://apyhub.com/utility/readability-scores) |  Calculates the readability score of text, providing insights into their ease of comprehension | `apiKey` | Yes | Yes |
+| [Calculate Text Readability Scores in Documents](https://apyhub.com/utility/readability-scores-documents) | Calculates the readability score of pdf and document files. | `apiKey` | Yes | Yes |
 | [Chatpdf](https://chatpdf.so/api) | Chat with pdf using GPT4 and ChatGPT | `apiKey` | Yes | Yes |
 | [Cloudmersive Natural Language Processing](https://www.cloudmersive.com/nlp-api) | Natural language processing and text analysis | `apiKey` | Yes | Yes |
 | [Code Detection API](https://codedetectionapi.runtime.dev) | Detect, label, format and enrich the code in your app or in your data pipeline | `OAuth`| Yes | Unknown |
 | [Detect Language](https://detectlanguage.com/) | Detects text language | `apiKey` | Yes | Unknown |
+| [Detect Text Language](https://apyhub.com/utility/language-detector) | Detect Language from given a given text | `apiKey` | Yes | Yes |
 | [ELI](https://nlp.insightera.co.th/docs/v1.0) | Natural Language Processing Tools for Thai Language | `apiKey` | Yes | Unknown |
 | [Google Cloud Natural](https://cloud.google.com/natural-language/docs/) | Natural language understanding technology, including sentiment, entity and syntax analysis | `apiKey` | Yes | Unknown |
 | [LanguageTool](https://languagetool.org/http-api/) | Style and Grammar Checker for 25+ Languages | No | Yes | Unknown |
@@ -1656,7 +1725,9 @@
 | [Semantria](https://semantria.readme.io/docs) | Text Analytics with sentiment analysis, categorization & named entity extraction | `OAuth`| Yes | Unknown |
 | [Sentiment Analysis](https://www.meaningcloud.com/developer/sentiment-analysis) | Multilingual sentiment analysis of texts from different sources | `apiKey` | Yes | Yes |
 | [Tisane](https://tisane.ai/) | Text Analytics with focus on detection of abusive content and law enforcement applications | `OAuth`| Yes | Yes |
+| [Translate Documents](https://apyhub.com/utility/text-translator) |  Translates text from documents into specified languages | `apiKey` | Yes | Yes |
 | [Watson Natural Language Understanding](https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding) | Natural language processing for advanced text analysis | `OAuth`| Yes | Unknown |
+
 
 **[⬆ Back to Index](#index)**
 
@@ -1800,14 +1871,18 @@
 | [Bob's Burgers API](https://bobsburgersapi.com/) | The Bob's Burgers API contains data for hundreds of characters, episodes, running gags, and images from the show | No | Yes | Yes |
 | [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) | Some Breaking Bad quotes | No | Yes | Unknown |
 | [Buffy the Vampire Slayer and Angel](https://github.com/Thatskat/btvs-angel-api) | Get episode, cast and crew data from Buffy the Vampire Slayer and Angel | No | Yes | Yes |
+| [Convert Video Formats](https://apyhub.com/utility/convert-video) | Converts a video from one format to another format(mp4,webm,flv,avi,mkv,mov,3gp) | `apiKey` | Yes | Yes |
 | [Catalogopolis](https://api.catalogopolis.xyz/docs/) | Doctor Who API | No | Yes | Unknown |
 | [Czech Television](http://www.ceskatelevize.cz/xml/tv-program/) | TV programme of Czech TV | No | No | Unknown |
 | [Dailymotion](https://developer.dailymotion.com/) | Dailymotion Developer API | `OAuth`| Yes | Unknown |
 | [Dune](https://github.com/ywalia01/dune-api) | A simple API which provides you with book, character, movie and quotes JSON data | No | Yes | Yes |
+| [Extract Video Metadata](https://apyhub.com/utility/extract-video-metadata) |  Extracts metadata from videos of various formats including WebM, MP4, and 3GP | `apiKey` | Yes | Yes |
 | [Final Space](https://finalspaceapi.com/docs/) | Final Space API | No | Yes | Yes |
 | [Game of Thrones Quotes](https://gameofthronesquotes.xyz/) | Some Game of Thrones quotes | No | Yes | Unknown |
 | [Gcore Streaming](https://docs.gcore.com/streaming) | Scale to 100+ million viewers and beyond. Stream everything from online games to online events reliably in minutes instead of months. | `apiKey` | Yes | Yes |
 | [Harry Potter Characters](https://hp-api.onrender.com/) | Harry Potter Characters Data with with imagery | No | Yes | Unknown |
+| [Generate GIF from Video](https://apyhub.com/utility/gif-from-video) | Create animated GIFs from video files. | `apiKey` | Yes | Yes |
+| [Generate Video Preview Thumbnail](https://apyhub.com/utility/video-thumbnail) |  Generate a thumbnail video from any part of the given video file or URL.| `apiKey` | Yes | Yes |
 | [IMDb-API](https://imdb-api.com/) | API for receiving movie, serial and cast information | `apiKey` | Yes | Unknown |
 | [IMDbOT](https://github.com/SpEcHiDe/IMDbOT) | Unofficial IMDb Movie / Series Information | No | Yes | Yes |
 | [JSON2Video](https://json2video.com) | Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations | `apiKey` | Yes | No |
@@ -1839,6 +1914,7 @@
 | [uNoGS](https://rapidapi.com/unogs/api/unogsng) | Unofficial Netflix Online Global Search, Search all netflix regions in one place | `apiKey` | Yes | Yes |
 | [Vimeo](https://developer.vimeo.com/) | Vimeo Developer API | `OAuth`| Yes | Unknown |
 | [Watchmode](https://api.watchmode.com/) | API for finding out the streaming availability of movies & shows | `apiKey` | Yes | Unknown |
+| [Watermark Video](https://apyhub.com/utility/watermark-video) | Apply text or image watermark to the video | ``apiKey`` | Yes | Yes |
 | [Web Series Quotes Generator](https://github.com/yogeshwaran01/web-series-quotes) | API generates various Web Series Quote Images | No | Yes | Yes |
 | [YouTube](https://developers.google.com/youtube/) | Add YouTube functionality to your sites and apps | `OAuth`| Yes | Unknown |
 
