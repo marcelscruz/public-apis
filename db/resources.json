@@ -1,5 +1,5 @@
 {
-"count": 1458,
+"count": 1459,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -11841,6 +11841,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.schiphol.nl/",
+        "Category": "Transportation"
+    },
+    {
+        "API": "Swedavia Airports",
+        "Description": "Airport and flight information of Swedish Airports operated by Swedavia",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://apideveloper.swedavia.se/",
         "Category": "Transportation"
     },
     {
