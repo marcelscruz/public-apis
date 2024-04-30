@@ -1,5 +1,5 @@
 {
-"count": 1454,
+"count": 1455,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3464,6 +3464,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://color.serialif.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "SerpApi",
+        "Description": "Scrape Google and other search engines",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://serpapi.com/",
         "Category": "Development"
     },
     {
