@@ -1,5 +1,5 @@
 {
-"count": 1453,
+"count": 1459,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3467,6 +3467,15 @@
         "Category": "Development"
     },
     {
+        "API": "SerpApi",
+        "Description": "Scrape Google and other search engines",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://serpapi.com/",
+        "Category": "Development"
+    },
+    {
         "API": "Shadify",
         "Description": "Service for generating data and executing logic to create various games and puzzles",
         "Auth": "",
@@ -3908,6 +3917,15 @@
         "Category": "Documents & Productivity"
     },
     {
+        "API": "RenderPDF.io",
+        "Description": "HTML to PDF crazy fast, 500 pdfs/month + CDN-ready",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://renderpdf.io",
+        "Category": "Documents & Productivity"
+    },
+    {
         "API": "Restpack",
         "Description": "Provides screenshot, HTML to PDF and content extraction APIs",
         "Auth": "apiKey",
@@ -3923,6 +3941,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.todoist.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "URL to Markdown",
+        "Description": "Convert web page to MarkDown",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://github.com/macsplit/urltomarkdown",
         "Category": "Documents & Productivity"
     },
     {
@@ -7949,6 +7976,15 @@
         "Category": "Jobs"
     },
     {
+        "API": "AI/ML API",
+        "Description": "Access 100+ curated AI Models over 1 API",
+        "Auth": "Yes",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://aimlapi.com",
+        "Category": "Machine Learning"
+    },
+    {
         "API": "AI For Thai",
         "Description": "Free Various Thai AI API",
         "Auth": "apiKey",
@@ -9611,6 +9647,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://ce.judge0.com/",
+        "Category": "Programming"
+    },
+    {
+        "API": "Pythonium",
+        "Description": "Validate Python code syntax",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://pythonium.net/linter",
         "Category": "Programming"
     },
     {
@@ -11796,6 +11841,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.schiphol.nl/",
+        "Category": "Transportation"
+    },
+    {
+        "API": "Swedavia Airports",
+        "Description": "Airport and flight information of Swedish Airports operated by Swedavia",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://apideveloper.swedavia.se/",
         "Category": "Transportation"
     },
     {
