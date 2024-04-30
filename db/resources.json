@@ -1,5 +1,5 @@
 {
-"count": 1456,
+"count": 1457,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3914,6 +3914,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://prexview.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "RenderPDF.io",
+        "Description": "HTML to PDF crazy fast, 500 pdfs/month + CDN-ready",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://renderpdf.io",
         "Category": "Documents & Productivity"
     },
     {
