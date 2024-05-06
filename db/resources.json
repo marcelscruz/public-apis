@@ -1,5 +1,5 @@
 {
-"count": 1459,
+"count": 1460,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -9647,6 +9647,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://ce.judge0.com/",
+        "Category": "Programming"
+    },
+    {
+        "API": "Let's Count",
+        "Description": "Create, retrieve, update, increment, and decrement counters identified by namespace and key",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://letscountapi.com",
         "Category": "Programming"
     },
     {
