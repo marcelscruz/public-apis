@@ -1,5 +1,5 @@
 {
-"count": 1460,
+"count": 1466,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -2738,6 +2738,15 @@
         "Category": "Development"
     },
     {
+        "API": "Generate Full Webpage Screenshot",
+        "Description": "Dynamically capture full page screenshots of websites.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/generate-webpage-screenshot",
+        "Category": "Development"
+    },
+    {
         "API": "Gcore CDN",
         "Description": "Make your app fast and responsive for a global audience with Gcore CDN.",
         "Auth": "apiKey",
@@ -3476,6 +3485,15 @@
         "Category": "Development"
     },
     {
+        "API": "SERP Rank Checker",
+        "Description": "Check realtime Google SERP Rank of any keywords.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/serp-rank",
+        "Category": "Development"
+    },
+    {
         "API": "Shadify",
         "Description": "Service for generating data and executing logic to create various games and puzzles",
         "Auth": "",
@@ -3779,6 +3797,24 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://codestats.net/api-docs",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Convert Word to PDF",
+        "Description": "Convert a Word document (doc, docx, or ODF formats) to a PDF document",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/converter-doc-pdf",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Convert RSS to JSON",
+        "Description": "Transform raw RSS data into structured JSON",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/converter-rss-json",
         "Category": "Documents & Productivity"
     },
     {
@@ -8165,6 +8201,15 @@
         "Category": "Machine Learning"
     },
     {
+        "API": "Summarize Text with AI",
+        "Description": "Generates summaries of text and web pages using AI",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/ai-summarize",
+        "Category": "Machine Learning"
+    },
+    {
         "API": "Unplugg",
         "Description": "Forecasting API for timeseries data",
         "Auth": "apiKey",
@@ -8747,6 +8792,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://geo.api.gouv.fr/adresse",
+        "Category": "Open Data"
+    },
+    {
+        "API": "Generate Link Preview (including checking for malicious links)",
+        "Description": "Fetches metadata from any URL passed to it, including Open Graph tags.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/link-preview",
         "Category": "Open Data"
     },
     {
