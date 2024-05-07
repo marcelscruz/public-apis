@@ -2532,11 +2532,11 @@
     },
     {
         "API": "ApyHub",
-        "Description": "100+ APIs Simplifies APIS for implement to basics to complex logic",
+        "Description": "110+ APIs to add to your next software application",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://apyhub.com",
+        "Link": "https://apyhub.com/catalog",
         "Category": "Development"
     },
     {
