@@ -1624,6 +1624,7 @@
 |---|---|---|---|---|
 | [Bacon Ipsum](https://baconipsum.com/json-api/) | A Meatier Lorem Ipsum Generator | No | Yes | Unknown |
 | [Dicebear Avatars](https://avatars.dicebear.com/) | Generate random pixel-art avatars | No | Yes | No |
+| [DummyJSON](https://dummyjson.com/) | Generate dummy data in JSON format | Yes | Yes | Unknown |
 | [Faker](https://fakerjs.dev/) | Generate massive amounts of fake (but realistic) data for testing and development. | No | Yes | Unknown |
 | [FakerAPI](https://fakerapi.it/en) | APIs collection to get fake data | No | Yes | Yes |
 | [FakeStoreAPI](https://fakestoreapi.com/) | Fake store rest API for your e-commerce or shopping website prototype | No | Yes | Unknown |
