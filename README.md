@@ -31,6 +31,7 @@
 <div align="center">
     <sub>The Project</sub>
     <br />
+    <a href="API.md">API</a> •
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <!-- Let's re-added this API once it starts using the APIs from this repository -->
     <!-- <a href="https://github.com/davemachado/public-api">API for this project</a> • -->
