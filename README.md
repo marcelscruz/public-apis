@@ -3,60 +3,27 @@
     <i>A collaborative list of public APIs for developers</i>
 </div>
 
-<!-- <br />
-
-<div align="center">
-    <sup>Status</sup>
-    <br />
-    <a href="https://github.com/public-apis/public-apis#index">
-        <img alt="Number of Categories" src="https://img.shields.io/badge/dynamic/json?url=https://api.publicapis.org/categories&label=Number%20of%20Categories&query=$.count&color=informational" />
-    </a>
-    <a href="https://github.com/public-apis/public-apis">
-        <img alt="Number of APIs" src="https://img.shields.io/badge/dynamic/json?url=https://api.publicapis.org/entries&label=Number%20of%20APIs&query=$.count&color=informational" />
-    </a>
-    <br />
-    <a href="https://github.com/public-apis/public-apis/actions/workflows/test_of_push_and_pull.yml">
-        <img alt="Tests of push and pull" src="https://github.com/public-apis/public-apis/actions/workflows/test_of_push_and_pull.yml/badge.svg" />
-    </a>
-    <a href="https://github.com/public-apis/public-apis/actions/workflows/validate_links.yml">
-        <img alt="Validate links" src="https://github.com/public-apis/public-apis/actions/workflows/validate_links.yml/badge.svg" />
-    </a>
-    <a href="https://github.com/public-apis/public-apis/actions/workflows/test_of_validate_package.yml">
-        <img alt="Tests of validate package" src="https://github.com/public-apis/public-apis/actions/workflows/test_of_validate_package.yml/badge.svg" />
-    </a>
-</div> -->
-
 <br />
 
 <div align="center">
-    <sub>The Project</sub>
-    <br />
     <a href="API.md">API</a> •
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
-    <!-- Let's re-added this API once it starts using the APIs from this repository -->
-    <!-- <a href="https://github.com/davemachado/public-api">API for this project</a> • -->
     <a href="https://github.com/marcelscruz/public-apis/issues">Issues</a> •
     <a href="https://github.com/marcelscruz/public-apis/pulls">Pull Requests</a> •
     <a href="LICENSE">License</a>
 </div>
 
-<br />
+<br/>
 
-<!-- Let's re-added these sites once they start using the APIs from this repository -->
-<!-- <div align="center">
-    <sub>Alternative sites for the project (unofficials)</sub>
-    <br />
-    <a href="https://publicapis.dev">Public APIs</a> •
-    <a href="https://free-apis.github.io">Free APIs</a> •
-    <a href="https://apihouse.vercel.app">Apihouse</a> •
-    <a href="https://collective-api.vercel.app/">Collective APIs</a>
-</div>
+<div align="center">Sponsored by</div>
 
-<br /> -->
+<br/>
 
----
+<p align="center"><a href="https://gcore.com?ref=public_apis&utm_content=public_apis_repo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/gcore-dark-mode.png" width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/gcore-light-mode.png" width="180px"><img alt="Gcore logo" src="./assets/gcore-dark-mode.png" width="180px"></picture></a></p>
 
-<br />
+<br/>
+
+<p align="center"><a href="https://zenlogin.co?ref=public_apis&utm_content=public_apis_repo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/zenlogin.svg" width="210px"><source media="(prefers-color-scheme: light)" srcset="./assets/zenlogin.svg" width="210px"><img alt="Zenlogin logo" src="./assets/zenlogin.svg" width="210px"></picture></a></p>
 
 ## Index
 * [Animals](#animals)

@@ -134,3 +134,6 @@ node_modules/
 
 # VS Code Configs
 .vscode/
+
+# Other
+.DS_Store
