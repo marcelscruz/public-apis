@@ -19,7 +19,7 @@
 
 <br/>
 
-<p align="center"><a href="https://gcore.com?ref=public_apis&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/gcore-dark-mode.png" width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/gcore-light-mode.png" width="180px"><img alt="Gcore logo" src="./assets/gcore-dark-mode.png" width="180px"></picture></a></p>
+<p align="center"><a href="https://scrapfly.io?ref=public_apis&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/scrapfly-dark-mode.svg" width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="180px"><img alt="Scrapfly logo" src="./assets/scrapfly-dark-mode.svg" width="180px"></picture></a></p>
 
 <br/>
 
