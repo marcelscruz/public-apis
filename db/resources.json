@@ -1,5 +1,5 @@
 {
-"count": 1469,
+"count": 1470,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3401,6 +3401,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://scraperbox.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "Scrapfly",
+        "Description": "Scrapfly is an enterprise-grade solution providing Web Scraping API that aims to simplify the scraping process by managing everything: real browser rendering, rotating proxies, and fingerprints (TLS, HTTP, browser) to bypass all major anti-bots.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://scrapfly.io",
         "Category": "Development"
     },
     {
