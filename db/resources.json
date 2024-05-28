@@ -10568,15 +10568,6 @@
         "Category": "Social"
     },
     {
-        "API": "aztro",
-        "Description": "Daily horoscope info for yesterday, today, and tomorrow",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://aztro.sameerkumar.website/",
-        "Category": "Social"
-    },
-    {
         "API": "Blogger",
         "Description": "The Blogger APIs allows client applications to view and update Blogger content",
         "Auth": "OAuth",
