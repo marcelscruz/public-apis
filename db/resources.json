@@ -1,5 +1,5 @@
 {
-"count": 1467,
+"count": 1468,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -6831,6 +6831,15 @@
         "Cors": "unknown",
         "Link": "https://zipcodestack.com/",
         "Category": "Geocoding"
+    },
+    {
+        "API": "Api Colombia",
+        "Description": "Community driven API for Colombia Public Data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://api-colombia.com/",
+        "Category": "Government"
     },
     {
         "API": "Bank Negara Malaysia Open Data",
