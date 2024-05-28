@@ -11657,7 +11657,7 @@
     {
         "API": "ADS-B Exchange",
         "Description": "Access real-time and historical data of any and all airborne aircraft",
-        "Auth": "",
+        "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.adsbexchange.com/data/",
