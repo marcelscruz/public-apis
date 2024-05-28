@@ -1,5 +1,5 @@
 {
-"count": 1469,
+"count": 1470,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -5264,6 +5264,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.bugsnaxapi.com/",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "Call of Duty",
+        "Description": "Unofficial wrapper for the Call of Duty API with multi-language support.",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://codapi.dev/",
         "Category": "Games & Comics"
     },
     {
