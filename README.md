@@ -805,6 +805,7 @@
 | [Board Game Geek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) | Board games, RPG and videogames | No | Yes | No |
 | [Brawl Stars](https://developer.brawlstars.com) | Brawl Stars Game Information | `apiKey`| Yes | Unknown |
 | [Bugsnax](https://www.bugsnaxapi.com/) | Get information about Bugsnax | No | Yes | Yes |
+| [Call of Duty](https://codapi.dev/) | Unofficial wrapper for the Call of Duty API with multi-language support. | No | Yes | Unknown |
 | [CheapShark](https://www.cheapshark.com/api) | Steam/PC Game Prices and Deals | No | Yes | Yes |
 | [Chess.com](https://www.chess.com/news/view/published-data-api) | Chess.com read-only REST API | No | Yes | Unknown |
 | [Clash of Clans](https://developer.clashofclans.com) | Clash of Clans Game Information | `apiKey`| Yes | Unknown |
