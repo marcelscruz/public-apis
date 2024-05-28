@@ -1,5 +1,5 @@
 {
-"count": 1471,
+"count": 1470,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -62,15 +62,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://documenter.getpostman.com/view/664302/S1ENwy59",
-        "Category": "Animals"
-    },
-    {
-        "API": "FishWatch",
-        "Description": "Information and pictures about individual fish species",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://www.fishwatch.gov/developers",
         "Category": "Animals"
     },
     {
