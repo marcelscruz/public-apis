@@ -1,5 +1,5 @@
 {
-"count": 1470,
+"count": 1471,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -9980,6 +9980,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/elizabethadegbaju/remotecalc",
+        "Category": "Science & Math"
+    },
+    {
+        "API": "Satellite Passes",
+        "Description": "Find satellite passes",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://sat.terrestre.ar",
         "Category": "Science & Math"
     },
     {
