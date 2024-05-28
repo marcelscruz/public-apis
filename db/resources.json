@@ -1,5 +1,5 @@
 {
-"count": 1468,
+"count": 1469,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -11238,6 +11238,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://avatars.dicebear.com/",
+        "Category": "Test Data"
+    },
+    {
+        "API": "DummyJSON",
+        "Description": "Generate dummy data in JSON format",
+        "Auth": "Yes",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://dummyjson.com/",
         "Category": "Test Data"
     },
     {
