@@ -464,6 +464,7 @@
 | [Brainshop.ai](https://brainshop.ai/) | Make A Free A.I Brain | `apiKey`| Yes | Yes |
 | [BrowserCat](https://www.browsercat.com/) | Headless browser API for automation, scraping, and more | `apiKey` | Yes | Yes |
 | [Browshot](https://browshot.com/api/documentation) | Easily make screenshots of web pages in any screen size, as any device | `apiKey`| Yes | Yes |
+| [Bruno](https://brunoapi.com) | a Fast and Git-Friendly Open-source API client, aimed at revolutionizing the status quo represented by Postman, Insomnia and similar tools out there. | `apiKey` | Yes | Yes |
 | [CDNJS](https://api.cdnjs.com/libraries/jquery) | Library info on CDNJS | No | Yes | Unknown |
 | [Changelogs.md](https://changelogs.md) | Structured changelog metadata from open source projects | No | Yes | Unknown |
 | [Ciprand](https://github.com/polarspetroll/ciprand) | Secure random string generator | No | Yes | No |
