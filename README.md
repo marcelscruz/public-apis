@@ -1,18 +1,13 @@
 <div align="center">
-    <h1>Public APIs</h1>
-    <i>A collaborative list of public APIs for developers</i>
+    <div>
+        <p align="center"><a href="https://publicapis.dev?ref=public_apis&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/public-apis.png" width="300px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="300px"><img alt="Scrapfly logo" src="./assets/public-apis.png" width="300px"></picture></a>
+        </p>
+        <p align="center"><a href="https://publicapis.dev?ref=public_apis&utm_medium=repo_readme">Public APIs</a> — A collaborative list of public APIs for developers.</p>
+    </div>
 </div>
 
-<br />
-
-<div align="center">
-    <a href="API.md">API</a> •
-    <a href="CONTRIBUTING.md">Contributing Guide</a> •
-    <a href="https://github.com/marcelscruz/public-apis/issues">Issues</a> •
-    <a href="https://github.com/marcelscruz/public-apis/pulls">Pull Requests</a> •
-    <a href="LICENSE">License</a>
-</div>
-
+<br/>
+<hr/>
 <br/>
 
 <div align="center">Sponsored by</div>
@@ -30,6 +25,20 @@
 <div>
     <p align="center"><a href="https://zenlogin.co?ref=public_apis&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/zenlogin.svg" width="210px"><source media="(prefers-color-scheme: light)" srcset="./assets/zenlogin.svg" width="210px"><img alt="Zenlogin logo" src="./assets/zenlogin.svg" width="210px"></picture></a></p>
     <p align="center"><a href="https://zenlogin.co?ref=public_apis&utm_medium=repo_readme">Zenlogin</a> detects suspicious logins so you don't have to. A single endpoint API to notify your users when there's been suspicious login activity on their account.</p>
+</div>
+
+<br/>
+<hr/>
+<br/>
+<br/>
+
+
+<div align="center">
+    <a href="API.md">API</a> •
+    <a href="CONTRIBUTING.md">Contributing Guide</a> •
+    <a href="https://github.com/marcelscruz/public-apis/issues">Issues</a> •
+    <a href="https://github.com/marcelscruz/public-apis/pulls">Pull Requests</a> •
+    <a href="LICENSE">License</a>
 </div>
 
 ## Index
