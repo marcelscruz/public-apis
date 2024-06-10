@@ -1,5 +1,5 @@
 {
-"count": 1470,
+"count": 1471,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -2600,6 +2600,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://brainshop.ai/",
+        "Category": "Development"
+    },
+    {
+        "API": "Brave Search API",
+        "Description": "An index of billions of pages in a single call",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://brave.com/search/api/",
         "Category": "Development"
     },
     {
