@@ -1,5 +1,5 @@
 {
-"count": 1472,
+"count": 1473,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -7928,6 +7928,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://graphql.jobs/docs/api/",
+        "Category": "Jobs"
+    },
+    {
+        "API": "jobdata API",
+        "Description": "Simple Job Data API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://jobdataapi.com/",
         "Category": "Jobs"
     },
     {
