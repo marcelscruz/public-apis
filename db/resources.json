@@ -1,5 +1,5 @@
 {
-"count": 1473,
+"count": 1472,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -5264,15 +5264,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.brawlstars.com",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "Bugsnax",
-        "Description": "Get information about Bugsnax",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://www.bugsnaxapi.com/",
         "Category": "Games & Comics"
     },
     {
