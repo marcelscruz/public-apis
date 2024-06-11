@@ -1,5 +1,5 @@
 {
-"count": 1471,
+"count": 1473,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -10529,6 +10529,24 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://fakeapi.platzi.com/",
+        "Category": "Shopping"
+    },
+    {
+        "API": "Printful",
+        "Description": "Printful's official API to manage and integrate their services",
+        "Auth": "OAuth",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://developers.printful.com/",
+        "Category": "Shopping"
+    },
+    {
+        "API": "Printify",
+        "Description": "Printify's official API to manage and integrate their services",
+        "Auth": "OAuth",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://developers.printify.com/",
         "Category": "Shopping"
     },
     {
