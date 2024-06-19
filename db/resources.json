@@ -9642,7 +9642,7 @@
     },
     {
         "API": "Templated",
-        "Description": "Automate your images with a simple API. Design in a Canva-like editor and render images with code",
+        "Description": "Generate images and PDFs with a simple API. Design in a Canva-like editor and render images with code",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
