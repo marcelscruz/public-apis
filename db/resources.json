@@ -1,5 +1,5 @@
 {
-"count": 1475,
+"count": 1472,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -12411,15 +12411,6 @@
         "Category": "URL Shorteners"
     },
     {
-        "API": "Drivet URL Shortener",
-        "Description": "Shorten a long URL easily and fast",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://wiki.drivet.xyz/en/url-shortener/add-links",
-        "Category": "URL Shorteners"
-    },
-    {
         "API": "Free Url Shortener",
         "Description": "Free URL Shortener offers a powerful API to interact with other sites",
         "Auth": "",
@@ -12465,15 +12456,6 @@
         "Category": "URL Shorteners"
     },
     {
-        "API": "owo",
-        "Description": "A simple link obfuscator/shortener",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://owo.vc/api.html",
-        "Category": "URL Shorteners"
-    },
-    {
         "API": "Rebrandly",
         "Description": "Custom URL shortener for sharing branded links",
         "Auth": "apiKey",
@@ -12516,15 +12498,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://tinyurl.com/app/dev",
-        "Category": "URL Shorteners"
-    },
-    {
-        "API": "url.dev",
-        "Description": "Create short, temporary, self-destructing links that expire anywhere from a minute to a week.",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://autocode.com/url/api/temporary/0.3.0/create",
         "Category": "URL Shorteners"
     },
     {
