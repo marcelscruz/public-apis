@@ -1,5 +1,5 @@
 {
-"count": 1474,
+"count": 1475,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -2924,6 +2924,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://devcenter.heroku.com/articles/platform-api-reference/",
+        "Category": "Development"
+    },
+    {
+        "API": "Hoppscotch",
+        "Description": "A lightweight, fast, and customizable app for testing and designing APIs. A free, fast, and beautiful",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://hoppscotch.io/",
         "Category": "Development"
     },
     {
