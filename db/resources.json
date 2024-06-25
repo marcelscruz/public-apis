@@ -1,5 +1,5 @@
 {
-"count": 1473,
+"count": 1474,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -2942,6 +2942,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://http2.pro/doc/api",
+        "Category": "Development"
+    },
+    {
+        "API": "HTTPie",
+        "Description": "a free command-line HTTP client for the API era",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://httpie.io",
         "Category": "Development"
     },
     {
