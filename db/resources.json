@@ -1,5 +1,5 @@
 {
-"count": 1475,
+"count": 1473,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3257,15 +3257,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://opengraphr.com/docs/1.0/overview",
-        "Category": "Development"
-    },
-    {
-        "API": "oyyi",
-        "Description": "API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://oyyi.xyz/docs/1.0",
         "Category": "Development"
     },
     {
@@ -8243,15 +8234,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://openai.com/blog/openai-api",
-        "Category": "Machine Learning"
-    },
-    {
-        "API": "OpenVisionAPI",
-        "Description": "Open source computer vision API based on open source models",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://openvisionapi.com",
         "Category": "Machine Learning"
     },
     {
