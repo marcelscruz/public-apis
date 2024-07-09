@@ -1,5 +1,5 @@
 {
-"count": 1474,
+"count": 1475,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3275,6 +3275,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://pagecdn.com/docs/public-api",
+        "Category": "Development"
+    },
+    {
+        "API": "PipeDream",
+        "Description": "Pipedream is the fastest way to build powerful applications that connect all the services in your stack",
+        "Auth": "OAuth",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://docs.pipedream.com",
         "Category": "Development"
     },
     {
