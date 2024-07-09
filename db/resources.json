@@ -1,5 +1,5 @@
 {
-"count": 1472,
+"count": 1473,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3023,6 +3023,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://api.docs.import.io/",
+        "Category": "Development"
+    },
+    {
+        "API": "Insomnia",
+        "Description": "A free API client that allows you to design, debug, test, and mock APIs locally, on Git, or cloud.",
+        "Auth": "OAuth",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://insomnia.rest/",
         "Category": "Development"
     },
     {
