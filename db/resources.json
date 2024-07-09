@@ -1,5 +1,5 @@
 {
-"count": 1476,
+"count": 1475,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -9170,15 +9170,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github-contributions.vercel.app",
-        "Category": "Open Source Projects"
-    },
-    {
-        "API": "GitHub Profile README Generator",
-        "Description": "Generate an image for your GitHub Profile README",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://github.com/Harman-Sandhu/github-profile-readme-generator",
         "Category": "Open Source Projects"
     },
     {
