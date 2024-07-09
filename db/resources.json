@@ -1,5 +1,5 @@
 {
-"count": 1473,
+"count": 1474,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -2627,6 +2627,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://browshot.com/api/documentation",
+        "Category": "Development"
+    },
+    {
+        "API": "Bruno",
+        "Description": "A fast and Git-friendly open-source API client, aimed at revolutionizing the status quo represented by Postman, Insomnia and similar tools out there.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://brunoapi.com",
         "Category": "Development"
     },
     {
