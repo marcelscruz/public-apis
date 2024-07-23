@@ -1,5 +1,5 @@
 {
-"count": 1416,
+"count": 1415,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -11931,15 +11931,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://ulvis.net/developer.html",
-        "Category": "URL Shorteners"
-    },
-    {
-        "API": "GoTiny",
-        "Description": "A lightweight URL shortener, focused on ease-of-use for the developer and end-user",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://github.com/robvanbakel/gotiny-api",
         "Category": "URL Shorteners"
     },
     {
