@@ -1,5 +1,5 @@
 {
-"count": 1415,
+"count": 1416,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -4742,6 +4742,15 @@
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://github.com/Real-time-finance/finance-websocket-API/",
+        "Category": "Finance"
+    },
+    {
+        "API": "RentCast",
+        "Description": "Retrieve real-time property and rental data for real estate in the United States",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://developers.rentcast.io",
         "Category": "Finance"
     },
     {
