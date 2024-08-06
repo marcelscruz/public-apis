@@ -98,7 +98,6 @@
 ### Animals
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [AdoptAPet](https://www.adoptapet.com/public/apis/pet_list.html) | Resource to help get pets adopted | `apiKey` | Yes | Yes |
 | [Cat Facts](https://alexwohlbruck.github.io/cat-facts/) | Daily cat facts | No | Yes | No |
 | [Cataas](https://cataas.com/) | Cat as a service (cats pictures and gifs) | No | Yes | No |
 | [Cats](https://developers.thecatapi.com/) | Pictures of cats from Tumblr | `apiKey` | Yes | No |
@@ -461,12 +460,10 @@
 | [Bitbucket](https://developer.atlassian.com/bitbucket/api/2/reference/) | Bitbucket API | `OAuth` | Yes | Unknown |
 | [Blitapp](https://blitapp.com/api/) | Schedule screenshots of web pages and sync them to your cloud | `apiKey`| Yes | Unknown |
 | [Blynk-Cloud](https://blynkapi.docs.apiary.io/#) | Control IoT Devices from Blynk IoT Cloud | `apiKey`| No | Unknown |
-| [Bored](https://www.boredapi.com/) | Find random activities to fight boredom | No | Yes | Unknown |
 | [Brainshop.ai](https://brainshop.ai/) | Make A Free A.I Brain | `apiKey`| Yes | Yes |
 | [Brave Search API](https://brave.com/search/api/) | An index of billions of pages in a single call | `apiKey`| Yes | No |
 | [BrowserCat](https://www.browsercat.com/) | Headless browser API for automation, scraping, and more | `apiKey` | Yes | Yes |
 | [Browshot](https://browshot.com/api/documentation) | Easily make screenshots of web pages in any screen size, as any device | `apiKey`| Yes | Yes |
-| [Bruno](https://brunoapi.com) | A fast and Git-friendly open-source API client, aimed at revolutionizing the status quo represented by Postman, Insomnia and similar tools out there. | `apiKey` | Yes | Yes |
 | [CDNJS](https://api.cdnjs.com/libraries/jquery) | Library info on CDNJS | No | Yes | Unknown |
 | [Ciprand](https://github.com/polarspetroll/ciprand) | Secure random string generator | No | Yes | No |
 | [Cloudflare Trace](https://github.com/fawazahmed0/cloudflare-trace-api) | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More | No | Yes | Yes |
@@ -545,7 +542,6 @@
 | [Rejax](https://rejax.io/) | Reverse AJAX service to notify clients | `apiKey`| Yes | No |
 | [ReqRes](https://reqres.in/) | A hosted REST-API ready to respond to your AJAX requests | No | Yes | Unknown |
 | [RSS to JSON](https://github.com/ayusharma/RSS-to-JSON) | Returns RSS feed in JSON format using feed URL | No | Yes | Yes |
-| [SavePage.io](https://www.savepage.io) | A free, RESTful API used to screenshot any desktop, or mobile website | `apiKey`| Yes | Yes |
 | [ScrapeNinja](https://scrapeninja.net) | Scraping API with Chrome fingerprint and residential proxies | `apiKey`| Yes | Unknown |
 | [ScraperApi](https://www.scraperapi.com) | Easily build scalable web scrapers | `apiKey`| Yes | Unknown |
 | [scraperBox](https://scraperbox.com/) | Undetectable web scraping API | `apiKey`| Yes | Yes |
@@ -614,7 +610,6 @@
 | [iLovePDF](https://developer.ilovepdf.com/) | Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month | `apiKey` | Yes | Yes |
 | [JIRA](https://developer.atlassian.com/server/jira/platform/rest-apis/) | JIRA is a proprietary issue tracking product that allows bug tracking and agile project management | `OAuth`| Yes | Unknown |
 | [Mattermost](https://api.mattermost.com/) | An open source platform for developer collaboration | `OAuth`| Yes | Unknown |
-| [Mercury](https://mercury.postlight.com/web-parser/) | Web parser | `apiKey` | Yes | Unknown |
 | [Monday](https://developer.monday.com/) | Programmatically access and update data inside a monday.com account | `apiKey` | Yes | Unknown |
 | [Notion](https://developers.notion.com/docs/getting-started) | Integrate with Notion | `OAuth`| Yes | Unknown |
 | [PandaDoc](https://developers.pandadoc.com) | DocGen and eSignatures API | `apiKey` | Yes | No |
@@ -658,7 +653,6 @@
 | [Sendgrid](https://docs.sendgrid.com/api-reference/) | A cloud-based SMTP provider that allows you to send emails without having to maintain email servers | `apiKey` | Yes | Unknown |
 | [Sendinblue](https://developers.sendinblue.com/docs) | A service that provides solutions relating to marketing and/or transactional email and/or SMS | `apiKey` | Yes | Unknown |
 | [Sweego](https://learn.sweego.io/docs/api-intro) | Self-serve multichannel notification platform for transactional email, SMS, push web& mobile, chat, in-app | `apiKey` | Yes | Yes |
-| [Valid Email](https://validemail.io/) | Verify email addresses for spam and delivery | `apiKey` | Yes | Unknown |
 | [Verifier](https://verifier.meetchopra.com/docs#/) | Verifies that a given email is real | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
@@ -690,7 +684,6 @@
 | [Carbon Interface](https://docs.carboninterface.com/) | API to calculate carbon (C02) emissions estimates for common C02 emitting activities | `apiKey` | Yes | Yes |
 | [Climatiq](https://docs.climatiq.io) | Calculate the environmental footprint created by a broad range of emission-generating activities | `apiKey` | Yes | Yes |
 | [Cloverly](https://www.cloverly.com/carbon-offset-documentation) | API calculates the impact of common carbon-intensive activities in real time | `apiKey` | Yes | Unknown |
-| [CO2 Offset](https://co2offset.io/api.html) | API calculates and validates the carbon footprint | No | Yes | Unknown |
 | [Danish data service Energi](https://www.energidataservice.dk/) | Open energy data from Energinet to society | No | Yes | Unknown |
 | [GrünstromIndex](https://gruenstromindex.de/) | Green Power Index for Germany (Grünstromindex/GSI) | No | No | Yes |
 | [IQAir](https://www.iqair.com/air-pollution-data-api) | Air quality and weather data | `apiKey` | Yes | Unknown |
@@ -721,7 +714,6 @@
 |---|---|---|---|---|
 | [Abstract VAT Validation](https://www.abstractapi.com/vat-validation-rates-api) | Validate VAT numbers and calculate VAT rates | `apiKey` | Yes | Yes |
 | [Aletheia](https://aletheiaapi.com/) | Insider trading data, earnings call analysis, financial statements, and more | `apiKey` | Yes | Yes |
-| [Alpaca](https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/) | Realtime and historical market data on all US equities and ETFs | `apiKey` | Yes | Yes |
 | [Alpha Vantage](https://www.alphavantage.co/) | Realtime and historical stock data | `apiKey` | Yes | Unknown |
 | [Atom Finance](https://atom.finance/) | Atom Finance provides access to market, earnings and news data | `apiKey` | Yes | Yes |
 | [Banco do Brasil](https://developers.bb.com.br) | All Banco do Brasil financial transaction APIs | `OAuth`| Yes | Yes |
@@ -745,7 +737,6 @@
 | [MercadoPago](https://www.mercadopago.com.br/developers/es/reference) | Mercado Pago API reference - all the information you need to develop your integrations | `apiKey` | Yes | Unknown |
 | [Mono](https://mono.co/) | Connect with users’ bank accounts and access transaction data in Africa | `apiKey` | Yes | Unknown |
 | [Moov](https://docs.moov.io/api/) | The Moov API makes it simple for platforms to send, receive, and store money | `apiKey` | Yes | Unknown |
-| [Nordigen](https://nordigen.com/en/account_information_documenation/integration/quickstart_guide/) | Connect to bank accounts using official bank APIs and get raw transaction data | `apiKey` | Yes | Unknown |
 | [OpenFIGI](https://www.openfigi.com/api) | Equity, index, futures, options symbology from Bloomberg LP | `apiKey` | Yes | Yes |
 | [Plaid](https://plaid.com/) | Connect with user's bank accounts and access transaction data | `apiKey` | Yes | Unknown |
 | [Polygon](https://polygon.io/) | Historical stock market data | `apiKey` | Yes | Unknown |
@@ -846,7 +837,6 @@
 | [Italian Jokes](https://italian-jokes.vercel.app/) | JSON API for getting jokes about Italians | No | Yes | Unknown |
 | [JokeAPI](https://sv443.net/jokeapi/v2/) | Programming, Miscellaneous and Dark Jokes | No | Yes | Yes |
 | [Jokes One](https://jokes.one/api/joke/) | Joke of the day and large category of jokes accessible via REST API | `apiKey`| Yes | Yes |
-| [Jservice](http://jservice.io) | Jeopardy Question Database | No | No | Unknown |
 | [Lichess](https://lichess.org/api) | Access to all data of users, games, puzzles and etc on Lichess | `OAuth` | Yes | Unknown |
 | [Magic The Gathering](http://magicthegathering.io/) | Magic The Gathering Game Information | No | No | Unknown |
 | [Marvel](https://developer.marvel.com) | Marvel Comics | `apiKey`| Yes | Unknown |
@@ -871,7 +861,6 @@
 | [RAWG.io](https://rawg.io/apidocs) | 500,000+ games for 50 platforms including mobiles | `apiKey`| Yes | Unknown |
 | [Rick and Morty](https://rickandmortyapi.com) | All the Rick and Morty information, including images | No | Yes | Yes |
 | [Riot Games](https://developer.riotgames.com/) | League of Legends, Teamfight Tactics, Legends of Runetera and Valorant information | `apiKey`| Yes | Unknown |
-| [RPS 101](https://rps101.pythonanywhere.com/api) | Rock, Paper, Scissors with 101 objects | No | Yes | Yes |
 | [RuneScape](https://runescape.wiki/w/Application_programming_interface) | RuneScape and OSRS RPGs information | No | Yes | No |
 | [Sakura CardCaptor](https://github.com/JessVel/sakura-card-captor-api) | Sakura CardCaptor Cards Information | No | Yes | Unknown |
 | [Scryfall](https://scryfall.com/docs/api) | Magic: The Gathering database | No | Yes | Yes |
@@ -1208,7 +1197,6 @@
 | [NewsAPI.ai](https://www.newsapi.ai/documentation) | News API access to real-time and archive news content | `apiKey` | Yes | Yes |
 | [NewsData](https://newsdata.io/docs) | News data API for live-breaking news and headlines from reputed news sources | `apiKey` | Yes | Unknown |
 | [NewsX](https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/) | Get or Search Latest Breaking News with ML Powered Summaries 🤖| `apiKey` | Yes | Unknown |
-| [NPR One](https://dev.npr.org) | Personalized news listening experience from NPR | `OAuth`| Yes | Unknown |
 | [Spaceflight News](https://spaceflightnewsapi.net) | Spaceflight related news 🚀| No | Yes | Yes |
 | [Substack API Wrapper](https://github.com/NHagar/substack_api) | Substack's newsletter platform now has an API wrapper, for easy access to latest posts | `No` | Yes | Unknown |
 | [The Guardian](http://open-platform.theguardian.com/) | Access all the content the Guardian creates, categorised by tags and section | `apiKey` | Yes | Unknown |
@@ -1469,7 +1457,6 @@
 | [Flipkart Marketplace](https://seller.flipkart.com/api-docs/FMSAPI.html) | Product listing management, Order Fulfilment in the Flipkart Marketplace | `OAuth`| Yes | Yes |
 | [Lazada](https://open.lazada.com/doc/doc.htm) | Retrieve product ratings and seller performance metrics | `apiKey` | Yes | Unknown |
 | [Mercadolibre](https://developers.mercadolibre.cl/es_ar/api-docs-es) | Manage sales, ads, products, services and Shops | `apiKey` | Yes | Unknown |
-| [Octopart](https://octopart.com/api) | Electronic part data for manufacturing, design, and sourcing | `apiKey` | Yes | Unknown |
 | [OLX Poland](https://developer.olx.pl/api/doc#section/) | Integrate with local sites by posting, managing adverts and communicating with OLX users | `apiKey` | Yes | Unknown |
 | [Platzi Fake Store](https://fakeapi.platzi.com/) | A fake store API for your e-commerce or shopping website prototype. For testing and learning | `apiKey` | Yes | Unknown |
 | [Printful](https://developers.printful.com) | Printful's official API to manage and integrate their services | `OAuth` | Yes | Unknown |
@@ -1514,7 +1501,6 @@
 | [TamTam](https://dev.tamtam.chat/) | Bot API to interact with TamTam | `apiKey` | Yes | Unknown |
 | [Telegram Bot](https://core.telegram.org/bots/api) | Simplified HTTP version of the MTProto API for bots | `apiKey` | Yes | Unknown |
 | [Telegram MTProto](https://core.telegram.org/api#getting-started) | Read and write Telegram data | `OAuth`| Yes | Unknown |
-| [Telegraph](https://telegraph.org/api) | Create attractive blogs easily, to share [Other domain - [graph.org](https://graph.org/api)]| `apiKey` | Yes | Unknown |
 | [TikTok](https://developers.tiktok.com/doc/login-kit-web) | Fetches user info and user's video posts on TikTok platform | `OAuth`| Yes | Unknown |
 | [Trash Nothing](https://trashnothing.com/developer) | A freecycling community with thousands of free items posted every day | `OAuth`| Yes | Yes |
 | [Tumblr](https://www.tumblr.com/docs/en/api/v2) | Read and write Tumblr Data | `OAuth`| Yes | Unknown |
@@ -1589,7 +1575,6 @@
 | [Random Identity](https://rapidapi.com/edualc1018/api/random-identity-generator) | Random Identity Generator with custom response format | `apiKey` | Yes | Yes |
 | [Randommer](https://randommer.io/randommer-api) | Random data generator | `apiKey` | Yes | Yes |
 | [RandomUser](https://randomuser.me) | Generates and list user data | No | Yes | Unknown |
-| [Retool](https://retool.com/api) | Generate test data for your application | `apiKey` | Yes | Unknown |
 | [RoboHash](https://robohash.org/) | Generate random robot/alien avatars | No | Yes | Unknown |
 | [This Person Does not Exist](https://thispersondoesnotexist.com) | Generates real-life faces of people who do not exist | No | Yes | Unknown |
 | [UUID Generator](https://www.uuidtools.com/docs) | Generate UUIDs | No | Yes | No |
