@@ -1,5 +1,5 @@
 {
-"count": 1418,
+"count": 1419,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -10734,6 +10734,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://nbaapi.com/graphql/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "NBA REST API",
+        "Description": "Up-to-date NBA Player, Team, and Season Statistics, Totals, Advanced, and Shot Chart Data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "http://rest.nbaapi.com/index.html",
         "Category": "Sports & Fitness"
     },
     {
