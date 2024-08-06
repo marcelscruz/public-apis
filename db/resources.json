@@ -1,15 +1,6 @@
 {
-"count": 1419,
+"count": 1403,
 "entries": [
-    {
-        "API": "AdoptAPet",
-        "Description": "Resource to help get pets adopted",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://www.adoptapet.com/public/apis/pet_list.html",
-        "Category": "Animals"
-    },
     {
         "API": "Cat Facts",
         "Description": "Daily cat facts",
@@ -2513,15 +2504,6 @@
         "Category": "Development"
     },
     {
-        "API": "Bored",
-        "Description": "Find random activities to fight boredom",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.boredapi.com/",
-        "Category": "Development"
-    },
-    {
         "API": "Brainshop.ai",
         "Description": "Make A Free A.I Brain",
         "Auth": "apiKey",
@@ -2555,15 +2537,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://browshot.com/api/documentation",
-        "Category": "Development"
-    },
-    {
-        "API": "Bruno",
-        "Description": "A fast and Git-friendly open-source API client, aimed at revolutionizing the status quo represented by Postman, Insomnia and similar tools out there.",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://brunoapi.com",
         "Category": "Development"
     },
     {
@@ -3269,15 +3242,6 @@
         "Category": "Development"
     },
     {
-        "API": "SavePage.io",
-        "Description": "A free, RESTful API used to screenshot any desktop, or mobile website",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://www.savepage.io",
-        "Category": "Development"
-    },
-    {
         "API": "ScrapeNinja",
         "Description": "Scraping API with Chrome fingerprint and residential proxies",
         "Auth": "apiKey",
@@ -3782,15 +3746,6 @@
         "Category": "Documents & Productivity"
     },
     {
-        "API": "Mercury",
-        "Description": "Web parser",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://mercury.postlight.com/web-parser/",
-        "Category": "Documents & Productivity"
-    },
-    {
         "API": "Monday",
         "Description": "Programmatically access and update data inside a monday.com account",
         "Auth": "apiKey",
@@ -4124,15 +4079,6 @@
         "Category": "Email"
     },
     {
-        "API": "Valid Email",
-        "Description": "Verify email addresses for spam and delivery",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://validemail.io/",
-        "Category": "Email"
-    },
-    {
         "API": "Verifier",
         "Description": "Verifies that a given email is real",
         "Auth": "apiKey",
@@ -4304,15 +4250,6 @@
         "Category": "Environment"
     },
     {
-        "API": "CO2 Offset",
-        "Description": "API calculates and validates the carbon footprint",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://co2offset.io/api.html",
-        "Category": "Environment"
-    },
-    {
         "API": "Danish data service Energi",
         "Description": "Open energy data from Energinet to society",
         "Auth": "",
@@ -4472,15 +4409,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://aletheiaapi.com/",
-        "Category": "Finance"
-    },
-    {
-        "API": "Alpaca",
-        "Description": "Realtime and historical market data on all US equities and ETFs",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/",
         "Category": "Finance"
     },
     {
@@ -4688,15 +4616,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.moov.io/api/",
-        "Category": "Finance"
-    },
-    {
-        "API": "Nordigen",
-        "Description": "Connect to bank accounts using official bank APIs and get raw transaction data",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://nordigen.com/en/account_information_documenation/integration/quickstart_guide/",
         "Category": "Finance"
     },
     {
@@ -5492,15 +5411,6 @@
         "Category": "Games & Comics"
     },
     {
-        "API": "Jservice",
-        "Description": "Jeopardy Question Database",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://jservice.io",
-        "Category": "Games & Comics"
-    },
-    {
         "API": "Lichess",
         "Description": "Access to all data of users, games, puzzles and etc on Lichess",
         "Auth": "OAuth",
@@ -5714,15 +5624,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.riotgames.com/",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "RPS 101",
-        "Description": "Rock, Paper, Scissors with 101 objects",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://rps101.pythonanywhere.com/api",
         "Category": "Games & Comics"
     },
     {
@@ -8372,15 +8273,6 @@
         "Category": "News"
     },
     {
-        "API": "NPR One",
-        "Description": "Personalized news listening experience from NPR",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://dev.npr.org",
-        "Category": "News"
-    },
-    {
         "API": "Spaceflight News",
         "Description": "Spaceflight related news 🚀",
         "Auth": "",
@@ -10127,15 +10019,6 @@
         "Category": "Shopping"
     },
     {
-        "API": "Octopart",
-        "Description": "Electronic part data for manufacturing, design, and sourcing",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://octopart.com/api",
-        "Category": "Shopping"
-    },
-    {
         "API": "OLX Poland",
         "Description": "Integrate with local sites by posting, managing adverts and communicating with OLX users",
         "Auth": "apiKey",
@@ -10475,22 +10358,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://core.telegram.org/api#getting-started",
-        "Category": "Social"
-    },
-    {
-        "API": "Telegraph",
-        "Description": "Create attractive blogs easily, to share [Other domain -",
-        "HTTPS": false,
-        "Link": "https://telegraph.org/api",
-        "Category": "Social"
-    },
-    {
-        "API": "graph.org",
-        "Description": "]",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://graph.org/api",
         "Category": "Social"
     },
     {
@@ -11049,15 +10916,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://randomuser.me",
-        "Category": "Test Data"
-    },
-    {
-        "API": "Retool",
-        "Description": "Generate test data for your application",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://retool.com/api",
         "Category": "Test Data"
     },
     {
