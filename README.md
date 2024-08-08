@@ -597,6 +597,7 @@
 | [Convert Word to PDF](https://apyhub.com/utility/converter-doc-pdf) | Convert a Word document (doc, docx, or ODF formats) to a PDF document | `apiKey` | Yes | Yes |
 | [Convert RSS to JSON](https://apyhub.com/utility/converter-rss-json) | Transform raw RSS data into structured JSON | `apiKey` | Yes | Yes |
 | [CraftMyPDF](https://craftmypdf.com) | Generate PDF documents from templates with a drop-and-drop editor and a simple API | `apiKey` | Yes | No |
+| [CV / Resume Parsing API](https://apyhub.com/utility/sharpapi-ai-resume-parser) | The Resume Parser API parses a resume (CV) file from multiple formats (PDF/DOC/DOCX/TXT/RTF) and returns an extensive object of data points | `apiKey` | Yes | Yes |
 | [FastApi Simple Calculator](https://fastapi-calculadora.onrender.com/) | Math, Stadistics, Conversions, Currency and more | No | Yes | Unknown |
 | [Flowdash](https://docs.flowdash.com/docs/api-introduction) | Automate business workflows | `apiKey` | Yes | Unknown |
 | [Html2PDF](https://html2pdf.app/) | HTML/URL to PDF | `apiKey` | Yes | Unknown |
