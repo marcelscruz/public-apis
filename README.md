@@ -709,6 +709,7 @@
 | [Abstract VAT Validation](https://www.abstractapi.com/vat-validation-rates-api) | Validate VAT numbers and calculate VAT rates | `apiKey` | Yes | Yes |
 | [Aletheia](https://aletheiaapi.com/) | Insider trading data, earnings call analysis, financial statements, and more | `apiKey` | Yes | Yes |
 | [Alpha Vantage](https://www.alphavantage.co/) | Realtime and historical stock data | `apiKey` | Yes | Unknown |
+| [ArgentoFX](https://fastapiproject-1-eziw.onrender.com/docs) | Real-time foreign exchange rates for Argentina | No | Yes | Yes |
 | [Atom Finance](https://atom.finance/) | Atom Finance provides access to market, earnings and news data | `apiKey` | Yes | Yes |
 | [Banco do Brasil](https://developers.bb.com.br) | All Banco do Brasil financial transaction APIs | `OAuth`| Yes | Yes |
 | [Billplz](https://www.billplz.com/api) | Payment platform | `apiKey` | Yes | Unknown |
