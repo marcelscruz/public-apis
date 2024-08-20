@@ -1,5 +1,5 @@
 {
-"count": 1406,
+"count": 1407,
 "entries": [
     {
         "API": "Cat Facts",
@@ -7811,6 +7811,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://irisnet.de/api/",
+        "Category": "Machine Learning"
+    },
+    {
+        "API": "jsonAi.cloud",
+        "Description": "Save JSON schemas as api endpoints, feed it with your data and get structured JSON responses with AI",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://jsonai.cloud",
         "Category": "Machine Learning"
     },
     {
