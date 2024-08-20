@@ -1,5 +1,5 @@
 {
-"count": 1404,
+"count": 1405,
 "entries": [
     {
         "API": "Cat Facts",
@@ -9800,6 +9800,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf",
+        "Category": "Security"
+    },
+    {
+        "API": "IntelOwl",
+        "Description": "Manage your Threat Intelligence at scale",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://intelowl.readthedocs.io",
         "Category": "Security"
     },
     {
