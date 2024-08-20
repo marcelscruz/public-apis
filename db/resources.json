@@ -1,5 +1,5 @@
 {
-"count": 1407,
+"count": 1408,
 "entries": [
     {
         "API": "Cat Facts",
@@ -8873,6 +8873,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://kanye.rest",
+        "Category": "Personality"
+    },
+    {
+        "API": "kimiquotes",
+        "Description": "Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://kimiquotes.pages.dev/docs",
         "Category": "Personality"
     },
     {
