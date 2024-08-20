@@ -1,5 +1,5 @@
 {
-"count": 1408,
+"count": 1407,
 "entries": [
     {
         "API": "Cat Facts",
@@ -80,15 +80,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://http.dog/",
-        "Category": "Animals"
-    },
-    {
-        "API": "HTTP Status Dogs",
-        "Description": "Dogs for every HTTP response status code",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://httpstatusdogs.com/",
         "Category": "Animals"
     },
     {
