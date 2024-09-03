@@ -1,5 +1,5 @@
 {
-"count": 1412,
+"count": 1413,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4508,6 +4508,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://sandbox.developerhub.citi.com/api-catalog-list",
+        "Category": "Finance"
+    },
+    {
+        "API": "DolarAPI",
+        "Description": "Real-time exchange rates for Latin American currencies",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://dolarapi.com/docs/",
         "Category": "Finance"
     },
     {
