@@ -1,5 +1,5 @@
 {
-"count": 1408,
+"count": 1409,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2852,6 +2852,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://httpbin.org/",
+        "Category": "Development"
+    },
+    {
+        "API": "httpSMS",
+        "Description": "Use your Android phone as an SMS gateway to send and receive SMS messages via a simple HTTP API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.httpsms.com/",
         "Category": "Development"
     },
     {
