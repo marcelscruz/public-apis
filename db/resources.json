@@ -1,5 +1,5 @@
 {
-"count": 1407,
+"count": 1408,
 "entries": [
     {
         "API": "Cat Facts",
@@ -11087,6 +11087,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://libretranslate.com/docs",
+        "Category": "Text Analysis"
+    },
+    {
+        "API": "Proofread and Grammar Check API",
+        "Description": "The Proofreading and Grammar Check API ensures the provided text is grammatically correct and polished by automatically proofreading and checking for errors",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/sharpapi-proofread-grammer-check",
         "Category": "Text Analysis"
     },
     {
