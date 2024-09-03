@@ -1,5 +1,5 @@
 {
-"count": 1409,
+"count": 1410,
 "entries": [
     {
         "API": "Cat Facts",
@@ -10907,6 +10907,15 @@
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://metaphorpsum.com/",
+        "Category": "Test Data"
+    },
+    {
+        "API": "Mockae",
+        "Description": "Fake REST API powered by Lua",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://mockae.com/",
         "Category": "Test Data"
     },
     {
