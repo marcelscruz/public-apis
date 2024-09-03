@@ -1,5 +1,5 @@
 {
-"count": 1413,
+"count": 1411,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4457,15 +4457,6 @@
         "Category": "Finance"
     },
     {
-        "API": "Atom Finance",
-        "Description": "Atom Finance provides access to market, earnings and news data",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://atom.finance/",
-        "Category": "Finance"
-    },
-    {
         "API": "Banco do Brasil",
         "Description": "All Banco do Brasil financial transaction APIs",
         "Auth": "OAuth",
@@ -4724,15 +4715,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://developers.rentcast.io",
-        "Category": "Finance"
-    },
-    {
-        "API": "Repetiti",
-        "Description": "Repetiti 3d Printer Management Service",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://developers.repetiti.com/",
         "Category": "Finance"
     },
     {
