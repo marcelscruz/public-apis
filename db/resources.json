@@ -1,5 +1,5 @@
 {
-"count": 1411,
+"count": 1412,
 "entries": [
     {
         "API": "Cat Facts",
@@ -584,6 +584,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://img.icons8.com/",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "Logotypes",
+        "Description": "Logotypes of the world in multiples format",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://logotypes.dev/",
         "Category": "Art & Design"
     },
     {
