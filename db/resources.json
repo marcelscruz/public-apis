@@ -1,5 +1,5 @@
 {
-"count": 1410,
+"count": 1411,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4436,6 +4436,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.alphavantage.co/",
+        "Category": "Finance"
+    },
+    {
+        "API": "ArgentoFX",
+        "Description": "Real-time foreign exchange rates for Argentina",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://fastapiproject-1-eziw.onrender.com/docs",
         "Category": "Finance"
     },
     {
