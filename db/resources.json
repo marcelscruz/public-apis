@@ -1,5 +1,5 @@
 {
-"count": 1411,
+"count": 1412,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2240,6 +2240,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://freeforexapi.com/Home/Api",
+        "Category": "Currency Exchange"
+    },
+    {
+        "API": "FxFeed.io",
+        "Description": "Foreign exchange rates, currency conversion and time series data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://fxfeed.io",
         "Category": "Currency Exchange"
     },
     {
