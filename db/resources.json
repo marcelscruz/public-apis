@@ -1,15 +1,6 @@
 {
-"count": 1417,
+"count": 1412,
 "entries": [
-    {
-        "API": "AdoptAPet",
-        "Description": "Resource to help get pets adopted",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://www.adoptapet.com/public/apis/pet_list.html",
-        "Category": "Animals"
-    },
     {
         "API": "Cat Facts",
         "Description": "Daily cat facts",
@@ -89,15 +80,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://http.dog/",
-        "Category": "Animals"
-    },
-    {
-        "API": "HTTP Status Dogs",
-        "Description": "Dogs for every HTTP response status code",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://httpstatusdogs.com/",
         "Category": "Animals"
     },
     {
@@ -602,6 +584,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://img.icons8.com/",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "Logotypes",
+        "Description": "Logotypes of the world in multiples format",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://logotypes.dev/",
         "Category": "Art & Design"
     },
     {
@@ -2054,6 +2045,15 @@
         "Category": "Cryptocurrency"
     },
     {
+        "API": "Sellgate",
+        "Description": "Cryptocurrency checkout creator",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://sellgate.io/docs/checkout/create",
+        "Category": "Cryptocurrency"
+    },
+    {
         "API": "Solana JSON RPC",
         "Description": "Provides various endpoints to interact with the Solana Blockchain",
         "Auth": "",
@@ -2240,6 +2240,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://freeforexapi.com/Home/Api",
+        "Category": "Currency Exchange"
+    },
+    {
+        "API": "FxFeed.io",
+        "Description": "Foreign exchange rates, currency conversion and time series data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://fxfeed.io",
         "Category": "Currency Exchange"
     },
     {
@@ -2513,15 +2522,6 @@
         "Category": "Development"
     },
     {
-        "API": "Bored",
-        "Description": "Find random activities to fight boredom",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.boredapi.com/",
-        "Category": "Development"
-    },
-    {
         "API": "Brainshop.ai",
         "Description": "Make A Free A.I Brain",
         "Auth": "apiKey",
@@ -2555,15 +2555,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://browshot.com/api/documentation",
-        "Category": "Development"
-    },
-    {
-        "API": "Bruno",
-        "Description": "A fast and Git-friendly open-source API client, aimed at revolutionizing the status quo represented by Postman, Insomnia and similar tools out there.",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://brunoapi.com",
         "Category": "Development"
     },
     {
@@ -2879,6 +2870,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://httpbin.org/",
+        "Category": "Development"
+    },
+    {
+        "API": "httpSMS",
+        "Description": "Use your Android phone as an SMS gateway to send and receive SMS messages via a simple HTTP API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.httpsms.com/",
         "Category": "Development"
     },
     {
@@ -3266,15 +3266,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/ayusharma/RSS-to-JSON",
-        "Category": "Development"
-    },
-    {
-        "API": "SavePage.io",
-        "Description": "A free, RESTful API used to screenshot any desktop, or mobile website",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://www.savepage.io",
         "Category": "Development"
     },
     {
@@ -3728,6 +3719,15 @@
         "Category": "Documents & Productivity"
     },
     {
+        "API": "CV / Resume Parsing API",
+        "Description": "The Resume Parser API parses a resume (CV) file from multiple formats (PDF/DOC/DOCX/TXT/RTF) and returns an extensive object of data points",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/sharpapi-ai-resume-parser",
+        "Category": "Documents & Productivity"
+    },
+    {
         "API": "FastApi Simple Calculator",
         "Description": "Math, Stadistics, Conversions, Currency and more",
         "Auth": "",
@@ -3779,15 +3779,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.mattermost.com/",
-        "Category": "Documents & Productivity"
-    },
-    {
-        "API": "Mercury",
-        "Description": "Web parser",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://mercury.postlight.com/web-parser/",
         "Category": "Documents & Productivity"
     },
     {
@@ -4115,12 +4106,12 @@
         "Category": "Email"
     },
     {
-        "API": "Valid Email",
-        "Description": "Verify email addresses for spam and delivery",
+        "API": "Sweego",
+        "Description": "Self-serve multichannel notification platform for transactional email, SMS, push web& mobile, chat, in-app",
         "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://validemail.io/",
+        "Cors": "yes",
+        "Link": "https://learn.sweego.io/docs/api-intro",
         "Category": "Email"
     },
     {
@@ -4295,15 +4286,6 @@
         "Category": "Environment"
     },
     {
-        "API": "CO2 Offset",
-        "Description": "API calculates and validates the carbon footprint",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://co2offset.io/api.html",
-        "Category": "Environment"
-    },
-    {
         "API": "Danish data service Energi",
         "Description": "Open energy data from Energinet to society",
         "Auth": "",
@@ -4466,15 +4448,6 @@
         "Category": "Finance"
     },
     {
-        "API": "Alpaca",
-        "Description": "Realtime and historical market data on all US equities and ETFs",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/",
-        "Category": "Finance"
-    },
-    {
         "API": "Alpha Vantage",
         "Description": "Realtime and historical stock data",
         "Auth": "apiKey",
@@ -4484,12 +4457,12 @@
         "Category": "Finance"
     },
     {
-        "API": "Atom Finance",
-        "Description": "Atom Finance provides access to market, earnings and news data",
-        "Auth": "apiKey",
+        "API": "ArgentoFX",
+        "Description": "Real-time foreign exchange rates for Argentina",
+        "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://atom.finance/",
+        "Link": "https://fastapiproject-1-eziw.onrender.com/docs",
         "Category": "Finance"
     },
     {
@@ -4535,6 +4508,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://sandbox.developerhub.citi.com/api-catalog-list",
+        "Category": "Finance"
+    },
+    {
+        "API": "DolarAPI",
+        "Description": "Real-time exchange rates for Latin American currencies",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://dolarapi.com/docs/",
         "Category": "Finance"
     },
     {
@@ -4682,15 +4664,6 @@
         "Category": "Finance"
     },
     {
-        "API": "Nordigen",
-        "Description": "Connect to bank accounts using official bank APIs and get raw transaction data",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://nordigen.com/en/account_information_documenation/integration/quickstart_guide/",
-        "Category": "Finance"
-    },
-    {
         "API": "OpenFIGI",
         "Description": "Equity, index, futures, options symbology from Bloomberg LP",
         "Auth": "apiKey",
@@ -4751,15 +4724,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://developers.rentcast.io",
-        "Category": "Finance"
-    },
-    {
-        "API": "Repetiti",
-        "Description": "Repetiti 3d Printer Management Service",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://developers.repetiti.com/",
         "Category": "Finance"
     },
     {
@@ -5483,15 +5447,6 @@
         "Category": "Games & Comics"
     },
     {
-        "API": "Jservice",
-        "Description": "Jeopardy Question Database",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://jservice.io",
-        "Category": "Games & Comics"
-    },
-    {
         "API": "Lichess",
         "Description": "Access to all data of users, games, puzzles and etc on Lichess",
         "Auth": "OAuth",
@@ -5705,15 +5660,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.riotgames.com/",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "RPS 101",
-        "Description": "Rock, Paper, Scissors with 101 objects",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://rps101.pythonanywhere.com/api",
         "Category": "Games & Comics"
     },
     {
@@ -7886,6 +7832,15 @@
         "Category": "Machine Learning"
     },
     {
+        "API": "jsonAi.cloud",
+        "Description": "Save JSON schemas as api endpoints, feed it with your data and get structured JSON responses with AI",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://jsonai.cloud",
+        "Category": "Machine Learning"
+    },
+    {
         "API": "Keen IO",
         "Description": "Data Analytics",
         "Auth": "apiKey",
@@ -8360,15 +8315,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/",
-        "Category": "News"
-    },
-    {
-        "API": "NPR One",
-        "Description": "Personalized news listening experience from NPR",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://dev.npr.org",
         "Category": "News"
     },
     {
@@ -8945,6 +8891,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://kanye.rest",
+        "Category": "Personality"
+    },
+    {
+        "API": "kimiquotes",
+        "Description": "Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://kimiquotes.pages.dev/docs",
         "Category": "Personality"
     },
     {
@@ -9893,6 +9848,15 @@
         "Category": "Security"
     },
     {
+        "API": "IntelOwl",
+        "Description": "Manage your Threat Intelligence at scale",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://intelowl.readthedocs.io",
+        "Category": "Security"
+    },
+    {
         "API": "LoginRadius",
         "Description": "Managed User Authentication Service",
         "Auth": "apiKey",
@@ -10115,15 +10079,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.mercadolibre.cl/es_ar/api-docs-es",
-        "Category": "Shopping"
-    },
-    {
-        "API": "Octopart",
-        "Description": "Electronic part data for manufacturing, design, and sourcing",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://octopart.com/api",
         "Category": "Shopping"
     },
     {
@@ -10469,22 +10424,6 @@
         "Category": "Social"
     },
     {
-        "API": "Telegraph",
-        "Description": "Create attractive blogs easily, to share [Other domain -",
-        "HTTPS": false,
-        "Link": "https://telegraph.org/api",
-        "Category": "Social"
-    },
-    {
-        "API": "graph.org",
-        "Description": "]",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://graph.org/api",
-        "Category": "Social"
-    },
-    {
         "API": "TikTok",
         "Description": "Fetches user info and user's video posts on TikTok platform",
         "Auth": "OAuth",
@@ -10725,6 +10664,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://nbaapi.com/graphql/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "NBA REST API",
+        "Description": "Up-to-date NBA Player, Team, and Season Statistics, Totals, Advanced, and Shot Chart Data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "http://rest.nbaapi.com/index.html",
         "Category": "Sports & Fitness"
     },
     {
@@ -10980,6 +10928,15 @@
         "Category": "Test Data"
     },
     {
+        "API": "Mockae",
+        "Description": "Fake REST API powered by Lua",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://mockae.com/",
+        "Category": "Test Data"
+    },
+    {
         "API": "Mockaroo",
         "Description": "Generate fake data to JSON, CSV, TXT, SQL and XML",
         "Auth": "apiKey",
@@ -11031,15 +10988,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://randomuser.me",
-        "Category": "Test Data"
-    },
-    {
-        "API": "Retool",
-        "Description": "Generate test data for your application",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://retool.com/api",
         "Category": "Test Data"
     },
     {
@@ -11175,6 +11123,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://libretranslate.com/docs",
+        "Category": "Text Analysis"
+    },
+    {
+        "API": "Proofread and Grammar Check API",
+        "Description": "The Proofreading and Grammar Check API ensures the provided text is grammatically correct and polished by automatically proofreading and checking for errors",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/sharpapi-proofread-grammer-check",
         "Category": "Text Analysis"
     },
     {
