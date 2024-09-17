@@ -1,5 +1,5 @@
 {
-"count": 1412,
+"count": 1415,
 "entries": [
     {
         "API": "Cat Facts",
@@ -389,6 +389,15 @@
         "Category": "Anti-Malware"
     },
     {
+        "API": "FishFish",
+        "Description": "A volunteer cybersecurity project focused on providing resources and services that improve safety across Discord",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://fishfish.gg/",
+        "Category": "Anti-Malware"
+    },
+    {
         "API": "Google Safe Browsing",
         "Description": "Google Link/Domain Flagging",
         "Auth": "apiKey",
@@ -431,6 +440,14 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://metacert.com/",
+        "Category": "Anti-Malware"
+    },
+    {
+        "API": "phish.directory",
+        "Description": "API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts.   apiKey",
+        "Auth": "Yes",
+        "HTTPS": false,
+        "Link": "https://phish.directory/",
         "Category": "Anti-Malware"
     },
     {
@@ -3509,6 +3526,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.zenrows.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "Zuplo",
+        "Description": "API platform for Development, Deployment, and Docs - add auth, rate-limiting, and monetization fast",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://zuplo.com/",
         "Category": "Development"
     },
     {
