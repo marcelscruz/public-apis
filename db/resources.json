@@ -1,5 +1,5 @@
 {
-"count": 1415,
+"count": 1417,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3376,6 +3376,15 @@
         "Category": "Development"
     },
     {
+        "API": "SEO Tags Generator API",
+        "Description": "The Generate SEO Tags API generates all the most important META tags based on any content",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/sharpapi-generate-seo-tags",
+        "Category": "Development"
+    },
+    {
         "API": "Serialif Color",
         "Description": "Color conversion, complementary, grayscale and contrasted text",
         "Auth": "",
@@ -3832,6 +3841,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://developers.pandadoc.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Paraphrase Text API",
+        "Description": "The Paraphrase Text Generator API generates a paraphrased version of the provided text",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/sharpapi-paraphrase-text",
         "Category": "Documents & Productivity"
     },
     {
