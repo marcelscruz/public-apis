@@ -550,6 +550,7 @@
 | [Screenshotbase](https://screenshotbase.com/) | Screenshot API, 1000 free requests per month | `apiKey`| Yes | Yes |
 | [ScreenshotOne.com](https://screenshotone.com/) | Convert URLs, HTML, or Markdown into PNG, JPEG, WebP, or PDF with a simple screenshot API | `apiKey`| Yes | Yes |
 | [SearchApi](https://www.searchapi.io/) | Real-Time Google SERP API | `apiKey` | Yes | No |
+| [SEO Tags Generator API](https://apyhub.com/utility/sharpapi-generate-seo-tags) | The Generate SEO Tags API generates all the most important META tags based on any content | `apiKey` | Yes | Yes |
 | [Serialif Color](https://color.serialif.com/) | Color conversion, complementary, grayscale and contrasted text | No | Yes | No |
 | [SerpApi](https://serpapi.com/) | Scrape Google and other search engines  | `apiKey` | Yes | No |
 | [SERP Rank Checker](https://apyhub.com/utility/serp-rank) | Check realtime Google SERP Rank of any keywords. | `apiKey` | Yes | Yes |
@@ -613,6 +614,7 @@
 | [Monday](https://developer.monday.com/) | Programmatically access and update data inside a monday.com account | `apiKey` | Yes | Unknown |
 | [Notion](https://developers.notion.com/docs/getting-started) | Integrate with Notion | `OAuth`| Yes | Unknown |
 | [PandaDoc](https://developers.pandadoc.com) | DocGen and eSignatures API | `apiKey` | Yes | No |
+| [Paraphrase Text API](https://apyhub.com/utility/sharpapi-paraphrase-text) | The Paraphrase Text Generator API generates a paraphrased version of the provided text | `apiKey` | Yes | Yes |
 | [PDFEndpoint](https://pdfendpoint.com) | HTML and URL to PDF API | `apiKey` | Yes | No |
 | [Pocket](https://getpocket.com/developer/) | Bookmarking service | `OAuth`| Yes | Unknown |
 | [Podio](https://developers.podio.com) | File sharing and productivity | `OAuth`| Yes | Unknown |
