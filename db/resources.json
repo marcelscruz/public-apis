@@ -1,5 +1,5 @@
 {
-"count": 1418,
+"count": 1419,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3436,6 +3436,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/cheatsnake/shadify",
+        "Category": "Development"
+    },
+    {
+        "API": "Sheet2API",
+        "Description": "Easy Google Sheets and Excel Online API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://sheet2api.com/",
         "Category": "Development"
     },
     {
