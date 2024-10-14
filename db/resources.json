@@ -1,5 +1,5 @@
 {
-"count": 1420,
+"count": 1419,
 "entries": [
     {
         "API": "Cat Facts",
@@ -12166,15 +12166,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.dailymotion.com/",
-        "Category": "Video"
-    },
-    {
-        "API": "Dune",
-        "Description": "A simple API which provides you with book, character, movie and quotes JSON data",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://github.com/ywalia01/dune-api",
         "Category": "Video"
     },
     {
