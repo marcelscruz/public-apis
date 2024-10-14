@@ -1,5 +1,5 @@
 {
-"count": 1416,
+"count": 1417,
 "entries": [
     {
         "API": "Cat Facts",
@@ -296,6 +296,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://docs.nekos.best",
+        "Category": "Anime"
+    },
+    {
+        "API": "Nekosia API",
+        "Description": "Anime API with cute random images. Dominated colors & compressed images & avoiding duplicates.",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://nekosia.cat",
         "Category": "Anime"
     },
     {
