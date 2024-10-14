@@ -1,5 +1,5 @@
 {
-"count": 1419,
+"count": 1420,
 "entries": [
     {
         "API": "Cat Facts",
@@ -6847,6 +6847,15 @@
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://explore.data.parliament.uk/?learnmore=Members",
+        "Category": "Government"
+    },
+    {
+        "API": "Dedline.io API",
+        "Description": "Data for US state voter registration deadlines and details, for primaries and general elections",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://github.com/dedline-io/dedline-api",
         "Category": "Government"
     },
     {
