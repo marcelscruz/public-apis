@@ -1,5 +1,5 @@
 {
-"count": 1417,
+"count": 1416,
 "entries": [
     {
         "API": "Cat Facts",
@@ -5065,15 +5065,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://amiiboapi.com/",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "Animal Crossing: New Horizons",
-        "Description": "API for critters, fossils, art, music, furniture and villagers",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "http://acnhapi.com/",
         "Category": "Games & Comics"
     },
     {
