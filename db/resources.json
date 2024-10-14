@@ -1,5 +1,5 @@
 {
-"count": 1417,
+"count": 1418,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3094,6 +3094,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.myip.com/api-docs/",
+        "Category": "Development"
+    },
+    {
+        "API": "MySQL Visual EXPLAIN",
+        "Description": "Transform MySQL EXPLAIN output to interactive graphs",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://api.mysqlexplain.com/",
         "Category": "Development"
     },
     {
