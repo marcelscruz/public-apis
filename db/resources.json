@@ -1,5 +1,5 @@
 {
-"count": 1419,
+"count": 1421,
 "entries": [
     {
         "API": "Cat Facts",
@@ -11107,6 +11107,15 @@
         "Category": "Test Data"
     },
     {
+        "API": "AI Translate text API",
+        "Description": "The Text Translation API translates text into any of the 80 supported languages, providing accurate and context-aware translations",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/sharpapi-translate-text",
+        "Category": "Text Analysis"
+    },
+    {
         "API": "Aylien Text Analysis",
         "Description": "A collection of information retrieval and natural language APIs",
         "Auth": "apiKey",
@@ -12193,6 +12202,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://docs.gcore.com/streaming",
+        "Category": "Video"
+    },
+    {
+        "API": "Generate Thumbnail from video API",
+        "Description": "This API generates image thumbnails from any input video file, in the desired size (pixels). The API supports multiple video formats including MP4, WEBM, FLV, AVI, MKV, MOV and 3GP.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/thumbnail-from-video",
         "Category": "Video"
     },
     {
