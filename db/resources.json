@@ -1,5 +1,5 @@
 {
-"count": 1425,
+"count": 1426,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4750,6 +4750,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.openfigi.com/api",
+        "Category": "Finance"
+    },
+    {
+        "API": "ParityVend",
+        "Description": "Globalize your business by auto-adapting pricing for each visitor with Purchasing Power Parity",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.ambeteco.com/ParityVend/",
         "Category": "Finance"
     },
     {
