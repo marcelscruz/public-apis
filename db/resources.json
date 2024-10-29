@@ -1,5 +1,5 @@
 {
-"count": 1423,
+"count": 1424,
 "entries": [
     {
         "API": "Cat Facts",
@@ -10978,6 +10978,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://itsthisforthat.com/api.php",
+        "Category": "Test Data"
+    },
+    {
+        "API": "JSONing",
+        "Description": "Fake REST API for prototyping",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://jsoning.com/api/",
         "Category": "Test Data"
     },
     {
