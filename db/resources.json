@@ -1,5 +1,5 @@
 {
-"count": 1429,
+"count": 1430,
 "entries": [
     {
         "API": "Cat Facts",
@@ -844,6 +844,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.helium.com/api/blockchain/introduction/",
+        "Category": "Blockchain"
+    },
+    {
+        "API": "Layer4",
+        "Description": "Layer4 is a blockchain integration platform that supports no-code and API use",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.layer4.app/api-docs",
         "Category": "Blockchain"
     },
     {
