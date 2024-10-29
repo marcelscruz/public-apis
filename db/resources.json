@@ -1,5 +1,5 @@
 {
-"count": 1422,
+"count": 1421,
 "entries": [
     {
         "API": "Cat Facts",
@@ -12436,15 +12436,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.themoviedb.org/documentation/api",
-        "Category": "Video"
-    },
-    {
-        "API": "TrailerAddict",
-        "Description": "Easily embed trailers from TrailerAddict",
-        "Auth": "apiKey",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "https://www.traileraddict.com/trailerapi",
         "Category": "Video"
     },
     {
