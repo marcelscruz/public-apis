@@ -1,5 +1,5 @@
 {
-"count": 1426,
+"count": 1428,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4078,6 +4078,15 @@
         "Category": "Email"
     },
     {
+        "API": "Heybounce",
+        "Description": "Email Verification API",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.heybounce.io/#email-verification-api",
+        "Category": "Email"
+    },
+    {
         "API": "ImprovMX",
         "Description": "API for free email forwarding service",
         "Auth": "apiKey",
@@ -4192,6 +4201,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://learn.sweego.io/docs/api-intro",
+        "Category": "Email"
+    },
+    {
+        "API": "Trueguard",
+        "Description": "Trueguard offers API for detecting temporary emails, free-tier abusers and automated bots",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://trueguard.io",
         "Category": "Email"
     },
     {
