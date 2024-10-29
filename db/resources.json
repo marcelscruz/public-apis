@@ -1,5 +1,5 @@
 {
-"count": 1430,
+"count": 1432,
 "entries": [
     {
         "API": "Cat Facts",
@@ -7165,6 +7165,15 @@
         "Category": "Government"
     },
     {
+        "API": "Open Government, Kazakhstan",
+        "Description": "Kazakhstan Government Open Data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://data.egov.kz/",
+        "Category": "Government"
+    },
+    {
         "API": "Open Government, Korea",
         "Description": "Korea Government Open Data",
         "Auth": "apiKey",
@@ -7819,6 +7828,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://jobdatafeeds.com/job-api",
+        "Category": "Jobs"
+    },
+    {
+        "API": "TheirStack's Job Postings",
+        "Description": "Access simultaneously to jobs from Linkedin, Glassdoor, Indeed and 16+ other job sites",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://theirstack.com/en/job-posting-api",
         "Category": "Jobs"
     },
     {
