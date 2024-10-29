@@ -1,5 +1,5 @@
 {
-"count": 1421,
+"count": 1423,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2437,6 +2437,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://24pullrequests.com/api",
+        "Category": "Development"
+    },
+    {
+        "API": "Abacus",
+        "Description": "Free and simple counting service. You can use it to track page hits and specific events",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://abacus.jasoncameron.dev/",
         "Category": "Development"
     },
     {
@@ -11221,6 +11230,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/sharpapi-proofread-grammer-check",
+        "Category": "Text Analysis"
+    },
+    {
+        "API": "Safe text",
+        "Description": "Clean short and long texts. It is probably world most complete text-cleaner API! Providing very fast and accurate results.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/bacloud14/api/safe-text",
         "Category": "Text Analysis"
     },
     {
