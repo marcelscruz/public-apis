@@ -1,5 +1,5 @@
 {
-"count": 1428,
+"count": 1429,
 "entries": [
     {
         "API": "Cat Facts",
@@ -6199,6 +6199,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://geokeo.com",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "Geolocated",
+        "Description": "Free IP Geolocation API with multi-continent servers, and 60000 free requests/month",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://geolocated.io",
         "Category": "Geocoding"
     },
     {
