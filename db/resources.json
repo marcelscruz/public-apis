@@ -1,5 +1,5 @@
 {
-"count": 1432,
+"count": 1431,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4975,15 +4975,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/surhud004/Foodish#readme",
-        "Category": "Food & Drink"
-    },
-    {
-        "API": "Fruityvice",
-        "Description": "Data about all kinds of fruit",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.fruityvice.com",
         "Category": "Food & Drink"
     },
     {
