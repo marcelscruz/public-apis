@@ -1,5 +1,5 @@
 {
-"count": 1431,
+"count": 1432,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3202,6 +3202,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a",
+        "Category": "Development"
+    },
+    {
+        "API": "Proxmox VE API",
+        "Description": "API of self-hosted Proxmox VE. Address: https://your.server:8006/api2/json/ (configuring in installation process)",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://pve.proxmox.com/pve-docs/api-viewer/",
         "Category": "Development"
     },
     {
