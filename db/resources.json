@@ -1,5 +1,5 @@
 {
-"count": 1432,
+"count": 1434,
 "entries": [
     {
         "API": "Cat Facts",
@@ -6616,6 +6616,15 @@
         "Category": "Geocoding"
     },
     {
+        "API": "Timezones Dictionary API",
+        "Description": "This API returns a list of all available timezones for your application",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/data-lists-timezone",
+        "Category": "Geocoding"
+    },
+    {
         "API": "TomTom",
         "Description": "Maps, Directions, Places and Traffic APIs",
         "Auth": "apiKey",
@@ -11266,6 +11275,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://nlp.insightera.co.th/docs/v1.0",
+        "Category": "Text Analysis"
+    },
+    {
+        "API": "Fuzzy Text Search API",
+        "Description": "The Fuzzy Text Search API finds close matches for user queries, handling typos and partial inputs to deliver relevant results quickly and accurately",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/search-fuzzy-text",
         "Category": "Text Analysis"
     },
     {
