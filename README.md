@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
     <div>
-        <p align="center"><a href="https://publicapis.dev?ref=public_apis&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/public-apis.png" width="300px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="300px"><img alt="Scrapfly logo" src="./assets/public-apis.png" width="300px"></picture></a>
+        <p align="center"><a href="https://publicapis.dev?ref=public_apis&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/public-apis.png" width="130px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="130px"><img alt="Scrapfly logo" src="./assets/public-apis.png" width="130px"></picture></a>
         </p>
         <p align="center"><a href="https://publicapis.dev?ref=public_apis&utm_medium=repo_readme">Public APIs</a> — A collaborative list of public APIs for developers.</p>
     </div>
@@ -8,14 +8,24 @@
 
 <br/>
 <hr/>
-<br/>
+<br/> -->
 
 <div align="center">Sponsored by</div>
 
 <br/>
 
 <div>
-    <p align="center"><a href="https://scrapfly.io?ref=public_apis&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/scrapfly-dark-mode.svg" width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="180px"><img alt="Scrapfly logo" src="./assets/scrapfly-dark-mode.svg" width="180px"></picture></a>
+    <p align="center"><a href="https://shipped.club?ref=public_apis&utm_medium=repo_readme"><picture><img alt="Shipped.club logo" src="./assets/shipped.svg" width="220px"></picture></a>
+    </p>
+    <p align="center"><a href="https://shipped.club?ref=public_apis&utm_medium=repo_readme">Shipped.club</a> — The #1 Next.js SaaS Kit for busy founders. Build and ship your startup in days, not months, and make money online.</p>
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<div>
+    <p align="center"><a href="https://scrapfly.io?ref=public_apis&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/scrapfly-dark-mode.svg" width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="150px"><img alt="Scrapfly logo" src="./assets/scrapfly-dark-mode.svg" width="150px"></picture></a>
     </p>
     <p align="center"><a href="https://scrapfly.io?ref=public_apis&utm_medium=repo_readme">Scrapfly</a> offers a top-tier Web Scraping API that simplifies scraping by handling real browser rendering, rotating proxies, and various fingerprints to overcome major anti-bot measures.</p>
 </div>
