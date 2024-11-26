@@ -1,5 +1,5 @@
 {
-"count": 1434,
+"count": 1431,
 "entries": [
     {
         "API": "Cat Facts",
@@ -53,15 +53,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://documenter.getpostman.com/view/664302/S1ENwy59",
-        "Category": "Animals"
-    },
-    {
-        "API": "Foxes",
-        "Description": "Random fox images with multiple different tags",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://foxes.cool",
         "Category": "Animals"
     },
     {
@@ -359,15 +350,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://waifu.pics/docs",
-        "Category": "Anime"
-    },
-    {
-        "API": "Wibu API",
-        "Description": "Anime, Donghua, Manga, Manhua, Manhwa, J-Drama, Genshin Impact. All-in-one weebs related stuff api.",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://wibu-api.eu.org",
         "Category": "Anime"
     },
     {
@@ -2022,7 +2004,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "https://www.mercadobitcoin.com.br/api-doc/",
+        "Link": "https://api.mercadobitcoin.net/api/v4/docs",
         "Category": "Cryptocurrency"
     },
     {
@@ -5848,15 +5830,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://tetr.io/about/api/",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "Tronald Dump",
-        "Description": "The dumbest things Donald Trump has ever said",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.tronalddump.io/",
         "Category": "Games & Comics"
     },
     {
