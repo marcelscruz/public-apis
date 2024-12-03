@@ -1,5 +1,5 @@
 {
-"count": 1431,
+"count": 1432,
 "entries": [
     {
         "API": "Cat Facts",
@@ -8449,6 +8449,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://newsdata.io/docs",
+        "Category": "News"
+    },
+    {
+        "API": "NewsDataHub API",
+        "Description": "News Data Hub's REST APs access hundreds of thousands of news articles and blogs in various languages, with intelligent data enrichment for advanced analysis",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://newsdatahub.com",
         "Category": "News"
     },
     {
