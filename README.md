@@ -659,6 +659,7 @@
 | [Guerrilla Mail](https://www.guerrillamail.com/GuerrillaMailAPI.html) | Disposable temporary Email addresses | No | Yes | Unknown |
 | [Heybounce](https://www.heybounce.io/#email-verification-api) | Email Verification API | No | Yes | Yes |
 | [ImprovMX](https://improvmx.com/api) | API for free email forwarding service | `apiKey` | Yes | Unknown |
+| [IndiePitcher](https://docs.indiepitcher.com/api-reference) | Everything email for your startup with markdown support | `apiKey` | Yes | Yes |
 | [Kickbox](https://open.kickbox.com/) | Email verification API | No | Yes | Yes |
 | [mail.gw](https://docs.mail.gw) | 10 Minute Mail | No | Yes | Yes |
 | [mail.tm](https://docs.mail.tm) | Temporary Email Service | No | Yes | Yes |
