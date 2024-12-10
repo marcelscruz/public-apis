@@ -1,5 +1,5 @@
 {
-"count": 1432,
+"count": 1433,
 "entries": [
     {
         "API": "Cat Facts",
@@ -1087,6 +1087,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://clearbit.com/docs#logo-api",
+        "Category": "Business"
+    },
+    {
+        "API": "Company Enrich",
+        "Description": "API for B2B company data enrichment, domain enrichment, and website enrichment",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://companyenrich.com",
         "Category": "Business"
     },
     {
