@@ -1,5 +1,5 @@
 {
-"count": 1433,
+"count": 1434,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4102,6 +4102,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://improvmx.com/api",
+        "Category": "Email"
+    },
+    {
+        "API": "IndiePitcher",
+        "Description": "Everything email for your startup with markdown support",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.indiepitcher.com/api-reference",
         "Category": "Email"
     },
     {
