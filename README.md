@@ -1819,6 +1819,7 @@
 | [ColorfulClouds](https://open.caiyunapp.com/ColorfulClouds_Weather_API) | Weather | `apiKey` | Yes | Yes |
 | [Euskalmet](https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/) | Meteorological data of the Basque Country | `apiKey` | Yes | Unknown |
 | [Foreca](https://developer.foreca.com) | Weather | `OAuth`| Yes | Unknown |
+| [GribStream](https://gribstream.com/) | Global weather forecast API for any use. Leverage the NBM and GFS models. Great for bulk pulls | `apiKey` | Yes | Unknown |
 | [HG Weather](https://hgbrasil.com/status/weather) | Provides weather forecast data for cities in Brazil | `apiKey` | Yes | Yes |
 | [Hong Kong Obervatory](https://www.hko.gov.hk/en/abouthko/opendata_intro.htm) | Provide weather information, earthquake information, and climate data | No | Yes | Unknown |
 | [Korea Meteorological Administration](https://apihub.kma.go.kr/) | Weather and climate data from KMA | `apiKey` | Yes | Unknown |
