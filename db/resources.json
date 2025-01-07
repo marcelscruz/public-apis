@@ -1,5 +1,5 @@
 {
-"count": 1436,
+"count": 1433,
 "entries": [
     {
         "API": "Cat Facts",
@@ -296,15 +296,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://nekosia.cat",
-        "Category": "Anime"
-    },
-    {
-        "API": "NekosPro",
-        "Description": "Neko images, roleplaying GIFs, & NSFW content",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://documentation.nekos.pro",
         "Category": "Anime"
     },
     {
@@ -2071,15 +2062,6 @@
         "Category": "Cryptocurrency"
     },
     {
-        "API": "Sellgate",
-        "Description": "Cryptocurrency checkout creator",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://sellgate.io/docs/checkout/create",
-        "Category": "Cryptocurrency"
-    },
-    {
         "API": "Solana JSON RPC",
         "Description": "Provides various endpoints to interact with the Solana Blockchain",
         "Auth": "",
@@ -2280,7 +2262,7 @@
     {
         "API": "FxRatesAPI",
         "Description": "Real-time exchange rates, historical rates and currency conversion",
-        "Auth": "",
+        "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://fxratesapi.com/",
@@ -4264,15 +4246,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://elonmu.sh/",
-        "Category": "Entertainment"
-    },
-    {
-        "API": "Fuck Off As A Service",
-        "Description": "FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://foaas.dev/",
         "Category": "Entertainment"
     },
     {
