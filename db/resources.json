@@ -9911,7 +9911,7 @@
     },
     {
         "API": "Complete Criminal Checks",
-        "Description": "Provides data of offenders from all U.S. States and Pureto Rico",
+        "Description": "Provides data of offenders from all U.S. States and Puerto Rico",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
