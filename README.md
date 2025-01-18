@@ -1323,6 +1323,7 @@
 | [Vadivelu HTTP Codes](https://vadivelu.anoram.com/) | On demand HTTP Codes with images | No | Yes | No |
 | [WhoIsTheOldest](https://whoistheoldest.com) | This application tracks and displays data about the oldest person currently alive and the oldest person ever recorded. | No | No | No |
 | [Zen Quotes](https://zenquotes.io/) | Large collection of Zen quotes for inspiration | No | Yes | Yes |
+| [Indian Quotes](https://indian-quotes-api.vercel.app/) | Curated quotes from India's most successful entrepreneurs | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
