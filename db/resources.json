@@ -1,5 +1,5 @@
 {
-"count": 1433,
+"count": 1434,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4822,6 +4822,15 @@
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://github.com/Real-time-finance/finance-websocket-API/",
+        "Category": "Finance"
+    },
+    {
+        "API": "Realie Property Data API",
+        "Description": "Realie's property data is directly sourced from local municipalities and contains over 100 data fields. Realie covers the entire USA with 180 million parcels.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://www.realie.ai/real-estate-data-api",
         "Category": "Finance"
     },
     {
