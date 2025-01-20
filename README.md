@@ -15,16 +15,6 @@
 <br/>
 
 <div>
-    <p align="center"><a href="https://shipped.club?ref=public_apis&utm_medium=repo_readme"><picture><img alt="Shipped.club logo" src="./assets/shipped.svg" width="220px"></picture></a>
-    </p>
-    <p align="center"><a href="https://shipped.club?ref=public_apis&utm_medium=repo_readme">Shipped.club</a> — The #1 Next.js SaaS Kit for busy founders. Build and ship your startup in days, not months, and make money online.</p>
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<div>
     <p align="center"><a href="https://scrapfly.io?ref=public_apis&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/scrapfly-dark-mode.svg" width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="150px"><img alt="Scrapfly logo" src="./assets/scrapfly-dark-mode.svg" width="150px"></picture></a>
     </p>
     <p align="center"><a href="https://scrapfly.io?ref=public_apis&utm_medium=repo_readme">Scrapfly</a> offers a top-tier Web Scraping API that simplifies scraping by handling real browser rendering, rotating proxies, and various fingerprints to overcome major anti-bot measures.</p>
