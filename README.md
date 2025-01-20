@@ -1527,6 +1527,7 @@
 | [Twitter](https://developer.twitter.com/en/docs) | Read and write Twitter data | `OAuth`| Yes | No |
 | [vk](https://vk.com/dev/sites) | Read and write vk data | `OAuth`| Yes | Unknown |
 | [Webex](https://developer.webex.com) | Team collaboration software | `OAuth`| Yes | Yes |
+| [TwitterApi.IO](https://twitterapi.io) | Access real-time and historical Twitter data | `apiKey`| Yes | No |
 
 **[⬆ Back to Index](#index)**
 
