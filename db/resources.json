@@ -1,5 +1,5 @@
 {
-"count": 1435,
+"count": 1436,
 "entries": [
     {
         "API": "Cat Facts",
@@ -12175,6 +12175,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://tinyurl.com/app/dev",
+        "Category": "URL Shorteners"
+    },
+    {
+        "API": "T.LY",
+        "Description": "URL shortener and link management service",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://t.ly/docs",
         "Category": "URL Shorteners"
     },
     {
