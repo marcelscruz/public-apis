@@ -1,5 +1,5 @@
 {
-"count": 1438,
+"count": 1440,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4888,6 +4888,15 @@
         "Category": "Finance"
     },
     {
+        "API": "TradeWatch",
+        "Description": "Real time financial market data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://tradewatch.io/",
+        "Category": "Finance"
+    },
+    {
         "API": "Twelve Data",
         "Description": "Stock market data (real-time & historical)",
         "Auth": "apiKey",
@@ -4912,6 +4921,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/finance-validator-bic",
+        "Category": "Finance"
+    },
+    {
+        "API": "xChangeApi",
+        "Description": "Exchange rates & real time market data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://xchangeapi.com/",
         "Category": "Finance"
     },
     {
