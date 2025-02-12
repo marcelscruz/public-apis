@@ -1,5 +1,5 @@
 {
-"count": 1440,
+"count": 1441,
 "entries": [
     {
         "API": "Cat Facts",
@@ -225,6 +225,15 @@
         "Cors": "no",
         "Link": "https://api-dattebayo.vercel.app/",
         "Category": "Anime"
+    },
+    {
+        "API": "IP Details API",
+        "Description": "Geographic location of an IP address or any domain name along with some other useful information",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://rapidapi.com/Bluehatcoders/api/ip-details-api",
+        "Category": "Development"
     },
     {
         "API": "Jikan",
