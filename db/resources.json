@@ -1,5 +1,5 @@
 {
-"count": 1440,
+"count": 1441,
 "entries": [
     {
         "API": "Cat Facts",
@@ -12346,6 +12346,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.dailymotion.com/",
+        "Category": "Video"
+    },
+    {
+        "API": "Eurovision Song Contest",
+        "Description": "Unofficial Eurovision Song Contest API",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://eurovisionapi.runasp.net/",
         "Category": "Video"
     },
     {
