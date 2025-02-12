@@ -1,5 +1,5 @@
 {
-"count": 1444,
+"count": 1445,
 "entries": [
     {
         "API": "Cat Facts",
@@ -10699,6 +10699,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://developer.twitter.com/en/docs",
+        "Category": "Social"
+    },
+    {
+        "API": "TwitterApi.IO",
+        "Description": "Access Twitter's Real-time & Historical Data with Unmatched Simplicity",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://twitterapi.io",
         "Category": "Social"
     },
     {
