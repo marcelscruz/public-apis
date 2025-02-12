@@ -1,5 +1,5 @@
 {
-"count": 1441,
+"count": 1444,
 "entries": [
     {
         "API": "Cat Facts",
@@ -9037,6 +9037,15 @@
         "Category": "Personality"
     },
     {
+        "API": "akshaykumar-rest",
+        "Description": "Akshay Kumar for every HTTP status code",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://akshaykumar-rest.vercel.app/",
+        "Category": "Personality"
+    },
+    {
         "API": "Dev.to",
         "Description": "Access Forem articles, users and other resources via API",
         "Auth": "apiKey",
@@ -9079,6 +9088,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://icanhazdadjoke.com/api",
+        "Category": "Personality"
+    },
+    {
+        "API": "Indian Quotes",
+        "Description": "Curated quotes from India's most successful entrepreneurs",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://indian-quotes-api.vercel.app/",
         "Category": "Personality"
     },
     {
@@ -10465,6 +10483,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.instagram.com/developer/",
+        "Category": "Social"
+    },
+    {
+        "API": "Instagram Posts Generator",
+        "Description": "Generate posts with templates from popular instagram pages.",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://instagram-posts-generator.vercel.app/",
         "Category": "Social"
     },
     {
