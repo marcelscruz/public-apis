@@ -1,5 +1,5 @@
 {
-"count": 1445,
+"count": 1446,
 "entries": [
     {
         "API": "Cat Facts",
@@ -12274,6 +12274,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://deividfortuna.github.io/fipe/",
+        "Category": "Vehicle"
+    },
+    {
+        "API": "CarsXE",
+        "Description": "CarsXE API provides comprehensive data on vehicles, including VIN decoding & specifications, license plate decoding, images, history and market value. It enables developers to build innovative applications for the automotive industry, such as insurance & roadside assistance tools, ride sharing & grocery delivery apps, inventory management systems, and market analysis platforms.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://api.carsxe.com/",
         "Category": "Vehicle"
     },
     {
