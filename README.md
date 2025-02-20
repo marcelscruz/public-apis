@@ -564,6 +564,7 @@
 | [SonarQube](https://sonarcloud.io/web_api) | SonarQube REST APIs to detect bugs, code smells & security vulnerabilities | `OAuth` | Yes | Unknown |
 | [StackExchange](https://api.stackexchange.com/) | Q&A forum for developers | `OAuth` | Yes | Unknown |
 | [Statically](https://statically.io/) | A free CDN for developers | No | Yes | Yes |
+| [Supadata](https://supadata.ai) | Scrape YouTube, web, and files into text. Get AI-ready, clean data for your next project. | `apiKey`| Yes | Yes |
 | [Supportivekoala](https://developers.supportivekoala.com/) | Autogenerate images with template | `apiKey`| Yes | Yes |
 | [Svix](https://www.svix.com) | Webhooks as a Service | `apiKey` | Yes | Unknown |
 | [Tolgee](https://tolgee.io) | Open-source localization (i18n) platform enabling you to translate you app fast | `apiKey` | Yes | No |
