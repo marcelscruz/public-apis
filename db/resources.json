@@ -1,5 +1,5 @@
 {
-"count": 1445,
+"count": 1446,
 "entries": [
     {
         "API": "Cat Facts",
@@ -1123,6 +1123,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.google.com/analytics/",
+        "Category": "Business"
+    },
+    {
+        "API": "NioLeads",
+        "Description": "LinkedIn Email Finder and Email Verifier",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://nioleads.com/apidoc",
         "Category": "Business"
     },
     {
