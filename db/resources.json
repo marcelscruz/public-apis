@@ -1,5 +1,5 @@
 {
-"count": 1447,
+"count": 1448,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4660,6 +4660,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://finage.co.uk",
+        "Category": "Finance"
+    },
+    {
+        "API": "Financial Data",
+        "Description": "Stock market and financial data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://financialdata.net/documentation",
         "Category": "Finance"
     },
     {
