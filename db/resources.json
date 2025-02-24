@@ -1,5 +1,5 @@
 {
-"count": 1446,
+"count": 1447,
 "entries": [
     {
         "API": "Cat Facts",
@@ -10816,6 +10816,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://ergast.com/mrd/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "F1 API",
+        "Description": "Open F1 API with realtime data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://f1api.dev",
         "Category": "Sports & Fitness"
     },
     {
