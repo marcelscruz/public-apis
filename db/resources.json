@@ -1,5 +1,5 @@
 {
-"count": 1447,
+"count": 1445,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4309,15 +4309,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://official-joke-api.appspot.com/",
-        "Category": "Entertainment"
-    },
-    {
-        "API": "Puns",
-        "Description": "Puns and pun based memes. REST API",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://punapi.rest/",
         "Category": "Entertainment"
     },
     {
@@ -11428,15 +11419,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://semantria.readme.io/docs",
-        "Category": "Text Analysis"
-    },
-    {
-        "API": "Sentiment Analysis",
-        "Description": "Multilingual sentiment analysis of texts from different sources",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://www.meaningcloud.com/developer/sentiment-analysis",
         "Category": "Text Analysis"
     },
     {
