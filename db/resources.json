@@ -1,5 +1,5 @@
 {
-"count": 1449,
+"count": 1450,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3400,6 +3400,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://screenshotone.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "Scrnify",
+        "Description": "Screenshot and video capture API to transform any URL into high-quality images and recordings",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://scrnify.com/docs",
         "Category": "Development"
     },
     {
