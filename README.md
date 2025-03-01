@@ -1135,8 +1135,8 @@
 **[⬆ Back to Index](#index)**
 
 ### Machine Learning
-| API                                                                               | Description | Auth | HTTPS | CORS    |
-|-----------------------------------------------------------------------------------|---|---|---|---------|
+| API | Description | Auth | HTTPS | CORS |
+|---|---|---|---|---|
 | [AI/ML API](https://aimlapi.com)                                                  | Access 100+ curated AI Models over 1 API | Yes | Yes | Yes     |
 | [AI For Thai](https://aiforthai.in.th/index.php)                                  | Free Various Thai AI API | `apiKey` | Yes | Yes     |
 | [Clarifai](https://docs.clarifai.com/api-guide/api-overview)                      | Computer Vision | `OAuth`| Yes | Unknown |
