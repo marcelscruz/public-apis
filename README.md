@@ -1137,29 +1137,29 @@
 ### Machine Learning
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [AI/ML API](https://aimlapi.com)                                                  | Access 100+ curated AI Models over 1 API | Yes | Yes | Yes     |
-| [AI For Thai](https://aiforthai.in.th/index.php)                                  | Free Various Thai AI API | `apiKey` | Yes | Yes     |
+| [AI/ML API](https://aimlapi.com)                                                  | Access 100+ curated AI Models over 1 API | Yes | Yes | Yes |
+| [AI For Thai](https://aiforthai.in.th/index.php)                                  | Free Various Thai AI API | `apiKey` | Yes | Yes |
 | [Clarifai](https://docs.clarifai.com/api-guide/api-overview)                      | Computer Vision | `OAuth`| Yes | Unknown |
-| [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` | Yes | Yes     |
-| [Cohere](https://docs.cohere.ai/)                                                 | Harness the power of language understanding. Join the developers and businesses who are using Cohere to generate, categorize and organize text at a scale that was previously unimaginable. | `apiKey` | Yes | Yes     |
+| [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` | Yes | Yes |
+| [Cohere](https://docs.cohere.ai/)                                                 | Harness the power of language understanding. Join the developers and businesses who are using Cohere to generate, categorize and organize text at a scale that was previously unimaginable. | `apiKey` | Yes | Yes |
 | [Dialogflow](https://cloud.google.com/dialogflow/docs/)                           | Natural Language Processing | `apiKey` | Yes | Unknown |
-| [Eden](https://www.edenai.co/)                                                    | Get all AI models in one place, e.g. OpenAI, Google and lots more! | `apiKey` | Yes | Yes     
-| [EXUDE-API](http://uttesh.com/exude-api/)                                         | Used for the primary ways for filtering the stopping, stemming words from the text data | No | Yes | Yes     |
-| [Gladia](https://docs.gladia.io)                                                  | Artificial intelligence API's | `apiKey` | Yes | No      |
+| [Eden](https://www.edenai.co/)                                                    | Get all AI models in one place, e.g. OpenAI, Google and lots more! | `apiKey` | Yes | Yes |
+| [EXUDE-API](http://uttesh.com/exude-api/)                                         | Used for the primary ways for filtering the stopping, stemming words from the text data | No | Yes | Yes |
+| [Gladia](https://docs.gladia.io)                                                  | Artificial intelligence API's | `apiKey` | Yes | No |
 | [Imagga](https://imagga.com/)                                                     | Image Recognition Solutions like Tagging, Visual Search, NSFW moderation | `apiKey` | Yes | Unknown |
 | [Inferdo](https://rapidapi.com/user/inferdo)                                      | Computer Vision services like Facial detection, Image labeling, NSFW classification | `apiKey` | Yes | Unknown |
-| [Irisnet](https://irisnet.de/api/)                                                | Realtime content moderation API that blocks or blurs unwanted images in real-time | `apiKey` | Yes | Yes     |
+| [Irisnet](https://irisnet.de/api/)                                                | Realtime content moderation API that blocks or blurs unwanted images in real-time | `apiKey` | Yes | Yes |
 | [jsonAi.cloud](https://jsonai.cloud)                                              | Save JSON schemas as api endpoints, feed it with your data and get structured JSON responses with AI | `apiKey` | Yes | Unknown |
 | [Keen IO](https://keen.io/)                                                       | Data Analytics | `apiKey` | Yes | Unknown |
-| [Machinetutors](https://machinetutors.com/api/)                                   | AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP | `apiKey` | Yes | Yes     |
-| [MessengerX.io](https://messengerx.rtfd.io)                                       | A FREE API for developers to build and monetize personalized ML based chat apps | `apiKey` | Yes | Yes     |
+| [Machinetutors](https://machinetutors.com/api/)                                   | AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP | `apiKey` | Yes | Yes |
+| [MessengerX.io](https://messengerx.rtfd.io)                                       | A FREE API for developers to build and monetize personalized ML based chat apps | `apiKey` | Yes | Yes |
 | [NLP Cloud](https://nlpcloud.io)                                                  | NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more | `apiKey` | Yes | Unknown |
-| [OpenAI](https://openai.com/index/openai-api)                                     | Use AI models such as ChatGPT or DALL-E to experience the capabilities of AI | `apiKey` | Yes | Yes     |
+| [OpenAI](https://openai.com/index/openai-api)                                     | Use AI models such as ChatGPT or DALL-E to experience the capabilities of AI | `apiKey` | Yes | Yes |
 | [Perspective](https://perspectiveapi.com)                                         | NLP API to return probability that if text is toxic, obscene, insulting or threatening | `apiKey` | Yes | Unknown |
-| [Roboflow Universe](https://universe.roboflow.com)                                | Pre-trained computer vision models | `apiKey` | Yes | Yes     |
+| [Roboflow Universe](https://universe.roboflow.com)                                | Pre-trained computer vision models | `apiKey` | Yes | Yes |
 | [SkyBiometry](https://skybiometry.com/documentation/)                             | Face Detection, Face Recognition and Face Grouping | `apiKey` | Yes | Unknown |
-| [Spam Hunter](https://spam-hunter.ru)                                             | Free service to classify text as spam using ML | `apiKey` | Yes | Yes     |
-| [Summarize Text with AI](https://apyhub.com/utility/ai-summarize)                 | Generates summaries of text and web pages using AI | `apiKey` | Yes | Yes     |
+| [Spam Hunter](https://spam-hunter.ru)                                             | Free service to classify text as spam using ML | `apiKey` | Yes | Yes |
+| [Summarize Text with AI](https://apyhub.com/utility/ai-summarize)                 | Generates summaries of text and web pages using AI | `apiKey` | Yes | Yes |
 | [Unplugg](https://unplu.gg/test_api.html)                                         | Forecasting API for timeseries data | `apiKey` | Yes | Unknown |
 | [WolframAlpha](https://products.wolframalpha.com/api/)                            | Provides specific answers to questions using data and algorithms | `apiKey` | Yes | Unknown |
 
