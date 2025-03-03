@@ -1,5 +1,5 @@
 {
-"count": 1446,
+"count": 1451,
 "entries": [
     {
         "API": "Cat Facts",
@@ -224,6 +224,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://api-dattebayo.vercel.app/",
+        "Category": "Anime"
+    },
+    {
+        "API": "Dragon Ball",
+        "Description": "An easy to use Dragon Ball API",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://web.dragonball-api.com",
         "Category": "Anime"
     },
     {
@@ -1123,6 +1132,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.google.com/analytics/",
+        "Category": "Business"
+    },
+    {
+        "API": "NioLeads",
+        "Description": "LinkedIn Email Finder and Email Verifier",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://nioleads.com/apidoc",
         "Category": "Business"
     },
     {
@@ -3385,6 +3403,15 @@
         "Category": "Development"
     },
     {
+        "API": "Scrnify",
+        "Description": "Screenshot and video capture API to transform any URL into high-quality images and recordings",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://scrnify.com/docs",
+        "Category": "Development"
+    },
+    {
         "API": "SearchApi",
         "Description": "Real-Time Google SERP API",
         "Auth": "apiKey",
@@ -4303,15 +4330,6 @@
         "Category": "Entertainment"
     },
     {
-        "API": "Puns",
-        "Description": "Puns and pun based memes. REST API",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://punapi.rest/",
-        "Category": "Entertainment"
-    },
-    {
         "API": "Random Dad Joke",
         "Description": "API for largest selection of dad jokes on the internet",
         "Auth": "",
@@ -4651,6 +4669,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://finage.co.uk",
+        "Category": "Finance"
+    },
+    {
+        "API": "Financial Data",
+        "Description": "Stock market and financial data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://financialdata.net/documentation",
         "Category": "Finance"
     },
     {
@@ -7225,6 +7252,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.public.lu",
+        "Category": "Government"
+    },
+    {
+        "API": "Open Government, Malaysia",
+        "Description": "Malaysia Government Open Data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://data.gov.my/",
         "Category": "Government"
     },
     {
@@ -10810,6 +10846,15 @@
         "Category": "Sports & Fitness"
     },
     {
+        "API": "F1 API",
+        "Description": "Open F1 API with realtime data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://f1api.dev",
+        "Category": "Sports & Fitness"
+    },
+    {
         "API": "Fitbit",
         "Description": "Fitbit Information",
         "Auth": "OAuth",
@@ -11419,15 +11464,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://semantria.readme.io/docs",
-        "Category": "Text Analysis"
-    },
-    {
-        "API": "Sentiment Analysis",
-        "Description": "Multilingual sentiment analysis of texts from different sources",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://www.meaningcloud.com/developer/sentiment-analysis",
         "Category": "Text Analysis"
     },
     {
