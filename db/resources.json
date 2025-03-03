@@ -1,5 +1,5 @@
 {
-"count": 1450,
+"count": 1452,
 "entries": [
     {
         "API": "Cat Facts",
@@ -10297,6 +10297,15 @@
         "Category": "Shopping"
     },
     {
+        "API": "E-Commerce APIs",
+        "Description": "All around e-commerce APIs. Generate QR codes, product categories and thumbnails, barcodes and many more.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/catalog/commerce-quick-tools",
+        "Category": "Shopping"
+    },
+    {
         "API": "eBay",
         "Description": "Sell and Buy on eBay",
         "Auth": "OAuth",
@@ -12409,6 +12418,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.catalogopolis.xyz/docs/",
+        "Category": "Video"
+    },
+    {
+        "API": "Compress Video API (Job)",
+        "Description": "Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks.",
+        "Auth": "Yes",
+        "HTTPS": true,
+        "Cors": "apikey",
+        "Link": "https://apyhub.com/utility/job-compress-video",
         "Category": "Video"
     },
     {
