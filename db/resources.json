@@ -1,5 +1,5 @@
 {
-"count": 1451,
+"count": 1450,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2167,15 +2167,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.cbr.ru/development/SXML/",
-        "Category": "Currency Exchange"
-    },
-    {
-        "API": "BCV (Banco Central de Venezuela) Exchange rate",
-        "Description": "Exchange rates of the BCV (Central Bank of Venezuela) API",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://bcv-api.rafnixg.dev/docs",
         "Category": "Currency Exchange"
     },
     {
