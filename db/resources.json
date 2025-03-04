@@ -1,5 +1,5 @@
 {
-"count": 1452,
+"count": 1453,
 "entries": [
     {
         "API": "Cat Facts",
@@ -502,6 +502,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://api.artic.edu/docs/",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "ColorMagic",
+        "Description": "Color Palette Generator",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://colormagic.app/api",
         "Category": "Art & Design"
     },
     {
