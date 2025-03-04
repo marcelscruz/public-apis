@@ -1,5 +1,5 @@
 {
-"count": 1440,
+"count": 1453,
 "entries": [
     {
         "API": "Cat Facts",
@@ -224,6 +224,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://api-dattebayo.vercel.app/",
+        "Category": "Anime"
+    },
+    {
+        "API": "Dragon Ball",
+        "Description": "An easy to use Dragon Ball API",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://web.dragonball-api.com",
         "Category": "Anime"
     },
     {
@@ -493,6 +502,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://api.artic.edu/docs/",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "ColorMagic",
+        "Description": "Color Palette Generator",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://colormagic.app/api",
         "Category": "Art & Design"
     },
     {
@@ -1123,6 +1141,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.google.com/analytics/",
+        "Category": "Business"
+    },
+    {
+        "API": "NioLeads",
+        "Description": "LinkedIn Email Finder and Email Verifier",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://nioleads.com/apidoc",
         "Category": "Business"
     },
     {
@@ -2149,15 +2176,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.cbr.ru/development/SXML/",
-        "Category": "Currency Exchange"
-    },
-    {
-        "API": "BCV (Banco Central de Venezuela) Exchange rate",
-        "Description": "Exchange rates of the BCV (Central Bank of Venezuela) API",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://bcv-api.rafnixg.dev/docs",
         "Category": "Currency Exchange"
     },
     {
@@ -3394,6 +3412,15 @@
         "Category": "Development"
     },
     {
+        "API": "Scrnify",
+        "Description": "Screenshot and video capture API to transform any URL into high-quality images and recordings",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://scrnify.com/docs",
+        "Category": "Development"
+    },
+    {
         "API": "SearchApi",
         "Description": "Real-Time Google SERP API",
         "Auth": "apiKey",
@@ -3499,6 +3526,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://statically.io/",
+        "Category": "Development"
+    },
+    {
+        "API": "Supadata",
+        "Description": "Scrape YouTube, web, and files into text. Get AI-ready, clean data for your next project.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://supadata.ai",
         "Category": "Development"
     },
     {
@@ -4303,15 +4339,6 @@
         "Category": "Entertainment"
     },
     {
-        "API": "Puns",
-        "Description": "Puns and pun based memes. REST API",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://punapi.rest/",
-        "Category": "Entertainment"
-    },
-    {
         "API": "Random Dad Joke",
         "Description": "API for largest selection of dad jokes on the internet",
         "Auth": "",
@@ -4651,6 +4678,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://finage.co.uk",
+        "Category": "Finance"
+    },
+    {
+        "API": "Financial Data",
+        "Description": "Stock market and financial data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://financialdata.net/documentation",
         "Category": "Finance"
     },
     {
@@ -7228,6 +7264,15 @@
         "Category": "Government"
     },
     {
+        "API": "Open Government, Malaysia",
+        "Description": "Malaysia Government Open Data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://data.gov.my/",
+        "Category": "Government"
+    },
+    {
         "API": "Open Government, Mexico",
         "Description": "Mexican Statistical Government Open Data",
         "Auth": "",
@@ -9037,6 +9082,15 @@
         "Category": "Personality"
     },
     {
+        "API": "akshaykumar-rest",
+        "Description": "Akshay Kumar for every HTTP status code",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://akshaykumar-rest.vercel.app/",
+        "Category": "Personality"
+    },
+    {
         "API": "Dev.to",
         "Description": "Access Forem articles, users and other resources via API",
         "Auth": "apiKey",
@@ -9079,6 +9133,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://icanhazdadjoke.com/api",
+        "Category": "Personality"
+    },
+    {
+        "API": "Indian Quotes",
+        "Description": "Curated quotes from India's most successful entrepreneurs",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://indian-quotes-api.vercel.app/",
         "Category": "Personality"
     },
     {
@@ -10243,6 +10306,15 @@
         "Category": "Shopping"
     },
     {
+        "API": "E-Commerce APIs",
+        "Description": "All around e-commerce APIs. Generate QR codes, product categories and thumbnails, barcodes and many more.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/catalog/commerce-quick-tools",
+        "Category": "Shopping"
+    },
+    {
         "API": "eBay",
         "Description": "Sell and Buy on eBay",
         "Auth": "OAuth",
@@ -10468,6 +10540,15 @@
         "Category": "Social"
     },
     {
+        "API": "Instagram Posts Generator",
+        "Description": "Generate posts with templates from popular instagram pages.",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://instagram-posts-generator.vercel.app/",
+        "Category": "Social"
+    },
+    {
         "API": "Kakao",
         "Description": "Kakao Login, Share on KakaoTalk, Social Plugins and more",
         "Auth": "OAuth",
@@ -10675,6 +10756,15 @@
         "Category": "Social"
     },
     {
+        "API": "TwitterApi.IO",
+        "Description": "Access Twitter's Real-time & Historical Data with Unmatched Simplicity",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://twitterapi.io",
+        "Category": "Social"
+    },
+    {
         "API": "vk",
         "Description": "Read and write vk data",
         "Auth": "OAuth",
@@ -10771,6 +10861,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://ergast.com/mrd/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "F1 API",
+        "Description": "Open F1 API with realtime data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://f1api.dev",
         "Category": "Sports & Fitness"
     },
     {
@@ -11383,15 +11482,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://semantria.readme.io/docs",
-        "Category": "Text Analysis"
-    },
-    {
-        "API": "Sentiment Analysis",
-        "Description": "Multilingual sentiment analysis of texts from different sources",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://www.meaningcloud.com/developer/sentiment-analysis",
         "Category": "Text Analysis"
     },
     {
@@ -12241,6 +12331,15 @@
         "Category": "Vehicle"
     },
     {
+        "API": "CarsXE",
+        "Description": "CarsXE API provides comprehensive data on vehicles, including VIN decoding & specifications, license plate decoding, images, history and market value. It enables developers to build innovative applications for the automotive industry, such as insurance & roadside assistance tools, ride sharing & grocery delivery apps, inventory management systems, and market analysis platforms.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://api.carsxe.com/",
+        "Category": "Vehicle"
+    },
+    {
         "API": "Helipaddy sites",
         "Description": "Helicopter and passenger drone landing site directory, Helipaddy data and much more",
         "Auth": "apiKey",
@@ -12331,6 +12430,15 @@
         "Category": "Video"
     },
     {
+        "API": "Compress Video API (Job)",
+        "Description": "Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks.",
+        "Auth": "Yes",
+        "HTTPS": true,
+        "Cors": "apikey",
+        "Link": "https://apyhub.com/utility/job-compress-video",
+        "Category": "Video"
+    },
+    {
         "API": "Czech Television",
         "Description": "TV programme of Czech TV",
         "Auth": "",
@@ -12346,6 +12454,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.dailymotion.com/",
+        "Category": "Video"
+    },
+    {
+        "API": "Eurovision Song Contest",
+        "Description": "Unofficial Eurovision Song Contest API",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://eurovisionapi.runasp.net/",
         "Category": "Video"
     },
     {
