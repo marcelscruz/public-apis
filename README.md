@@ -415,7 +415,7 @@
 | [Exchangerate.host](https://exchangerate.host) | Free foreign exchange & crypto rates API | `apiKey` | Yes | Unknown |
 | [Frankfurter](https://www.frankfurter.app/docs) | Exchange rates, currency conversion and time series | No | Yes | Yes |
 | [FreeForexAPI](https://freeforexapi.com/Home/Api) | Real-time foreign exchange rates for major currency pairs | `apiKey` | Yes | No |
-| [FxFeed.io](https://fxfeed.io) | Foreign exchange rates, currency conversion and time series data | `apiKey` | Yes | Yes |
+| [FxFeed.io](https://fxfeed.io) | Foreign exchange rates, currency conversion and time series data | `apiKey` | Yes | Yes |
 | [FxRatesAPI](https://fxratesapi.com/) | Real-time exchange rates, historical rates and currency conversion | `apiKey` | Yes | No |
 | [FyGraph](https://fygraph.com) | GraphQL API of latest 1.000+ crypto and 167+ fiat updated every minute | `apiKey` | Yes | Yes |
 | [Manyapis](https://manyapis.com/products/currency/usd-to-eur-rate) | Exchange rates and currency conversion with free plan 50 requests/day | `apiKey` | Yes | Yes |
@@ -976,7 +976,7 @@
 | [SLF](https://github.com/slftool/slftool.github.io/blob/master/API.md) | German city, country, river, database | No | Yes | Yes |
 | [SpotSense](https://spotsense.io/) | Add location based interactions to your mobile app | `apiKey` | Yes | Unknown |
 | [Telize](https://rapidapi.com/fcambus/api/telize/) | Telize offers location information from any IP address | `apiKey` | Yes | Yes |
-| [Timezones Dictionary API](https://apyhub.com/utility/data-lists-timezone) | This API returns a list of all available timezones for your application | `apiKey` | Yes | Yes |
+| [Timezones Dictionary API](https://apyhub.com/utility/data-lists-timezone) | This API returns a list of all available timezones for your application | `apiKey` | Yes | Yes |
 | [TomTom](https://developer.tomtom.com/) | Maps, Directions, Places and Traffic APIs | `apiKey` | Yes | Yes |
 | [Uebermaps](https://uebermaps.com/api/v2) | Discover and share maps with friends | `apiKey` | Yes | Unknown |
 | [US ZipCode](https://www.smarty.com/docs/cloud/us-zipcode-api) | Validate and append data for any US ZipCode | `apiKey` | Yes | Yes |
@@ -1142,31 +1142,30 @@
 ### Machine Learning
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [AI/ML API](https://aimlapi.com)                                                  | Access 100+ curated AI Models over 1 API | Yes | Yes | Yes |
-| [AI For Thai](https://aiforthai.in.th/index.php)                                  | Free Various Thai AI API | `apiKey` | Yes | Yes |
-| [Clarifai](https://docs.clarifai.com/api-guide/api-overview)                      | Computer Vision | `OAuth`| Yes | Unknown |
+| [AI/ML API](https://aimlapi.com) | Access 100+ curated AI Models over 1 API | Yes | Yes | Yes |
+| [AI For Thai](https://aiforthai.in.th/index.php) | Free Various Thai AI API | `apiKey` | Yes | Yes |
+| [Clarifai](https://docs.clarifai.com/api-guide/api-overview) | Computer Vision | `OAuth`| Yes | Unknown |
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` | Yes | Yes |
-| [Cohere](https://docs.cohere.ai/)                                                 | Harness the power of language understanding. Join the developers and businesses who are using Cohere to generate, categorize and organize text at a scale that was previously unimaginable. | `apiKey` | Yes | Yes |
-| [Dialogflow](https://cloud.google.com/dialogflow/docs/)                           | Natural Language Processing | `apiKey` | Yes | Unknown |
-| [Eden](https://www.edenai.co/)                                                    | Get all AI models in one place, e.g. OpenAI, Google and lots more! | `apiKey` | Yes | Yes |
-| [EXUDE-API](http://uttesh.com/exude-api/)                                         | Used for the primary ways for filtering the stopping, stemming words from the text data | No | Yes | Yes |
-| [Gladia](https://docs.gladia.io)                                                  | Artificial intelligence API's | `apiKey` | Yes | No |
-| [Imagga](https://imagga.com/)                                                     | Image Recognition Solutions like Tagging, Visual Search, NSFW moderation | `apiKey` | Yes | Unknown |
-| [Inferdo](https://rapidapi.com/user/inferdo)                                      | Computer Vision services like Facial detection, Image labeling, NSFW classification | `apiKey` | Yes | Unknown |
-| [Irisnet](https://irisnet.de/api/)                                                | Realtime content moderation API that blocks or blurs unwanted images in real-time | `apiKey` | Yes | Yes |
-| [jsonAi.cloud](https://jsonai.cloud)                                              | Save JSON schemas as api endpoints, feed it with your data and get structured JSON responses with AI | `apiKey` | Yes | Unknown |
-| [Keen IO](https://keen.io/)                                                       | Data Analytics | `apiKey` | Yes | Unknown |
-| [Machinetutors](https://machinetutors.com/api/)                                   | AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP | `apiKey` | Yes | Yes |
-| [MessengerX.io](https://messengerx.rtfd.io)                                       | A FREE API for developers to build and monetize personalized ML based chat apps | `apiKey` | Yes | Yes |
-| [NLP Cloud](https://nlpcloud.io)                                                  | NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more | `apiKey` | Yes | Unknown |
-| [OpenAI](https://openai.com/index/openai-api)                                     | Use AI models such as ChatGPT or DALL-E to experience the capabilities of AI | `apiKey` | Yes | Yes |
-| [Perspective](https://perspectiveapi.com)                                         | NLP API to return probability that if text is toxic, obscene, insulting or threatening | `apiKey` | Yes | Unknown |
-| [Roboflow Universe](https://universe.roboflow.com)                                | Pre-trained computer vision models | `apiKey` | Yes | Yes |
-| [SkyBiometry](https://skybiometry.com/documentation/)                             | Face Detection, Face Recognition and Face Grouping | `apiKey` | Yes | Unknown |
-| [Spam Hunter](https://spam-hunter.ru)                                             | Free service to classify text as spam using ML | `apiKey` | Yes | Yes |
-| [Summarize Text with AI](https://apyhub.com/utility/ai-summarize)                 | Generates summaries of text and web pages using AI | `apiKey` | Yes | Yes |
-| [Unplugg](https://unplu.gg/test_api.html)                                         | Forecasting API for timeseries data | `apiKey` | Yes | Unknown |
-| [WolframAlpha](https://products.wolframalpha.com/api/)                            | Provides specific answers to questions using data and algorithms | `apiKey` | Yes | Unknown |
+| [Cohere](https://docs.cohere.ai/) | Harness the power of language understanding. Join the developers and businesses who are using Cohere to generate, categorize and organize text at a scale that was previously unimaginable. | `apiKey` | Yes | Yes |
+| [Dialogflow](https://cloud.google.com/dialogflow/docs/) | Natural Language Processing | `apiKey` | Yes | Unknown |
+| [Eden](https://www.edenai.co/) | Get all AI models in one place, e.g. OpenAI, Google and lots more! | `apiKey` | Yes | Yes 
+| [EXUDE-API](http://uttesh.com/exude-api/) | Used for the primary ways for filtering the stopping, stemming words from the text data | No | Yes | Yes |
+| [Gladia](https://docs.gladia.io) | Artificial intelligence API's | `apiKey` | Yes | No |
+| [Imagga](https://imagga.com/) | Image Recognition Solutions like Tagging, Visual Search, NSFW moderation | `apiKey` | Yes | Unknown |
+| [Inferdo](https://rapidapi.com/user/inferdo) | Computer Vision services like Facial detection, Image labeling, NSFW classification | `apiKey` | Yes | Unknown |
+| [Irisnet](https://irisnet.de/api/) | Realtime content moderation API that blocks or blurs unwanted images in real-time | `apiKey` | Yes | Yes |
+| [jsonAi.cloud](https://jsonai.cloud) | Save JSON schemas as api endpoints, feed it with your data and get structured JSON responses with AI | `apiKey` | Yes | Unknown |
+| [Keen IO](https://keen.io/) | Data Analytics | `apiKey` | Yes | Unknown |
+| [Machinetutors](https://machinetutors.com/api/) | AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP | `apiKey` | Yes | Yes |
+| [MessengerX.io](https://messengerx.rtfd.io) | A FREE API for developers to build and monetize personalized ML based chat apps | `apiKey` | Yes | Yes |
+| [NLP Cloud](https://nlpcloud.io) | NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more | `apiKey` | Yes | Unknown |
+| [OpenAI](https://openai.com/index/openai-api) | Use AI models such as ChatGPT or DALL-E to experience the capabilities of AI | `apiKey` | Yes | Yes |
+| [Perspective](https://perspectiveapi.com) | NLP API to return probability that if text is toxic, obscene, insulting or threatening | `apiKey` | Yes | Unknown |
+| [Roboflow Universe](https://universe.roboflow.com) | Pre-trained computer vision models | `apiKey` | Yes | Yes |
+| [SkyBiometry](https://skybiometry.com/documentation/) | Face Detection, Face Recognition and Face Grouping | `apiKey` | Yes | Unknown |
+| [Summarize Text with AI](https://apyhub.com/utility/ai-summarize) | Generates summaries of text and web pages using AI | `apiKey` | Yes | Yes |
+| [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Yes | Unknown |
+| [WolframAlpha](https://products.wolframalpha.com/api/) | Provides specific answers to questions using data and algorithms | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -1483,7 +1482,7 @@
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce | `apiKey` | Yes | Unknown |
 | [Canopy](https://www.canopyapi.co/) | A modern API for Amazon Data | `apiKey` | Yes | Unknown |
 | [Digi-Key](https://www.digikey.com/en/resources/api-solutions) | Retrieve price and inventory of electronic components as well as place orders | `OAuth`| Yes | Unknown |
-| [E-Commerce APIs](https://apyhub.com/catalog/commerce-quick-tools) | All around e-commerce APIs. Generate QR codes, product categories and thumbnails, barcodes and many more. | `apiKey` | Yes | Yes |
+| [E-Commerce APIs](https://apyhub.com/catalog/commerce-quick-tools) | All around e-commerce APIs. Generate QR codes, product categories and thumbnails, barcodes and many more. | `apiKey` | Yes | Yes |
 | [eBay](https://developer.ebay.com/) | Sell and Buy on eBay | `OAuth`| Yes | Unknown |
 | [Etsy](https://www.etsy.com/developers/documentation/getting_started/api_basics) | Manage shop and interact with listings | `OAuth`| Yes | Unknown |
 | [Flipkart Marketplace](https://seller.flipkart.com/api-docs/FMSAPI.html) | Product listing management, Order Fulfilment in the Flipkart Marketplace | `OAuth`| Yes | Yes |
@@ -1623,19 +1622,19 @@
 ### Text Analysis
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [AI Translate text API](https://apyhub.com/utility/sharpapi-translate-text) | The Text Translation API translates text into any of the 80 supported languages, providing accurate and context-aware translations | `apiKey` | Yes | Yes |
+| [AI Translate text API](https://apyhub.com/utility/sharpapi-translate-text) | The Text Translation API translates text into any of the 80 supported languages, providing accurate and context-aware translations | `apiKey` | Yes | Yes |
 | [Aylien Text Analysis](https://docs.aylien.com/textapi/#getting-started) | A collection of information retrieval and natural language APIs | `apiKey` | Yes | Unknown |
 | [Chatpdf](https://chatpdf.so/api) | Chat with pdf using GPT4 and ChatGPT | `apiKey` | Yes | Yes |
 | [Cloudmersive Natural Language Processing](https://www.cloudmersive.com/nlp-api) | Natural language processing and text analysis | `apiKey` | Yes | Yes |
 | [Code Detection API](https://codedetectionapi.runtime.dev) | Detect, label, format and enrich the code in your app or in your data pipeline | `OAuth`| Yes | Unknown |
 | [Detect Language](https://detectlanguage.com/) | Detects text language | `apiKey` | Yes | Unknown |
 | [ELI](https://nlp.insightera.co.th/docs/v1.0) | Natural Language Processing Tools for Thai Language | `apiKey` | Yes | Unknown |
-| [Fuzzy Text Search API](https://apyhub.com/utility/search-fuzzy-text) | The Fuzzy Text Search API finds close matches for user queries, handling typos and partial inputs to deliver relevant results quickly and accurately | `apiKey` | Yes | Yes |
+| [Fuzzy Text Search API](https://apyhub.com/utility/search-fuzzy-text) | The Fuzzy Text Search API finds close matches for user queries, handling typos and partial inputs to deliver relevant results quickly and accurately | `apiKey` | Yes | Yes |
 | [Google Cloud Natural](https://cloud.google.com/natural-language/docs/) | Natural language understanding technology, including sentiment, entity and syntax analysis | `apiKey` | Yes | Unknown |
 | [LanguageTool](https://languagetool.org/http-api/) | Style and Grammar Checker for 25+ Languages | No | Yes | Unknown |
 | [Lecto Translation](https://rapidapi.com/lecto-lecto-default/api/lecto-translation/) | Translation API with free tier and reasonable prices | `apiKey` | Yes | Yes |
 | [LibreTranslate](https://libretranslate.com/docs) | Translation tool with 17 available languages | No | Yes | Unknown |
-| [Proofread and Grammar Check API](https://apyhub.com/utility/sharpapi-proofread-grammer-check) | The Proofreading and Grammar Check API ensures the provided text is grammatically correct and polished by automatically proofreading and checking for errors | `apiKey`| Yes | Yes |
+| [Proofread and Grammar Check API](https://apyhub.com/utility/sharpapi-proofread-grammer-check) | The Proofreading and Grammar Check API ensures the provided text is grammatically correct and polished by automatically proofreading and checking for errors | `apiKey`| Yes | Yes |
 | [Safe text](https://rapidapi.com/bacloud14/api/safe-text) | Clean short and long texts. It is probably world most complete text-cleaner API! Providing very fast and accurate results. | `apiKey`| Yes | Yes |
 | [Semantria](https://semantria.readme.io/docs) | Text Analytics with sentiment analysis, categorization & named entity extraction | `OAuth`| Yes | Unknown |
 | [Tisane](https://tisane.ai/) | Text Analytics with focus on detection of abusive content and law enforcement applications | `OAuth`| Yes | Yes |
@@ -1773,7 +1772,7 @@
 | [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) | Some Breaking Bad quotes | No | Yes | Unknown |
 | [Buffy the Vampire Slayer and Angel](https://github.com/Thatskat/btvs-angel-api) | Get episode, cast and crew data from Buffy the Vampire Slayer and Angel | No | Yes | Yes |
 | [Catalogopolis](https://api.catalogopolis.xyz/docs/) | Doctor Who API | No | Yes | Unknown |
-| [Compress Video API (Job)](https://apyhub.com/utility/job-compress-video) | Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks. | Yes | Yes | `apiKey` |
+| [Compress Video API (Job)](https://apyhub.com/utility/job-compress-video) | Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks. | Yes | Yes | `apiKey` |
 | [Czech Television](http://www.ceskatelevize.cz/xml/tv-program/) | TV programme of Czech TV | No | No | Unknown |
 | [Dailymotion](https://developer.dailymotion.com/) | Dailymotion Developer API | `OAuth`| Yes | Unknown |
 | [Eurovision Song Contest](https://eurovisionapi.runasp.net/) | Unofficial Eurovision Song Contest API | No | Yes | Unknown |
@@ -1853,4 +1852,3 @@
 | [Yandex.Weather](https://yandex.com/dev/weather/) | Assesses weather condition in specific locations | `apiKey` | Yes | No |
 
 **[⬆ Back to Index](#index)**
-
