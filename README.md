@@ -1794,6 +1794,7 @@
 | [Simkl](https://simkl.docs.apiary.io) | Movie, TV and Anime data | `apiKey` | Yes | Unknown |
 | [South Park Quotes](https://github.com/Thatskat/southpark-quotes-api) | Get some quotes from South Park, mmkay! | No | Yes | Unknown |
 | [STAPI](https://stapi.co) | Information on all things Star Trek | No | Yes | Yes |
+| [Star Wars Databank](https://starwars-databank.vercel.app/) | Info and data from the Star Wars databank in the form of an API | No | Yes | Yes |
 | [Stranger Things Quotes](https://github.com/shadowoff09/strangerthings-quotes) | Returns Stranger Things quotes | No | Yes | Unknown |
 | [Stromberg Quotes](https://www.stromberg-api.de/) | Returns Stromberg quotes and more | No | Yes | Unknown |
 | [Supernatural Quotes](https://lidiakovac.github.io/supernatural-api) | 100+ Supernatural quotes | No | Yes | Unknown |
