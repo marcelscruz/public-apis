@@ -1493,6 +1493,7 @@
 | [Printful](https://developers.printful.com) | Printful's official API to manage and integrate their services | `OAuth` | Yes | Unknown |
 | [Printify](https://developers.printify.com/) | Printify's official API to manage and integrate their services | `OAuth` | Yes | Unknown |
 | [Rappi](https://dev-portal.rappi.com/) | Manage orders from Rappi's app | `OAuth`| Yes | Unknown |
+| [ScoutAPI](https://scoutapi.com) | Affordable, Swift, and Reliable Amazon Data in Real-Time | `apiKey` | Yes | Unknown |
 | [Shopee](https://open.shopee.com/documents?version=1) | Shopee's official API for integration of various services from Shopee | `apiKey` | Yes | Unknown |
 | [Tokopedia](https://developer.tokopedia.com/openapi/guide/#/) | Tokopedia's Official API for integration of various services from Tokopedia | `OAuth`| Yes | Unknown |
 | [WooCommerce](https://woocommerce.github.io/woocommerce-rest-api-docs/) | WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format | `apiKey` | Yes | Yes |
