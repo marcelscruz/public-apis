@@ -541,7 +541,7 @@
 | [QuickChart](https://quickchart.io/) | Generate chart and graph images | No | Yes | Yes |
 | [Random Stuff](https://api-docs.pgamerx.com/) | Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed | `apiKey`| Yes | Yes |
 | [Rejax](https://rejax.io/) | Reverse AJAX service to notify clients | `apiKey`| Yes | No |
-| [Render API](https://render.com/docs/api) | lets you programmatically manage your Render services (web apps, APIs, and static sites) including deployments, scaling, and configuration. | `apiKey`| Yes | Unknown |
+| [Render API](https://render.com/docs/api) | Lets you programmatically manage your Render services (web apps, APIs, and static sites) including deployments, scaling, and configuration | `apiKey`| Yes | Unknown |
 | [ReqRes](https://reqres.in/) | A hosted REST-API ready to respond to your AJAX requests | No | Yes | Unknown |
 | [RSS to JSON](https://github.com/ayusharma/RSS-to-JSON) | Returns RSS feed in JSON format using feed URL | No | Yes | Yes |
 | [ScrapeNinja](https://scrapeninja.net) | Scraping API with Chrome fingerprint and residential proxies | `apiKey`| Yes | Unknown |
