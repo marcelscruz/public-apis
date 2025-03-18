@@ -1,5 +1,5 @@
 {
-"count": 1454,
+"count": 1456,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3322,6 +3322,15 @@
         "Category": "Development"
     },
     {
+        "API": "Render API",
+        "Description": "Lets you programmatically manage your Render services (web apps, APIs, and static sites) including deployments, scaling, and configuration",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://render.com/docs/api",
+        "Category": "Development"
+    },
+    {
         "API": "ReqRes",
         "Description": "A hosted REST-API ready to respond to your AJAX requests",
         "Auth": "",
@@ -3607,6 +3616,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://webscraping.ai/",
+        "Category": "Development"
+    },
+    {
+        "API": "YAMLine",
+        "Description": "Convert YAML to JSON (on-the-fly)",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://yamline.com/json/",
         "Category": "Development"
     },
     {
