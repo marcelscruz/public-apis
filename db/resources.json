@@ -1,5 +1,5 @@
 {
-"count": 1456,
+"count": 1457,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2986,6 +2986,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.ip2whois.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "IP Details API",
+        "Description": "Geographic location of an IP address or any domain name along with some other useful information",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://rapidapi.com/Bluehatcoders/api/ip-details-api",
         "Category": "Development"
     },
     {
