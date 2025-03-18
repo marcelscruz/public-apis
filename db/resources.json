@@ -1,5 +1,5 @@
 {
-"count": 1453,
+"count": 1454,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2644,6 +2644,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/burhanuday/cors-proxy",
+        "Category": "Development"
+    },
+    {
+        "API": "Corsfix",
+        "Description": "Corsfix lets you fetch any resource and bypass CORS errors, free for development environment",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://corsfix.com/docs/cors-proxy/api",
         "Category": "Development"
     },
     {
