@@ -1,5 +1,5 @@
 {
-"count": 1453,
+"count": 1457,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2647,6 +2647,15 @@
         "Category": "Development"
     },
     {
+        "API": "Corsfix",
+        "Description": "Corsfix lets you fetch any resource and bypass CORS errors, free for development environment",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://corsfix.com/docs/cors-proxy/api",
+        "Category": "Development"
+    },
+    {
         "API": "Databricks",
         "Description": "Service to manage your databricks account,clusters, notebooks, jobs and workspaces",
         "Auth": "apiKey",
@@ -2977,6 +2986,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.ip2whois.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "IP Details API",
+        "Description": "Geographic location of an IP address or any domain name along with some other useful information",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://rapidapi.com/Bluehatcoders/api/ip-details-api",
         "Category": "Development"
     },
     {
@@ -3313,6 +3331,15 @@
         "Category": "Development"
     },
     {
+        "API": "Render API",
+        "Description": "Lets you programmatically manage your Render services (web apps, APIs, and static sites) including deployments, scaling, and configuration",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://render.com/docs/api",
+        "Category": "Development"
+    },
+    {
         "API": "ReqRes",
         "Description": "A hosted REST-API ready to respond to your AJAX requests",
         "Auth": "",
@@ -3598,6 +3625,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://webscraping.ai/",
+        "Category": "Development"
+    },
+    {
+        "API": "YAMLine",
+        "Description": "Convert YAML to JSON (on-the-fly)",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://yamline.com/json/",
         "Category": "Development"
     },
     {
