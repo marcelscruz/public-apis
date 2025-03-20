@@ -1523,7 +1523,7 @@
 | [Lanyard](https://github.com/Phineas/lanyard) | Retrieve your presence on Discord through an HTTP REST API or WebSocket | No | Yes | Yes |
 | [Line](https://developers.line.biz/) | Line Login, Share on Line, Social Plugins and more | `OAuth`| Yes | Unknown |
 | [LinkedIn](https://docs.microsoft.com/en-us/linkedin/?context=linkedin/context) | The foundation of all digital integrations with LinkedIn | `OAuth`| Yes | Unknown |
-| [Meetup.com](https://www.meetup.com/api/guide) | Data about Meetups from Meetup.com | `apiKey` | Yes | Unknown |
+| [Meetup](https://www.meetup.com/api/guide) | Data about Meetups from Meetup.com | `apiKey` | Yes | Unknown |
 | [Microsoft Graph](https://docs.microsoft.com/en-us/graph/api/overview) | Access the data and intelligence in Microsoft 365, Windows 10, and Enterprise Mobility | `OAuth`| Yes | Unknown |
 | [NAVER](https://developers.naver.com/main/) | NAVER Login, Share on NAVER, Social Plugins and more | `OAuth`| Yes | Unknown |
 | [Open Collective](https://docs.opencollective.com/help/developers/api) | Get Open Collective data | No | Yes | Unknown |
@@ -1545,6 +1545,7 @@
 | [TwitterApi.IO](https://twitterapi.io) | Access Twitter's Real-time & Historical Data with Unmatched Simplicity | `apiKey`| Yes | No |
 | [vk](https://vk.com/dev/sites) | Read and write vk data | `OAuth`| Yes | Unknown |
 | [Webex](https://developer.webex.com) | Team collaboration software | `OAuth`| Yes | Yes |
+| [Zoom](https://developers.zoom.us/docs/api) | Video communication, web conferencing, chat, and webinars | `OAuth`| Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
