@@ -1,5 +1,5 @@
 {
-"count": 1457,
+"count": 1456,
 "entries": [
     {
         "API": "Cat Facts",
@@ -12805,15 +12805,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.watchmode.com/",
-        "Category": "Video"
-    },
-    {
-        "API": "Web Series Quotes Generator",
-        "Description": "API generates various Web Series Quote Images",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://github.com/yogeshwaran01/web-series-quotes",
         "Category": "Video"
     },
     {
