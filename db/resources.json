@@ -9867,7 +9867,7 @@
     {
         "API": "Open Science Framework",
         "Description": "Repository and archive for study designs, research materials, data, manuscripts, etc",
-        "Auth": "",
+        "Auth": "OAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.osf.io",
