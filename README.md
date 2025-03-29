@@ -1126,6 +1126,7 @@
 | [DevITjobs UK](https://devitjobs.uk/job_feed.xml) | Jobs with GraphQL | No | Yes | Yes |
 | [Fantastic.jobs](https://fantastic.jobs/api) | Access over 8 million jobs per month using our APIs. ATS, LinkedIn, Upwork, and more. | `apiKey` | Yes | Yes |
 | [Findwork](https://findwork.dev/developers/) | Job board | `apiKey` | Yes | Unknown |
+| [Indeed](https://developer.indeed.com/docs) | Job search engine | `apiKey` | Yes | Unknown |
 | [jobdata API](https://jobdataapi.com/) | Simple Job Data API | `apiKey` | Yes | Unknown |
 | [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf) | Job aggregator | `apiKey` | Yes | Unknown |
 | [Jooble](https://jooble.org/api/about) | Job search engine | `apiKey` | Yes | Unknown |
