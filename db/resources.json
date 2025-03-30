@@ -8502,7 +8502,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "https:/finlight.me",
+        "Link": "https://finlight.me",
         "Category": "News"
     },
     {
