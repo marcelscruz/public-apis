@@ -1,5 +1,5 @@
 {
-"count": 1458,
+"count": 1459,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2320,6 +2320,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "http://api.nbp.pl/en.html",
+        "Category": "Currency Exchange"
+    },
+    {
+        "API": "Unirate",
+        "Description": "Free Exchange Rates and Currency Conversion",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://unirateapi.com",
         "Category": "Currency Exchange"
     },
     {
