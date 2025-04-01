@@ -1,5 +1,5 @@
 {
-"count": 1460,
+"count": 1462,
 "entries": [
     {
         "API": "Cat Facts",
@@ -377,6 +377,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://capev2.readthedocs.io/en/latest/usage/api.html",
+        "Category": "Anti-Malware"
+    },
+    {
+        "API": "Dymo API",
+        "Description": "Fraud & reputation detection",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://dymo.tpeoficial.com/products/dymo-api",
         "Category": "Anti-Malware"
     },
     {
@@ -9745,6 +9754,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://arxiv.org/help/api",
+        "Category": "Science & Math"
+    },
+    {
+        "API": "Bootprint",
+        "Description": "Random facts and images of space",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://bootprint.space/",
         "Category": "Science & Math"
     },
     {
