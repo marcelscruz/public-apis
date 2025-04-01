@@ -1,5 +1,5 @@
 {
-"count": 1459,
+"count": 1460,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3229,6 +3229,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a",
+        "Category": "Development"
+    },
+    {
+        "API": "Proxed AI",
+        "Description": "Secure AI APIs in iOS - No SDK, Just Change Your API URL",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://proxed.ai/",
         "Category": "Development"
     },
     {
