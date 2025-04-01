@@ -1,5 +1,5 @@
 {
-"count": 1456,
+"count": 1458,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4987,8 +4987,17 @@
         "Category": "Finance"
     },
     {
+        "API": "Validate IBAN API ",
+        "Description": "This API lets you quickly validate IBAN bank codes",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/finance-validator-iban",
+        "Category": "Finance"
+    },
+    {
         "API": "Validate Swift/BIC ",
-        "Description": "Validates BIC/SWIFT code.",
+        "Description": "Validates BIC/SWIFT code",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
@@ -9421,6 +9430,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.flickr.com/services/api/",
+        "Category": "Photography"
+    },
+    {
+        "API": "Generate Image Thumbnails API",
+        "Description": "Generate and optimise Image Thumbnails from any image with this API and save hours of image editing",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/image-processor-thumbnail",
         "Category": "Photography"
     },
     {
