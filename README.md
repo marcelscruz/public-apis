@@ -984,6 +984,7 @@
 | [SLF](https://github.com/slftool/slftool.github.io/blob/master/API.md) | German city, country, river, database | No | Yes | Yes |
 | [SpotSense](https://spotsense.io/) | Add location based interactions to your mobile app | `apiKey` | Yes | Unknown |
 | [Telize](https://rapidapi.com/fcambus/api/telize/) | Telize offers location information from any IP address | `apiKey` | Yes | Yes |
+| [The IP API](https://theipapi.com) | IP to Location API, with data about country, region, city etc, with free plan allowing 1000 req/day | `apiKey` | Yes | Unknown |
 | [Timezones Dictionary API](https://apyhub.com/utility/data-lists-timezone) | This API returns a list of all available timezones for your application | `apiKey` | Yes | Yes |
 | [TomTom](https://developer.tomtom.com/) | Maps, Directions, Places and Traffic APIs | `apiKey` | Yes | Yes |
 | [Uebermaps](https://uebermaps.com/api/v2) | Discover and share maps with friends | `apiKey` | Yes | Unknown |
