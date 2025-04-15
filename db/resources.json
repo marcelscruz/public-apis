@@ -1,5 +1,5 @@
 {
-"count": 1462,
+"count": 1465,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3628,6 +3628,15 @@
         "Category": "Development"
     },
     {
+        "API": "UserAgent",
+        "Description": "User agent parsing API is designed to help you better understand and interact with your users. By identifying browser, device, and OS data from user agent strings, this API empowers you with accurate, real-time insights into your audience.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://useragent.app",
+        "Category": "Development"
+    },
+    {
         "API": "YADG",
         "Description": "An API that scrapes music release data and renders it using different templates",
         "Auth": "apiKey",
@@ -4804,6 +4813,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://labs.ig.com/gettingstarted",
+        "Category": "Finance"
+    },
+    {
+        "API": "IIN API",
+        "Description": "IIN API allows you to accurately identify the issuing bank, card type, country of origin, and other details from a credit or debit card number. This is essential for fraud prevention, payment processing, and customer verification.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://iinapi.com",
         "Category": "Finance"
     },
     {
@@ -6649,6 +6667,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://pinballmap.com/api/v1/docs",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "Pointpin",
+        "Description": "Pointpin is a simple yet powerful API designed for high traffic websites to deliver fast and reliable IP geolocation for your websites and applications.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://pointp.in",
         "Category": "Geocoding"
     },
     {
