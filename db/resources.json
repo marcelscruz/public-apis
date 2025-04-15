@@ -1,5 +1,5 @@
 {
-"count": 1465,
+"count": 1467,
 "entries": [
     {
         "API": "Cat Facts",
@@ -8236,6 +8236,15 @@
         "Category": "Machine Learning"
     },
     {
+        "API": "Spam Hunter",
+        "Description": "Free service to classify text as spam using ML",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://spam-hunter.ru/",
+        "Category": "Machine Learning"
+    },
+    {
         "API": "Summarize Text with AI",
         "Description": "Generates summaries of text and web pages using AI",
         "Auth": "apiKey",
@@ -12742,6 +12751,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://stapi.co",
+        "Category": "Video"
+    },
+    {
+        "API": "Star Wars Databank",
+        "Description": "Info and data from the Star Wars databank in the form of an API",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://starwars-databank.vercel.app/",
         "Category": "Video"
     },
     {
