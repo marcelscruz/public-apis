@@ -578,6 +578,7 @@
 | [Svix](https://www.svix.com) | Webhooks as a Service | `apiKey` | Yes | Unknown |
 | [Tolgee](https://tolgee.io) | Open-source localization (i18n) platform enabling you to translate you app fast | `apiKey` | Yes | No |
 | [Tyk](https://tyk.io/open-source/) | Api and service management platform | `apiKey`| Yes | Yes |
+| [UserAgent](https://useragent.app) | User agent parsing API is designed to help you better understand and interact with your users. By identifying browser, device, and OS data from user agent strings, this API empowers you with accurate, real-time insights into your audience. | `apiKey`| Yes | Yes |
 | [YADG](https://yadg.cc/api/v2/) | An API that scrapes music release data and renders it using different templates | `apiKey`| Yes | Unknown |
 | [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel/API.md) | Code compiler supporting 35+ languages mentioned at wandbox.org | No | Yes | Unknown |
 | [WebScraping.AI](https://webscraping.ai/) | Web Scraping API with built-in proxies and JS rendering | `apiKey`| Yes | Yes |
@@ -751,6 +752,7 @@
 | [Front Accounting APIs](https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule) | Front accounting is multilingual and multicurrency software for small businesses | `OAuth`| Yes | Yes |
 | [IEX Cloud](https://iexcloud.io/docs/api/) | Realtime & Historical Stock and Market Data | `apiKey` | Yes | Yes |
 | [IG](https://labs.ig.com/gettingstarted) | Spreadbetting and CFD Market Data | `apiKey` | Yes | Unknown |
+| [IIN API](https://iinapi.com) | IIN API allows you to accurately identify the issuing bank, card type, country of origin, and other details from a credit or debit card number. This is essential for fraud prevention, payment processing, and customer verification. | `apiKey` | Yes | Yes |
 | [Indian Mutual Fund](https://www.mfapi.in/) | Get complete history of India Mutual Funds Data | No | Yes | Unknown |
 | [Intrinio](https://intrinio.com/) | A wide selection of financial data feeds | `apiKey` | Yes | Unknown |
 | [Klarna](https://docs.klarna.com/klarna-payments/api/payments-api/) | Klarna payment and shopping service | `apiKey` | Yes | Unknown |
@@ -974,6 +976,7 @@
 | [openrouteservice.org](https://openrouteservice.org/) | Directions, POIs, isochrones, geocoding (+reverse), elevation, and more | `apiKey` | Yes | Unknown |
 | [OpenStreetMap](http://wiki.openstreetmap.org/wiki/API) | Navigation, geolocation and geographical data | `OAuth`| No | Unknown |
 | [Pinball Map](https://pinballmap.com/api/v1/docs) | A crowdsourced map of public pinball machines | No | Yes | Yes |
+| [Pointpin](https://pointp.in) | Pointpin is a simple yet powerful API designed for high traffic websites to deliver fast and reliable IP geolocation for your websites and applications. | `apiKey` | Yes | Yes |
 | [Postali](https://postali.app/api) | Mexico Zip Codes API | No | Yes | Yes |
 | [PostcodeData.nl](http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json) | Provide geolocation data based on postcode for Dutch addresses | No | No | Unknown |
 | [Postcodes.io](https://postcodes.io) | Postcode lookup & Geolocation for the UK | No | Yes | Yes |
