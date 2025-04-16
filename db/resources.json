@@ -5824,6 +5824,15 @@
         "Category": "Games & Comics"
     },
     {
+        "API": "Pokémon-3D-API",
+        "Description": "3D Pokémon models for ThreeJS",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://github.com/Sudhanshu-Ambastha/Pokemon-3D-api",
+        "Category": "Games & Comics"
+    },
+    {
         "API": "Pokéapi",
         "Description": "Pokémon Information",
         "Auth": "",
