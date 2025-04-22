@@ -841,6 +841,7 @@
 | [Dota 2](https://docs.opendota.com/) | Provides information about Player stats, Match stats, Rankings for Dota 2| `apiKey`| Yes | Unknown |
 | [Dungeons and Dragons](https://www.dnd5eapi.co/docs/) | Reference for 5th edition spells, classes, monsters, and more | No | Yes | No |
 | [Dungeons and Dragons (Alternate)](https://open5e.com/) | Includes all monsters and spells from the SRD (System Reference Document) as well as a search API | No | Yes | Yes |
+| [Eight Ball](https://eightballapi.com/) | Fortune-telling API with random, sentiment-biased, and multi-language responses | No | Yes | Yes |
 | [Eve Online](https://esi.evetech.net/ui) | Third-Party Developer Documentation | `OAuth` | Yes | Unknown |
 | [FFXIV Collect](https://ffxivcollect.com/) | Final Fantasy XIV data on collectables | No | Yes | Yes |
 | [Final Fantasy XIV](https://xivapi.com/) | Final Fantasy XIV Game data API | No | Yes | Yes |
