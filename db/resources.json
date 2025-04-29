@@ -1,5 +1,5 @@
 {
-"count": 1469,
+"count": 1470,
 "entries": [
     {
         "API": "Cat Facts",
@@ -9217,15 +9217,6 @@
         "Category": "Personality"
     },
     {
-        "API": "Dictum",
-        "Description": "API to get access to the collection of the most inspiring expressions of mankind",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://github.com/fisenkodv/dictum",
-        "Category": "Personality"
-    },
-    {
         "API": "FavQs.com",
         "Description": "FavQs allows you to collect, discover and share your favorite quotes",
         "Auth": "apiKey",
@@ -9241,6 +9232,15 @@
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://forismatic.com/en/api/",
+        "Category": "Personality"
+    },
+    {
+        "API": "Joke Father",
+        "Description": "Ultimate collection of dad jokes",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://jokefather.com/api/jokes/random",
         "Category": "Personality"
     },
     {
@@ -9313,6 +9313,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://pprathameshmore.github.io/QuoteGarden/",
+        "Category": "Personality"
+    },
+    {
+        "API": "Quoterism",
+        "Description": "The Web's Largest Collection of Human Inspiration",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.quoterism.com/developer",
         "Category": "Personality"
     },
     {
