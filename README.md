@@ -477,6 +477,7 @@
 | [Docker Hub](https://docs.docker.com/docker-hub/api/latest/) | Interact with Docker Hub | `apiKey`| Yes | Yes |
 | [DomainDb Info](https://api.domainsdb.info/) | Domain name search to find all domains containing particular words/phrases/etc | No | Yes | Unknown |
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | A simple JSON store API | No | Yes | Yes |
+| [Form Creation API](https://apyhub.com/utility/reformify-form-api) | Create and manage customizable forms within your applications | `apiKey` | Yes | Yes |
 | [Generate Full Webpage Screenshot](https://apyhub.com/utility/generate-webpage-screenshot) | Dynamically capture full page screenshots of websites.| `apiKey` | Yes | Yes |
 | [Gcore CDN](https://docs.gcore.com/cdn) | Make your app fast and responsive for a global audience with Gcore CDN. | `apiKey` | Yes | Yes |
 | [Gcore Cloud](https://docs.gcore.com/cloud) | Scalable, secure, and reliable hybrid cloud services anywhere in the world. | `apiKey` | Yes | Yes |
