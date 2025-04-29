@@ -1,5 +1,5 @@
 {
-"count": 1468,
+"count": 1469,
 "entries": [
     {
         "API": "Cat Facts",
@@ -10537,6 +10537,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://dev-portal.rappi.com/",
+        "Category": "Shopping"
+    },
+    {
+        "API": "ScoutAPI",
+        "Description": "Affordable, Swift, and Reliable Amazon Data in Real-Time",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://scoutapi.com",
         "Category": "Shopping"
     },
     {
