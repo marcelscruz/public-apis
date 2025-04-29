@@ -1512,6 +1512,7 @@
 | [Rappi](https://dev-portal.rappi.com/) | Manage orders from Rappi's app | `OAuth`| Yes | Unknown |
 | [ScoutAPI](https://scoutapi.com) | Affordable, Swift, and Reliable Amazon Data in Real-Time | `apiKey` | Yes | Unknown |
 | [Shopee](https://open.shopee.com/documents?version=1) | Shopee's official API for integration of various services from Shopee | `apiKey` | Yes | Unknown |
+| [Shopify](https://shopify.dev/docs/api) | Manage sales channels, customers, products, and discounts for a retail business | `OAuth`| Yes | Unknown |
 | [Tokopedia](https://developer.tokopedia.com/openapi/guide/#/) | Tokopedia's Official API for integration of various services from Tokopedia | `OAuth`| Yes | Unknown |
 | [WooCommerce](https://woocommerce.github.io/woocommerce-rest-api-docs/) | WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format | `apiKey` | Yes | Yes |
 
