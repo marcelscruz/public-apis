@@ -1,5 +1,5 @@
 {
-"count": 1471,
+"count": 1473,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4006,6 +4006,15 @@
         "Category": "Documents & Productivity"
     },
     {
+        "API": "Pdfblocks",
+        "Description": "Generate PDF documents using API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://pdfblocks.com",
+        "Category": "Documents & Productivity"
+    },
+    {
         "API": "PDFEndpoint",
         "Description": "HTML and URL to PDF API",
         "Auth": "apiKey",
@@ -6541,6 +6550,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.ipinfodb.com/api",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "IPWhois",
+        "Description": "Identify website, IP, or email owners with geolocation, reverse IP lookup, country insights, ASN data, and email verification",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.ipwhois.io/documentation",
         "Category": "Geocoding"
     },
     {
