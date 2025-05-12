@@ -16,7 +16,7 @@
 
 <div>
     <p align="center"><a href="https://apyhub.com?ref=public_apis&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/apyhub-dark-mode.svg"         width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/apyhub-light-mode.svg" width="150px"><img alt="Scrapfly logo" src="./assets/apyhub-dark-mode.svg" width="150px"></picture></a></p>
-    <p align="center"><a href="https://apyhub.com?ref=public_apis&utm_medium=repo_readme">Apyhub</a>: A Modern API Platform to streamline API Development, Testing and Management. Take your API game to the next level with ApyHub.</p>
+    <p align="center"><a href="https://apyhub.com?ref=public_apis&utm_medium=repo_readme">ApyHub</a>: A Modern API Platform to streamline API Development, Testing and Management. Take your API game to the next level with ApyHub.</p>
 </div>
 
 <br/>
