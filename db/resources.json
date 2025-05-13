@@ -1,5 +1,5 @@
 {
-"count": 1473,
+"count": 1477,
 "entries": [
     {
         "API": "Cat Facts",
@@ -5014,6 +5014,15 @@
         "Category": "Finance"
     },
     {
+        "API": "Stripe",
+        "Description": "Payment processing, subscriptions, and financial management",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://stripe.com/docs/api",
+        "Category": "Finance"
+    },
+    {
         "API": "Tradier",
         "Description": "US equity/option market data (delayed, intraday, historical)",
         "Auth": "OAuth",
@@ -7948,6 +7957,15 @@
         "Category": "Jobs"
     },
     {
+        "API": "Indeed",
+        "Description": "Job search engine",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://developer.indeed.com/docs",
+        "Category": "Jobs"
+    },
+    {
         "API": "jobdata API",
         "Description": "Simple Job Data API",
         "Auth": "apiKey",
@@ -8143,6 +8161,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "http://uttesh.com/exude-api/",
+        "Category": "Machine Learning"
+    },
+    {
+        "API": "Face-api.js",
+        "Description": "JavaScript API for face detection, recognition, and emotion analysis using TensorFlow.js",
+        "Auth": "",
+        "HTTPS": false,
+        "Cors": "unknown",
+        "Link": "https://github.com/justadudewhohacks/face-api.js",
         "Category": "Machine Learning"
     },
     {
@@ -10765,7 +10792,7 @@
         "Category": "Social"
     },
     {
-        "API": "Meetup.com",
+        "API": "Meetup",
         "Description": "Data about Meetups from Meetup.com",
         "Auth": "apiKey",
         "HTTPS": true,
@@ -10960,6 +10987,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://developer.webex.com",
+        "Category": "Social"
+    },
+    {
+        "API": "Zoom",
+        "Description": "Video communication, web conferencing, chat, and webinars",
+        "Auth": "OAuth",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://developers.zoom.us/docs/api",
         "Category": "Social"
     },
     {
