@@ -1,5 +1,5 @@
 {
-"count": 1457,
+"count": 1478,
 "entries": [
     {
         "API": "Cat Facts",
@@ -377,6 +377,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://capev2.readthedocs.io/en/latest/usage/api.html",
+        "Category": "Anti-Malware"
+    },
+    {
+        "API": "Dymo API",
+        "Description": "Fraud & reputation detection",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://dymo.tpeoficial.com/products/dymo-api",
         "Category": "Anti-Malware"
     },
     {
@@ -1459,6 +1468,15 @@
         "Category": "Cloud Storage & File Sharing"
     },
     {
+        "API": "Delta Lake",
+        "Description": "Open-source storage framework enabling Lakehouse architecture with Spark, PrestoDB, Flink, Trino, Hive, and APIs",
+        "Auth": "",
+        "HTTPS": false,
+        "Cors": "unknown",
+        "Link": "https://docs.delta.io/latest/delta-apidoc.html",
+        "Category": "Cloud Storage & File Sharing"
+    },
+    {
         "API": "ddownload",
         "Description": "File Sharing and Storage",
         "Auth": "apiKey",
@@ -2323,6 +2341,15 @@
         "Category": "Currency Exchange"
     },
     {
+        "API": "Unirate",
+        "Description": "Free Exchange Rates and Currency Conversion",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://unirateapi.com",
+        "Category": "Currency Exchange"
+    },
+    {
         "API": "VATComply.com",
         "Description": "Exchange rates, geolocation and VAT number validation",
         "Auth": "",
@@ -2698,6 +2725,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://extendsclass.com/json-storage.html",
+        "Category": "Development"
+    },
+    {
+        "API": "Form Creation API",
+        "Description": "Create and manage customizable forms within your applications",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/reformify-form-api",
         "Category": "Development"
     },
     {
@@ -3223,6 +3259,15 @@
         "Category": "Development"
     },
     {
+        "API": "Proxed AI",
+        "Description": "Secure AI APIs in iOS - No SDK, Just Change Your API URL",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://proxed.ai/",
+        "Category": "Development"
+    },
+    {
         "API": "Proxmox VE API",
         "Description": "API of self-hosted Proxmox VE. Address: https://your.server:8006/api2/json/ (configuring in installation process)",
         "Auth": "apiKey",
@@ -3601,6 +3646,15 @@
         "Category": "Development"
     },
     {
+        "API": "UserAgent",
+        "Description": "User agent parsing API is designed to help you better understand and interact with your users. By identifying browser, device, and OS data from user agent strings, this API empowers you with accurate, real-time insights into your audience.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://useragent.app",
+        "Category": "Development"
+    },
+    {
         "API": "YADG",
         "Description": "An API that scrapes music release data and renders it using different templates",
         "Auth": "apiKey",
@@ -3958,6 +4012,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/sharpapi-paraphrase-text",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Pdfblocks",
+        "Description": "Generate PDF documents using API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://pdfblocks.com",
         "Category": "Documents & Productivity"
     },
     {
@@ -4780,6 +4843,15 @@
         "Category": "Finance"
     },
     {
+        "API": "IIN API",
+        "Description": "IIN API allows you to accurately identify the issuing bank, card type, country of origin, and other details from a credit or debit card number. This is essential for fraud prevention, payment processing, and customer verification.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://iinapi.com",
+        "Category": "Finance"
+    },
+    {
         "API": "Indian Mutual Fund",
         "Description": "Get complete history of India Mutual Funds Data",
         "Auth": "",
@@ -4951,6 +5023,15 @@
         "Category": "Finance"
     },
     {
+        "API": "Stripe",
+        "Description": "Payment processing, subscriptions, and financial management",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://stripe.com/docs/api",
+        "Category": "Finance"
+    },
+    {
         "API": "Tradier",
         "Description": "US equity/option market data (delayed, intraday, historical)",
         "Auth": "OAuth",
@@ -4987,8 +5068,17 @@
         "Category": "Finance"
     },
     {
+        "API": "Validate IBAN API ",
+        "Description": "This API lets you quickly validate IBAN bank codes",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/finance-validator-iban",
+        "Category": "Finance"
+    },
+    {
         "API": "Validate Swift/BIC ",
-        "Description": "Validates BIC/SWIFT code.",
+        "Description": "Validates BIC/SWIFT code",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
@@ -6481,6 +6571,15 @@
         "Category": "Geocoding"
     },
     {
+        "API": "IPWhois",
+        "Description": "Identify website, IP, or email owners with geolocation, reverse IP lookup, country insights, ASN data, and email verification",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.ipwhois.io/documentation",
+        "Category": "Geocoding"
+    },
+    {
         "API": "Kakao Maps",
         "Description": "Kakao Maps provide multiple APIs for Korean maps",
         "Auth": "apiKey",
@@ -6613,6 +6712,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://pinballmap.com/api/v1/docs",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "Pointpin",
+        "Description": "Pointpin is a simple yet powerful API designed for high traffic websites to deliver fast and reliable IP geolocation for your websites and applications.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://pointp.in",
         "Category": "Geocoding"
     },
     {
@@ -8056,6 +8164,15 @@
         "Category": "Machine Learning"
     },
     {
+        "API": "Face-api.js",
+        "Description": "JavaScript API for face detection, recognition, and emotion analysis using TensorFlow.js",
+        "Auth": "",
+        "HTTPS": false,
+        "Cors": "unknown",
+        "Link": "https://github.com/justadudewhohacks/face-api.js",
+        "Category": "Machine Learning"
+    },
+    {
         "API": "Gladia",
         "Description": "Artificial intelligence API's",
         "Auth": "apiKey",
@@ -8137,6 +8254,15 @@
         "Category": "Machine Learning"
     },
     {
+        "API": "NSFW AI Convos",
+        "Description": "Simple uncensored AI convos in JSON format",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/api-smith-api-smith-default/api/spicy-gpt-nsfw-18",
+        "Category": "Machine Learning"
+    },
+    {
         "API": "OpenAI",
         "Description": "Use AI models such as ChatGPT or DALL-E to experience the capabilities of AI",
         "Auth": "apiKey",
@@ -8170,6 +8296,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://skybiometry.com/documentation/",
+        "Category": "Machine Learning"
+    },
+    {
+        "API": "Spam Hunter",
+        "Description": "Free service to classify text as spam using ML",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://spam-hunter.ru/",
         "Category": "Machine Learning"
     },
     {
@@ -8502,7 +8637,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "https:/finlight.me",
+        "Link": "https://finlight.me",
         "Category": "News"
     },
     {
@@ -9136,15 +9271,6 @@
         "Category": "Personality"
     },
     {
-        "API": "Dictum",
-        "Description": "API to get access to the collection of the most inspiring expressions of mankind",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://github.com/fisenkodv/dictum",
-        "Category": "Personality"
-    },
-    {
         "API": "FavQs.com",
         "Description": "FavQs allows you to collect, discover and share your favorite quotes",
         "Auth": "apiKey",
@@ -9160,6 +9286,15 @@
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://forismatic.com/en/api/",
+        "Category": "Personality"
+    },
+    {
+        "API": "Joke Father",
+        "Description": "Ultimate collection of dad jokes",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://jokefather.com/api/jokes/random",
         "Category": "Personality"
     },
     {
@@ -9232,6 +9367,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://pprathameshmore.github.io/QuoteGarden/",
+        "Category": "Personality"
+    },
+    {
+        "API": "Quoterism",
+        "Description": "The Web's Largest Collection of Human Inspiration",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.quoterism.com/developer",
         "Category": "Personality"
     },
     {
@@ -9421,6 +9565,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.flickr.com/services/api/",
+        "Category": "Photography"
+    },
+    {
+        "API": "Generate Image Thumbnails API",
+        "Description": "Generate and optimise Image Thumbnails from any image with this API and save hours of image editing",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/image-processor-thumbnail",
         "Category": "Photography"
     },
     {
@@ -9712,6 +9865,15 @@
         "Category": "Science & Math"
     },
     {
+        "API": "Bootprint",
+        "Description": "Random facts and images of space",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://bootprint.space/",
+        "Category": "Science & Math"
+    },
+    {
         "API": "CORE",
         "Description": "Access the world's Open Access research papers",
         "Auth": "apiKey",
@@ -9867,7 +10029,7 @@
     {
         "API": "Open Science Framework",
         "Description": "Repository and archive for study designs, research materials, data, manuscripts, etc",
-        "Auth": "",
+        "Auth": "OAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.osf.io",
@@ -10441,12 +10603,30 @@
         "Category": "Shopping"
     },
     {
+        "API": "ScoutAPI",
+        "Description": "Affordable, Swift, and Reliable Amazon Data in Real-Time",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://scoutapi.com",
+        "Category": "Shopping"
+    },
+    {
         "API": "Shopee",
         "Description": "Shopee's official API for integration of various services from Shopee",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://open.shopee.com/documents?version=1",
+        "Category": "Shopping"
+    },
+    {
+        "API": "Shopify",
+        "Description": "Manage sales channels, customers, products, and discounts for a retail business",
+        "Auth": "OAuth",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://shopify.dev/docs/api",
         "Category": "Shopping"
     },
     {
@@ -10621,7 +10801,7 @@
         "Category": "Social"
     },
     {
-        "API": "Meetup.com",
+        "API": "Meetup",
         "Description": "Data about Meetups from Meetup.com",
         "Auth": "apiKey",
         "HTTPS": true,
@@ -10816,6 +10996,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://developer.webex.com",
+        "Category": "Social"
+    },
+    {
+        "API": "Zoom",
+        "Description": "Video communication, web conferencing, chat, and webinars",
+        "Auth": "OAuth",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://developers.zoom.us/docs/api",
         "Category": "Social"
     },
     {
@@ -12664,6 +12853,15 @@
         "Category": "Video"
     },
     {
+        "API": "Star Wars Databank",
+        "Description": "Info and data from the Star Wars databank in the form of an API",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://starwars-databank.vercel.app/",
+        "Category": "Video"
+    },
+    {
         "API": "Stranger Things Quotes",
         "Description": "Returns Stranger Things quotes",
         "Auth": "",
@@ -12805,15 +13003,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.watchmode.com/",
-        "Category": "Video"
-    },
-    {
-        "API": "Web Series Quotes Generator",
-        "Description": "API generates various Web Series Quote Images",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://github.com/yogeshwaran01/web-series-quotes",
         "Category": "Video"
     },
     {
