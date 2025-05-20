@@ -1,5 +1,5 @@
 {
-"count": 1479,
+"count": 1478,
 "entries": [
     {
         "API": "Cat Facts",
@@ -7963,15 +7963,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://findwork.dev/developers/",
-        "Category": "Jobs"
-    },
-    {
-        "API": "Indeed",
-        "Description": "Job search engine",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://developer.indeed.com/docs",
         "Category": "Jobs"
     },
     {
