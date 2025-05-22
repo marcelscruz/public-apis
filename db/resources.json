@@ -1,5 +1,5 @@
 {
-"count": 1478,
+"count": 1479,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2392,6 +2392,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://lob.com/",
+        "Category": "Data Validation"
+    },
+    {
+        "API": "Nonprofit Check Plus",
+        "Description": "Verify charities via EIN using IRS, PUB78, BMF & OFAC data for compliance and legitimacy",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://pactman.org/nonprofitcheckplus-api/landing",
         "Category": "Data Validation"
     },
     {
