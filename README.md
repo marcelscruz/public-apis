@@ -304,6 +304,7 @@
 | [Czech Namedays Calendar](https://svatky.adresa.info) | Lookup for a name and returns nameday date | No | No | Unknown |
 | [DigiDates](https://digidates.de/en/) | Various date and time calculations | No | Yes | Yes |
 | [Festivo Public Holidays](https://docs.getfestivo.com/docs/products/public-holidays-api/intro) | Fastest and most advanced public holiday and observance service on the market | `apiKey` | Yes | Yes |
+| [Finturest Holiday](https://finturest.com/products/holiday-api) | Get accurate global holiday data by country and date with the fast and easy-to-use API | `apiKey` | Yes | Unknown |
 | [Generate iCAL](https://apyhub.com/utility/generator-ical) | Generates iCal calendar events that can be used across calendar applications | `apiKey` | Yes | Yes |
 | [Google Calendar](https://developers.google.com/google-apps/calendar/) | Display, create and modify Google calendar events | `OAuth`| Yes | Unknown |
 | [Hebrew Calendar](https://www.hebcal.com/home/developer-apis) | Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc | No | No | Unknown |
