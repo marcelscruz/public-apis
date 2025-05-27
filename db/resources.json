@@ -1,5 +1,5 @@
 {
-"count": 1483,
+"count": 1484,
 "entries": [
     {
         "API": "Cat Facts",
@@ -6100,6 +6100,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "Wynncraft",
+        "Description": "Wynncraft Information",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://docs.wynncraft.com/",
         "Category": "Games & Comics"
     },
     {
