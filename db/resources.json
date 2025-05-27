@@ -1,5 +1,5 @@
 {
-"count": 1481,
+"count": 1482,
 "entries": [
     {
         "API": "Cat Facts",
@@ -6829,6 +6829,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://rapidapi.com/fcambus/api/telize/",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "The IP API",
+        "Description": "IP to Location API, with data about country, region, city etc, with free plan allowing 1000 req/day",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://theipapi.com",
         "Category": "Geocoding"
     },
     {
