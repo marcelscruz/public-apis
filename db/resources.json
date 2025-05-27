@@ -1,5 +1,5 @@
 {
-"count": 1480,
+"count": 1481,
 "entries": [
     {
         "API": "Cat Facts",
@@ -8485,6 +8485,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.last.fm/api",
+        "Category": "Music"
+    },
+    {
+        "API": "LRCLIB",
+        "Description": "Crowdsourced lyrics",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://lrclib.net/docs",
         "Category": "Music"
     },
     {
