@@ -1,5 +1,5 @@
 {
-"count": 1485,
+"count": 1483,
 "entries": [
     {
         "API": "Cat Facts",
@@ -1915,15 +1915,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://coinremitter.com/docs",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "CoinStats",
-        "Description": "Crypto Tracker",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest",
         "Category": "Cryptocurrency"
     },
     {
@@ -10096,15 +10087,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www2.purpleair.com/",
-        "Category": "Science & Math"
-    },
-    {
-        "API": "Remote Calc",
-        "Description": "Decodes base64 encoding and parses it to return a solution to the calculation in JSON",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://github.com/elizabethadegbaju/remotecalc",
         "Category": "Science & Math"
     },
     {
