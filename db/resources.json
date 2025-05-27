@@ -1,5 +1,5 @@
 {
-"count": 1479,
+"count": 1480,
 "entries": [
     {
         "API": "Cat Facts",
@@ -1465,6 +1465,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.box.com/",
+        "Category": "Cloud Storage & File Sharing"
+    },
+    {
+        "API": "Databricks",
+        "Description": "Manage Databricks workspaces, clusters, jobs, and notebooks via a Rest API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://docs.databricks.com/api/workspace/introduction",
         "Category": "Cloud Storage & File Sharing"
     },
     {
