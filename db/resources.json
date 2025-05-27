@@ -1,5 +1,5 @@
 {
-"count": 1484,
+"count": 1485,
 "entries": [
     {
         "API": "Cat Facts",
@@ -13183,6 +13183,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://apihub.kma.go.kr/",
+        "Category": "Weather"
+    },
+    {
+        "API": "Meteoblue",
+        "Description": "Global weather data with 100+ weather variables, 14 days ahead and 4 days of history data.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://content.meteoblue.com/en/business-solutions/weather-apis",
         "Category": "Weather"
     },
     {
