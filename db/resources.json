@@ -1,5 +1,5 @@
 {
-"count": 1483,
+"count": 1485,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3148,6 +3148,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://macaddress.io/api",
+        "Category": "Development"
+    },
+    {
+        "API": "Markdown to HTML API",
+        "Description": "This API lets you upload and transform a Markdown file to HTML",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/converter-md-html",
         "Category": "Development"
     },
     {
@@ -11698,6 +11707,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://languagetool.org/http-api/",
+        "Category": "Text Analysis"
+    },
+    {
+        "API": "Language API",
+        "Description": "This API analyzes text and returns the identified language. Supports 50+ languages",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/language-detector",
         "Category": "Text Analysis"
     },
     {
