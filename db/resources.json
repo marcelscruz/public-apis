@@ -1,5 +1,5 @@
 {
-"count": 1485,
+"count": 1486,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4012,6 +4012,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.notion.com/docs/getting-started",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "OCR AI",
+        "Description": "Document validation API using OCR and AI. Automatically extracts data from documents  and compares it with user-provided data to verify consistency",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://ocrai.xyz",
         "Category": "Documents & Productivity"
     },
     {
