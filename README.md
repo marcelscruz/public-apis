@@ -648,6 +648,7 @@
 | [Mattermost](https://api.mattermost.com/) | An open source platform for developer collaboration | `OAuth`| Yes | Unknown |
 | [Monday](https://developer.monday.com/) | Programmatically access and update data inside a monday.com account | `apiKey` | Yes | Unknown |
 | [Notion](https://developers.notion.com/docs/getting-started) | Integrate with Notion | `OAuth`| Yes | Unknown |
+| [OCR AI](https://ocrai.xyz) | Document validation API using OCR and AI. Automatically extracts data from documents  and compares it with user-provided data to verify consistency | `apiKey`| Yes | No |
 | [PandaDoc](https://developers.pandadoc.com) | DocGen and eSignatures API | `apiKey` | Yes | No |
 | [Paraphrase Text API](https://apyhub.com/utility/sharpapi-paraphrase-text) | The Paraphrase Text Generator API generates a paraphrased version of the provided text | `apiKey` | Yes | Yes |
 | [Pdfblocks](https://pdfblocks.com) | Generate PDF documents using API | `apiKey` | Yes | Yes |
