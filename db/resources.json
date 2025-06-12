@@ -1,5 +1,5 @@
 {
-"count": 1486,
+"count": 1487,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3067,6 +3067,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://ipinfo.io/developers",
+        "Category": "Development"
+    },
+    {
+        "API": "IPLocate",
+        "Description": "IP geolocation and threat data API",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.iplocate.io/",
         "Category": "Development"
     },
     {
