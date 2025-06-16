@@ -1,5 +1,5 @@
 {
-"count": 1487,
+"count": 1488,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2626,6 +2626,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://browshot.com/api/documentation",
+        "Category": "Development"
+    },
+    {
+        "API": "Cache Horse",
+        "Description": "Combine/batch & cache multiple HTTP requests to save on API quotas, speed up & simplify your app",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://cache.horse",
         "Category": "Development"
     },
     {
