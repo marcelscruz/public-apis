@@ -1,5 +1,5 @@
 {
-"count": 1488,
+"count": 1489,
 "entries": [
     {
         "API": "Cat Facts",
@@ -1168,6 +1168,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://instatus.com/help/api",
+        "Category": "Business"
+    },
+    {
+        "API": "LogoKit",
+        "Description": "Logo API for brands, stocks, and cryptocurrencies",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://docs.logokit.com",
         "Category": "Business"
     },
     {
