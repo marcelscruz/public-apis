@@ -1,5 +1,5 @@
 {
-"count": 1490,
+"count": 1491,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4255,6 +4255,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://eva.pingutil.com/",
+        "Category": "Email"
+    },
+    {
+        "API": "Finturest Email",
+        "Description": "Accurate email validation for reliable delivery",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://finturest.com/products/email-api",
         "Category": "Email"
     },
     {
