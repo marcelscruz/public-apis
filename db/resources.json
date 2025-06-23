@@ -1,5 +1,5 @@
 {
-"count": 1491,
+"count": 1492,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4876,6 +4876,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://finnhub.io/docs/api",
+        "Category": "Finance"
+    },
+    {
+        "API": "Finturest IBAN",
+        "Description": "Fast, accurate IBAN validation and generation",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://finturest.com/products/iban-api",
         "Category": "Finance"
     },
     {
