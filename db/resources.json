@@ -1,5 +1,5 @@
 {
-"count": 1492,
+"count": 1493,
 "entries": [
     {
         "API": "Cat Facts",
@@ -484,6 +484,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://urlscan.io/about-api/",
+        "Category": "Anti-Malware"
+    },
+    {
+        "API": "Verisys Antivirus API",
+        "Description": "Antivirus as a service - REST API that scans provided files for malware and NSFW content",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.ionxsolutions.com/products/antivirus-api",
         "Category": "Anti-Malware"
     },
     {
