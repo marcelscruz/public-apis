@@ -1,5 +1,5 @@
 {
-"count": 1493,
+"count": 1492,
 "entries": [
     {
         "API": "Cat Facts",
@@ -11905,15 +11905,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://www.postalpincode.in/Api-Details",
-        "Category": "Tracking"
-    },
-    {
-        "API": "Postmon",
-        "Description": "An API to query Brazilian ZIP codes and orders easily, quickly and free",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://postmon.com.br",
         "Category": "Tracking"
     },
     {
