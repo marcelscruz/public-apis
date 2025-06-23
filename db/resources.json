@@ -1,5 +1,5 @@
 {
-"count": 1494,
+"count": 1493,
 "entries": [
     {
         "API": "Cat Facts",
@@ -12175,15 +12175,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://openchargemap.org/site/develop/api",
-        "Category": "Transportation"
-    },
-    {
-        "API": "OpenSky Network",
-        "Description": "Free real-time ADS-B aviation data",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://opensky-network.org/apidoc/index.html",
         "Category": "Transportation"
     },
     {
