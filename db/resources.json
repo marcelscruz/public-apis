@@ -1,5 +1,5 @@
 {
-"count": 1493,
+"count": 1494,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4435,6 +4435,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://verifier.meetchopra.com/docs#/",
+        "Category": "Email"
+    },
+    {
+        "API": "Zyntra",
+        "Description": "Unlimited e-mail inboxes with API access. Catch OTPs, reset links, and sign-up emails in test flows",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://docs.zyntra.app/",
         "Category": "Email"
     },
     {
