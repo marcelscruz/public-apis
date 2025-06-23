@@ -681,6 +681,7 @@
 | [Emailvalidation](https://emailvalidation.io/email-validation-api/) | E-Mail address validation | `apiKey` | Yes | Yes |
 | [Enveloop](https://enveloop.com) | Design, host, and send emails and texts. All from one place - with a simple API | `apiKey` | Yes | Yes |
 | [EVA](https://eva.pingutil.com/) | Validate email addresses | No | Yes | Yes |
+| [Finturest Email](https://finturest.com/products/email-api) | Accurate email validation for reliable delivery | `apiKey` | Yes | Unknown |
 | [Guerrilla Mail](https://www.guerrillamail.com/GuerrillaMailAPI.html) | Disposable temporary Email addresses | No | Yes | Unknown |
 | [Heybounce](https://www.heybounce.io/#email-verification-api) | Email Verification API | No | Yes | Yes |
 | [ImprovMX](https://improvmx.com/api) | API for free email forwarding service | `apiKey` | Yes | Unknown |
