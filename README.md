@@ -251,7 +251,7 @@
 | [Google Books](https://developers.google.com/books/) | Books | `OAuth`| Yes | Unknown |
 | [Gutendex](https://gutendex.com/) | Web-API for fetching data from Project Gutenberg Books Library | No | Yes | Unknown |
 | [Harry Potter](https://github.com/fedeperin/potterapi) | API to get data from Harry Potter books, movies and characters | No | Yes | Yes |
-| [Library Management](https://github.com/adam-dev2/library-api) | Manage users, books, authors, loans & reviews | No | Yes | Yes | [Run in Postman](https://www.postman.com/idk333-5882/workspace/for-public-domain/collection/42837993-6490fd0b-c76e-4e3e-a5a6-982f6f84a224?action=share&creator=42837993) |
+| [Library Management](https://github.com/adam-dev2/library-management-api) | Manage users, books, authors, loans and reviews | No | Yes | Yes |
 | [Open Library](https://openlibrary.org/developers/api) | Books, book covers and related data | No | Yes | No |
 | [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/) | Books, book covers and related data | No | Yes | Yes |
 | [PoetryDB](https://github.com/thundercomb/poetrydb#readme) | Enables you to get instant data from our vast poetry collection | No | Yes | Yes |
