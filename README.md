@@ -22,8 +22,8 @@
 <br/>
 
 <div>
-    <p align="center"><a href="https://lightpost.ai?ref=public_apis&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/lightpost.png" width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/lightpost.png" width="150px"><img alt="Lightpost logo" src="./assets/lightpost.png" width="150px"></picture></a></p>
-    <p align="center"><a href="https://lightpost.ai?ref=public_apis&utm_medium=repo_readme">Lightpost</a>: Fully automate or co-create your blogs and posts with an A.I. trained on your business. Plan, design, write and upload anywhere, while keeping full control.</p>
+    <p align="center"><a href="https://lightpost.ai?ref=public_apis&utm_medium=repo_readme&via=dr-pa"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/lightpost.png" width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/lightpost.png" width="150px"><img alt="Lightpost logo" src="./assets/lightpost.png" width="150px"></picture></a></p>
+    <p align="center"><a href="https://lightpost.ai?ref=public_apis&utm_medium=repo_readme&via=dr-pa">Lightpost</a>: Fully automate or co-create your blogs and posts with an A.I. trained on your business. Plan, design, write and upload anywhere, while keeping full control.</p>
 </div>
 
 <br/>
