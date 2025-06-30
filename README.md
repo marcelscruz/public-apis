@@ -173,6 +173,7 @@
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Art Institute of Chicago](https://api.artic.edu/docs/) | Art | No | Yes | Yes |
+| [Art Search](https://artsearch.io) | Search and discover art with semantic AI search | `apiKey` | Yes | Yes |
 | [ColorMagic](https://colormagic.app/api) | Color Palette Generator | No | Yes | Yes |
 | [Colormind](http://colormind.io/api-access/) | Color scheme generator | No | No | Unknown |
 | [ColourLovers](http://www.colourlovers.com/api) | Get various patterns, palettes and images | No | Yes | Unknown |
