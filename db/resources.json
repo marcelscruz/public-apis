@@ -1,5 +1,5 @@
 {
-"count": 1492,
+"count": 1495,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2558,7 +2558,7 @@
     },
     {
         "API": "ApyHub",
-        "Description": "110+ APIs to add to your next software application",
+        "Description": "Discover ready to use APIs for your application",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
@@ -4183,6 +4183,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://wakatime.com/developers",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "WAV to MP3 API",
+        "Description": "This API lets you convert wav files to mp3",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/audio-converter-wav-mp3",
         "Category": "Documents & Productivity"
     },
     {
@@ -9820,6 +9829,15 @@
         "Category": "Photography"
     },
     {
+        "API": "Remove Background from Images API",
+        "Description": "This API helps you remove background from any image",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/image-processor-remove-background",
+        "Category": "Photography"
+    },
+    {
         "API": "ReSmush.it",
         "Description": "Photo optimization",
         "Auth": "",
@@ -12836,11 +12854,20 @@
     },
     {
         "API": "Generate Thumbnail from video API",
-        "Description": "This API generates image thumbnails from any input video file, in the desired size (pixels). The API supports multiple video formats including MP4, WEBM, FLV, AVI, MKV, MOV and 3GP.",
+        "Description": "This API generates image thumbnails from any input video file, in the desired size (pixels). The API supports multiple video formats including MP4, WEBM, FLV, AVI, MKV, MOV and 3GP",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/thumbnail-from-video",
+        "Category": "Video"
+    },
+    {
+        "API": "GIF from Video API",
+        "Description": "This API helps you generate GIF from any video",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/gif-from-video",
         "Category": "Video"
     },
     {
