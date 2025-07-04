@@ -2557,7 +2557,7 @@
         "Category": "Development"
     },
     {
-        "API": "ApyHub",
+        "API": "ApyHub API Marketplace",
         "Description": "Discover ready to use APIs for your application",
         "Auth": "apiKey",
         "HTTPS": true,
