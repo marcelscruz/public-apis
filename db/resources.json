@@ -3575,7 +3575,7 @@
     },
     {
         "API": "SerpApi",
-        "Description": "Scrape Google and other search engines",
+        "Description": "SerpApi's Search API makes it easy and fast to scrape Google and other search engines",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "no",
