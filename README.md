@@ -578,7 +578,7 @@
 | [SearchApi](https://www.searchapi.io/) | Real-Time Google SERP API | `apiKey` | Yes | No |
 | [SEO Tags Generator API](https://apyhub.com/utility/sharpapi-generate-seo-tags) | The Generate SEO Tags API generates all the most important META tags based on any content | `apiKey` | Yes | Yes |
 | [Serialif Color](https://color.serialif.com/) | Color conversion, complementary, grayscale and contrasted text | No | Yes | No |
-| [SerpApi](https://serpapi.com/) | Scrape Google and other search engines  | `apiKey` | Yes | No |
+| [SerpApi](https://serpapi.com/) | SerpApi's Search API makes it easy and fast to scrape Google and other search engines  | `apiKey` | Yes | No |
 | [SERP Rank Checker](https://apyhub.com/utility/serp-rank) | Check realtime Google SERP Rank of any keywords. | `apiKey` | Yes | Yes |
 | [Shadify](https://github.com/cheatsnake/shadify) | Service for generating data and executing logic to create various games and puzzles | No | Yes | Yes |
 | [Sheet2API](https://sheet2api.com/) | Easy Google Sheets and Excel Online API | `apiKey`| Yes | Unknown |
