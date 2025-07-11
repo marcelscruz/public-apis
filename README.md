@@ -104,6 +104,7 @@
 ### Animals
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [AdoptAPet](https://www.adoptapet.com/public/apis/paw) | Pet adoption | `apiKey` | Yes | Unknown |
 | [Cat Facts](https://alexwohlbruck.github.io/cat-facts/) | Daily cat facts | No | Yes | No |
 | [Cataas](https://cataas.com/) | Cat as a service (cats pictures and gifs) | No | Yes | No |
 | [Cats](https://developers.thecatapi.com/) | Pictures of cats from Tumblr | `apiKey` | Yes | No |
@@ -950,7 +951,7 @@
 | [BigDataCloud's Reverse Geocoding API](https://www.bigdatacloud.com/reverse-geocoding) | Get rich locality information from the geographical coordinates. | `apiKey` | Yes | Yes |
 | [BigDataCloud's Phone and Email Verification API](https://www.bigdatacloud.com/phone-email-verification) | Syntax and Format Validation of Phone Number and Email address. | `apiKey` | Yes | Yes |
 | [BigDataCloud's Network Engineering API](https://www.bigdatacloud.com/network-engineering) | Get detailed ASN and Network lookup of an IP address. | `apiKey` | Yes | Yes |
-| [BigDataCloud's Free API](https://www.bigdatacloud.com//free-api) | Get free client-side reverse geocoding API and Client Info API. No account creation and API key required.| No | Yes | Yes |    
+| [BigDataCloud's Free API](https://www.bigdatacloud.com//free-api) | Get free client-side reverse geocoding API and Client Info API. No account creation and API key required.| No | Yes | Yes |
 | [Bing Maps](https://www.microsoft.com/maps/) | Create/customize digital maps based on Bing Maps data | `apiKey` | Yes | Unknown |
 | [bng2latlong](https://www.getthedata.com/bng2latlong) | Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude | No | Yes | Yes |
 | [Cartes.io](https://github.com/M-Media-Group/Cartes.io/wiki/API) | Create maps and markers for anything | No | Yes | Unknown |
@@ -1192,7 +1193,7 @@
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` | Yes | Yes |
 | [Cohere](https://docs.cohere.ai/) | Harness the power of language understanding. Join the developers and businesses who are using Cohere to generate, categorize and organize text at a scale that was previously unimaginable. | `apiKey` | Yes | Yes |
 | [Dialogflow](https://cloud.google.com/dialogflow/docs/) | Natural Language Processing | `apiKey` | Yes | Unknown |
-| [Eden](https://www.edenai.co/) | Get all AI models in one place, e.g. OpenAI, Google and lots more! | `apiKey` | Yes | Yes 
+| [Eden](https://www.edenai.co/) | Get all AI models in one place, e.g. OpenAI, Google and lots more! | `apiKey` | Yes | Yes
 | [EXUDE-API](http://uttesh.com/exude-api/) | Used for the primary ways for filtering the stopping, stemming words from the text data | No | Yes | Yes |
 | [Face-api.js](https://github.com/justadudewhohacks/face-api.js) | JavaScript API for face detection, recognition, and emotion analysis using TensorFlow.js | No | No | Unknown |
 | [Gladia](https://docs.gladia.io) | Artificial intelligence API's | `apiKey` | Yes | No |
