@@ -1,0 +1,26 @@
+name: Comment on new API links
+
+on:
+  pull_request:
+    paths:
+      - README.md
+    types: [opened, synchronize]
+
+jobs:
+  comment-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install deps (if needed)
+        run: npm install @actions/github
+
+      - name: Run API link extraction
+        run: node scripts/extract-api-links.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
