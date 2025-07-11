@@ -1,0 +1,27 @@
+name: PR Review Automation
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - db/**
+    types: [opened, synchronize]
+
+jobs:
+  pr-review-automation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install deps (if needed)
+        run: npm install @actions/github
+
+      - name: Run PR review automation
+        run: node scripts/pr-review-automation.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
