@@ -55,6 +55,14 @@ async function run() {
 
   const newLinks = [...headLinks].filter((link) => !baseLinks.has(link));
 
+  console.log(`Base links found: ${baseLinks.size}`);
+  console.log(`Head links found: ${headLinks.size}`);
+  console.log(`New links found: ${newLinks.length}`);
+  
+  if (newLinks.length > 0) {
+    console.log("New links:", newLinks);
+  }
+
   if (newLinks.length === 0) {
     console.log("No new links found.");
     return;
