@@ -1,0 +1,119 @@
+const { context, getOctokit } = require("@actions/github");
+const fs = require("fs");
+
+const token = process.env.GITHUB_TOKEN;
+const octokit = getOctokit(token);
+
+async function run() {
+  const pr = context.payload.pull_request;
+  const { owner, repo } = context.repo;
+  const prNumber = pr.number;
+
+  const filesChanged = await octokit.rest.pulls.listFiles({
+    owner,
+    repo,
+    pull_number: prNumber,
+  });
+
+  const comments = [];
+
+  // Check 1: New API links in README.md
+  const readmeFile = filesChanged.data.find(
+    (file) => file.filename.toLowerCase() === "readme.md"
+  );
+
+  if (readmeFile) {
+    console.log("README.md modified. Checking for new API links...");
+    const newLinks = await checkForNewApiLinks(owner, repo, pr);
+    if (newLinks.length > 0) {
+      const linkComment =
+        newLinks.length === 1
+          ? `**API link:** ${newLinks[0]}`
+          : [
+              "**New API links:**",
+              "",
+              ...newLinks.map((link) => `- ${link}`),
+            ].join("\n");
+      comments.push(linkComment);
+    }
+  }
+
+  // Check 2: Edits to /db folder
+  const dbFiles = filesChanged.data.filter((file) =>
+    file.filename.startsWith("db/")
+  );
+
+  if (dbFiles.length > 0) {
+    console.log(
+      `DB folder modifications detected in ${dbFiles.length} file(s)`
+    );
+    const dbWarning =
+      "Thanks for your contribution!\n❗️ **Warning:** The `/db` folder is auto-generated, so please do not edit it. Changes related to public APIs should happen in the `README.md` file. Read the [contribution guidelines](https://github.com/marcelscruz/public-apis/blob/main/CONTRIBUTING.md) for more details.";
+    comments.push(dbWarning);
+  }
+
+  // Post all comments as a single comment
+  if (comments.length > 0) {
+    const finalComment = comments.join("\n\n---\n\n");
+
+    await octokit.rest.issues.createComment({
+      owner,
+      repo,
+      issue_number: prNumber,
+      body: finalComment,
+    });
+
+    console.log("Comment posted with all checks.");
+  } else {
+    console.log("No issues found in this PR.");
+  }
+}
+
+async function checkForNewApiLinks(owner, repo, pr) {
+  const baseRes = await octokit.rest.repos.getContent({
+    owner,
+    repo,
+    path: "README.md",
+    ref: pr.base.ref,
+  });
+
+  const headRes = await octokit.rest.repos.getContent({
+    owner,
+    repo,
+    path: "README.md",
+    ref: pr.head.ref,
+  });
+
+  const decode = (res) =>
+    Buffer.from(res.data.content, "base64").toString("utf8");
+  const baseContent = decode(baseRes);
+  const headContent = decode(headRes);
+
+  const baseLinks = new Set(
+    [...baseContent.matchAll(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g)].map(
+      (m) => m[2]
+    )
+  );
+  const headLinks = new Set(
+    [...headContent.matchAll(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g)].map(
+      (m) => m[2]
+    )
+  );
+
+  const newLinks = [...headLinks].filter((link) => !baseLinks.has(link));
+
+  console.log(`Base links found: ${baseLinks.size}`);
+  console.log(`Head links found: ${headLinks.size}`);
+  console.log(`New links found: ${newLinks.length}`);
+
+  if (newLinks.length > 0) {
+    console.log("New links:", newLinks);
+  }
+
+  return newLinks;
+}
+
+run().catch((error) => {
+  console.error(error);
+  process.exit(1);
+});
