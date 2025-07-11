@@ -3574,7 +3574,7 @@
         "Category": "Development"
     },
     {
-        "API": "SerpApi",
+        "API": "SerpApi - Search API",
         "Description": "SerpApi's Search API makes it easy and fast to scrape Google and other search engines",
         "Auth": "apiKey",
         "HTTPS": true,
