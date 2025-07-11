@@ -58,7 +58,7 @@ async function run() {
   console.log(`Base links found: ${baseLinks.size}`);
   console.log(`Head links found: ${headLinks.size}`);
   console.log(`New links found: ${newLinks.length}`);
-  
+
   if (newLinks.length > 0) {
     console.log("New links:", newLinks);
   }
@@ -68,11 +68,12 @@ async function run() {
     return;
   }
 
-  const commentBody = [
-    "🔍 **New API link:**",
-    "",
-    ...newLinks.map((link) => `- ${link}`),
-  ].join("\n");
+  const commentBody =
+    newLinks.length === 1
+      ? `**API link:** ${newLinks[0]}`
+      : ["**New API links:**", "", ...newLinks.map((link) => `- ${link}`)].join(
+          "\n"
+        );
 
   await octokit.rest.issues.createComment({
     owner,
