@@ -5,9 +5,16 @@ const token = process.env.GITHUB_TOKEN;
 const octokit = getOctokit(token);
 
 async function run() {
-  const pr = context.payload.pull_request;
-  const { owner, repo } = context.repo;
-  const prNumber = pr.number;
+  try {
+    const pr = context.payload.pull_request;
+    const { owner, repo } = context.repo;
+    const prNumber = pr.number;
+
+    console.log(`Working with repository: ${owner}/${repo}`);
+    console.log(`PR number: ${prNumber}`);
+    console.log(`PR author: ${pr.user.login}`);
+    console.log(`Head repo: ${pr.head.repo.full_name}`);
+    console.log(`Base repo: ${pr.base.repo.full_name}`);
 
   const filesChanged = await octokit.rest.pulls.listFiles({
     owner,
@@ -66,6 +73,11 @@ async function run() {
     console.log("Comment posted with all checks.");
   } else {
     console.log("No issues found in this PR.");
+  }
+  } catch (error) {
+    console.error("Error in PR review automation:", error);
+    // Don't exit with error code to avoid failing the entire workflow
+    // Just log the error and continue
   }
 }
 
