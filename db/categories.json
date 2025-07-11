@@ -62,6 +62,18 @@
         "slug": "development"
     },
     {
+        "name": "Directories",
+        "slug": "directories"
+    },
+    {
+        "name": "Disasters",
+        "slug": "disasters"
+    },
+    {
+        "name": "Documents",
+        "slug": "documents"
+    },
+    {
         "name": "Dictionaries",
         "slug": "dictionaries"
     },
