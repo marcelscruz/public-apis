@@ -62,6 +62,10 @@
         "slug": "development"
     },
     {
+        "name": "Devops",
+        "slug": "devops"
+    },
+    {
         "name": "Dictionaries",
         "slug": "dictionaries"
     },
