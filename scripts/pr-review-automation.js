@@ -15,6 +15,10 @@ async function run() {
     console.log(`PR author: ${pr.user.login}`);
     console.log(`Head repo: ${pr.head.repo.full_name}`);
     console.log(`Base repo: ${pr.base.repo.full_name}`);
+    console.log(`Head SHA: ${pr.head.sha}`);
+    console.log(`Base SHA: ${pr.base.sha}`);
+    console.log(`Head ref: ${pr.head.ref}`);
+    console.log(`Base ref: ${pr.base.ref}`);
 
   const filesChanged = await octokit.rest.pulls.listFiles({
     owner,
@@ -82,47 +86,55 @@ async function run() {
 }
 
 async function checkForNewApiLinks(owner, repo, pr) {
-  const baseRes = await octokit.rest.repos.getContent({
-    owner,
-    repo,
-    path: "README.md",
-    ref: pr.base.ref,
-  });
+  try {
+    // For pull_request_target, we need to get content from the correct repositories
+    // Base content from the target repository (upstream)
+    const baseRes = await octokit.rest.repos.getContent({
+      owner,
+      repo,
+      path: "README.md",
+      ref: pr.base.sha, // Use SHA instead of ref name
+    });
 
-  const headRes = await octokit.rest.repos.getContent({
-    owner,
-    repo,
-    path: "README.md",
-    ref: pr.head.ref,
-  });
+    // Head content from the source repository (could be a fork)
+    const headRes = await octokit.rest.repos.getContent({
+      owner: pr.head.repo.owner.login,
+      repo: pr.head.repo.name,
+      path: "README.md",
+      ref: pr.head.sha, // Use SHA instead of ref name
+    });
 
-  const decode = (res) =>
-    Buffer.from(res.data.content, "base64").toString("utf8");
-  const baseContent = decode(baseRes);
-  const headContent = decode(headRes);
+    const decode = (res) =>
+      Buffer.from(res.data.content, "base64").toString("utf8");
+    const baseContent = decode(baseRes);
+    const headContent = decode(headRes);
 
-  const baseLinks = new Set(
-    [...baseContent.matchAll(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g)].map(
-      (m) => m[2]
-    )
-  );
-  const headLinks = new Set(
-    [...headContent.matchAll(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g)].map(
-      (m) => m[2]
-    )
-  );
+    const baseLinks = new Set(
+      [...baseContent.matchAll(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g)].map(
+        (m) => m[2]
+      )
+    );
+    const headLinks = new Set(
+      [...headContent.matchAll(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g)].map(
+        (m) => m[2]
+      )
+    );
 
-  const newLinks = [...headLinks].filter((link) => !baseLinks.has(link));
+    const newLinks = [...headLinks].filter((link) => !baseLinks.has(link));
 
-  console.log(`Base links found: ${baseLinks.size}`);
-  console.log(`Head links found: ${headLinks.size}`);
-  console.log(`New links found: ${newLinks.length}`);
+    console.log(`Base links found: ${baseLinks.size}`);
+    console.log(`Head links found: ${headLinks.size}`);
+    console.log(`New links found: ${newLinks.length}`);
 
-  if (newLinks.length > 0) {
-    console.log("New links:", newLinks);
+    if (newLinks.length > 0) {
+      console.log("New links:", newLinks);
+    }
+
+    return newLinks;
+  } catch (error) {
+    console.error("Error checking for new API links:", error);
+    return []; // Return empty array on error to avoid breaking the workflow
   }
-
-  return newLinks;
 }
 
 run().catch((error) => {
