@@ -1,5 +1,5 @@
 {
-"count": 1496,
+"count": 1498,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2665,6 +2665,15 @@
         "Category": "Development"
     },
     {
+        "API": "ChatterBox",
+        "Description": "One API for meeting bots on Zoom, Meet & Teams",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://chatter-box.io/",
+        "Category": "Development"
+    },
+    {
         "API": "Ciprand",
         "Description": "Secure random string generator",
         "Auth": "",
@@ -4426,6 +4435,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://learn.sweego.io/docs/api-intro",
+        "Category": "Email"
+    },
+    {
+        "API": "Sweep Emails",
+        "Description": "Reliable email validation API with Free tier",
+        "Auth": "apikey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://sweepemails.com/",
         "Category": "Email"
     },
     {
