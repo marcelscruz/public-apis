@@ -1,5 +1,5 @@
 {
-"count": 1495,
+"count": 1496,
 "entries": [
     {
         "API": "Cat Facts",
@@ -5650,6 +5650,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://open5e.com/",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "Eight Ball",
+        "Description": "Fortune-telling API with random, sentiment-biased, and multi-language responses",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://eightballapi.com/",
         "Category": "Games & Comics"
     },
     {
