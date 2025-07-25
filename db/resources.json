@@ -1,5 +1,5 @@
 {
-"count": 1498,
+"count": 1499,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3593,11 +3593,20 @@
     },
     {
         "API": "SERP Rank Checker",
-        "Description": "Check realtime Google SERP Rank of any keywords.",
+        "Description": "Check realtime Google SERP Rank of any keywords",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/serp-rank",
+        "Category": "Development"
+    },
+    {
+        "API": "Sent.dm",
+        "Description": "Sent is a unified API for messaging across SMS and apps\nlike WhatsApp",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://sent.dm",
         "Category": "Development"
     },
     {
