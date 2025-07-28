@@ -605,6 +605,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [UserAgent](https://useragent.app) | User agent parsing API is designed to help you better understand and interact with your users. By identifying browser, device, and OS data from user agent strings, this API empowers you with accurate, real-time insights into your audience. | `apiKey`| Yes | Yes |
 | [YADG](https://yadg.cc/api/v2/) | An API that scrapes music release data and renders it using different templates | `apiKey`| Yes | Unknown |
 | [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel/API.md) | Code compiler supporting 35+ languages mentioned at wandbox.org | No | Yes | Unknown |
+| [Web Scraping API](https://apyhub.com/utility/sharpapi-web-scraping-api) | Extract structured data from any public URL | `apiKey`| Yes | Yes |
 | [WebScraping.AI](https://webscraping.ai/) | Web Scraping API with built-in proxies and JS rendering | `apiKey`| Yes | Yes |
 | [YAMLine](https://yamline.com/json/) | Convert YAML to JSON (on-the-fly) | No | Yes | Yes |
 | [ZenRows](https://www.zenrows.com/) | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies | `apiKey`| Yes | Unknown |
@@ -1868,6 +1869,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [TVDB](https://thetvdb.com/api-information) | Television data | `apiKey` | Yes | Unknown |
 | [TVMaze](http://www.tvmaze.com/api) | TV Show Data | No | No | Unknown |
 | [uNoGS](https://rapidapi.com/unogs/api/unogsng) | Unofficial Netflix Online Global Search, Search all netflix regions in one place | `apiKey` | Yes | Yes |
+| [Video Thumbnail API](https://apyhub.com/utility/job-video-thumbnail) | Create Video Thumbnails from any video or URL | `apiKey`| Yes | Yes |
 | [Vimeo](https://developer.vimeo.com/) | Vimeo Developer API | `OAuth`| Yes | Unknown |
 | [Watchmode](https://api.watchmode.com/) | API for finding out the streaming availability of movies & shows | `apiKey` | Yes | Unknown |
 | [YouTube](https://developers.google.com/youtube/) | Add YouTube functionality to your sites and apps | `OAuth`| Yes | Unknown |
