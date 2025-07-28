@@ -38,7 +38,6 @@
 <br/>
 <br/>
 
-
 <div align="center">
     <a href="API.md">API</a> •
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
@@ -48,6 +47,7 @@
 </div>
 
 ## Index
+
 * [Animals](#animals)
 * [Anime](#anime)
 * [Anti-Malware](#anti-malware)
@@ -102,6 +102,7 @@
 * [Weather](#weather)
 
 ### Animals
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Cat Facts](https://alexwohlbruck.github.io/cat-facts/) | Daily cat facts | No | Yes | No |
@@ -128,6 +129,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Anime
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AniDB](https://wiki.anidb.net/HTTP_API_Definition) | Anime Database | `apiKey` | No | Yes |
@@ -153,6 +155,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Anti-Malware
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AbuseIPDB](https://docs.abuseipdb.com/) | IP/domain/URL reputation | `apiKey` | Yes | Unknown |
@@ -177,6 +180,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Art & Design
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Art Institute of Chicago](https://api.artic.edu/docs/) | Art | No | Yes | Yes |
@@ -205,6 +209,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Authentication & Authorization
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Auth0](https://auth0.com) | Easy to implement, adaptable authentication and authorization platform | `apiKey` | Yes | Yes |
@@ -219,6 +224,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Blockchain
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Bitquery](https://graphql.bitquery.io/ide) | Onchain GraphQL APIs & DEX APIs | `apiKey` | Yes | Yes |
@@ -238,6 +244,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Books
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [A Bíblia Digital](https://www.abibliadigital.com.br/en) | Do not worry about managing the multiple versions of the Bible | `apiKey` | Yes | No |
@@ -264,6 +271,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Business
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Apache Superset](https://superset.apache.org/docs/api) | API to manage your BI dashboards and data sources on Superset | `apiKey` | Yes | Yes |
@@ -296,6 +304,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Calendar
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Abstract Public Holidays](https://www.abstractapi.com/holidays-api) | Data on national, regional, and religious holidays via API | `apiKey` | Yes | Yes |
@@ -320,6 +329,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Cloud Storage & File Sharing
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Box](https://developer.box.com/) | File Sharing and Storage | `OAuth`| Yes | Unknown |
@@ -345,6 +355,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Continuous Integration
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Azure DevOps Health](https://docs.microsoft.com/en-us/rest/api/resourcehealth) | Resource health helps you diagnose and get support when an Azure issue impacts your resources | `apiKey` | No | No |
@@ -357,6 +368,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Cryptocurrency
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [1inch](https://1inch.io/page-api/) | API for querying decentralize exchange | No | Yes | Unknown |
@@ -417,6 +429,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Currency Exchange
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [1Forge](https://1forge.com/forex-data-api/api-documentation) | Forex currency market data | `apiKey` | Yes | Unknown |
@@ -445,6 +458,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Data Validation
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [API Adresse](https://adresse.data.gouv.fr/api-doc/adresse) | Official French address validation service | No | Yes | Unknown |
@@ -462,6 +476,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Development
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [24 Pull Requests](https://24pullrequests.com/api) | Project to promote open source collaboration during December | No | Yes | Yes |
@@ -558,7 +573,7 @@
 | [PipeDream](https://docs.pipedream.com) | Pipedream is the fastest way to build powerful applications that connect all the services in your stack | `OAuth`| Yes | Unknown |
 | [Postman](https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a) | Tool for testing APIs | `apiKey`| Yes | Unknown |
 | [Proxed AI](https://proxed.ai/) | Secure AI APIs in iOS - No SDK, Just Change Your API URL | `apiKey` | Yes | Yes |
-| [Proxmox VE API](https://pve.proxmox.com/pve-docs/api-viewer/) | API of self-hosted Proxmox VE. Address: https://your.server:8006/api2/json/ (configuring in installation process) | `apiKey`| Yes | Unknown |
+| [Proxmox VE API](https://pve.proxmox.com/pve-docs/api-viewer/) | API of self-hosted Proxmox VE. Address: <https://your.server:8006/api2/json/> (configuring in installation process) | `apiKey`| Yes | Unknown |
 | [ProxyCrawl](https://proxycrawl.com) | Scraping and crawling anticaptcha service | `apiKey`| Yes | Unknown |
 | [ProxyKingdom](https://proxykingdom.com) | Rotating Proxy API that produces a working proxy on every request | `apiKey`| Yes | Yes |
 | [Pusher Beams](https://pusher.com/beams) | Push notifications for Android & iOS | `apiKey`| Yes | Unknown |
@@ -614,6 +629,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Dictionaries
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Chinese Character Web](http://ccdb.hemiola.com/) | Chinese character definitions and pronunciations | No | No | No |
@@ -632,6 +648,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Documents & Productivity
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Airtable](https://airtable.com/api) | Integrate with Airtable | `apiKey` | Yes | Unknown |
@@ -676,6 +693,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Email
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Abstract Email Validation](https://www.abstractapi.com/email-verification-validation-api) | Validate email addresses for deliverability and spam | `apiKey` | Yes | Yes |
@@ -710,6 +728,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Entertainment
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [chucknorris.io](https://api.chucknorris.io) | JSON API for hand curated Chuck Norris jokes | No | Yes | Unknown |
@@ -728,6 +747,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Environment
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [BreezoMeter Pollen](https://docs.breezometer.com/api-documentation/pollen-api/v2/) | Daily Forecast pollen conditions data for a specific location | `apiKey` | Yes | Unknown |
@@ -751,6 +771,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Events
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Eventbrite](https://www.eventbrite.com/platform/api/) | Find events | `OAuth`| Yes | Unknown |
@@ -760,6 +781,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Finance
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Abstract VAT Validation](https://www.abstractapi.com/vat-validation-rates-api) | Validate VAT numbers and calculate VAT rates | `apiKey` | Yes | Yes |
@@ -810,8 +832,8 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [TradeWatch](https://tradewatch.io/) | Real time financial market data | `apiKey` | Yes | Yes |
 | [Twelve Data](https://twelvedata.com/) | Stock market data (real-time & historical) | `apiKey` | Yes | Unknown |
 | [WallstreetBets](https://dashboard.nbshare.io/apps/reddit/api/) | WallstreetBets Stock Comments Sentiment Analysis | No | Yes | Unknown |
-| [Validate IBAN API ](https://apyhub.com/utility/finance-validator-iban) | This API lets you quickly validate IBAN bank codes |  `apiKey` | Yes | Yes |
-| [Validate Swift/BIC ](https://apyhub.com/utility/finance-validator-bic) | Validates BIC/SWIFT code |  `apiKey` | Yes | Yes |
+| [Validate IBAN API](https://apyhub.com/utility/finance-validator-iban) | This API lets you quickly validate IBAN bank codes |  `apiKey` | Yes | Yes |
+| [Validate Swift/BIC](https://apyhub.com/utility/finance-validator-bic) | Validates BIC/SWIFT code |  `apiKey` | Yes | Yes |
 | [xChangeApi](https://xchangeapi.com/) | Exchange rates & real time market data | `apiKey` | Yes | Yes |
 | [YNAB](https://api.youneedabudget.com/) | Budgeting & Planning | `OAuth`| Yes | Yes |
 | [Zoho Books](https://www.zoho.com/books/api/v3/) | Online accounting software, built for your business | `OAuth`| Yes | Unknown |
@@ -819,6 +841,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Food & Drink
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [BaconMockup](https://baconmockup.com/) | Resizable bacon placeholder images | No | Yes | Yes |
@@ -848,6 +871,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Games & Comics
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AmiiboAPI](https://amiiboapi.com/) | Nintendo Amiibo Information | No | Yes | Yes |
@@ -944,6 +968,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Geocoding
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Abstract IP Geolocation](https://www.abstractapi.com/ip-geolocation-api) | Geolocate website visitors from their IPs | `apiKey` | Yes | Yes |
@@ -956,7 +981,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [BigDataCloud's Reverse Geocoding API](https://www.bigdatacloud.com/reverse-geocoding) | Get rich locality information from the geographical coordinates. | `apiKey` | Yes | Yes |
 | [BigDataCloud's Phone and Email Verification API](https://www.bigdatacloud.com/phone-email-verification) | Syntax and Format Validation of Phone Number and Email address. | `apiKey` | Yes | Yes |
 | [BigDataCloud's Network Engineering API](https://www.bigdatacloud.com/network-engineering) | Get detailed ASN and Network lookup of an IP address. | `apiKey` | Yes | Yes |
-| [BigDataCloud's Free API](https://www.bigdatacloud.com//free-api) | Get free client-side reverse geocoding API and Client Info API. No account creation and API key required.| No | Yes | Yes |    
+| [BigDataCloud's Free API](https://www.bigdatacloud.com//free-api) | Get free client-side reverse geocoding API and Client Info API. No account creation and API key required.| No | Yes | Yes |
 | [Bing Maps](https://www.microsoft.com/maps/) | Create/customize digital maps based on Bing Maps data | `apiKey` | Yes | Unknown |
 | [bng2latlong](https://www.getthedata.com/bng2latlong) | Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude | No | Yes | Yes |
 | [Cartes.io](https://github.com/M-Media-Group/Cartes.io/wiki/API) | Create maps and markers for anything | No | Yes | Unknown |
@@ -1042,6 +1067,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Government
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Api Colombia](https://api-colombia.com/) | Community driven API for Colombia Public Data | No | Yes | Unknown |
@@ -1060,7 +1086,6 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [City, Nantes Open Data](https://data.nantesmetropole.fr/pages/home/) | Nantes(FR) City Open Data | `apiKey` | Yes | Unknown |
 | [City, New York Open Data](https://opendata.cityofnewyork.us/) | New York (US) City Open Data | No | Yes | Unknown |
 | [City, Toronto Open Data](https://open.toronto.ca/) | Toronto (CA) City Open Data | No | Yes | Yes |
-| [Code.gov](https://code.gov) | The primary platform for Open Source and code sharing for the U.S. Federal Government | `apiKey` | Yes | Unknown |
 | [Colorado Information Marketplace](https://data.colorado.gov/) | Colorado State Government Open Data | No | Yes | Unknown |
 | [Data USA](https://datausa.io/about/api/) | US Public Data | No | Yes | Unknown |
 | [Data.gov](https://api.data.gov/) | US Government Data | `apiKey` | Yes | Unknown |
@@ -1131,6 +1156,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Health
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [CMS.gov](https://data.cms.gov/provider-data/) | Access to the data from the CMS - medicare.gov | `apiKey` | Yes | Unknown |
@@ -1163,6 +1189,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Jobs
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Adzuna](https://developer.adzuna.com/overview) | Job board aggregator | `apiKey` | Yes | Unknown |
@@ -1190,6 +1217,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Machine Learning
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AI/ML API](https://aimlapi.com) | Access 100+ curated AI Models over 1 API | Yes | Yes | Yes |
@@ -1198,7 +1226,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` | Yes | Yes |
 | [Cohere](https://docs.cohere.ai/) | Harness the power of language understanding. Join the developers and businesses who are using Cohere to generate, categorize and organize text at a scale that was previously unimaginable. | `apiKey` | Yes | Yes |
 | [Dialogflow](https://cloud.google.com/dialogflow/docs/) | Natural Language Processing | `apiKey` | Yes | Unknown |
-| [Eden](https://www.edenai.co/) | Get all AI models in one place, e.g. OpenAI, Google and lots more! | `apiKey` | Yes | Yes 
+| [Eden](https://www.edenai.co/) | Get all AI models in one place, e.g. OpenAI, Google and lots more! | `apiKey` | Yes | Yes
 | [EXUDE-API](http://uttesh.com/exude-api/) | Used for the primary ways for filtering the stopping, stemming words from the text data | No | Yes | Yes |
 | [Face-api.js](https://github.com/justadudewhohacks/face-api.js) | JavaScript API for face detection, recognition, and emotion analysis using TensorFlow.js | No | No | Unknown |
 | [Gladia](https://docs.gladia.io) | Artificial intelligence API's | `apiKey` | Yes | No |
@@ -1223,6 +1251,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Music
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [7digital](https://docs.7digital.com/reference) | Api of Music store 7digital | `OAuth`| Yes | Unknown |
@@ -1259,6 +1288,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### News
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Associated Press](https://developer.ap.org/) | Search for news and metadata from Associated Press | `apiKey` | Yes | Unknown |
@@ -1287,6 +1317,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Open Data
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [18F](http://18f.github.io/API-All-the-X/) | Unofficial US Federal Government API Development | No | No | Unknown |
@@ -1330,6 +1361,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Open Source Projects
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Countly](https://api.count.ly/reference) | Countly web analytics | No | No | Unknown |
@@ -1345,16 +1377,18 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Patent
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [EPO](https://developers.epo.org/) | European patent search system api | `OAuth`| Yes | Unknown |
-| [PatentsView ](https://patentsview.org/apis/purpose) | API is intended to explore and visualize trends/patterns across the US innovation landscape | No | Yes | Unknown |
+| [PatentsView](https://patentsview.org/apis/purpose) | API is intended to explore and visualize trends/patterns across the US innovation landscape | No | Yes | Unknown |
 | [TIPO](https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00) | Taiwan patent search system api | `apiKey` | Yes | Unknown |
 | [USPTO](https://www.uspto.gov/learning-and-resources/open-data-and-mobility) | USA patent api services | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
 ### Personality
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Advice Slip](http://api.adviceslip.com/) | Generate random advice slips | No | Yes | Unknown |
@@ -1384,6 +1418,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Phone
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Abstract Phone Validation](https://www.abstractapi.com/phone-validation-api) | Validate phone numbers globally | `apiKey` | Yes | Yes |
@@ -1397,6 +1432,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Photography
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [APITemplate.io](https://apitemplate.io) | Dynamically generate images and PDFs from templates with a simple API | `apiKey` | Yes | Yes |
@@ -1430,6 +1466,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Podcasts
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [iTunes](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html#//apple_ref/doc/uid/TP40017632-CH3-SW1) | Apple Podcasts Directory | No | Yes | Unknown |
@@ -1440,6 +1477,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Programming
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Codeforces](https://codeforces.com/apiHelp) | Get access to Codeforces data | `apiKey` | Yes | Unknown |
@@ -1453,6 +1491,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Science & Math
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [arcsecond.io](https://api.arcsecond.io/) | Multiple astronomy data sources | `apiKey` | Yes | Unknown |
@@ -1490,6 +1529,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Security
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Application Environment Verification](https://github.com/fingerprintjs/aev) | Android library and API to verify the safety of user devices, detect rooted devices and other risks | `apiKey` | Yes | Yes |
@@ -1534,6 +1574,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Shopping
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce | `apiKey` | Yes | Unknown |
@@ -1559,6 +1600,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Social
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [4chan](https://github.com/4chan/4chan-API) | Simple image-based bulletin board dedicated to a variety of topics | No | Yes | Yes |
@@ -1605,6 +1647,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Sports & Fitness
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [American Football Highlights API](https://highlightly.net/documentation/american-football/) | Real time American Football (NFL/NCAA) highlights | `apiKey`| Yes | Unknown |
@@ -1634,7 +1677,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [NHL Records and Stats](https://gitlab.com/dword4/nhlapi) | NHL historical data and statistics | No | Yes | Unknown |
 | [Oddsmagnet](https://oddsmagnet.com/oddsdata) | Odds history from multiple UK bookmakers | No | Yes | Yes |
 | [OpenLigaDB](https://www.openligadb.de) | Crowd sourced sports league results | No | Yes | Yes |
-| [Premier League Standings ](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | All Current Premier League Standings and Statistics | `apiKey`| Yes | Unknown |
+| [Premier League Standings](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | All Current Premier League Standings and Statistics | `apiKey`| Yes | Unknown |
 | [Sport Data](https://sportdataapi.com) | Get sports data from all over the world | `apiKey`| Yes | Unknown |
 | [Sport Highlights](https://highlightly.net/documentation/sports/) | Real time Sport Highlights | `apiKey`| Yes | Unknown |
 | [Sportmonks Cricket](https://docs.sportmonks.com/cricket/) | Live cricket score, player statistics and fantasy API | `apiKey`| Yes | Unknown |
@@ -1649,6 +1692,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Test Data
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Bacon Ipsum](https://baconipsum.com/json-api/) | A Meatier Lorem Ipsum Generator | No | Yes | Unknown |
@@ -1680,6 +1724,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Text Analysis
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AI Translate text API](https://apyhub.com/utility/sharpapi-translate-text) | The Text Translation API translates text into any of the 80 supported languages, providing accurate and context-aware translations | `apiKey` | Yes | Yes |
@@ -1704,6 +1749,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Tracking
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Aftership](https://developers.aftership.com/reference/quick-start) | API to update, manage and track shipment efficiently | `apiKey`| Yes | Yes |
@@ -1719,6 +1765,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Transportation
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [adsbdb](https://www.adsbdb.com) | Open access to aircraft, airline, and flight route data | No | Yes | Yes |
@@ -1791,6 +1838,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### URL Shorteners
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [1pt](https://github.com/1pt-co/api/blob/main/README.md) | A simple URL shortener | No | Yes | Yes |
@@ -1811,6 +1859,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Vehicle
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Brazilian Vehicles and Prices](https://deividfortuna.github.io/fipe/) | Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe | No | Yes | No |
@@ -1824,6 +1873,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Video
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [An API of Ice And Fire](https://anapioficeandfire.com/) | Game Of Thrones API | No | Yes | Unknown |
@@ -1877,6 +1927,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Weather
+
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [7Timer!](http://www.7timer.info/doc.php?lang=en) | Weather, especially for Astroweather | No | No | Unknown |
@@ -1914,4 +1965,3 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Yandex.Weather](https://yandex.com/dev/weather/) | Assesses weather condition in specific locations | `apiKey` | Yes | No |
 
 **[⬆ Back to Index](#index)**
-
