@@ -1,5 +1,5 @@
 {
-"count": 1499,
+"count": 1501,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3742,6 +3742,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/melpon/wandbox/blob/master/kennel/API.md",
+        "Category": "Development"
+    },
+    {
+        "API": "Web Scraping API",
+        "Description": "Extract structured data from any public URL",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/sharpapi-web-scraping-api",
         "Category": "Development"
     },
     {
@@ -13165,6 +13174,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://rapidapi.com/unogs/api/unogsng",
+        "Category": "Video"
+    },
+    {
+        "API": "Video Thumbnail API",
+        "Description": "Create Video Thumbnails from any video or URL",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/job-video-thumbnail",
         "Category": "Video"
     },
     {
