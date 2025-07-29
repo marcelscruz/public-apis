@@ -1849,6 +1849,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Movie Quote](https://github.com/F4R4N/movie-quote/) | Random Movie and Series Quotes | No | Yes | Yes |
 | [Mux](https://www.mux.com/) | Mux Video is an API that enables developers to build unique live and on-demand video experiences | `apiKey` | Yes | Unknown |
 | [Open Movie Database](http://www.omdbapi.com/) | Movie information | `apiKey` | Yes | Unknown |
+| [Rendi](https://rendi.dev) | FFmpeg API | `apiKey` | Yes | No |
 | [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television | No | Yes | Unknown |
 | [Shotstack](https://shotstack.io/) | Cloud-based video editing API | `apiKey` | Yes | Unknown |
 | [Simkl](https://simkl.docs.apiary.io) | Movie, TV and Anime data | `apiKey` | Yes | Unknown |
