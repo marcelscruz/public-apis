@@ -7246,6 +7246,15 @@
       "Category": "Government"
     },
     {
+      "API": "Code.gov",
+      "Description": "The primary platform for Open Source and code sharing for the U.S. Federal Government",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "unknown",
+      "Link": "https://code.gov",
+      "Category": "Government"
+    },
+    {
       "API": "Colorado Information Marketplace",
       "Description": "Colorado State Government Open Data",
       "Auth": "",
