@@ -1,5 +1,5 @@
 {
-"count": 1501,
+"count": 1502,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3301,6 +3301,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://hub.openapihub.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "Piloterr",
+        "Description": "Piloterr web scraping API handles headless browsers, rotates proxies for you, and offers json-parsed data extraction",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.piloterr.com/",
         "Category": "Development"
     },
     {
