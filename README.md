@@ -29,8 +29,8 @@
 <br/>
 
 <div>
-    <p align="center"><a href="https://lightpost.ai?ref=public_apis&utm_medium=repo_readme&via=dr-pa"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/lightpost.png" width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/lightpost.png" width="150px"><img alt="Lightpost logo" src="./assets/lightpost.png" width="150px"></picture></a></p>
-    <p align="center"><a href="https://lightpost.ai?ref=public_apis&utm_medium=repo_readme&via=dr-pa">Lightpost</a>: Fully automate or co-create your blogs and posts with an A.I. trained on your business. Plan, design, write and upload anywhere, while keeping full control.</p>
+    <p align="center"><a href="https://companyenrich.com?ref=public_apis&utm_medium=repo_readme&via=dr-pa"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/companyenrich-dark-mode.svg" width="200px"><source media="(prefers-color-scheme: light)" srcset="./assets/companyenrich-light-mode.svg" width="200px"><img alt="CompanyEnrich logo" src="./assets/companyenrich-dark-mode.svg" width="200px"></picture></a></p>
+    <p align="center"><a href="https://companyenrich.com?ref=public_apis&utm_medium=repo_readme&via=dr-pa">CompanyEnrich</a>: Access exclusive company data of local and global businesses. Power your products, agentic workflows, and sales operations with fresh, instant company data APIs.</p>
 </div>
 
 <br/>
@@ -48,59 +48,58 @@
 </div>
 
 ## Index
-- [Index](#index)
-  - [Animals](#animals)
-  - [Anime](#anime)
-  - [Anti-Malware](#anti-malware)
-  - [Art \& Design](#art--design)
-  - [Authentication \& Authorization](#authentication--authorization)
-  - [Blockchain](#blockchain)
-  - [Books](#books)
-  - [Business](#business)
-  - [Calendar](#calendar)
-  - [Cloud Storage \& File Sharing](#cloud-storage--file-sharing)
-  - [Continuous Integration](#continuous-integration)
-  - [Cryptocurrency](#cryptocurrency)
-  - [Currency Exchange](#currency-exchange)
-  - [Data Validation](#data-validation)
-  - [Development](#development)
-  - [Dictionaries](#dictionaries)
-  - [Documents \& Productivity](#documents--productivity)
-  - [Email](#email)
-  - [Entertainment](#entertainment)
-  - [Environment](#environment)
-  - [Events](#events)
-  - [Finance](#finance)
-  - [Food \& Drink](#food--drink)
-  - [Games \& Comics](#games--comics)
-  - [Geocoding](#geocoding)
-  - [Government](#government)
-  - [Health](#health)
-  - [Jobs](#jobs)
-  - [Machine Learning](#machine-learning)
-  - [Music](#music)
-  - [News](#news)
-  - [Open Data](#open-data)
-  - [Open Source Projects](#open-source-projects)
-  - [Patent](#patent)
-  - [Personality](#personality)
-  - [Phone](#phone)
-  - [Photography](#photography)
-  - [Podcasts](#podcasts)
-  - [Programming](#programming)
-  - [Science \& Math](#science--math)
-  - [Security](#security)
-  - [Shopping](#shopping)
-  - [Social](#social)
-  - [Sports \& Fitness](#sports--fitness)
-  - [Test Data](#test-data)
-  - [Text Analysis](#text-analysis)
-  - [Tracking](#tracking)
-  - [Transportation](#transportation)
-  - [URL Shorteners](#url-shorteners)
-  - [Vehicle](#vehicle)
-  - [Video](#video)
-  - [Weather](#weather)
+* [Animals](#animals)
+* [Anime](#anime)
+* [Anti-Malware](#anti-malware)
+* [Art & Design](#art--design)
+* [Authentication & Authorization](#authentication--authorization)
+* [Blockchain](#blockchain)
+* [Books](#books)
+* [Business](#business)
+* [Calendar](#calendar)
+* [Cloud Storage & File Sharing](#cloud-storage--file-sharing)
+* [Continuous Integration](#continuous-integration)
+* [Cryptocurrency](#cryptocurrency)
+* [Currency Exchange](#currency-exchange)
+* [Data Validation](#data-validation)
+* [Development](#development)
+* [Dictionaries](#dictionaries)
+* [Documents & Productivity](#documents--productivity)
+* [Email](#email)
+* [Entertainment](#entertainment)
+* [Environment](#environment)
+* [Events](#events)
+* [Finance](#finance)
+* [Food & Drink](#food--drink)
+* [Games & Comics](#games--comics)
+* [Geocoding](#geocoding)
+* [Government](#government)
+* [Health](#health)
+* [Jobs](#jobs)
+* [Machine Learning](#machine-learning)
+* [Music](#music)
+* [News](#news)
+* [Open Data](#open-data)
+* [Open Source Projects](#open-source-projects)
+* [Patent](#patent)
+* [Personality](#personality)
+* [Phone](#phone)
+* [Photography](#photography)
+* [Podcasts](#podcasts)
+* [Programming](#programming)
+* [Science & Math](#science--math)
+* [Security](#security)
+* [Shopping](#shopping)
+* [Social](#social)
+* [Sports & Fitness](#sports--fitness)
+* [Test Data](#test-data)
+* [Text Analysis](#text-analysis)
+* [Tracking](#tracking)
+* [Transportation](#transportation)
+* [URL Shorteners](#url-shorteners)
+* [Vehicle](#vehicle)
+* [Video](#video)
+* [Weather](#weather)
 
 ### Animals
 | API | Description | Auth | HTTPS | CORS |
@@ -181,6 +180,7 @@
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Art Institute of Chicago](https://api.artic.edu/docs/) | Art | No | Yes | Yes |
+| [Art Search](https://artsearch.io) | Search and discover art with semantic AI search | `apiKey` | Yes | Yes |
 | [ColorMagic](https://colormagic.app/api) | Color Palette Generator | No | Yes | Yes |
 | [Colormind](http://colormind.io/api-access/) | Color scheme generator | No | No | Unknown |
 | [ColourLovers](http://www.colourlovers.com/api) | Get various patterns, palettes and images | No | Yes | Unknown |
@@ -245,11 +245,13 @@
 | [Bhagavad Gita](https://bhagavadgita.io/api) | Bhagavad Gita text | `OAuth`| Yes | Yes |
 | [Bhagavad Gita telugu](https://gita-api.vercel.app) | Bhagavad Gita API in telugu and odia languages | No | Yes | Yes |
 | [Bible-api](https://bible-api.com/) | Free Bible API with multiple languages | No | Yes | Yes |
+| [Big Book](https://bigbookapi.com) | The Big Book API allows you to semantically search, filter, sort, and recommend books | `apiKey` | Yes | Yes |
 | [Crossref Metadata Search](https://github.com/CrossRef/rest-api-doc) | Books & Articles Metadata | No | Yes | Unknown |
 | [Ganjoor](https://api.ganjoor.net) | Classic Persian poetry works including access to related manuscripts, recitations and music tracks | `OAuth`| Yes | Yes |
 | [Google Books](https://developers.google.com/books/) | Books | `OAuth`| Yes | Unknown |
 | [Gutendex](https://gutendex.com/) | Web-API for fetching data from Project Gutenberg Books Library | No | Yes | Unknown |
 | [Harry Potter](https://github.com/fedeperin/potterapi) | API to get data from Harry Potter books, movies and characters | No | Yes | Yes |
+| [Library Management](https://github.com/adam-dev2/library-management-api) | Manage users, books, authors, loans and reviews | No | Yes | Yes |
 | [Open Library](https://openlibrary.org/developers/api) | Books, book covers and related data | No | Yes | No |
 | [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/) | Books, book covers and related data | No | Yes | Yes |
 | [PoetryDB](https://github.com/thundercomb/poetrydb#readme) | Enables you to get instant data from our vast poetry collection | No | Yes | Yes |
@@ -271,7 +273,7 @@
 | [ArvanCloud](https://www.arvancloud.ir/en/dev/sdk) | Enables you to use ArvanCloud services | `apiKey` | Yes | No |
 | [Charity Search](http://charityapi.orghunter.com/) | Non-profit charity data | `apiKey` | No | Unknown |
 | [Clearbit Logo](https://clearbit.com/docs#logo-api) | Search for company logos and embed them in your projects | `apiKey` | Yes | Unknown |
-| [Company Enrich](https://companyenrich.com) | API for B2B company data enrichment, domain enrichment, and website enrichment | `apiKey` | Yes | Yes |
+| [CompanyEnrich](https://companyenrich.com) | API for B2B company data enrichment, domain enrichment, and website enrichment | `apiKey` | Yes | Yes |
 | [Domainsdb.info](https://domainsdb.info/) | Registered Domain Names Search | No | Yes | No |
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | `OAuth`| Yes | Unknown |
 | [Gmail](https://developers.google.com/gmail/api/) | Flexible, RESTful access to the user's inbox | `OAuth`| Yes | Unknown |
@@ -470,10 +472,12 @@
 | [Abstract Screenshot](https://www.abstractapi.com/website-screenshot-api) | Take programmatic screenshots of web pages from any website | `apiKey`| Yes | Yes |
 | [Agify.io](https://agify.io) | Estimates the age from a first name | No | Yes | Yes |
 | [API Grátis](https://apigratis.com.br/) | Multiples services and public APIs | No | Yes | Unknown |
+| [API League](https://apileague.com) | World-class APIs in a single hub | `apiKey` | Yes | Yes |
 | [ApicAgent](https://www.apicagent.com) | Extract device details from user-agent string | No | Yes | Yes |
 | [ApiFlash](https://apiflash.com/) | Chrome based screenshot API for developers | `apiKey`| Yes | Unknown |
 | [APIs.guru](https://apis.guru/api-doc/) | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | No | Yes | Unknown |
 | [ApyHub API Marketplace](https://apyhub.com/catalog) | Discover ready to use APIs for your application | `apiKey` | Yes | Yes |
+| [Autom](https://www.autom.dev) | Our SERP API delivers lightning-fast Google search results at unbeatable prices. Built for developers who need reliable, scalable access to search data without the complexity of web scraping or CAPTCHA challenges. | `apiKey` | Yes | Yes |
 | [Azure DevOps](https://docs.microsoft.com/en-us/rest/api/azure/devops) | The Azure DevOps basic components of a REST API request/response pair | `apiKey`| Yes | Unknown |
 | [Beeceptor](https://beeceptor.com/) | Build a mock Rest API endpoint in seconds | No | Yes | Yes |
 | [Bitbucket](https://developer.atlassian.com/bitbucket/api/2/reference/) | Bitbucket API | `OAuth` | Yes | Unknown |
@@ -498,6 +502,7 @@
 | [DomainDb Info](https://api.domainsdb.info/) | Domain name search to find all domains containing particular words/phrases/etc | No | Yes | Unknown |
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | A simple JSON store API | No | Yes | Yes |
 | [Form Creation API](https://apyhub.com/utility/reformify-form-api) | Create and manage customizable forms within your applications | `apiKey` | Yes | Yes |
+[Format JSON Online Dummy API](https://formatjsononline.com/dummy-api) – A free tool to generate dummy JSON data for testing and prototyping.| No  | Yes | Yes |
 | [Generate Full Webpage Screenshot](https://apyhub.com/utility/generate-webpage-screenshot) | Dynamically capture full page screenshots of websites.| `apiKey` | Yes | Yes |
 | [Gcore CDN](https://docs.gcore.com/cdn) | Make your app fast and responsive for a global audience with Gcore CDN. | `apiKey` | Yes | Yes |
 | [Gcore Cloud](https://docs.gcore.com/cloud) | Scalable, secure, and reliable hybrid cloud services anywhere in the world. | `apiKey` | Yes | Yes |
@@ -556,6 +561,7 @@
 | [OneSignal](https://documentation.onesignal.com/reference/rest-api-overview) | Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App | `apiKey`| Yes | Unknown |
 | [Open Page Rank](https://www.domcop.com/openpagerank/) | API for calculating and comparing metrics of different websites using Page Rank algorithm | `apiKey`| Yes | Unknown |
 | [OpenAPIHub](https://hub.openapihub.com/) | The All-in-one API Platform | `X-Mashape-Key` | Yes | Unknown |
+| [Piloterr](https://www.piloterr.com/) | Piloterr web scraping API handles headless browsers, rotates proxies for you, and offers json-parsed data extraction | `apiKey` | Yes | Yes |
 | [PipeDream](https://docs.pipedream.com) | Pipedream is the fastest way to build powerful applications that connect all the services in your stack | `OAuth`| Yes | Unknown |
 | [Postman](https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a) | Tool for testing APIs | `apiKey`| Yes | Unknown |
 | [Proxed AI](https://proxed.ai/) | Secure AI APIs in iOS - No SDK, Just Change Your API URL | `apiKey` | Yes | Yes |
@@ -643,8 +649,10 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [CloudConvert](https://cloudconvert.com/api/v2) | Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation | `apiKey` | Yes | Unknown |
 | [Cloudmersive Document and Data Conversion](https://cloudmersive.com/convert-api) | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | `apiKey` | Yes | Yes |
 | [Code::Stats](https://codestats.net/api-docs) | Automatic time tracking for programmers | `apiKey` | Yes | No |
-| [Convert Word to PDF](https://apyhub.com/utility/converter-doc-pdf) | Convert a Word document (doc, docx, or ODF formats) to a PDF document | `apiKey` | Yes | Yes |
+| [ConvertHub API](https://converthub.com/api) | File Conversion API for Developers - Powerful REST API for file conversion. Convert documents, images, ebooks, and more. Simple integration, dev-friendly pricing. | `apiKey` | Yes | No |
+| [Convert HTML to PDF API](https://apyhub.com/utility/converter-html-pdf) | This API converts any HTML (file, url, base64) to a PDF | `apiKey` | Yes | Yes |
 | [Convert RSS to JSON](https://apyhub.com/utility/converter-rss-json) | Transform raw RSS data into structured JSON | `apiKey` | Yes | Yes |
+| [Convert Word to PDF](https://apyhub.com/utility/converter-doc-pdf) | Convert a Word document (doc, docx, or ODF formats) to a PDF document | `apiKey` | Yes | Yes |
 | [CraftMyPDF](https://craftmypdf.com) | Generate PDF documents from templates with a drop-and-drop editor and a simple API | `apiKey` | Yes | No |
 | [CV / Resume Parsing API](https://apyhub.com/utility/sharpapi-ai-resume-parser) | The Resume Parser API parses a resume (CV) file from multiple formats (PDF/DOC/DOCX/TXT/RTF) and returns an extensive object of data points | `apiKey` | Yes | Yes |
 | [FastApi Simple Calculator](https://fastapi-calculadora.onrender.com/) | Math, Stadistics, Conversions, Currency and more | No | Yes | Unknown |
@@ -660,6 +668,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Paraphrase Text API](https://apyhub.com/utility/sharpapi-paraphrase-text) | The Paraphrase Text Generator API generates a paraphrased version of the provided text | `apiKey` | Yes | Yes |
 | [Pdfblocks](https://pdfblocks.com) | Generate PDF documents using API | `apiKey` | Yes | Yes |
 | [PDFEndpoint](https://pdfendpoint.com) | HTML and URL to PDF API | `apiKey` | Yes | No |
+| [PDFGate](https://pdfgate.com/html-to-pdf-api) | HTML to PDF API with support for custom headers, footers, fillable form fields, and encryption | `apiKey` | Yes | Yes |
 | [Pocket](https://getpocket.com/developer/) | Bookmarking service | `OAuth`| Yes | Unknown |
 | [Podio](https://developers.podio.com) | File sharing and productivity | `OAuth`| Yes | Unknown |
 | [PrexView](https://prexview.com) | Data from XML or JSON to PDF, HTML or Image | `apiKey` | Yes | Unknown |
@@ -731,6 +740,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 ### Environment
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [Air Quality Index](https://www.juheapi.com/api-catalog/aqi) | Real-time air quality data including AQI and pollutant concentrations for worldwide locations | No | Yes | Unknown |
 | [BreezoMeter Pollen](https://docs.breezometer.com/api-documentation/pollen-api/v2/) | Daily Forecast pollen conditions data for a specific location | `apiKey` | Yes | Unknown |
 | [Carbon Interface](https://docs.carboninterface.com/) | API to calculate carbon (C02) emissions estimates for common C02 emitting activities | `apiKey` | Yes | Yes |
 | [Climatiq](https://docs.climatiq.io) | Calculate the environmental footprint created by a broad range of emission-generating activities | `apiKey` | Yes | Yes |
@@ -841,7 +851,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) | Food & Drink Reviews | No | Yes | Unknown |
 | [TheCocktailDB](https://www.thecocktaildb.com/api.php) | Cocktail Recipes | `apiKey` | Yes | Yes |
 | [TheMealDB](https://www.themealdb.com/api.php) | Meal Recipes | `apiKey` | Yes | Yes |
-| [Untappd](https://untappd.com/api/docs) | Social beer sharing (API closed for new public access as of [Date - e.g., 2023 or last known closure]).No official re-open date | `OAuth`| Yes | Unknown |
+| [Untappd](https://untappd.com/api/docs) | Social beer sharing | `OAuth`| Yes | Unknown |
 | [What's on the menu?](http://nypl.github.io/menus-api/) | NYPL human-transcribed historical menu collection | `apiKey` | No | Unknown |
 | [WhiskyHunter](https://whiskyhunter.net/api/) | Past online whisky auctions statistical data | No | Yes | Unknown |
 | [Zestful](https://zestfuldata.com/) | Parse recipe ingredients | `apiKey` | Yes | Yes |
@@ -882,6 +892,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Final Fantasy XIV](https://xivapi.com/) | Final Fantasy XIV Game data API | No | Yes | Yes |
 | [FreeToGame](https://www.freetogame.com/api-doc) | Free-To-Play Games Database | No | Yes | Yes |
 | [FunTranslations](https://api.funtranslations.com/) | Translate Text into funny languages | No | Yes | Yes |
+| [Game Brain](https://gamebrain.co/api) | Search and discover video games with AI | `apiKey` | Yes | Yes |
 | [GamerPower](https://www.gamerpower.com/api-read) | Game Giveaways Tracker | No | Yes | Yes |
 | [Geek-Jokes](https://github.com/sameerkumar18/geek-joke-api) | Fetch a random geeky/programming related joke for use in all sorts of applications | No | Yes | Yes |
 | [Genshin Impact](https://genshin.dev) | Genshin Impact game data | No | Yes | Yes |
@@ -975,6 +986,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Geodata.gov.gr](https://geodata.gov.gr/en/) | Open geospatial data and API service for Greece | No | Yes | Unknown |
 | [GeoDataSource](https://www.geodatasource.com/web-service) | Geocoding of city name by using latitude and longitude coordinates | `apiKey` | Yes | Unknown |
 | [GeoDB Cities](http://geodb-cities-api.wirefreethought.com/) | Get global city, region, and country data | `apiKey` | Yes | Unknown |
+| [GeoDescription](https://geodescription.com) | Reverse geocoding - Converting geographic coordinates to address-like location description | No | Yes | Unknown |
 | [GeographQL](https://geographql.netlify.app) | A Country, State, and City GraphQL API | No | Yes | Yes |
 | [GeoJS](https://www.geojs.io/) | IP geolocation with ChatOps integration | No | Yes | Yes |
 | [Geokeo](https://geokeo.com) | Geokeo geocoding service- with 2500 free api requests daily | No | Yes | Yes |
@@ -1012,6 +1024,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [OnWater](https://onwater.io/) | Determine if a lat/lon is on water or land | No | Yes | Unknown |
 | [Open Topo Data](https://www.opentopodata.org) | Elevation and ocean depth for a latitude and longitude | No | Yes | No |
 | [OpenCage](https://opencagedata.com) | Forward and reverse geocoding using open data | `apiKey` | Yes | Yes |
+| [OpenPLZ API](https://www.openplzapi.org/) | A public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland via an open REST API | No | Yes | Yes |
 | [openrouteservice.org](https://openrouteservice.org/) | Directions, POIs, isochrones, geocoding (+reverse), elevation, and more | `apiKey` | Yes | Unknown |
 | [OpenStreetMap](http://wiki.openstreetmap.org/wiki/API) | Navigation, geolocation and geographical data | `OAuth`| No | Unknown |
 | [Pinball Map](https://pinballmap.com/api/v1/docs) | A crowdsourced map of public pinball machines | No | Yes | Yes |
@@ -1243,6 +1256,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [LastFm](https://www.last.fm/api) | Music | `apiKey` | Yes | Unknown |
 | [LRCLIB](https://lrclib.net/docs) | Crowdsourced lyrics | No | Yes | Yes |
 | [Mixcloud](https://www.mixcloud.com/developers/) | Music | `OAuth`| Yes | Yes |
+| [Mubert AI Music API](https://landing.mubert.com) | Integrate AI music into your app, game or service | `apiKey`| Yes | Unknown |
 | [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) | Music | No | Yes | Unknown |
 | [Musixmatch](https://developer.musixmatch.com/) | Music | `apiKey` | Yes | Unknown |
 | [Napster](https://developer.napster.com/api/v2.2) | Music | `apiKey` | Yes | Yes |
@@ -1277,6 +1291,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [NewsData](https://newsdata.io/docs) | News data API for live-breaking news and headlines from reputed news sources | `apiKey` | Yes | Unknown |
 | [NewsDataHub API](https://newsdatahub.com) | News Data Hub's REST APs access hundreds of thousands of news articles and blogs in various languages, with intelligent data enrichment for advanced analysis | `apiKey` | Yes | Yes |
 | [NewsX](https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/) | Get or Search Latest Breaking News with ML Powered Summaries 🤖| `apiKey` | Yes | Unknown |
+| [RiskSentinel](https://risksentinel.ai) | AI-powered news intelligence API delivering structured events with risk assessment, sentiment analysis, company impacts, geo tagging, ai generated summary and more | `apiKey` | Yes | No |
 | [Spaceflight News](https://spaceflightnewsapi.net) | Spaceflight related news 🚀| No | Yes | Yes |
 | [Substack API Wrapper](https://github.com/NHagar/substack_api) | Substack's newsletter platform now has an API wrapper, for easy access to latest posts | `No` | Yes | Unknown |
 | [The Guardian](http://open-platform.theguardian.com/) | Access all the content the Guardian creates, categorised by tags and section | `apiKey` | Yes | Unknown |
@@ -1629,9 +1644,8 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [MLB Records and Stats](https://appac.github.io/mlb-data-api-docs/) | Current and historical MLB statistics | No | No | Unknown |
 | [NBA Data](https://rapidapi.com/api-sports/api/api-nba/) | All NBA Stats DATA, Games, Livescore, Standings, Statistics | `apiKey`| Yes | Unknown |
 | [NBA GraphQL](https://nbaapi.com/graphql/) | Advanced NBA Player, Team, and Season Statistics and Data | No | Yes | Yes |
-| [NBA REST API](http://rest.nbaapi.com/index.html) | Up-to-date NBA Player, Team, and Season Statistics, Totals, Advanced, and Shot Chart Data | No | Yes | Yes |
-| [NBA Stats](https://any-api.com/nba_com/nba_com/docs/API_Description) | Current and historical NBA Statistics | No | Yes | Unknown |
-| [NBA Stats](https://documenter.getpostman.com/view/24232555/2s93shzpR3) | NBA player statistics and data | No | Yes | Yes |
+| [NBA Stats](https://api.server.nbaapi.com/) | NBA player statistics, season totals, advanced metrics, game data, and shot chart data | No | Yes | Yes |
+| [NBA Stats](https://documenter.getpostman.com/view/25652688/2sB34Zs4xZ) | Postman docs for comprehensive NBA player statistics, advanced metrics, and detailed shot chart data | No | Yes | Yes |
 | [NHL Records and Stats](https://gitlab.com/dword4/nhlapi) | NHL historical data and statistics | No | Yes | Unknown |
 | [Oddsmagnet](https://oddsmagnet.com/oddsdata) | Odds history from multiple UK bookmakers | No | Yes | Yes |
 | [OpenLigaDB](https://www.openligadb.de) | Crowd sourced sports league results | No | Yes | Yes |
@@ -1688,12 +1702,13 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Chatpdf](https://chatpdf.so/api) | Chat with pdf using GPT4 and ChatGPT | `apiKey` | Yes | Yes |
 | [Cloudmersive Natural Language Processing](https://www.cloudmersive.com/nlp-api) | Natural language processing and text analysis | `apiKey` | Yes | Yes |
 | [Code Detection API](https://codedetectionapi.runtime.dev) | Detect, label, format and enrich the code in your app or in your data pipeline | `OAuth`| Yes | Unknown |
+| [Convert Text to Speech API]( https://apyhub.com/utility/text-to-speech/) | This API converts any text to speech automatically | `apiKey`| Yes | Yes |
 | [Detect Language](https://detectlanguage.com/) | Detects text language | `apiKey` | Yes | Unknown |
+| [Detect Language API](https://apyhub.com/utility/language-detector) | This API detects the language from any text (+ 50 languages supported) | `apiKey` | Yes | Yes |
 | [ELI](https://nlp.insightera.co.th/docs/v1.0) | Natural Language Processing Tools for Thai Language | `apiKey` | Yes | Unknown |
 | [Fuzzy Text Search API](https://apyhub.com/utility/search-fuzzy-text) | The Fuzzy Text Search API finds close matches for user queries, handling typos and partial inputs to deliver relevant results quickly and accurately | `apiKey` | Yes | Yes |
 | [Google Cloud Natural](https://cloud.google.com/natural-language/docs/) | Natural language understanding technology, including sentiment, entity and syntax analysis | `apiKey` | Yes | Unknown |
 | [LanguageTool](https://languagetool.org/http-api/) | Style and Grammar Checker for 25+ Languages | No | Yes | Unknown |
-| [Language API](https://apyhub.com/utility/language-detector) | This API analyzes text and returns the identified language. Supports 50+ languages | `apiKey` | Yes | Yes |
 | [Lecto Translation](https://rapidapi.com/lecto-lecto-default/api/lecto-translation/) | Translation API with free tier and reasonable prices | `apiKey` | Yes | Yes |
 | [LibreTranslate](https://libretranslate.com/docs) | Translation tool with 17 available languages | No | Yes | Unknown |
 | [Proofread and Grammar Check API](https://apyhub.com/utility/sharpapi-proofread-grammer-check) | The Proofreading and Grammar Check API ensures the provided text is grammatically correct and polished by automatically proofreading and checking for errors | `apiKey`| Yes | Yes |
@@ -1753,6 +1768,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Schiphol Airport](https://developer.schiphol.nl/) | Schiphol | `apiKey` | Yes | Unknown |
 | [Swedavia Airports](https://apideveloper.swedavia.se/) | Airport and flight information of Swedish Airports operated by Swedavia | `apiKey` | Yes | No |
 | [Tankerkoenig](https://creativecommons.tankerkoenig.de/swagger/) | German realtime gas/diesel prices | `apiKey` | Yes | Yes |
+| [Trackr TMS](https://rapidapi.com/jccm6/api/trackr-tms) | Trackr API makes it easy to create, assign, and track shipments, with driver support, movement history, and more | `apiKey` | Yes | No |
 | [TransitLand](https://www.transit.land/documentation/datastore/api-endpoints.html) | Transit Aggregation | No | Yes | Unknown |
 | [Transport for Atlanta, US](http://www.itsmarta.com/app-developer-resources.aspx) | Marta | No | No | Unknown |
 | [Transport for Auckland, New Zealand](https://dev-portal.at.govt.nz/) | Auckland Transport | No | Yes | Unknown |
@@ -1796,6 +1812,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 |---|---|---|---|---|
 | [1pt](https://github.com/1pt-co/api/blob/main/README.md) | A simple URL shortener | No | Yes | Yes |
 | [Bitly](http://dev.bitly.com/get_started.html) | URL shortener and link management | `OAuth`| Yes | Unknown |
+| [Bly.to](https://blyto.com/docs) | URL shortening service with analytics and tracking capabilities | `apiKey` | Yes | Yes |
 | [CleanURI](https://cleanuri.com/docs) | URL shortener service | No | Yes | Yes |
 | [Cutt.ly](https://cutt.ly/api-documentation/cuttly-links-api) | URL shortener service | `apiKey` | Yes | Unknown |
 | [Free Url Shortener](https://ulvis.net/developer.html) | Free URL Shortener offers a powerful API to interact with other sites | No | Yes | Unknown |
@@ -1832,7 +1849,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) | Some Breaking Bad quotes | No | Yes | Unknown |
 | [Buffy the Vampire Slayer and Angel](https://github.com/Thatskat/btvs-angel-api) | Get episode, cast and crew data from Buffy the Vampire Slayer and Angel | No | Yes | Yes |
 | [Catalogopolis](https://api.catalogopolis.xyz/docs/) | Doctor Who API | No | Yes | Unknown |
-| [Compress Video API (Job)](https://apyhub.com/utility/job-compress-video) | Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks. | Yes | Yes | `apiKey` |
+| [Compress Video API (Job)](https://apyhub.com/utility/job-compress-video) | Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks | `apiKey` | Yes | Yes |
 | [Czech Television](http://www.ceskatelevize.cz/xml/tv-program/) | TV programme of Czech TV | No | No | Unknown |
 | [Dailymotion](https://developer.dailymotion.com/) | Dailymotion Developer API | `OAuth`| Yes | Unknown |
 | [Eurovision Song Contest](https://eurovisionapi.runasp.net/) | Unofficial Eurovision Song Contest API | No | Yes | Unknown |
@@ -1850,6 +1867,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Movie Quote](https://github.com/F4R4N/movie-quote/) | Random Movie and Series Quotes | No | Yes | Yes |
 | [Mux](https://www.mux.com/) | Mux Video is an API that enables developers to build unique live and on-demand video experiences | `apiKey` | Yes | Unknown |
 | [Open Movie Database](http://www.omdbapi.com/) | Movie information | `apiKey` | Yes | Unknown |
+| [Rendi](https://rendi.dev) | FFmpeg API | `apiKey` | Yes | No |
 | [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television | No | Yes | Unknown |
 | [Shotstack](https://shotstack.io/) | Cloud-based video editing API | `apiKey` | Yes | Unknown |
 | [Simkl](https://simkl.docs.apiary.io) | Movie, TV and Anime data | `apiKey` | Yes | Unknown |
