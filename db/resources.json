@@ -5438,7 +5438,7 @@
     },
     {
         "API": "Untappd",
-        "Description": "Social beer sharing",
+        "Description": "Social beer sharing (API closed for new public access as of [Date - e.g., 2023 or last known closure]).No official re-open date.",
         "Auth": "OAuth",
         "HTTPS": true,
         "Cors": "unknown",
@@ -11283,7 +11283,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://ergast.com/mrd/",
+        "Link": "https://api.jolpi.ca/ergast/f1/",
         "Category": "Sports & Fitness"
     },
     {
