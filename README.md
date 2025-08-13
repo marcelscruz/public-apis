@@ -1243,7 +1243,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [LastFm](https://www.last.fm/api) | Music | `apiKey` | Yes | Unknown |
 | [LRCLIB](https://lrclib.net/docs) | Crowdsourced lyrics | No | Yes | Yes |
 | [Mixcloud](https://www.mixcloud.com/developers/) | Music | `OAuth`| Yes | Yes |
-| [Mubert AI Music API](https://mubertmusicapiv3.docs.apiary.io) | Integrate track generation and music streaming features into apps, games or services | `apiKey`| Yes | Unknown |
+| [Mubert AI Music API](https://landing.mubert.com) | Integrate AI music into your app, game or service | `apiKey`| Yes | Unknown |
 | [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) | Music | No | Yes | Unknown |
 | [Musixmatch](https://developer.musixmatch.com/) | Music | `apiKey` | Yes | Unknown |
 | [Napster](https://developer.napster.com/api/v2.2) | Music | `apiKey` | Yes | Yes |
