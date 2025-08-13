@@ -1,5 +1,5 @@
 {
-"count": 1502,
+"count": 1503,
 "entries": [
     {
         "API": "Cat Facts",
@@ -8674,6 +8674,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.mixcloud.com/developers/",
+        "Category": "Music"
+    },
+    {
+        "API": "Mubert AI Music API",
+        "Description": "Integrate track generation and music streaming features into apps, games or services",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://mubertmusicapiv3.docs.apiary.io",
         "Category": "Music"
     },
     {
