@@ -34,6 +34,13 @@
 </div>
 
 <br/>
+
+<div>
+    <p align="center"><a href="https://companyenrich.com?ref=public_apis&utm_medium=repo_readme&via=dr-pa"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/companyenrich-dark-mode.svg" width="200px"><source media="(prefers-color-scheme: light)" srcset="./assets/companyenrich-light-mode.svg" width="200px"><img alt="CompanyEnrich logo" src="./assets/companyenrich-dark-mode.svg" width="200px"></picture></a></p>
+    <p align="center"><a href="https://companyenrich.com?ref=public_apis&utm_medium=repo_readme&via=dr-pa">CompanyEnrich</a>: Access exclusive company data of local and global businesses. Power your products, agentic workflows, and sales operations with fresh, instant company data APIs.</p>
+</div>
+
+<br/>
 <hr/>
 <br/>
 <br/>
