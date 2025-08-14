@@ -1117,7 +1117,7 @@
         "Category": "Business"
     },
     {
-        "API": "Company Enrich",
+        "API": "CompanyEnrich",
         "Description": "API for B2B company data enrichment, domain enrichment, and website enrichment",
         "Auth": "apiKey",
         "HTTPS": true,
