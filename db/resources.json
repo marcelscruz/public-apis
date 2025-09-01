@@ -1,5 +1,5 @@
 {
-"count": 1504,
+"count": 1506,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3976,6 +3976,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://codestats.net/api-docs",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Convert HTML to PDF API",
+        "Description": "This API converts any HTML (file, url, base64) to a PDF",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/converter-html-pdf",
         "Category": "Documents & Productivity"
     },
     {
@@ -11845,6 +11854,15 @@
         "Category": "Text Analysis"
     },
     {
+        "API": "Detect Language API",
+        "Description": "This API detects the language from any text (+ 50 languages supported)",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/language-detector",
+        "Category": "Text Analysis"
+    },
+    {
         "API": "ELI",
         "Description": "Natural Language Processing Tools for Thai Language",
         "Auth": "apiKey",
@@ -12863,10 +12881,10 @@
     },
     {
         "API": "Compress Video API (Job)",
-        "Description": "Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks.",
-        "Auth": "Yes",
+        "Description": "Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks",
+        "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "apikey",
+        "Cors": "yes",
         "Link": "https://apyhub.com/utility/job-compress-video",
         "Category": "Video"
     },
