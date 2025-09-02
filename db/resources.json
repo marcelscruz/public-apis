@@ -1,5 +1,5 @@
 {
-"count": 1508,
+"count": 1509,
 "entries": [
     {
         "API": "Cat Facts",
@@ -979,6 +979,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/fedeperin/potterapi",
+        "Category": "Books"
+    },
+    {
+        "API": "Library Management",
+        "Description": "Manage users, books, authors, loans and reviews",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://github.com/adam-dev2/library-management-api",
         "Category": "Books"
     },
     {
