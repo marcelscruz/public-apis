@@ -1,5 +1,5 @@
 {
-"count": 1507,
+"count": 1508,
 "entries": [
     {
         "API": "Cat Facts",
@@ -12670,6 +12670,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://dev.bitly.com/get_started.html",
+        "Category": "URL Shorteners"
+    },
+    {
+        "API": "Bly.to",
+        "Description": "URL shortening service with analytics and tracking capabilities",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://blyto.com/docs",
         "Category": "URL Shorteners"
     },
     {
