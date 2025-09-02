@@ -1,5 +1,5 @@
 {
-"count": 1509,
+"count": 1510,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2572,6 +2572,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/catalog",
+        "Category": "Development"
+    },
+    {
+        "API": "Autom",
+        "Description": "Our SERP API delivers lightning-fast Google search results at unbeatable prices. Built for developers who need reliable, scalable access to search data without the complexity of web scraping or CAPTCHA challenges.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.autom.dev",
         "Category": "Development"
     },
     {
