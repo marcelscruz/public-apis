@@ -1,5 +1,5 @@
 {
-"count": 1506,
+"count": 1507,
 "entries": [
     {
         "API": "Cat Facts",
@@ -6046,6 +6046,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/mazipan/graphql-pokeapi",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "Pokemon 3D API",
+        "Description": "Pokémon 3D models for ThreeJs",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://github.com/Sudhanshu-Ambastha/Pokemon-3D-api",
         "Category": "Games & Comics"
     },
     {
