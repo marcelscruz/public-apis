@@ -1,5 +1,5 @@
 {
-"count": 1509,
+"count": 1510,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4156,6 +4156,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://pdfendpoint.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "PDFGate",
+        "Description": "HTML to PDF API with support for custom headers, footers, fillable form fields, and encryption",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://pdfgate.com/html-to-pdf-api",
         "Category": "Documents & Productivity"
     },
     {
