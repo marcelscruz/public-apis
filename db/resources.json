@@ -1,5 +1,5 @@
 {
-"count": 1514,
+"count": 1515,
 "entries": [
     {
         "API": "Cat Facts",
@@ -12391,6 +12391,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://creativecommons.tankerkoenig.de/swagger/",
+        "Category": "Transportation"
+    },
+    {
+        "API": "Trackr TMS",
+        "Description": "Trackr API makes it easy to create, assign, and track shipments, with driver support, movement history, and more",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://rapidapi.com/jccm6/api/trackr-tms",
         "Category": "Transportation"
     },
     {
