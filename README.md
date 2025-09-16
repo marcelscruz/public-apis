@@ -648,9 +648,10 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [CloudConvert](https://cloudconvert.com/api/v2) | Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation | `apiKey` | Yes | Unknown |
 | [Cloudmersive Document and Data Conversion](https://cloudmersive.com/convert-api) | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | `apiKey` | Yes | Yes |
 | [Code::Stats](https://codestats.net/api-docs) | Automatic time tracking for programmers | `apiKey` | Yes | No |
+| [ConvertHub API](https://converthub.com/api) | File Conversion API for Developers - Powerful REST API for file conversion. Convert documents, images, ebooks, and more. Simple integration, dev-friendly pricing. | `apiKey` | Yes | No |
 | [Convert HTML to PDF API](https://apyhub.com/utility/converter-html-pdf) | This API converts any HTML (file, url, base64) to a PDF | `apiKey` | Yes | Yes |
-| [Convert Word to PDF](https://apyhub.com/utility/converter-doc-pdf) | Convert a Word document (doc, docx, or ODF formats) to a PDF document | `apiKey` | Yes | Yes |
 | [Convert RSS to JSON](https://apyhub.com/utility/converter-rss-json) | Transform raw RSS data into structured JSON | `apiKey` | Yes | Yes |
+| [Convert Word to PDF](https://apyhub.com/utility/converter-doc-pdf) | Convert a Word document (doc, docx, or ODF formats) to a PDF document | `apiKey` | Yes | Yes |
 | [CraftMyPDF](https://craftmypdf.com) | Generate PDF documents from templates with a drop-and-drop editor and a simple API | `apiKey` | Yes | No |
 | [CV / Resume Parsing API](https://apyhub.com/utility/sharpapi-ai-resume-parser) | The Resume Parser API parses a resume (CV) file from multiple formats (PDF/DOC/DOCX/TXT/RTF) and returns an extensive object of data points | `apiKey` | Yes | Yes |
 | [FastApi Simple Calculator](https://fastapi-calculadora.onrender.com/) | Math, Stadistics, Conversions, Currency and more | No | Yes | Unknown |
