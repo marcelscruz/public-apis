@@ -1,5 +1,5 @@
 {
-"count": 1512,
+"count": 1513,
 "entries": [
     {
         "API": "Cat Facts",
@@ -520,6 +520,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://api.artic.edu/docs/",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "Art Search",
+        "Description": "Search and discover art with semantic AI search",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://artsearch.io",
         "Category": "Art & Design"
     },
     {
