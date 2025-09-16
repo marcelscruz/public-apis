@@ -1,5 +1,5 @@
 {
-"count": 1510,
+"count": 1511,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2536,6 +2536,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://apigratis.com.br/",
+        "Category": "Development"
+    },
+    {
+        "API": "API League",
+        "Description": "World-class APIs in a single hub",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apileague.com",
         "Category": "Development"
     },
     {
