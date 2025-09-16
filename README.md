@@ -1639,9 +1639,8 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [MLB Records and Stats](https://appac.github.io/mlb-data-api-docs/) | Current and historical MLB statistics | No | No | Unknown |
 | [NBA Data](https://rapidapi.com/api-sports/api/api-nba/) | All NBA Stats DATA, Games, Livescore, Standings, Statistics | `apiKey`| Yes | Unknown |
 | [NBA GraphQL](https://nbaapi.com/graphql/) | Advanced NBA Player, Team, and Season Statistics and Data | No | Yes | Yes |
-| [NBA REST API](http://rest.nbaapi.com/index.html) | Up-to-date NBA Player, Team, and Season Statistics, Totals, Advanced, and Shot Chart Data | No | Yes | Yes |
-| [NBA Stats](https://any-api.com/nba_com/nba_com/docs/API_Description) | Current and historical NBA Statistics | No | Yes | Unknown |
-| [NBA Stats](https://documenter.getpostman.com/view/24232555/2s93shzpR3) | NBA player statistics and data | No | Yes | Yes |
+| [NBA Stats](https://api.server.nbaapi.com/) | NBA player statistics, season totals, advanced metrics, game data, and shot chart data | No | Yes | Yes |
+| [NBA Stats](https://documenter.getpostman.com/view/25652688/2sB34Zs4xZ) | Postman docs for comprehensive NBA player statistics, advanced metrics, and detailed shot chart data | No | Yes | Yes |
 | [NHL Records and Stats](https://gitlab.com/dword4/nhlapi) | NHL historical data and statistics | No | Yes | Unknown |
 | [Oddsmagnet](https://oddsmagnet.com/oddsdata) | Odds history from multiple UK bookmakers | No | Yes | Yes |
 | [OpenLigaDB](https://www.openligadb.de) | Crowd sourced sports league results | No | Yes | Yes |
