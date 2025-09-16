@@ -1,5 +1,5 @@
 {
-"count": 1513,
+"count": 1514,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4024,6 +4024,15 @@
         "Category": "Documents & Productivity"
     },
     {
+        "API": "ConvertHub API",
+        "Description": "File Conversion API for Developers - Powerful REST API for file conversion. Convert documents, images, ebooks, and more. Simple integration, dev-friendly pricing.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://converthub.com/api",
+        "Category": "Documents & Productivity"
+    },
+    {
         "API": "Convert HTML to PDF API",
         "Description": "This API converts any HTML (file, url, base64) to a PDF",
         "Auth": "apiKey",
@@ -4033,21 +4042,21 @@
         "Category": "Documents & Productivity"
     },
     {
-        "API": "Convert Word to PDF",
-        "Description": "Convert a Word document (doc, docx, or ODF formats) to a PDF document",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://apyhub.com/utility/converter-doc-pdf",
-        "Category": "Documents & Productivity"
-    },
-    {
         "API": "Convert RSS to JSON",
         "Description": "Transform raw RSS data into structured JSON",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/converter-rss-json",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Convert Word to PDF",
+        "Description": "Convert a Word document (doc, docx, or ODF formats) to a PDF document",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/converter-doc-pdf",
         "Category": "Documents & Productivity"
     },
     {
