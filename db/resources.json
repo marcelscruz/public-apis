@@ -1,5 +1,5 @@
 {
-"count": 1513,
+"count": 1514,
 "entries": [
     {
         "API": "Cat Facts",
@@ -5812,6 +5812,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://api.funtranslations.com/",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "Game Brain",
+        "Description": "Search and discover video games with AI",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://gamebrain.co/api",
         "Category": "Games & Comics"
     },
     {
