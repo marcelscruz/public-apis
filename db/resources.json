@@ -1,5 +1,5 @@
 {
-"count": 1511,
+"count": 1512,
 "entries": [
     {
         "API": "Cat Facts",
@@ -934,6 +934,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://bible-api.com/",
+        "Category": "Books"
+    },
+    {
+        "API": "Big Book",
+        "Description": "The Big Book API allows you to semantically search, filter, sort, and recommend books",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://bigbookapi.com",
         "Category": "Books"
     },
     {
