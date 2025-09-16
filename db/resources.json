@@ -1,5 +1,5 @@
 {
-"count": 1514,
+"count": 1513,
 "entries": [
     {
         "API": "Cat Facts",
@@ -11485,30 +11485,21 @@
         "Category": "Sports & Fitness"
     },
     {
-        "API": "NBA REST API",
-        "Description": "Up-to-date NBA Player, Team, and Season Statistics, Totals, Advanced, and Shot Chart Data",
+        "API": "NBA Stats",
+        "Description": "NBA player statistics, season totals, advanced metrics, game data, and shot chart data",
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "http://rest.nbaapi.com/index.html",
+        "Link": "https://api.server.nbaapi.com/",
         "Category": "Sports & Fitness"
     },
     {
         "API": "NBA Stats",
-        "Description": "Current and historical NBA Statistics",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://any-api.com/nba_com/nba_com/docs/API_Description",
-        "Category": "Sports & Fitness"
-    },
-    {
-        "API": "NBA Stats",
-        "Description": "NBA player statistics and data",
+        "Description": "Postman docs for comprehensive NBA player statistics, advanced metrics, and detailed shot chart data",
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://documenter.getpostman.com/view/24232555/2s93shzpR3",
+        "Link": "https://documenter.getpostman.com/view/25652688/2sB34Zs4xZ",
         "Category": "Sports & Fitness"
     },
     {
