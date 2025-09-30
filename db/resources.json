@@ -1,5 +1,5 @@
 {
-"count": 1518,
+"count": 1520,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2824,6 +2824,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/reformify-form-api",
+        "Category": "Development"
+    },
+    {
+        "API": "Format JSON Online Dummy API",
+        "Description": "– A free tool to generate dummy JSON data for testing and prototyping.",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://formatjsononline.com/dummy-api",
         "Category": "Development"
     },
     {
@@ -6964,6 +6973,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://opencagedata.com",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "OpenPLZ API",
+        "Description": "A public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland via an open REST API",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.openplzapi.org/",
         "Category": "Geocoding"
     },
     {
