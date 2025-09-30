@@ -1,5 +1,5 @@
 {
-"count": 1517,
+"count": 1518,
 "entries": [
     {
         "API": "Cat Facts",
@@ -13138,6 +13138,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://www.omdbapi.com/",
+        "Category": "Video"
+    },
+    {
+        "API": "Rendi",
+        "Description": "FFmpeg API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://rendi.dev",
         "Category": "Video"
     },
     {
