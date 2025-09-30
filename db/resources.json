@@ -1,5 +1,5 @@
 {
-"count": 1515,
+"count": 1516,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4679,6 +4679,15 @@
         "Cors": "unknown",
         "Link": "https://github.com/beanboi7/yomomma-apiv2",
         "Category": "Entertainment"
+    },
+    {
+        "API": "Air Quality Index",
+        "Description": "Real-time air quality data including AQI and pollutant concentrations for worldwide locations",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.juheapi.com/api-catalog/aqi",
+        "Category": "Environment"
     },
     {
         "API": "BreezoMeter Pollen",
