@@ -2593,8 +2593,8 @@
         "Category": "Development"
     },
     {
-        "API": "ApyHub API Marketplace",
-        "Description": "Discover ready to use APIs for your application",
+        "API": "ApyHub: Curated APIs for Devs",
+        "Description": "A complete catalog of +150 APIs that can be used in your next application",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
@@ -8633,7 +8633,7 @@
     },
     {
         "API": "Summarize Text with AI",
-        "Description": "Generates summaries of text and web pages using AI",
+        "Description": "This API generates customizable summaries of text and web pages using AI",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
