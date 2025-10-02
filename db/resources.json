@@ -1,5 +1,5 @@
 {
-"count": 1520,
+"count": 1522,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4060,6 +4060,15 @@
         "Category": "Documents & Productivity"
     },
     {
+        "API": "Convert Speech to Text API",
+        "Description": "This API converts any speech to text multiple languages and dialects",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/speech-to-text",
+        "Category": "Documents & Productivity"
+    },
+    {
         "API": "Convert Word to PDF",
         "Description": "Convert a Word document (doc, docx, or ODF formats) to a PDF document",
         "Auth": "apiKey",
@@ -4552,6 +4561,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://sweepemails.com/",
+        "Category": "Email"
+    },
+    {
+        "API": "Temporary and Disposable emails API",
+        "Description": "This API provides temporary & disposable email addresses",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/boomlify-temp-mail",
         "Category": "Email"
     },
     {
