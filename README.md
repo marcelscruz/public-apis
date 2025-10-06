@@ -1468,6 +1468,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Pythonium](https://pythonium.net/linter) | Validate Python code syntax | No | Yes | No |
 | [Softwium](https://softwium.com/sql-validator/) | Validate SQL queries | No | Yes | No |
 | [Volca](https://volca.io#api) | List of programming languages and technologies | No | Yes | Unknown |
+| [JMESPath](https://noteapiconnector.com/jmespath-free-api) | Run JMESPath queries on JSON data for filtering, transforming, and extracting results | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
