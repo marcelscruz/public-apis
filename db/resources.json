@@ -1,5 +1,5 @@
 {
-"count": 1522,
+"count": 1523,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4706,6 +4706,15 @@
         "Cors": "unknown",
         "Link": "https://github.com/beanboi7/yomomma-apiv2",
         "Category": "Entertainment"
+    },
+    {
+        "API": "1ClickImpact",
+        "Description": "Environmental impact API for tree planting, carbon offsetting and ocean cleanup",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.1clickimpact.com/",
+        "Category": "Environment"
     },
     {
         "API": "Air Quality Index",
