@@ -1,5 +1,5 @@
 {
-"count": 1503,
+"count": 1522,
 "entries": [
     {
         "API": "Cat Facts",
@@ -523,6 +523,15 @@
         "Category": "Art & Design"
     },
     {
+        "API": "Art Search",
+        "Description": "Search and discover art with semantic AI search",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://artsearch.io",
+        "Category": "Art & Design"
+    },
+    {
         "API": "ColorMagic",
         "Description": "Color Palette Generator",
         "Auth": "",
@@ -937,6 +946,15 @@
         "Category": "Books"
     },
     {
+        "API": "Big Book",
+        "Description": "The Big Book API allows you to semantically search, filter, sort, and recommend books",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://bigbookapi.com",
+        "Category": "Books"
+    },
+    {
         "API": "Crossref Metadata Search",
         "Description": "Books & Articles Metadata",
         "Auth": "",
@@ -979,6 +997,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/fedeperin/potterapi",
+        "Category": "Books"
+    },
+    {
+        "API": "Library Management",
+        "Description": "Manage users, books, authors, loans and reviews",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://github.com/adam-dev2/library-management-api",
         "Category": "Books"
     },
     {
@@ -2530,6 +2557,15 @@
         "Category": "Development"
     },
     {
+        "API": "API League",
+        "Description": "World-class APIs in a single hub",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apileague.com",
+        "Category": "Development"
+    },
+    {
         "API": "ApicAgent",
         "Description": "Extract device details from user-agent string",
         "Auth": "",
@@ -2557,12 +2593,21 @@
         "Category": "Development"
     },
     {
-        "API": "ApyHub API Marketplace",
-        "Description": "Discover ready to use APIs for your application",
+        "API": "ApyHub: Curated APIs for Devs",
+        "Description": "A complete catalog of +150 APIs that can be used in your next application",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/catalog",
+        "Category": "Development"
+    },
+    {
+        "API": "Autom",
+        "Description": "Our SERP API delivers lightning-fast Google search results at unbeatable prices. Built for developers who need reliable, scalable access to search data without the complexity of web scraping or CAPTCHA challenges.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.autom.dev",
         "Category": "Development"
     },
     {
@@ -2779,6 +2824,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/reformify-form-api",
+        "Category": "Development"
+    },
+    {
+        "API": "Format JSON Online Dummy API",
+        "Description": "– A free tool to generate dummy JSON data for testing and prototyping.",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://formatjsononline.com/dummy-api",
         "Category": "Development"
     },
     {
@@ -3979,12 +4033,21 @@
         "Category": "Documents & Productivity"
     },
     {
-        "API": "Convert Word to PDF",
-        "Description": "Convert a Word document (doc, docx, or ODF formats) to a PDF document",
+        "API": "ConvertHub API",
+        "Description": "File Conversion API for Developers - Powerful REST API for file conversion. Convert documents, images, ebooks, and more. Simple integration, dev-friendly pricing.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://converthub.com/api",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Convert HTML to PDF API",
+        "Description": "This API converts any HTML (file, url, base64) to a PDF",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://apyhub.com/utility/converter-doc-pdf",
+        "Link": "https://apyhub.com/utility/converter-html-pdf",
         "Category": "Documents & Productivity"
     },
     {
@@ -3994,6 +4057,24 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/converter-rss-json",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Convert Speech to Text API",
+        "Description": "This API converts any speech to text multiple languages and dialects",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/speech-to-text",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Convert Word to PDF",
+        "Description": "Convert a Word document (doc, docx, or ODF formats) to a PDF document",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/converter-doc-pdf",
         "Category": "Documents & Productivity"
     },
     {
@@ -4129,6 +4210,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://pdfendpoint.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "PDFGate",
+        "Description": "HTML to PDF API with support for custom headers, footers, fillable form fields, and encryption",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://pdfgate.com/html-to-pdf-api",
         "Category": "Documents & Productivity"
     },
     {
@@ -4474,6 +4564,15 @@
         "Category": "Email"
     },
     {
+        "API": "Temporary and Disposable emails API",
+        "Description": "This API provides temporary & disposable email addresses",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/boomlify-temp-mail",
+        "Category": "Email"
+    },
+    {
         "API": "Trueguard",
         "Description": "Trueguard offers API for detecting temporary emails, free-tier abusers and automated bots",
         "Auth": "apiKey",
@@ -4607,6 +4706,15 @@
         "Cors": "unknown",
         "Link": "https://github.com/beanboi7/yomomma-apiv2",
         "Category": "Entertainment"
+    },
+    {
+        "API": "Air Quality Index",
+        "Description": "Real-time air quality data including AQI and pollutant concentrations for worldwide locations",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.juheapi.com/api-catalog/aqi",
+        "Category": "Environment"
     },
     {
         "API": "BreezoMeter Pollen",
@@ -5752,6 +5860,15 @@
         "Category": "Games & Comics"
     },
     {
+        "API": "Game Brain",
+        "Description": "Search and discover video games with AI",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://gamebrain.co/api",
+        "Category": "Games & Comics"
+    },
+    {
         "API": "GamerPower",
         "Description": "Game Giveaways Tracker",
         "Auth": "",
@@ -6535,6 +6652,15 @@
         "Category": "Geocoding"
     },
     {
+        "API": "GeoDescription",
+        "Description": "Reverse geocoding - Converting geographic coordinates to address-like location description",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://geodescription.com",
+        "Category": "Geocoding"
+    },
+    {
         "API": "GeographQL",
         "Description": "A Country, State, and City GraphQL API",
         "Auth": "",
@@ -6865,6 +6991,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://opencagedata.com",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "OpenPLZ API",
+        "Description": "A public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland via an open REST API",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.openplzapi.org/",
         "Category": "Geocoding"
     },
     {
@@ -8498,7 +8633,7 @@
     },
     {
         "API": "Summarize Text with AI",
-        "Description": "Generates summaries of text and web pages using AI",
+        "Description": "This API generates customizable summaries of text and web pages using AI",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
@@ -8935,6 +9070,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/",
+        "Category": "News"
+    },
+    {
+        "API": "RiskSentinel",
+        "Description": "AI-powered news intelligence API delivering structured events with risk assessment, sentiment analysis, company impacts, geo tagging, ai generated summary and more",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://risksentinel.ai",
         "Category": "News"
     },
     {
@@ -11404,30 +11548,21 @@
         "Category": "Sports & Fitness"
     },
     {
-        "API": "NBA REST API",
-        "Description": "Up-to-date NBA Player, Team, and Season Statistics, Totals, Advanced, and Shot Chart Data",
+        "API": "NBA Stats",
+        "Description": "NBA player statistics, season totals, advanced metrics, game data, and shot chart data",
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "http://rest.nbaapi.com/index.html",
+        "Link": "https://api.server.nbaapi.com/",
         "Category": "Sports & Fitness"
     },
     {
         "API": "NBA Stats",
-        "Description": "Current and historical NBA Statistics",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://any-api.com/nba_com/nba_com/docs/API_Description",
-        "Category": "Sports & Fitness"
-    },
-    {
-        "API": "NBA Stats",
-        "Description": "NBA player statistics and data",
+        "Description": "Postman docs for comprehensive NBA player statistics, advanced metrics, and detailed shot chart data",
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://documenter.getpostman.com/view/24232555/2s93shzpR3",
+        "Link": "https://documenter.getpostman.com/view/25652688/2sB34Zs4xZ",
         "Category": "Sports & Fitness"
     },
     {
@@ -11827,12 +11962,30 @@
         "Category": "Text Analysis"
     },
     {
+        "API": "Convert Text to Speech API",
+        "Description": "This API converts any text to speech automatically",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/text-to-speech/",
+        "Category": "Text Analysis"
+    },
+    {
         "API": "Detect Language",
         "Description": "Detects text language",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://detectlanguage.com/",
+        "Category": "Text Analysis"
+    },
+    {
+        "API": "Detect Language API",
+        "Description": "This API detects the language from any text (+ 50 languages supported)",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/language-detector",
         "Category": "Text Analysis"
     },
     {
@@ -11869,15 +12022,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://languagetool.org/http-api/",
-        "Category": "Text Analysis"
-    },
-    {
-        "API": "Language API",
-        "Description": "This API analyzes text and returns the identified language. Supports 50+ languages",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://apyhub.com/utility/language-detector",
         "Category": "Text Analysis"
     },
     {
@@ -12304,6 +12448,15 @@
         "Category": "Transportation"
     },
     {
+        "API": "Trackr TMS",
+        "Description": "Trackr API makes it easy to create, assign, and track shipments, with driver support, movement history, and more",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://rapidapi.com/jccm6/api/trackr-tms",
+        "Category": "Transportation"
+    },
+    {
         "API": "TransitLand",
         "Description": "Transit Aggregation",
         "Auth": "",
@@ -12637,6 +12790,15 @@
         "Category": "URL Shorteners"
     },
     {
+        "API": "Bly.to",
+        "Description": "URL shortening service with analytics and tracking capabilities",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://blyto.com/docs",
+        "Category": "URL Shorteners"
+    },
+    {
         "API": "CleanURI",
         "Description": "URL shortener service",
         "Auth": "",
@@ -12854,10 +13016,10 @@
     },
     {
         "API": "Compress Video API (Job)",
-        "Description": "Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks.",
-        "Auth": "Yes",
+        "Description": "Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks",
+        "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "apikey",
+        "Cors": "yes",
         "Link": "https://apyhub.com/utility/job-compress-video",
         "Category": "Video"
     },
@@ -13012,6 +13174,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://www.omdbapi.com/",
+        "Category": "Video"
+    },
+    {
+        "API": "Rendi",
+        "Description": "FFmpeg API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://rendi.dev",
         "Category": "Video"
     },
     {
