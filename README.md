@@ -742,6 +742,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 ### Environment
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [1ClickImpact](https://docs.1clickimpact.com/) | Environmental impact API for tree planting, carbon offsetting and ocean cleanup | `apiKey` | Yes | Yes |
 | [Air Quality Index](https://www.juheapi.com/api-catalog/aqi) | Real-time air quality data including AQI and pollutant concentrations for worldwide locations | No | Yes | Unknown |
 | [BreezoMeter Pollen](https://docs.breezometer.com/api-documentation/pollen-api/v2/) | Daily Forecast pollen conditions data for a specific location | `apiKey` | Yes | Unknown |
 | [Carbon Interface](https://docs.carboninterface.com/) | API to calculate carbon (C02) emissions estimates for common C02 emitting activities | `apiKey` | Yes | Yes |
