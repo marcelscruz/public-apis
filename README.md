@@ -476,7 +476,7 @@
 | [ApicAgent](https://www.apicagent.com) | Extract device details from user-agent string | No | Yes | Yes |
 | [ApiFlash](https://apiflash.com/) | Chrome based screenshot API for developers | `apiKey`| Yes | Unknown |
 | [APIs.guru](https://apis.guru/api-doc/) | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | No | Yes | Unknown |
-| [ApyHub: Curated APIs for Devs](https://apyhub.com/catalog) | A complete catalog of +150 APIs that can be used in your next application | `apiKey` | Yes | Yes |
+| [ApyHub API Marketplace](https://apyhub.com/catalog) | Discover ready to use APIs for your application | `apiKey` | Yes | Yes |
 | [Autom](https://www.autom.dev) | Our SERP API delivers lightning-fast Google search results at unbeatable prices. Built for developers who need reliable, scalable access to search data without the complexity of web scraping or CAPTCHA challenges. | `apiKey` | Yes | Yes |
 | [Azure DevOps](https://docs.microsoft.com/en-us/rest/api/azure/devops) | The Azure DevOps basic components of a REST API request/response pair | `apiKey`| Yes | Unknown |
 | [Beeceptor](https://beeceptor.com/) | Build a mock Rest API endpoint in seconds | No | Yes | Yes |
@@ -652,7 +652,6 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [ConvertHub API](https://converthub.com/api) | File Conversion API for Developers - Powerful REST API for file conversion. Convert documents, images, ebooks, and more. Simple integration, dev-friendly pricing. | `apiKey` | Yes | No |
 | [Convert HTML to PDF API](https://apyhub.com/utility/converter-html-pdf) | This API converts any HTML (file, url, base64) to a PDF | `apiKey` | Yes | Yes |
 | [Convert RSS to JSON](https://apyhub.com/utility/converter-rss-json) | Transform raw RSS data into structured JSON | `apiKey` | Yes | Yes |
-| [Convert Speech to Text API](https://apyhub.com/utility/speech-to-text) | This API converts any speech to text multiple languages and dialects | `apiKey` | Yes | Yes |
 | [Convert Word to PDF](https://apyhub.com/utility/converter-doc-pdf) | Convert a Word document (doc, docx, or ODF formats) to a PDF document | `apiKey` | Yes | Yes |
 | [CraftMyPDF](https://craftmypdf.com) | Generate PDF documents from templates with a drop-and-drop editor and a simple API | `apiKey` | Yes | No |
 | [CV / Resume Parsing API](https://apyhub.com/utility/sharpapi-ai-resume-parser) | The Resume Parser API parses a resume (CV) file from multiple formats (PDF/DOC/DOCX/TXT/RTF) and returns an extensive object of data points | `apiKey` | Yes | Yes |
@@ -742,7 +741,6 @@ like WhatsApp | `apiKey` | Yes | Yes |
 ### Environment
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [1ClickImpact](https://docs.1clickimpact.com/) | Environmental impact API for tree planting, carbon offsetting and ocean cleanup | `apiKey` | Yes | Yes |
 | [Air Quality Index](https://www.juheapi.com/api-catalog/aqi) | Real-time air quality data including AQI and pollutant concentrations for worldwide locations | No | Yes | Unknown |
 | [BreezoMeter Pollen](https://docs.breezometer.com/api-documentation/pollen-api/v2/) | Daily Forecast pollen conditions data for a specific location | `apiKey` | Yes | Unknown |
 | [Carbon Interface](https://docs.carboninterface.com/) | API to calculate carbon (C02) emissions estimates for common C02 emitting activities | `apiKey` | Yes | Yes |

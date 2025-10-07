@@ -1,5 +1,5 @@
 {
-"count": 1523,
+"count": 1520,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4060,15 +4060,6 @@
         "Category": "Documents & Productivity"
     },
     {
-        "API": "Convert Speech to Text API",
-        "Description": "This API converts any speech to text multiple languages and dialects",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://apyhub.com/utility/speech-to-text",
-        "Category": "Documents & Productivity"
-    },
-    {
         "API": "Convert Word to PDF",
         "Description": "Convert a Word document (doc, docx, or ODF formats) to a PDF document",
         "Auth": "apiKey",
@@ -4706,15 +4697,6 @@
         "Cors": "unknown",
         "Link": "https://github.com/beanboi7/yomomma-apiv2",
         "Category": "Entertainment"
-    },
-    {
-        "API": "1ClickImpact",
-        "Description": "Environmental impact API for tree planting, carbon offsetting and ocean cleanup",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://docs.1clickimpact.com/",
-        "Category": "Environment"
     },
     {
         "API": "Air Quality Index",
