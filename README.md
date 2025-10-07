@@ -149,6 +149,7 @@
 | [Waifu.im](https://waifu.im/docs) | Get waifu pictures from an archive of over 4000 images and multiple tags | No | Yes | Yes |
 | [Waifu.it](https://docs.waifu.it) | Free RESTful API for Anime Quotes, Facts, Emotes, Gifs, Nekos, Waifus and More! | `apiKey` | Yes | Yes |
 | [Waifu.pics](https://waifu.pics/docs) | Image sharing platform for anime images | No | Yes | No |
+| [Pokemon](https://pokeapi.co/api/v2/pokemon/pikachu) | Pokemon data, including imagery | No | Yes | No |
 
 **[⬆ Back to Index](#index)**
 
