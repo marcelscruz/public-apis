@@ -272,7 +272,6 @@
 | [Apache Superset](https://superset.apache.org/docs/api) | API to manage your BI dashboards and data sources on Superset | `apiKey` | Yes | Yes |
 | [ArvanCloud](https://www.arvancloud.ir/en/dev/sdk) | Enables you to use ArvanCloud services | `apiKey` | Yes | No |
 | [Charity Search](http://charityapi.orghunter.com/) | Non-profit charity data | `apiKey` | No | Unknown |
-| [Clearbit Logo](https://clearbit.com/docs#logo-api) | Search for company logos and embed them in your projects | `apiKey` | Yes | Unknown |
 | [CompanyEnrich](https://companyenrich.com) | API for B2B company data enrichment, domain enrichment, and website enrichment | `apiKey` | Yes | Yes |
 | [Domainsdb.info](https://domainsdb.info/) | Registered Domain Names Search | No | Yes | No |
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | `OAuth`| Yes | Unknown |
@@ -280,6 +279,7 @@
 | [Google Analytics](https://developers.google.com/analytics/) | Collect, configure and analyze your data to reach the right audience | `OAuth`| Yes | Unknown |
 | [NioLeads](https://nioleads.com/apidoc) | LinkedIn Email Finder and Email Verifier | `apiKey` | Yes | Yes |
 | [Instatus](https://instatus.com/help/api) | Post to and update maintenance and incidents on your status page through an HTTP REST API | `apiKey` | Yes | Unknown |
+| [Logo.dev](https://www.logo.dev) | Automated company logo API that updates daily. Transform any domain or company name into verified logos. | `apiKey` | Yes | Yes |
 | [LogoKit](https://docs.logokit.com) | Logo API for brands, stocks, and cryptocurrencies | `apiKey` | Yes | Unknown |
 | [Mailchimp](https://mailchimp.com/developer/) | Send marketing campaigns and transactional mails | `apiKey` | Yes | Unknown |
 | [mailjet](https://www.mailjet.com/) | Marketing email can be sent and mail templates made in MJML or HTML can be sent using API | `apiKey` | Yes | Unknown |
