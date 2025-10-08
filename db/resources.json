@@ -1135,15 +1135,6 @@
         "Category": "Business"
     },
     {
-        "API": "Clearbit Logo",
-        "Description": "Search for company logos and embed them in your projects",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://clearbit.com/docs#logo-api",
-        "Category": "Business"
-    },
-    {
         "API": "CompanyEnrich",
         "Description": "API for B2B company data enrichment, domain enrichment, and website enrichment",
         "Auth": "apiKey",
@@ -1204,6 +1195,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://instatus.com/help/api",
+        "Category": "Business"
+    },
+    {
+        "API": "Logo.dev",
+        "Description": "Automated company logo API that updates daily. Transform any domain or company name into verified logos.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.logo.dev",
         "Category": "Business"
     },
     {
