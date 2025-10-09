@@ -1,5 +1,5 @@
 {
-"count": 1523,
+"count": 1524,
 "entries": [
     {
         "API": "Cat Facts",
@@ -12859,6 +12859,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "http://mgnet.me/api.html",
+        "Category": "URL Shorteners"
+    },
+    {
+        "API": "Ogli",
+        "Description": "Generate short links like any other shortener but with custom OG/meta tags for perfect previews. Ideal for SPAs, apps, and anyone who wants control over what gets shared.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://app.ogli.sh",
         "Category": "URL Shorteners"
     },
     {
