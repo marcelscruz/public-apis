@@ -922,6 +922,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Mojang](https://wiki.vg/Mojang_API) | Mojang / Minecraft API | `apiKey`| Yes | Unknown |
 | [Monster Hunter World](https://docs.mhw-db.com/) | Monster Hunter World data | No | Yes | Yes |
 | [moogleAPI](https://www.moogleapi.com/) | Final Fantasy franchise data | No | Yes | Unknown |
+| [Multilingual Truth or Dare Game ](https://rapidapi.com/vintarok-vintarok-default/api/multilingual-truth-or-dare-party-date-game-api) | Truth or Dare party/date game with multilingual support and random challenges | `apiKey` | Yes | Yes |
 | [Open Trivia](https://opentdb.com/api_config.php) | Trivia Questions | No | Yes | Unknown |
 | [PandaScore](https://developers.pandascore.co/) | E-sports games and results | `apiKey`| Yes | Unknown |
 | [Path of Exile](https://www.pathofexile.com/developer/docs) | Path of Exile Game Information | `OAuth` | Yes | Unknown |
