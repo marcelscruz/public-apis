@@ -1700,6 +1700,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 ### Text Analysis
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [AI Text Moderation, Toxicity & Sentiment Analyzer](https://rapidapi.com/vintarok-vintarok-default/api/ai-text-moderation-toxicity-aspects-sentiment-analyzer) | Detect sentiment, toxicity, and emotional aspects in text with AI moderation | `apiKey` | Yes | Yes |
 | [AI Translate text API](https://apyhub.com/utility/sharpapi-translate-text) | The Text Translation API translates text into any of the 80 supported languages, providing accurate and context-aware translations | `apiKey` | Yes | Yes |
 | [Aylien Text Analysis](https://docs.aylien.com/textapi/#getting-started) | A collection of information retrieval and natural language APIs | `apiKey` | Yes | Unknown |
 | [Chatpdf](https://chatpdf.so/api) | Chat with pdf using GPT4 and ChatGPT | `apiKey` | Yes | Yes |
