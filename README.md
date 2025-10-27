@@ -1763,6 +1763,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Konkan Railway Live Train Position](https://konkan-railway-api.vercel.app/) | Realtime data for trains on India's Konkan Railway | No | Yes | Yes |
 | [Land Transport Authority DataMall, Singapore](https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf) | Singapore transport information | `apiKey` | No | Unknown |
 | [Metro Lisboa](http://app.metrolisboa.pt/status/getLinhas.php) | Delays in subway lines | No | No | No |
+| [MTA](https://api.mta.info/#/subwayRealTimeFeeds) | MTA Subway Realtime Feeds | No | Yes | No |
 | [Navitia](https://doc.navitia.io/) | The open API for building cool stuff with transport data | `apiKey` | Yes | Unknown |
 | [Open Charge Map](https://openchargemap.org/site/develop/api) | Global public registry of electric vehicle charging locations | `apiKey` | Yes | Yes |
 | [Railway Transport for France](https://www.digital.sncf.com/startup/api) | SNCF public API | `apiKey` | Yes | Unknown |
