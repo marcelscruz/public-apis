@@ -1,5 +1,5 @@
 {
-"count": 1525,
+"count": 1526,
 "entries": [
     {
         "API": "Cat Facts",
@@ -173,11 +173,20 @@
         "Category": "Animals"
     },
     {
+        "API": "WoRMS",
+        "Description": "Authoritative list of marine species names and taxonomy",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.marinespecies.org/rest/",
+        "Category": "Animals"
+    },
+    {
         "API": "xeno-canto",
         "Description": "Bird recordings",
         "Auth": "",
         "HTTPS": true,
-        "Cors": "unknown",
+        "Cors": "yes",
         "Link": "https://xeno-canto.org/explore/api",
         "Category": "Animals"
     },
