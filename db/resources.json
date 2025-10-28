@@ -1,5 +1,5 @@
 {
-"count": 1524,
+"count": 1525,
 "entries": [
     {
         "API": "Cat Facts",
@@ -7396,6 +7396,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://open.toronto.ca/",
+        "Category": "Government"
+    },
+    {
+        "API": "civicAPI",
+        "Description": "Provides live and historic election results for races across the world",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://civicapi.org/",
         "Category": "Government"
     },
     {
