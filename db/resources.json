@@ -1,5 +1,5 @@
 {
-"count": 1526,
+"count": 1527,
 "entries": [
     {
         "API": "Cat Facts",
@@ -10708,6 +10708,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.loginradius.com/docs/",
+        "Category": "Security"
+    },
+    {
+        "API": "LeakInsight",
+        "Description": "Find leaked or exposed credentials by email, username, phone, domain, hash, or breach origin",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api/",
         "Category": "Security"
     },
     {
