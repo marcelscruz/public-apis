@@ -123,7 +123,8 @@
 | [RandomFox](https://randomfox.ca/floof/) | Random pictures of foxes | No | Yes | No |
 | [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Adoption | No | Yes | Unknown |
 | [The Dog](https://thedogapi.com/) | A public service all about Dogs, free to use when making your fancy new App, Website or Service | `apiKey` | Yes | No |
-| [xeno-canto](https://xeno-canto.org/explore/api) | Bird recordings | No | Yes | Unknown |
+| [WoRMS](https://www.marinespecies.org/rest/) | Authoritative list of marine species names and taxonomy | No | Yes | Unknown |
+| [xeno-canto](https://xeno-canto.org/explore/api) | Bird recordings | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
