@@ -1,5 +1,5 @@
 {
-"count": 1527,
+"count": 1528,
 "entries": [
     {
         "API": "Cat Facts",
@@ -12958,6 +12958,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://deividfortuna.github.io/fipe/",
+        "Category": "Vehicle"
+    },
+    {
+        "API": "CarAPI",
+        "Description": "The developer friendly vehicle API. Make, model, trims and more via a RESTFul API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://carapi.app",
         "Category": "Vehicle"
     },
     {
