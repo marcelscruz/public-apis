@@ -691,6 +691,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Abstract Email Validation](https://www.abstractapi.com/email-verification-validation-api) | Validate email addresses for deliverability and spam | `apiKey` | Yes | Yes |
+| [Academic Email API](https://apyhub.com/utility/validator-academic-email) | This API allows you to verify whether an email belongs to a recognized educational institution | `apiKey` | Yes | Yes |
 | [Cloudmersive Validate](https://cloudmersive.com/validate-api) | Validate email addresses, phone numbers, VAT numbers and domain names | `apiKey` | Yes | Yes |
 | [Disify](https://www.disify.com/) | Validate and detect disposable and temporary email addresses | No | Yes | Yes |
 | [DropMail](https://dropmail.me/api/#live-demo) | GraphQL API for creating and managing ephemeral e-mail inboxes | No | Yes | Unknown |
@@ -1704,6 +1705,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AI Translate text API](https://apyhub.com/utility/sharpapi-translate-text) | The Text Translation API translates text into any of the 80 supported languages, providing accurate and context-aware translations | `apiKey` | Yes | Yes |
+| [Analyse Keywords API](https://apyhub.com/utility/analyse-keywords) | This API lets you extract high-frequency keywords, key phrases and latent semantic keywords from any URL | `apiKey` | Yes | Yes |
 | [Aylien Text Analysis](https://docs.aylien.com/textapi/#getting-started) | A collection of information retrieval and natural language APIs | `apiKey` | Yes | Unknown |
 | [Chatpdf](https://chatpdf.so/api) | Chat with pdf using GPT4 and ChatGPT | `apiKey` | Yes | Yes |
 | [Cloudmersive Natural Language Processing](https://www.cloudmersive.com/nlp-api) | Natural language processing and text analysis | `apiKey` | Yes | Yes |
