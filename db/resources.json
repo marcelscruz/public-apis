@@ -1,5 +1,5 @@
 {
-"count": 1528,
+"count": 1530,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4354,6 +4354,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.abstractapi.com/email-verification-validation-api",
+        "Category": "Email"
+    },
+    {
+        "API": "Academic Email API",
+        "Description": "This API allows you to verify whether an email belongs to a recognized educational institution",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/validator-academic-email",
         "Category": "Email"
     },
     {
@@ -11959,6 +11968,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/sharpapi-translate-text",
+        "Category": "Text Analysis"
+    },
+    {
+        "API": "Analyse Keywords API",
+        "Description": "This API lets you extract high-frequency keywords, key phrases and latent semantic keywords from any URL",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/analyse-keywords",
         "Category": "Text Analysis"
     },
     {
