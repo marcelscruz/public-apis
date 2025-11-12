@@ -1,5 +1,5 @@
 {
-"count": 1530,
+"count": 1529,
 "entries": [
     {
         "API": "Cat Facts",
@@ -862,15 +862,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://getblock.io/",
-        "Category": "Blockchain"
-    },
-    {
-        "API": "Helium",
-        "Description": "Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.helium.com/api/blockchain/introduction/",
         "Category": "Blockchain"
     },
     {
