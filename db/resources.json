@@ -1,5 +1,5 @@
 {
-"count": 1528,
+"count": 1529,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2383,6 +2383,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "http://api.nbp.pl/en.html",
+        "Category": "Currency Exchange"
+    },
+    {
+        "API": "RBA Exchange Rates API",
+        "Description": "Real-time and historical Reserve Bank of Australia (RBA) exchange rates API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.exchangeratesapi.com.au",
         "Category": "Currency Exchange"
     },
     {
