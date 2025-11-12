@@ -1,5 +1,5 @@
 {
-"count": 1529,
+"count": 1528,
 "entries": [
     {
         "API": "Cat Facts",
@@ -10834,15 +10834,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://spyse-dev.readme.io/reference/quick-start",
-        "Category": "Security"
-    },
-    {
-        "API": "Threat Jammer",
-        "Description": "Risk scoring service from curated threat intelligence data",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://threatjammer.com/docs/index",
         "Category": "Security"
     },
     {
