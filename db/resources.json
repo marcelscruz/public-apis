@@ -1,5 +1,5 @@
 {
-"count": 1525,
+"count": 1523,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4400,24 +4400,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://enveloop.com",
-        "Category": "Email"
-    },
-    {
-        "API": "EVA",
-        "Description": "Validate email addresses",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://eva.pingutil.com/",
-        "Category": "Email"
-    },
-    {
-        "API": "Finturest Email",
-        "Description": "Accurate email validation for reliable delivery",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://finturest.com/products/email-api",
         "Category": "Email"
     },
     {
