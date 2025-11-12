@@ -1,5 +1,5 @@
 {
-"count": 1527,
+"count": 1525,
 "entries": [
     {
         "API": "Cat Facts",
@@ -449,23 +449,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://metacert.com/",
-        "Category": "Anti-Malware"
-    },
-    {
-        "API": "phish.directory",
-        "Description": "API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts.   apiKey",
-        "Auth": "Yes",
-        "HTTPS": false,
-        "Link": "https://phish.directory/",
-        "Category": "Anti-Malware"
-    },
-    {
-        "API": "Phisherman",
-        "Description": "IP/domain/URL reputation",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://phisherman.gg/",
         "Category": "Anti-Malware"
     },
     {
