@@ -1470,7 +1470,6 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Let's Count](https://letscountapi.com) | Create, retrieve, update, increment, and decrement counters identified by namespace and key | No | Yes | Unknown |
 | [Pythonium](https://pythonium.net/linter) | Validate Python code syntax | No | Yes | No |
 | [Softwium](https://softwium.com/sql-validator/) | Validate SQL queries | No | Yes | No |
-| [Volca](https://volca.io#api) | List of programming languages and technologies | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
