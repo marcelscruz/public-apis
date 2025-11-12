@@ -1,5 +1,5 @@
 {
-"count": 1531,
+"count": 1530,
 "entries": [
     {
         "API": "Cat Facts",
@@ -12931,15 +12931,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.rebrandly.com/v1/docs",
-        "Category": "URL Shorteners"
-    },
-    {
-        "API": "Shrtlnk",
-        "Description": "Simple and efficient short link creation",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://shrtlnk.dev/developer",
         "Category": "URL Shorteners"
     },
     {
