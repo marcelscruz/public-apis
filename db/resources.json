@@ -1,5 +1,5 @@
 {
-"count": 1529,
+"count": 1528,
 "entries": [
     {
         "API": "Cat Facts",
@@ -10231,15 +10231,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://softwium.com/sql-validator/",
-        "Category": "Programming"
-    },
-    {
-        "API": "Volca",
-        "Description": "List of programming languages and technologies",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://volca.io#api",
         "Category": "Programming"
     },
     {
