@@ -1,5 +1,5 @@
 {
-"count": 1523,
+"count": 1524,
 "entries": [
     {
         "API": "Cat Facts",
@@ -173,11 +173,20 @@
         "Category": "Animals"
     },
     {
+        "API": "WoRMS",
+        "Description": "Authoritative list of marine species names and taxonomy",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.marinespecies.org/rest/",
+        "Category": "Animals"
+    },
+    {
         "API": "xeno-canto",
         "Description": "Bird recordings",
         "Auth": "",
         "HTTPS": true,
-        "Cors": "unknown",
+        "Cors": "yes",
         "Link": "https://xeno-canto.org/explore/api",
         "Category": "Animals"
     },
@@ -440,23 +449,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://metacert.com/",
-        "Category": "Anti-Malware"
-    },
-    {
-        "API": "phish.directory",
-        "Description": "API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts.   apiKey",
-        "Auth": "Yes",
-        "HTTPS": false,
-        "Link": "https://phish.directory/",
-        "Category": "Anti-Malware"
-    },
-    {
-        "API": "Phisherman",
-        "Description": "IP/domain/URL reputation",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://phisherman.gg/",
         "Category": "Anti-Malware"
     },
     {
@@ -856,15 +848,6 @@
         "Category": "Blockchain"
     },
     {
-        "API": "Helium",
-        "Description": "Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.helium.com/api/blockchain/introduction/",
-        "Category": "Blockchain"
-    },
-    {
         "API": "Layer4",
         "Description": "Layer4 is a blockchain integration platform that supports no-code and API use",
         "Auth": "apiKey",
@@ -1135,15 +1118,6 @@
         "Category": "Business"
     },
     {
-        "API": "Clearbit Logo",
-        "Description": "Search for company logos and embed them in your projects",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://clearbit.com/docs#logo-api",
-        "Category": "Business"
-    },
-    {
         "API": "CompanyEnrich",
         "Description": "API for B2B company data enrichment, domain enrichment, and website enrichment",
         "Auth": "apiKey",
@@ -1204,6 +1178,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://instatus.com/help/api",
+        "Category": "Business"
+    },
+    {
+        "API": "Logo.dev",
+        "Description": "Automated company logo API that updates daily. Transform any domain or company name into verified logos.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.logo.dev",
         "Category": "Business"
     },
     {
@@ -2383,6 +2366,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "http://api.nbp.pl/en.html",
+        "Category": "Currency Exchange"
+    },
+    {
+        "API": "RBA Exchange Rates API",
+        "Description": "Real-time and historical Reserve Bank of Australia (RBA) exchange rates API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.exchangeratesapi.com.au",
         "Category": "Currency Exchange"
     },
     {
@@ -4114,6 +4106,15 @@
         "Category": "Documents & Productivity"
     },
     {
+        "API": "fynk",
+        "Description": "Generate, update, and manage contracts from your own systems with a secure and scalable REST API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://fynk.com",
+        "Category": "Documents & Productivity"
+    },
+    {
         "API": "Html2PDF",
         "Description": "HTML/URL to PDF",
         "Auth": "apiKey",
@@ -4348,6 +4349,15 @@
         "Category": "Email"
     },
     {
+        "API": "Academic Email API",
+        "Description": "This API allows you to verify whether an email belongs to a recognized educational institution",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/validator-academic-email",
+        "Category": "Email"
+    },
+    {
         "API": "Cloudmersive Validate",
         "Description": "Validate email addresses, phone numbers, VAT numbers and domain names",
         "Auth": "apiKey",
@@ -4390,24 +4400,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://enveloop.com",
-        "Category": "Email"
-    },
-    {
-        "API": "EVA",
-        "Description": "Validate email addresses",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://eva.pingutil.com/",
-        "Category": "Email"
-    },
-    {
-        "API": "Finturest Email",
-        "Description": "Accurate email validation for reliable delivery",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://finturest.com/products/email-api",
         "Category": "Email"
     },
     {
@@ -7399,6 +7391,15 @@
         "Category": "Government"
     },
     {
+        "API": "civicAPI",
+        "Description": "Provides live and historic election results for races across the world",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://civicapi.org/",
+        "Category": "Government"
+    },
+    {
         "API": "Code.gov",
         "Description": "The primary platform for Open Source and code sharing for the U.S. Federal Government",
         "Auth": "apiKey",
@@ -10189,6 +10190,15 @@
         "Category": "Programming"
     },
     {
+        "API": "PHPhub",
+        "Description": "PHP syntax checker",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://phphub.net/linter/",
+        "Category": "Programming"
+    },
+    {
         "API": "Pythonium",
         "Description": "Validate Python code syntax",
         "Auth": "",
@@ -10204,15 +10214,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://softwium.com/sql-validator/",
-        "Category": "Programming"
-    },
-    {
-        "API": "Volca",
-        "Description": "List of programming languages and technologies",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://volca.io#api",
         "Category": "Programming"
     },
     {
@@ -10599,7 +10600,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "https://filterlists.com",
+        "Link": "https://api.filterlists.com",
         "Category": "Security"
     },
     {
@@ -10635,7 +10636,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "no",
-        "Link": "https://api.gitguardian.com/doc",
+        "Link": "https://api.gitguardian.com/docs",
         "Category": "Security"
     },
     {
@@ -10675,21 +10676,21 @@
         "Category": "Security"
     },
     {
-        "API": "IntelOwl",
-        "Description": "Manage your Threat Intelligence at scale",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://intelowl.readthedocs.io",
-        "Category": "Security"
-    },
-    {
         "API": "LoginRadius",
         "Description": "Managed User Authentication Service",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.loginradius.com/docs/",
+        "Category": "Security"
+    },
+    {
+        "API": "LeakInsight",
+        "Description": "Find leaked or exposed credentials by email, username, phone, domain, hash, or breach origin",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api/",
         "Category": "Security"
     },
     {
@@ -10798,15 +10799,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://spyse-dev.readme.io/reference/quick-start",
-        "Category": "Security"
-    },
-    {
-        "API": "Threat Jammer",
-        "Description": "Risk scoring service from curated threat intelligence data",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://threatjammer.com/docs/index",
         "Category": "Security"
     },
     {
@@ -11935,6 +11927,15 @@
         "Category": "Text Analysis"
     },
     {
+        "API": "Analyse Keywords API",
+        "Description": "This API lets you extract high-frequency keywords, key phrases and latent semantic keywords from any URL",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/analyse-keywords",
+        "Category": "Text Analysis"
+    },
+    {
         "API": "Aylien Text Analysis",
         "Description": "A collection of information retrieval and natural language APIs",
         "Auth": "apiKey",
@@ -12862,21 +12863,21 @@
         "Category": "URL Shorteners"
     },
     {
+        "API": "Ogli",
+        "Description": "Generate short links like any other shortener but with custom OG/meta tags for perfect previews. Ideal for SPAs, apps, and anyone who wants control over what gets shared.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://app.ogli.sh",
+        "Category": "URL Shorteners"
+    },
+    {
         "API": "Rebrandly",
         "Description": "Custom URL shortener for sharing branded links",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.rebrandly.com/v1/docs",
-        "Category": "URL Shorteners"
-    },
-    {
-        "API": "Shrtlnk",
-        "Description": "Simple and efficient short link creation",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://shrtlnk.dev/developer",
         "Category": "URL Shorteners"
     },
     {
@@ -12922,6 +12923,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://deividfortuna.github.io/fipe/",
+        "Category": "Vehicle"
+    },
+    {
+        "API": "CarAPI",
+        "Description": "The developer friendly vehicle API. Make, model, trims and more via a RESTFul API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://carapi.app",
         "Category": "Vehicle"
     },
     {
