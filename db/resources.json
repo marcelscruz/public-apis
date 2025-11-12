@@ -10617,7 +10617,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "https://filterlists.com",
+        "Link": "https://api.filterlists.com",
         "Category": "Security"
     },
     {
