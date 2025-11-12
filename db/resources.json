@@ -10662,7 +10662,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "no",
-        "Link": "https://api.gitguardian.com/doc",
+        "Link": "https://api.gitguardian.com/docs",
         "Category": "Security"
     },
     {
