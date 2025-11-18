@@ -1261,6 +1261,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Mixcloud](https://www.mixcloud.com/developers/) | Music | `OAuth`| Yes | Yes |
 | [Mubert AI Music API](https://landing.mubert.com) | Integrate AI music into your app, game or service | `apiKey`| Yes | Unknown |
 | [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) | Music | No | Yes | Unknown |
+| [MusicGPT](https://docs.musicgpt.com/api-documentation/index/introduction) | AI Music Generator with text-to-speech, voice changer, remix & 20+ music features. | `apikey` | Yes | Yes |
 | [Musixmatch](https://developer.musixmatch.com/) | Music | `apiKey` | Yes | Unknown |
 | [Napster](https://developer.napster.com/api/v2.2) | Music | `apiKey` | Yes | Yes |
 | [Openwhyd](https://openwhyd.github.io/openwhyd/API) | Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...) | No | Yes | No |
