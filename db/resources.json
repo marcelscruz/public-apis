@@ -1,5 +1,5 @@
 {
-"count": 1524,
+"count": 1523,
 "entries": [
     {
         "API": "Cat Facts",
@@ -7046,15 +7046,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://postali.app/api",
-        "Category": "Geocoding"
-    },
-    {
-        "API": "PostcodeData.nl",
-        "Description": "Provide geolocation data based on postcode for Dutch addresses",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json",
         "Category": "Geocoding"
     },
     {
