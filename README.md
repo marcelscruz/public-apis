@@ -1462,6 +1462,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 |---|---|---|---|---|
 | [Codeforces](https://codeforces.com/apiHelp) | Get access to Codeforces data | `apiKey` | Yes | Unknown |
 | [Hackerearth](https://www.hackerearth.com/docs/wiki/developers/v4) | For compiling and running code in several languages | `apiKey` | Yes | Unknown |
+| [JMESPath](https://noteapiconnector.com/jmespath-free-api) | Run JMESPath queries on JSON data for filtering, transforming, and extracting results | No | Yes | Yes |
 | [Judge0 CE](https://ce.judge0.com/) | Online code execution system | `apiKey` | Yes | Unknown |
 | [Let's Count](https://letscountapi.com) | Create, retrieve, update, increment, and decrement counters identified by namespace and key | No | Yes | Unknown |
 | [PHPhub](https://phphub.net/linter/) | PHP syntax checker | No | Yes | No |
