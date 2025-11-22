@@ -8345,15 +8345,6 @@
         "Category": "Jobs"
     },
     {
-        "API": "Open Skills",
-        "Description": "Job titles, skills and related jobs data",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview",
-        "Category": "Jobs"
-    },
-    {
         "API": "Reed",
         "Description": "Job board aggregator",
         "Auth": "apiKey",
