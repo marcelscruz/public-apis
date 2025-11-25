@@ -655,6 +655,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Convert Speech to Text API](https://apyhub.com/utility/speech-to-text) | This API converts any speech to text multiple languages and dialects | `apiKey` | Yes | Yes |
 | [Convert Word to PDF](https://apyhub.com/utility/converter-doc-pdf) | Convert a Word document (doc, docx, or ODF formats) to a PDF document | `apiKey` | Yes | Yes |
 | [CraftMyPDF](https://craftmypdf.com) | Generate PDF documents from templates with a drop-and-drop editor and a simple API | `apiKey` | Yes | No |
+| [CustomJS](https://www.customjs.io) | HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs | `apiKey` | Yes | Unknown |
 | [CV / Resume Parsing API](https://apyhub.com/utility/sharpapi-ai-resume-parser) | The Resume Parser API parses a resume (CV) file from multiple formats (PDF/DOC/DOCX/TXT/RTF) and returns an extensive object of data points | `apiKey` | Yes | Yes |
 | [FastApi Simple Calculator](https://fastapi-calculadora.onrender.com/) | Math, Stadistics, Conversions, Currency and more | No | Yes | Unknown |
 | [Flowdash](https://docs.flowdash.com/docs/api-introduction) | Automate business workflows | `apiKey` | Yes | Unknown |
