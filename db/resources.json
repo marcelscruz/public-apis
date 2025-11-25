@@ -1,5 +1,5 @@
 {
-"count": 1525,
+"count": 1526,
 "entries": [
     {
         "API": "Cat Facts",
@@ -9071,6 +9071,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://newsdatahub.com",
+        "Category": "News"
+    },
+    {
+        "API": "NewsMesh",
+        "Description": "Access the news articles from trusted sources with real-time updates & powerful search capabilities",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://newsmesh.co",
         "Category": "News"
     },
     {
