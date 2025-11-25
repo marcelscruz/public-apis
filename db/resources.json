@@ -1,5 +1,5 @@
 {
-"count": 1524,
+"count": 1525,
 "entries": [
     {
         "API": "Cat Facts",
@@ -314,6 +314,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://nekosia.cat",
+        "Category": "Anime"
+    },
+    {
+        "API": "PokéAPI",
+        "Description": "Pokémon data, including imagery",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://pokeapi.co",
         "Category": "Anime"
     },
     {
