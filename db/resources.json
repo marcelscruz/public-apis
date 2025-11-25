@@ -1,5 +1,5 @@
 {
-"count": 1526,
+"count": 1527,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4085,6 +4085,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://craftmypdf.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "CustomJS",
+        "Description": "HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.customjs.io",
         "Category": "Documents & Productivity"
     },
     {
