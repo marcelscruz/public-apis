@@ -1,5 +1,5 @@
 {
-"count": 1527,
+"count": 1529,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4112,6 +4112,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://fastapi-calculadora.onrender.com/",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "File Conversions API",
+        "Description": "APIs to handle all your file transformations. Word to PDF, Markdown to HTML, CSV to JSON, audio and many more",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/catalog/file-conversion",
         "Category": "Documents & Productivity"
     },
     {
@@ -8279,6 +8288,15 @@
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://www.careerjet.com/partners/api/",
+        "Category": "Jobs"
+    },
+    {
+        "API": "CV - Job match score API",
+        "Description": "This API use multiple criteria to evaluate how well a candidate fits a job position",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/sharpapi-resume-job-match-score",
         "Category": "Jobs"
     },
     {
@@ -13061,7 +13079,7 @@
         "Category": "Video"
     },
     {
-        "API": "Compress Video API (Job)",
+        "API": "Compress Video API",
         "Description": "Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks",
         "Auth": "apiKey",
         "HTTPS": true,
