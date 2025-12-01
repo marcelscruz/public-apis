@@ -2594,8 +2594,8 @@
         "Category": "Development"
     },
     {
-        "API": "ApyHub: Curated APIs for Devs",
-        "Description": "A complete catalog of +150 APIs that can be used in your next application",
+        "API": "ApyHub: The API Marketplace for Developers and Builders",
+        "Description": "Build and ship faster with 150+ APIs to connect to your application",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
