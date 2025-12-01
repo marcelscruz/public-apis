@@ -665,6 +665,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [CustomJS](https://www.customjs.io) | HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs | `apiKey` | Yes | Unknown |
 | [CV / Resume Parsing API](https://apyhub.com/utility/sharpapi-ai-resume-parser) | The Resume Parser API parses a resume (CV) file from multiple formats (PDF/DOC/DOCX/TXT/RTF) and returns an extensive object of data points | `apiKey` | Yes | Yes |
 | [FastApi Simple Calculator](https://fastapi-calculadora.onrender.com/) | Math, Stadistics, Conversions, Currency and more | No | Yes | Unknown |
+| [File Conversions API](https://apyhub.com/catalog/file-conversion) | APIs to handle all your file transformations. Word to PDF, Markdown to HTML, CSV to JSON, audio and many more | `apiKey` | Yes | Yes |
 | [Flowdash](https://docs.flowdash.com/docs/api-introduction) | Automate business workflows | `apiKey` | Yes | Unknown |
 | [fynk](https://fynk.com) | Generate, update, and manage contracts from your own systems with a secure and scalable REST API | `apiKey` | Yes | Yes |
 | [Html2PDF](https://html2pdf.app/) | HTML/URL to PDF | `apiKey` | Yes | Unknown |
@@ -1194,6 +1195,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Arbeitnow](https://documenter.getpostman.com/view/18545278/UVJbJdKh) | API for Job board aggregator in Europe / Remote | No | Yes | Yes |
 | [Arbeitsamt](https://jobsuche.api.bund.dev/) | API for the "Arbeitsamt", which is a german Job board aggregator | `OAuth`| Yes | Unknown |
 | [Careerjet](https://www.careerjet.com/partners/api/) | Job search engine | `apiKey` | No | Unknown |
+| [CV - Job match score API](https://apyhub.com/utility/sharpapi-resume-job-match-score) | This API use multiple criteria to evaluate how well a candidate fits a job position | `apiKey` | Yes | Yes |
 | [DevITjobs UK](https://devitjobs.uk/job_feed.xml) | Jobs with GraphQL | No | Yes | Yes |
 | [Fantastic.jobs](https://fantastic.jobs/api) | Access over 8 million jobs per month using our APIs. ATS, LinkedIn, Upwork, and more. | `apiKey` | Yes | Yes |
 | [Findwork](https://findwork.dev/developers/) | Job board | `apiKey` | Yes | Unknown |
@@ -1863,7 +1865,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) | Some Breaking Bad quotes | No | Yes | Unknown |
 | [Buffy the Vampire Slayer and Angel](https://github.com/Thatskat/btvs-angel-api) | Get episode, cast and crew data from Buffy the Vampire Slayer and Angel | No | Yes | Yes |
 | [Catalogopolis](https://api.catalogopolis.xyz/docs/) | Doctor Who API | No | Yes | Unknown |
-| [Compress Video API (Job)](https://apyhub.com/utility/job-compress-video) | Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks | `apiKey` | Yes | Yes |
+| [Compress Video API](https://apyhub.com/utility/job-compress-video) | Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks | `apiKey` | Yes | Yes |
 | [Czech Television](http://www.ceskatelevize.cz/xml/tv-program/) | TV programme of Czech TV | No | No | Unknown |
 | [Dailymotion](https://developer.dailymotion.com/) | Dailymotion Developer API | `OAuth`| Yes | Unknown |
 | [Eurovision Song Contest](https://eurovisionapi.runasp.net/) | Unofficial Eurovision Song Contest API | No | Yes | Unknown |
