@@ -727,6 +727,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Trueguard](https://trueguard.io) | Trueguard offers API for detecting temporary emails, free-tier abusers and automated bots | `apiKey` | Yes | No |
 | [Verifier](https://verifier.meetchopra.com/docs#/) | Verifies that a given email is real | `apiKey` | Yes | Yes |
 | [Zyntra](https://docs.zyntra.app/) | Unlimited e-mail inboxes with API access. Catch OTPs, reset links, and sign-up emails in test flows | `apiKey` | Yes | Unknown |
+| [NoParam](https://noparam.com) | Email validation API for real-time & bulk checking | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
