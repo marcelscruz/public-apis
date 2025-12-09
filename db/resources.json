@@ -1,5 +1,5 @@
 {
-"count": 1530,
+"count": 1531,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4715,6 +4715,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://techy-api.vercel.app/",
+        "Category": "Entertainment"
+    },
+    {
+        "API": "World Fun Facts (RapidAPI)",
+        "Description": "Fun and interesting facts with multi-language support",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/vintarok-vintarok-default/api/world-fun-facts-all-languages-support",
         "Category": "Entertainment"
     },
     {
