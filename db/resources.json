@@ -1,5 +1,5 @@
 {
-"count": 1531,
+"count": 1532,
 "entries": [
     {
         "API": "Cat Facts",
@@ -8469,6 +8469,15 @@
         "Cors": "unknown",
         "Link": "https://www.whatjobs.com/affiliates",
         "Category": "Jobs"
+    },
+    {
+        "API": "Advanced Multilanguage AI Translator (RapidAPI)",
+        "Description": "AI-powered translator supporting multiple languages with fast, context-aware responses",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/vintarok-vintarok-default/api/advanced-multilanguage-ai-translator-api-with-fast-responses",
+        "Category": "Machine Learning"
     },
     {
         "API": "AI/ML API",
