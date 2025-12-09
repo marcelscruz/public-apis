@@ -1,5 +1,5 @@
 {
-"count": 1532,
+"count": 1533,
 "entries": [
     {
         "API": "Cat Facts",
@@ -9467,6 +9467,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://sofiaplan.bg/api/",
+        "Category": "Open Data"
+    },
+    {
+        "API": "Udemy Coupons, Courses & Instructors Data",
+        "Description": "Retrieve Udemy courses, coupons, instructors, and metadata",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/vintarok-vintarok-default/api/udemy-coupons-courses-instructors-data-api",
         "Category": "Open Data"
     },
     {
