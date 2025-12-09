@@ -935,6 +935,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [PandaScore](https://developers.pandascore.co/) | E-sports games and results | `apiKey`| Yes | Unknown |
 | [Path of Exile](https://www.pathofexile.com/developer/docs) | Path of Exile Game Information | `OAuth` | Yes | Unknown |
 | [PlayerDB](https://playerdb.co/) | Query Minecraft, Steam and XBox Accounts | No | Yes | Unknown |
+| [Poker Odds Equity EV Calculator & Advice](https://rapidapi.com/vintarok-vintarok-default/api/poker-odds-equity-ev-calculator-advice-api) | Poker odds, equity & EV calculator with hand/decision advice | `apiKey` | Yes | Yes |
 | [Pokéapi](https://pokeapi.co) | Pokémon Information | No | Yes | Unknown |
 | [PokéAPI (GraphQL)](https://github.com/mazipan/graphql-pokeapi) | The Unofficial GraphQL for PokeAPI | No | Yes | Yes |
 | [Pokémon TCG](https://pokemontcg.io) | Pokémon TCG Information | No | Yes | Unknown |
