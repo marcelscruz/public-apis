@@ -1,5 +1,5 @@
 {
-"count": 1533,
+"count": 1529,
 "entries": [
     {
         "API": "Cat Facts",
@@ -5852,15 +5852,6 @@
         "Category": "Games & Comics"
     },
     {
-        "API": "Eve Online",
-        "Description": "Third-Party Developer Documentation",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://esi.evetech.net/ui",
-        "Category": "Games & Comics"
-    },
-    {
         "API": "FFXIV Collect",
         "Description": "Final Fantasy XIV data on collectables",
         "Auth": "",
@@ -8399,15 +8390,6 @@
         "Category": "Jobs"
     },
     {
-        "API": "Open Skills",
-        "Description": "Job titles, skills and related jobs data",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview",
-        "Category": "Jobs"
-    },
-    {
         "API": "Reed",
         "Description": "Job board aggregator",
         "Auth": "apiKey",
@@ -8639,15 +8621,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://nlpcloud.io",
-        "Category": "Machine Learning"
-    },
-    {
-        "API": "NSFW AI Convos",
-        "Description": "Simple uncensored AI convos in JSON format",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://rapidapi.com/api-smith-api-smith-default/api/spicy-gpt-nsfw-18",
         "Category": "Machine Learning"
     },
     {
@@ -11510,15 +11483,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://collegefootballdata.com",
-        "Category": "Sports & Fitness"
-    },
-    {
-        "API": "Ergast F1",
-        "Description": "F1 data from the beginning of the world championships in 1950",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "http://ergast.com/mrd/",
         "Category": "Sports & Fitness"
     },
     {
