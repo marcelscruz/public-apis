@@ -13174,7 +13174,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://huntapi.com",
+        "Link": "https://www.huntapi.com",
         "Category": "Video"
     },
     {
