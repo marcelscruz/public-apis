@@ -1,5 +1,5 @@
 {
-"count": 1529,
+"count": 1530,
 "entries": [
     {
         "API": "Cat Facts",
@@ -13166,6 +13166,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://hp-api.onrender.com/",
+        "Category": "Video"
+    },
+    {
+        "API": "Hunt",
+        "Description": "Video To API. Get video or audio and metadata for all video platforms with one provider.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://huntapi.com",
         "Category": "Video"
     },
     {
