@@ -1875,6 +1875,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Generate Thumbnail from video API](https://apyhub.com/utility/thumbnail-from-video) | This API generates image thumbnails from any input video file, in the desired size (pixels). The API supports multiple video formats including MP4, WEBM, FLV, AVI, MKV, MOV and 3GP | `apiKey` | Yes | Yes |
 | [GIF from Video API](https://apyhub.com/utility/gif-from-video) | This API helps you generate GIF from any video | `apiKey` | Yes | Yes |
 | [Harry Potter Characters](https://hp-api.onrender.com/) | Harry Potter Characters Data with with imagery | No | Yes | Unknown |
+| [Hunt](https://huntapi.com) | Video To API. Get video or audio and metadata for all video platforms with one provider. | `apiKey` | Yes | Yes |
 | [IMDb](https://developer.imdb.com/) | API for receiving movie, serial and cast information | `apiKey` | Yes | Unknown |
 | [IMDbOT](https://github.com/SpEcHiDe/IMDbOT) | Unofficial IMDb Movie / Series Information | No | Yes | Yes |
 | [JSON2Video](https://json2video.com) | Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations | `apiKey` | Yes | No |
