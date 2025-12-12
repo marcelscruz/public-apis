@@ -1,5 +1,5 @@
 {
-"count": 1528,
+"count": 1530,
 "entries": [
     {
         "API": "Cat Facts",
@@ -317,6 +317,15 @@
         "Category": "Anime"
     },
     {
+        "API": "PokéAPI",
+        "Description": "Pokémon data, including imagery",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://pokeapi.co",
+        "Category": "Anime"
+    },
+    {
         "API": "Shikimori",
         "Description": "Anime discovery, tracking, forum, rates",
         "Auth": "OAuth",
@@ -449,23 +458,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://metacert.com/",
-        "Category": "Anti-Malware"
-    },
-    {
-        "API": "phish.directory",
-        "Description": "API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts.   apiKey",
-        "Auth": "Yes",
-        "HTTPS": false,
-        "Link": "https://phish.directory/",
-        "Category": "Anti-Malware"
-    },
-    {
-        "API": "Phisherman",
-        "Description": "IP/domain/URL reputation",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://phisherman.gg/",
         "Category": "Anti-Malware"
     },
     {
@@ -862,15 +854,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://getblock.io/",
-        "Category": "Blockchain"
-    },
-    {
-        "API": "Helium",
-        "Description": "Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.helium.com/api/blockchain/introduction/",
         "Category": "Blockchain"
     },
     {
@@ -2395,6 +2378,15 @@
         "Category": "Currency Exchange"
     },
     {
+        "API": "RBA Exchange Rates API",
+        "Description": "Real-time and historical Reserve Bank of Australia (RBA) exchange rates API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.exchangeratesapi.com.au",
+        "Category": "Currency Exchange"
+    },
+    {
         "API": "Unirate",
         "Description": "Free Exchange Rates and Currency Conversion",
         "Auth": "apiKey",
@@ -2602,8 +2594,8 @@
         "Category": "Development"
     },
     {
-        "API": "ApyHub: Curated APIs for Devs",
-        "Description": "A complete catalog of +150 APIs that can be used in your next application",
+        "API": "ApyHub: The API Marketplace for Developers and Builders",
+        "Description": "Build and ship faster with 150+ APIs to connect to your application",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
@@ -4096,6 +4088,15 @@
         "Category": "Documents & Productivity"
     },
     {
+        "API": "CustomJS",
+        "Description": "HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.customjs.io",
+        "Category": "Documents & Productivity"
+    },
+    {
         "API": "CV / Resume Parsing API",
         "Description": "The Resume Parser API parses a resume (CV) file from multiple formats (PDF/DOC/DOCX/TXT/RTF) and returns an extensive object of data points",
         "Auth": "apiKey",
@@ -4114,12 +4115,30 @@
         "Category": "Documents & Productivity"
     },
     {
+        "API": "File Conversions API",
+        "Description": "APIs to handle all your file transformations. Word to PDF, Markdown to HTML, CSV to JSON, audio and many more",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/catalog/file-conversion",
+        "Category": "Documents & Productivity"
+    },
+    {
         "API": "Flowdash",
         "Description": "Automate business workflows",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.flowdash.com/docs/api-introduction",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "fynk",
+        "Description": "Generate, update, and manage contracts from your own systems with a secure and scalable REST API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://fynk.com",
         "Category": "Documents & Productivity"
     },
     {
@@ -4357,6 +4376,15 @@
         "Category": "Email"
     },
     {
+        "API": "Academic Email API",
+        "Description": "This API allows you to verify whether an email belongs to a recognized educational institution",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/validator-academic-email",
+        "Category": "Email"
+    },
+    {
         "API": "Cloudmersive Validate",
         "Description": "Validate email addresses, phone numbers, VAT numbers and domain names",
         "Auth": "apiKey",
@@ -4399,24 +4427,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://enveloop.com",
-        "Category": "Email"
-    },
-    {
-        "API": "EVA",
-        "Description": "Validate email addresses",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://eva.pingutil.com/",
-        "Category": "Email"
-    },
-    {
-        "API": "Finturest Email",
-        "Description": "Accurate email validation for reliable delivery",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://finturest.com/products/email-api",
         "Category": "Email"
     },
     {
@@ -4705,6 +4715,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://techy-api.vercel.app/",
+        "Category": "Entertainment"
+    },
+    {
+        "API": "World Fun Facts (RapidAPI)",
+        "Description": "Fun and interesting facts with multi-language support",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/vintarok-vintarok-default/api/world-fun-facts-all-languages-support",
         "Category": "Entertainment"
     },
     {
@@ -5833,15 +5852,6 @@
         "Category": "Games & Comics"
     },
     {
-        "API": "Eve Online",
-        "Description": "Third-Party Developer Documentation",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://esi.evetech.net/ui",
-        "Category": "Games & Comics"
-    },
-    {
         "API": "FFXIV Collect",
         "Description": "Final Fantasy XIV data on collectables",
         "Auth": "",
@@ -6154,6 +6164,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://playerdb.co/",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "Poker Odds Equity EV Calculator & Advice",
+        "Description": "Poker odds, equity & EV calculator with hand/decision advice",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/vintarok-vintarok-default/api/poker-odds-equity-ev-calculator-advice-api",
         "Category": "Games & Comics"
     },
     {
@@ -7063,15 +7082,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://postali.app/api",
-        "Category": "Geocoding"
-    },
-    {
-        "API": "PostcodeData.nl",
-        "Description": "Provide geolocation data based on postcode for Dutch addresses",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json",
         "Category": "Geocoding"
     },
     {
@@ -8290,6 +8300,15 @@
         "Category": "Jobs"
     },
     {
+        "API": "CV - Job match score API",
+        "Description": "This API use multiple criteria to evaluate how well a candidate fits a job position",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/sharpapi-resume-job-match-score",
+        "Category": "Jobs"
+    },
+    {
         "API": "DevITjobs UK",
         "Description": "Jobs with GraphQL",
         "Auth": "",
@@ -8371,15 +8390,6 @@
         "Category": "Jobs"
     },
     {
-        "API": "Open Skills",
-        "Description": "Job titles, skills and related jobs data",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview",
-        "Category": "Jobs"
-    },
-    {
         "API": "Reed",
         "Description": "Job board aggregator",
         "Auth": "apiKey",
@@ -8441,6 +8451,15 @@
         "Cors": "unknown",
         "Link": "https://www.whatjobs.com/affiliates",
         "Category": "Jobs"
+    },
+    {
+        "API": "Advanced Multilanguage AI Translator (RapidAPI)",
+        "Description": "AI-powered translator supporting multiple languages with fast, context-aware responses",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/vintarok-vintarok-default/api/advanced-multilanguage-ai-translator-api-with-fast-responses",
+        "Category": "Machine Learning"
     },
     {
         "API": "AI/ML API",
@@ -8602,15 +8621,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://nlpcloud.io",
-        "Category": "Machine Learning"
-    },
-    {
-        "API": "NSFW AI Convos",
-        "Description": "Simple uncensored AI convos in JSON format",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://rapidapi.com/api-smith-api-smith-default/api/spicy-gpt-nsfw-18",
         "Category": "Machine Learning"
     },
     {
@@ -9091,6 +9101,15 @@
         "Category": "News"
     },
     {
+        "API": "NewsMesh",
+        "Description": "Access the news articles from trusted sources with real-time updates & powerful search capabilities",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://newsmesh.co",
+        "Category": "News"
+    },
+    {
         "API": "NewsX",
         "Description": "Get or Search Latest Breaking News with ML Powered Summaries 🤖",
         "Auth": "apiKey",
@@ -9421,6 +9440,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://sofiaplan.bg/api/",
+        "Category": "Open Data"
+    },
+    {
+        "API": "Udemy Coupons, Courses & Instructors Data",
+        "Description": "Retrieve Udemy courses, coupons, instructors, and metadata",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/vintarok-vintarok-default/api/udemy-coupons-courses-instructors-data-api",
         "Category": "Open Data"
     },
     {
@@ -10189,6 +10217,15 @@
         "Category": "Programming"
     },
     {
+        "API": "JMESPath",
+        "Description": "Run JMESPath queries on JSON data for filtering, transforming, and extracting results",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://noteapiconnector.com/jmespath-free-api",
+        "Category": "Programming"
+    },
+    {
         "API": "Judge0 CE",
         "Description": "Online code execution system",
         "Auth": "apiKey",
@@ -10207,6 +10244,15 @@
         "Category": "Programming"
     },
     {
+        "API": "PHPhub",
+        "Description": "PHP syntax checker",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://phphub.net/linter/",
+        "Category": "Programming"
+    },
+    {
         "API": "Pythonium",
         "Description": "Validate Python code syntax",
         "Auth": "",
@@ -10222,15 +10268,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://softwium.com/sql-validator/",
-        "Category": "Programming"
-    },
-    {
-        "API": "Volca",
-        "Description": "List of programming languages and technologies",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://volca.io#api",
         "Category": "Programming"
     },
     {
@@ -10617,7 +10654,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "https://filterlists.com",
+        "Link": "https://api.filterlists.com",
         "Category": "Security"
     },
     {
@@ -10653,7 +10690,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "no",
-        "Link": "https://api.gitguardian.com/doc",
+        "Link": "https://api.gitguardian.com/docs",
         "Category": "Security"
     },
     {
@@ -10690,15 +10727,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf",
-        "Category": "Security"
-    },
-    {
-        "API": "IntelOwl",
-        "Description": "Manage your Threat Intelligence at scale",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://intelowl.readthedocs.io",
         "Category": "Security"
     },
     {
@@ -10825,15 +10853,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://spyse-dev.readme.io/reference/quick-start",
-        "Category": "Security"
-    },
-    {
-        "API": "Threat Jammer",
-        "Description": "Risk scoring service from curated threat intelligence data",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://threatjammer.com/docs/index",
         "Category": "Security"
     },
     {
@@ -11467,15 +11486,6 @@
         "Category": "Sports & Fitness"
     },
     {
-        "API": "Ergast F1",
-        "Description": "F1 data from the beginning of the world championships in 1950",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "http://ergast.com/mrd/",
-        "Category": "Sports & Fitness"
-    },
-    {
         "API": "F1 API",
         "Description": "Open F1 API with realtime data",
         "Auth": "",
@@ -11959,6 +11969,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/sharpapi-translate-text",
+        "Category": "Text Analysis"
+    },
+    {
+        "API": "Analyse Keywords API",
+        "Description": "This API lets you extract high-frequency keywords, key phrases and latent semantic keywords from any URL",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/analyse-keywords",
         "Category": "Text Analysis"
     },
     {
@@ -12907,15 +12926,6 @@
         "Category": "URL Shorteners"
     },
     {
-        "API": "Shrtlnk",
-        "Description": "Simple and efficient short link creation",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://shrtlnk.dev/developer",
-        "Category": "URL Shorteners"
-    },
-    {
         "API": "Spoo.me",
         "Description": "Free URL shortener with custom alias, max-clicks, password protection and advanced analytics support",
         "Auth": "",
@@ -13069,7 +13079,7 @@
         "Category": "Video"
     },
     {
-        "API": "Compress Video API (Job)",
+        "API": "Compress Video API",
         "Description": "Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks",
         "Auth": "apiKey",
         "HTTPS": true,
@@ -13156,6 +13166,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://hp-api.onrender.com/",
+        "Category": "Video"
+    },
+    {
+        "API": "Hunt",
+        "Description": "Video To API. Get video or audio and metadata for all video platforms with one provider.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.huntapi.com",
         "Category": "Video"
     },
     {
