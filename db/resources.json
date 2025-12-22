@@ -1,5 +1,5 @@
 {
-"count": 1531,
+"count": 1532,
 "entries": [
     {
         "API": "Cat Facts",
@@ -6137,6 +6137,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.moogleapi.com/",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "Multilingual Truth or Dare Game ",
+        "Description": "Truth or Dare party/date game with multilingual support and random challenges",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/vintarok-vintarok-default/api/multilingual-truth-or-dare-party-date-game-api",
         "Category": "Games & Comics"
     },
     {
