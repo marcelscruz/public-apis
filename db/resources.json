@@ -1,5 +1,5 @@
 {
-"count": 1532,
+"count": 1533,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4688,6 +4688,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://mememaker.github.io/API/",
+        "Category": "Entertainment"
+    },
+    {
+        "API": "Multilingual AI Zodiac",
+        "Description": "Personalized daily horoscopes and zodiac insights in 100+ languages",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/vintarok-vintarok-default/api/multilingual-ai-zodiac-customized-horoscopes-for-all-signs",
         "Category": "Entertainment"
     },
     {
