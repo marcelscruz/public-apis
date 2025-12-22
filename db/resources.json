@@ -1,5 +1,5 @@
 {
-"count": 1533,
+"count": 1535,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3969,6 +3969,15 @@
         "Cors": "unknown",
         "Link": "https://www.wordsapi.com/docs/",
         "Category": "Dictionaries"
+    },
+    {
+        "API": "AI Meeting Minutes Suite",
+        "Description": "Generate summaries, templates, and redact sensitive data from meeting notes",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/vintarok-vintarok-default/api/ai-meeting-minutes-suite-summaries-templates-redaction",
+        "Category": "Documents & Productivity"
     },
     {
         "API": "Airtable",
@@ -8504,6 +8513,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://aiforthai.in.th/index.php",
+        "Category": "Machine Learning"
+    },
+    {
+        "API": "AI Learning Engine",
+        "Description": "Create, auto-grade, and analyze learning tasks with AI-based evaluations",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/vintarok-vintarok-default/api/ai-learning-engine-task-creation-auto-grading-api",
         "Category": "Machine Learning"
     },
     {
