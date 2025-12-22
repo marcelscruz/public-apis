@@ -741,6 +741,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [JokeAPI](https://jokeapi.dev/) | Jokes in multiple formats | No | Yes | Yes |
 | [Keanu Reeves Whoa](https://whoa.onrender.com/) | JSON API for every "whoa" said by actor Keanu Reeves in his movies | No | Yes | Unknown |
 | [Meme Maker](https://mememaker.github.io/API/) | REST API for create your own meme | No | Yes | Unknown |
+| [Multilingual AI Zodiac](https://rapidapi.com/vintarok-vintarok-default/api/multilingual-ai-zodiac-customized-horoscopes-for-all-signs) | Personalized daily horoscopes and zodiac insights in 100+ languages | `apiKey` | Yes | Yes |
 | [Official Joke](https://official-joke-api.appspot.com/) | API for random and programming jokes | No | Yes | Unknown |
 | [Random Dad Joke](https://icanhazdadjoke.com/) | API for largest selection of dad jokes on the internet | No | Yes | Unknown |
 | [Random Useless Facts](https://uselessfacts.jsph.pl/) | Get useless, but true facts | No | Yes | Unknown |
