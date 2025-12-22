@@ -1,5 +1,5 @@
 {
-"count": 1530,
+"count": 1531,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2600,6 +2600,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/catalog",
+        "Category": "Development"
+    },
+    {
+        "API": "AutoChangelog",
+        "Description": "Automatically creates changelog entries from deployments by analyzing pull requests, commits, and code diffs across your GitHub repositories",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://autochangelog.com",
         "Category": "Development"
     },
     {
