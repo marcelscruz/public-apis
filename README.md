@@ -926,7 +926,6 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Jokes One](https://jokes.one/api/joke/) | Joke of the day and large category of jokes accessible via REST API | `apiKey`| Yes | Yes |
 | [Lichess](https://lichess.org/api) | Access to all data of users, games, puzzles and etc on Lichess | `OAuth` | Yes | Unknown |
 | [Magic The Gathering](http://magicthegathering.io/) | Magic The Gathering Game Information | No | No | Unknown |
-| [Marvel](https://developer.marvel.com) | Marvel Comics | `apiKey`| Yes | Unknown |
 | [Minecraft Server Status](https://api.mcsrvstat.us) | API to get Information about a Minecraft Server | No | Yes | No |
 | [MMO Games](https://www.mmobomb.com/api) | MMO Games Database, News and Giveaways | No | Yes | No |
 | [mod.io](https://docs.mod.io) | Cross Platform Mod API | `apiKey`| Yes | Unknown |
