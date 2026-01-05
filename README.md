@@ -483,7 +483,7 @@
 | [ApicAgent](https://www.apicagent.com) | Extract device details from user-agent string | No | Yes | Yes |
 | [ApiFlash](https://apiflash.com/) | Chrome based screenshot API for developers | `apiKey`| Yes | Unknown |
 | [APIs.guru](https://apis.guru/api-doc/) | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | No | Yes | Unknown |
-| [ApyHub: The API Marketplace for Developers and Builders](https://apyhub.com/catalog) | Build and ship faster with 150+ APIs to connect to your application | `apiKey` | Yes | Yes |
+| [ApyHub APIs: A Complete API Catalog](https://apyhub.com/catalog) | Build and ship faster with 150+ APIs to connect to your application | `apiKey` | Yes | Yes |
 | [AutoChangelog](https://autochangelog.com) | Automatically creates changelog entries from deployments by analyzing pull requests, commits, and code diffs across your GitHub repositories | `apiKey` | Yes | Yes |
 | [Autom](https://www.autom.dev) | Our SERP API delivers lightning-fast Google search results at unbeatable prices. Built for developers who need reliable, scalable access to search data without the complexity of web scraping or CAPTCHA challenges. | `apiKey` | Yes | Yes |
 | [Azure DevOps](https://docs.microsoft.com/en-us/rest/api/azure/devops) | The Azure DevOps basic components of a REST API request/response pair | `apiKey`| Yes | Unknown |
