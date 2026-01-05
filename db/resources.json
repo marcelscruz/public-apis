@@ -1,5 +1,5 @@
 {
-"count": 1535,
+"count": 1537,
 "entries": [
     {
         "API": "Cat Facts",
@@ -9974,6 +9974,15 @@
         "Category": "Photography"
     },
     {
+        "API": "Change Image Background API",
+        "Description": "This API helps you change the background of any image",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/image-processor-change-background",
+        "Category": "Photography"
+    },
+    {
         "API": "CheetahO",
         "Description": "Photo optimization and resize",
         "Auth": "apiKey",
@@ -13157,6 +13166,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://eurovisionapi.runasp.net/",
+        "Category": "Video"
+    },
+    {
+        "API": "Extract Audio from Video API",
+        "Description": "This API helps you extract audio from any video at scale",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/job-extract-video-audio",
         "Category": "Video"
     },
     {
