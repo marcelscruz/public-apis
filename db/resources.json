@@ -2594,7 +2594,7 @@
         "Category": "Development"
     },
     {
-        "API": "ApyHub: The API Marketplace for Developers and Builders",
+        "API": "ApyHub APIs: A Complete API Catalog",
         "Description": "Build and ship faster with 150+ APIs to connect to your application",
         "Auth": "apiKey",
         "HTTPS": true,
