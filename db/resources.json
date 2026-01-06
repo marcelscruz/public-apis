@@ -2838,7 +2838,7 @@
     },
     {
         "API": "Format JSON Online Dummy API",
-        "Description": "– A free tool to generate dummy JSON data for testing and prototyping.",
+        "Description": "A free tool to generate dummy JSON data for testing and prototyping.",
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
