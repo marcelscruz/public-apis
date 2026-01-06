@@ -1894,6 +1894,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Open Movie Database](http://www.omdbapi.com/) | Movie information | `apiKey` | Yes | Unknown |
 | [Rendi](https://rendi.dev) | FFmpeg API | `apiKey` | Yes | No |
 | [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television | No | Yes | Unknown |
+| [Rules of Acquisition](https://rulesofacquisition.herokuapp.com/) | Ferengi Rules of Acquisition from Star Trek with episode references | No | Yes | Unknown |
 | [Shotstack](https://shotstack.io/) | Cloud-based video editing API | `apiKey` | Yes | Unknown |
 | [Simkl](https://simkl.docs.apiary.io) | Movie, TV and Anime data | `apiKey` | Yes | Unknown |
 | [South Park Quotes](https://github.com/Thatskat/southpark-quotes-api) | Get some quotes from South Park, mmkay! | No | Yes | Unknown |
