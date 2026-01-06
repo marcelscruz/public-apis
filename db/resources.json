@@ -1,5 +1,5 @@
 {
-"count": 1537,
+"count": 1538,
 "entries": [
     {
         "API": "Cat Facts",
@@ -12482,6 +12482,15 @@
         "HTTPS": false,
         "Cors": "no",
         "Link": "http://app.metrolisboa.pt/status/getLinhas.php",
+        "Category": "Transportation"
+    },
+    {
+        "API": "MTA",
+        "Description": "MTA Subway Realtime Feeds",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://api.mta.info/#/subwayRealTimeFeeds",
         "Category": "Transportation"
     },
     {
