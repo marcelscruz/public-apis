@@ -1,5 +1,5 @@
 {
-"count": 1538,
+"count": 1539,
 "entries": [
     {
         "API": "Cat Facts",
@@ -13337,6 +13337,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api",
+        "Category": "Video"
+    },
+    {
+        "API": "Rules of Acquisition",
+        "Description": "Ferengi Rules of Acquisition from Star Trek with episode references",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://rulesofacquisition.herokuapp.com/",
         "Category": "Video"
     },
     {
