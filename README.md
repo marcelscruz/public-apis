@@ -618,6 +618,13 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [YAMLine](https://yamline.com/json/) | Convert YAML to JSON (on-the-fly) | No | Yes | Yes |
 | [ZenRows](https://www.zenrows.com/) | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies | `apiKey`| Yes | Unknown |
 | [Zuplo](https://zuplo.com/) | API platform for Development, Deployment, and Docs - add auth, rate-limiting, and monetization fast | `apiKey`| Yes | Unknown |
+| [QuickChart](https://quickchart.io/) | Generate chart and graph images | No | Yes | Yes |
+| [Random Stuff](https://api-docs.pgamerx.com/) | Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed | `apiKey`| Yes | Yes |
+| [Railway](https://docs.railway.com/guides/public-api) | Cloud deployment platform with GraphQL API for CI/CD integration | `apiKey` | Yes | Unknown |
+| [Rejax](https://rejax.io/) | Reverse AJAX service to notify clients | `apiKey`| Yes | No |
+| [Render API](https://render.com/docs/api) | Lets you programmatically manage your Render services (web apps, APIs, and static sites) including deployments, scaling, and configuration | `apiKey`| Yes | Unknown |
+| [ReqRes](https://reqres.in/) | A hosted REST-API ready to respond to your AJAX requests | No | Yes | Unknown |
+
 
 **[⬆ Back to Index](#index)**
 
