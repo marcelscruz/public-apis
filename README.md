@@ -29,13 +29,6 @@
 <br/>
 
 <div>
-    <p align="center"><a href="https://companyenrich.com?ref=dr-pa&utm_medium=public-apis-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/companyenrich-dark-mode.svg" width="200px"><source media="(prefers-color-scheme: light)" srcset="./assets/companyenrich-light-mode.svg" width="200px"><img alt="CompanyEnrich logo" src="./assets/companyenrich-dark-mode.svg" width="200px"></picture></a></p>
-    <p align="center"><a href="https://companyenrich.com?ref=dr-pa&utm_medium=public-apis-repo-readme">CompanyEnrich</a>: Access exclusive company data of local and global businesses. Power your products, agentic workflows, and sales operations with fresh, instant company data APIs.</p>
-</div>
-
-<br/>
-
-<div>
     <p align="center"><a href="https://requestly.com?ref=dr-pa&utm_medium=public-apis-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/requestly-dark-mode.png" width="160px"><source media="(prefers-color-scheme: light)" srcset="./assets/requestly-light-mode.png" width="160px"><img alt="Requestly logo" src="./assets/requestly-dark-mode.png" width="160px"></picture></a></p>
     <p align="center"><a href="https://requestly.com?ref=dr-pa&utm_medium=public-apis-repo-readme">Requestly</a>: Build and test APIs faster. Lightweight Git-friendly API client built for modern developers.</p>
 </div>
