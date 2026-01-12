@@ -1,5 +1,5 @@
 {
-"count": 1541,
+"count": 1542,
 "entries": [
     {
         "API": "Cat Facts",
@@ -9899,6 +9899,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://zenquotes.io/",
+        "Category": "Personality"
+    },
+    {
+        "API": "Sentino Personality API",
+        "Description": "AI-powered personality profiling and psychology analysis using NLP and Big 5, NEO, HEXACO, DISC inventories",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://sentino.org/api/",
         "Category": "Personality"
     },
     {
