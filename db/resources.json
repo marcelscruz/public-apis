@@ -1,5 +1,5 @@
 {
-"count": 1539,
+"count": 1540,
 "entries": [
     {
         "API": "Cat Facts",
@@ -10178,6 +10178,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://apidocs.sirv.com/",
+        "Category": "Photography"
+    },
+    {
+        "API": "Smart Adaptive Ultra-Fast Image Compressor & Converter",
+        "Description": "Compress, convert, and optimize images automatically with adaptive AI tuning",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/vintarok-vintarok-default/api/smart-adaptive-ultra-fast-image-compressor-converter",
         "Category": "Photography"
     },
     {
