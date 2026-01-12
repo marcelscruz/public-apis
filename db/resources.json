@@ -1,5 +1,5 @@
 {
-"count": 1540,
+"count": 1541,
 "entries": [
     {
         "API": "Cat Facts",
@@ -12024,6 +12024,15 @@
         "Cors": "unknown",
         "Link": "https://yesno.wtf/api",
         "Category": "Test Data"
+    },
+    {
+        "API": "AI Text Moderation, Toxicity & Sentiment Analyzer",
+        "Description": "Detect sentiment, toxicity, and emotional aspects in text with AI moderation",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/vintarok-vintarok-default/api/ai-text-moderation-toxicity-aspects-sentiment-analyzer",
+        "Category": "Text Analysis"
     },
     {
         "API": "AI Translate text API",
