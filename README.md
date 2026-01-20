@@ -713,6 +713,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [MailCheck.ai](https://www.mailcheck.ai/#documentation) | Prevent users to sign up with temporary email addresses | No | Yes | Unknown |
 | [Mailtrap](https://mailtrap.docs.apiary.io/#) | A service for the safe testing of emails sent from the development and staging environments | `apiKey` | Yes | Unknown |
 | [Notilify](https://documenter.getpostman.com/view/32462468/2s9YsT6ong) | A seamless messaging platform & API to send all types of SMS | `apiKey` | Yes | Yes |
+| [NoParam](https://noparam.com) | Email validation API for real-time & bulk checking | `apiKey` | Yes | Unknown |
 | [Proweblook Email Checker](https://proweblook.com/email-verifier) | Validate email addresses without sending | `apiKey` | Yes | Yes |
 | [Resend](https://resend.com/docs/) | Email API for developers | `apiKey` | Yes | Yes |
 | [Sendgrid](https://docs.sendgrid.com/api-reference/) | A cloud-based SMTP provider that allows you to send emails without having to maintain email servers | `apiKey` | Yes | Unknown |
