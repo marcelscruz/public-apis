@@ -1,5 +1,5 @@
 {
-"count": 1544,
+"count": 1545,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4553,6 +4553,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://documenter.getpostman.com/view/32462468/2s9YsT6ong",
+        "Category": "Email"
+    },
+    {
+        "API": "NoParam",
+        "Description": "Email validation API for real-time & bulk checking",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://noparam.com",
         "Category": "Email"
     },
     {
