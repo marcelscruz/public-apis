@@ -1,5 +1,5 @@
 {
-"count": 1542,
+"count": 1543,
 "entries": [
     {
         "API": "Cat Facts",
@@ -8549,6 +8549,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://docs.cohere.ai/",
+        "Category": "Machine Learning"
+    },
+    {
+        "API": "CustomGPT.ai",
+        "Description": "RAG API with RESTful endpoints, comprehensive SDKs, and enterprise-grade reliability.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.customgpt.ai/reference/i-api-homepage",
         "Category": "Machine Learning"
     },
     {
