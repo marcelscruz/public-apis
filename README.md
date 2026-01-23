@@ -1298,6 +1298,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Finlight](https://finlight.me) | Realtime financial news with sentiment and article content | `apiKey`| Yes | Unknown |
 | [GNews](https://gnews.io/) | Search for news from various sources | `apiKey` | Yes | Yes |
 | [HackerNews Node](https://github.com/EdixonAlberto/api-hackernews-node) | Api to get related articles about Node.js in Hacker News | `apiKey` | Yes | No |
+| [HasData: Structured Web Data APIs](https://hasdata.com) | Real-time Google News, SERP, and Web Scraping APIs. Extract structured public data from any news outlet or search engine at scale without blocks | `apiKey` | Yes | No |
 | [Inshorts News](https://github.com/cyberboysumanjay/Inshorts-News-API) | Provides news from inshorts | No | Yes | Unknown |
 | [MarketAux](https://www.marketaux.com/) | Live stock market news with tagged tickers + sentiment and stats JSON API | `apiKey` | Yes | Yes |
 | [New York Times](https://developer.nytimes.com/) | The New York Times Developer Network | `apiKey` | Yes | Unknown |
