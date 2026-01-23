@@ -1,5 +1,5 @@
 {
-"count": 1546,
+"count": 1547,
 "entries": [
     {
         "API": "Cat Facts",
@@ -9116,6 +9116,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://github.com/EdixonAlberto/api-hackernews-node",
+        "Category": "News"
+    },
+    {
+        "API": "HasData: Structured Web Data APIs",
+        "Description": "Real-time Google News, SERP, and Web Scraping APIs. Extract structured public data from any news outlet or search engine at scale without blocks",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://hasdata.com",
         "Category": "News"
     },
     {
