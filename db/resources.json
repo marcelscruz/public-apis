@@ -5539,10 +5539,10 @@
     {
         "API": "LCBO",
         "Description": "Alcohol",
-        "Auth": "apiKey",
+        "Auth": "",
         "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://lcboapi.com/",
+        "Cors": "yes",
+        "Link": "https://lcbo.dev/",
         "Category": "Food & Drink"
     },
     {
