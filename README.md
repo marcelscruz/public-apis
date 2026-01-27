@@ -1291,6 +1291,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 ### News
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [APITube News API](https://apitube.io/) |  Monitor news sources from around the world in real-time. Get the latest news articles from more than 500,000 news sources in 60 languages.  | `apiKey` | Yes | Yes |
 | [Associated Press](https://developer.ap.org/) | Search for news and metadata from Associated Press | `apiKey` | Yes | Unknown |
 | [Chronicling America](http://chroniclingamerica.loc.gov/about/api/) | Provides access to millions of pages of historic US newspapers from the Library of Congress | No | No | Unknown |
 | [Currents](https://currentsapi.services/) | Latest news published in various news sources, blogs and forums | `apiKey` | Yes | Yes |
