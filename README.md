@@ -1305,7 +1305,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [News](https://newsapi.org/) | Headlines currently published on a range of news sources and blogs | `apiKey` | Yes | Unknown |
 | [NewsAPI.ai](https://www.newsapi.ai/documentation) | News API access to real-time and archive news content | `apiKey` | Yes | Yes |
 | [NewsData](https://newsdata.io/docs) | News data API for live-breaking news and headlines from reputed news sources | `apiKey` | Yes | Unknown |
-| [NewsDataHub API](https://newsdatahub.com) | News Data Hub's REST APs access hundreds of thousands of news articles and blogs in various languages, with intelligent data enrichment for advanced analysis | `apiKey` | Yes | Yes |
+| [NewsDataHub](https://newsdatahub.com) | NewsDataHub provides a production-ready REST API delivering near-real-time global news data at scale | `apiKey` | Yes | Yes |
 | [NewsMesh](https://newsmesh.co) | Access the news articles from trusted sources with real-time updates & powerful search capabilities | `apiKey` | Yes | Yes |
 | [NewsX](https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/) | Get or Search Latest Breaking News with ML Powered Summaries 🤖| `apiKey` | Yes | Unknown |
 | [RiskSentinel](https://risksentinel.ai) | AI-powered news intelligence API delivering structured events with risk assessment, sentiment analysis, company impacts, geo tagging, ai generated summary and more | `apiKey` | Yes | No |
