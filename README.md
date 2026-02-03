@@ -1452,6 +1452,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [PhotoRoom](https://www.photoroom.com/api/) | Remove background from images | `apiKey` | Yes | Unknown |
 | [Pixabay](https://pixabay.com/sk/service/about/api/) | Photography | `apiKey` | Yes | Unknown |
 | [PlaceKeanu](https://placekeanu.com/) | Resizable Keanu Reeves placeholder images with grayscale and young Keanu options | No | Yes | Unknown |
+| [Poof](https://docs.poof.bg) | Background removal API with simple REST calls | `apiKey` | Yes | Unknown |
 | [Readme typing SVG](https://github.com/DenverCoder1/readme-typing-svg) | Customizable typing and deleting text SVG | No | Yes | Unknown |
 | [Remove.bg](https://www.remove.bg/api) | Image Background removal | `apiKey` | Yes | Unknown |
 | [Remove Background from Images API](https://apyhub.com/utility/image-processor-remove-background) | This API helps you remove background from any image | `apiKey` | Yes | Yes |
