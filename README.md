@@ -78,6 +78,7 @@
 * [Jobs](#jobs)
 * [Machine Learning](#machine-learning)
 * [Music](#music)
+* [Natural Disaster](#natural-disaster)
 * [News](#news)
 * [Open Data](#open-data)
 * [Open Source Projects](#open-source-projects)
@@ -1285,6 +1286,15 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [TasteDive](https://tastedive.com/read/api) | Similar artist API (also works for movies and TV shows) | `apiKey` | Yes | Unknown |
 | [TheAudioDB](https://www.theaudiodb.com/api_guide.php) | Music | `apiKey` | Yes | Unknown |
 | [Vagalume](https://api.vagalume.com.br/docs/) | Crowdsourced lyrics and music knowledge | `apiKey` | Yes | Unknown |
+
+**[⬆ Back to Index](#index)**
+
+### Natural Disaster
+| API | Description | Auth | HTTPS | CORS |
+|---|---|---|---|---|
+| [Data Commons](https://datacommons.org/disasters) | Open source initiative from Google. Global disaster events and statistics data | `apiKey` | Yes | Unknown |
+| [GISTDA](https://disaster.gistda.or.th/services/open-api) | Thailand natural disaster information | `apiKey` | Yes | Unknown |
+| [NOAA NGDC](https://www.ngdc.noaa.gov/) | Natural hazards data including earthquakes, tsunamis, and volcanic eruptions | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
