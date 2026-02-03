@@ -1292,7 +1292,9 @@ like WhatsApp | `apiKey` | Yes | Yes |
 ### Natural Disaster
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [Data Commons](https://datacommons.org/disasters) | Open source initiative from Google. Global disaster events and statistics data | `apiKey` | Yes | Unknown |
 | [GISTDA](https://disaster.gistda.or.th/services/open-api) | Thailand natural disaster information | `apiKey` | Yes | Unknown |
+| [NOAA NGDC](https://www.ngdc.noaa.gov/) | Natural hazards data including earthquakes, tsunamis, and volcanic eruptions | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
