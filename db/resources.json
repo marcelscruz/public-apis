@@ -1,5 +1,5 @@
 {
-"count": 1547,
+"count": 1548,
 "entries": [
     {
         "API": "Cat Facts",
@@ -5084,6 +5084,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://dolarapi.com/docs/",
+        "Category": "Finance"
+    },
+    {
+        "API": "Earnings Feed",
+        "Description": "SEC filings, insider transactions, institutional holdings",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://earningsfeed.com/api/docs",
         "Category": "Finance"
     },
     {
