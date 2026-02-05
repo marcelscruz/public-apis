@@ -1,5 +1,5 @@
 {
-"count": 1548,
+"count": 1550,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2594,7 +2594,7 @@
         "Category": "Development"
     },
     {
-        "API": "ApyHub APIs: A Complete API Catalog",
+        "API": "ApyHub APIs: Secure APIs for Every Application",
         "Description": "Build and ship faster with 150+ APIs to connect to your application",
         "Auth": "apiKey",
         "HTTPS": true,
@@ -2789,6 +2789,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://corsfix.com/docs/cors-proxy/api",
+        "Category": "Development"
+    },
+    {
+        "API": "CSC to JSON API",
+        "Description": "Convert CSV files to JSON with this API. Ideal for developers who want to automate data workflows and integrate structured data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/converter-csv-json",
         "Category": "Development"
     },
     {
@@ -3266,6 +3275,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://macaddress.io/api",
+        "Category": "Development"
+    },
+    {
+        "API": "Markdown to JSON API",
+        "Description": "Upload Markdown and get JSON with one API call",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/converter-markdown-json",
         "Category": "Development"
     },
     {
