@@ -9209,8 +9209,8 @@
         "Category": "News"
     },
     {
-        "API": "NewsDataHub API",
-        "Description": "News Data Hub's REST APs access hundreds of thousands of news articles and blogs in various languages, with intelligent data enrichment for advanced analysis",
+        "API": "NewsDataHub",
+        "Description": "NewsDataHub provides a production-ready REST API delivering near-real-time global news data at scale",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
