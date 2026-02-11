@@ -1,5 +1,5 @@
 {
-"count": 1551,
+"count": 1550,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3527,15 +3527,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://quickchart.io/",
-        "Category": "Development"
-    },
-    {
-        "API": "Random Stuff",
-        "Description": "Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://api-docs.pgamerx.com/",
         "Category": "Development"
     },
     {
