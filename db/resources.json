@@ -1,5 +1,5 @@
 {
-"count": 1550,
+"count": 1549,
 "entries": [
     {
         "API": "Cat Facts",
@@ -12014,15 +12014,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.mockaroo.com/docs",
-        "Category": "Test Data"
-    },
-    {
-        "API": "QuickMocker",
-        "Description": "API mocking tool to generate contextual, fake or random data",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://quickmocker.com",
         "Category": "Test Data"
     },
     {
