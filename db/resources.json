@@ -1,5 +1,5 @@
 {
-"count": 1549,
+"count": 1550,
 "entries": [
     {
         "API": "Cat Facts",
@@ -989,6 +989,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/fedeperin/potterapi",
+        "Category": "Books"
+    },
+    {
+        "API": "Holy Bible API",
+        "Description": "Free Bible API serving 800+ text translations and 40+ audio translations",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://holy-bible-api.com/docs",
         "Category": "Books"
     },
     {
