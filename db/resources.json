@@ -1,5 +1,5 @@
 {
-"count": 1550,
+"count": 1551,
 "entries": [
     {
         "API": "Cat Facts",
@@ -1709,6 +1709,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/",
+        "Category": "Continuous Integration"
+    },
+    {
+        "API": "EC2.shop API",
+        "Description": "Get AWS service price right from your terminal",
+        "Auth": "",
+        "HTTPS": false,
+        "Cors": "no",
+        "Link": "https://github.com/yeo/ec2.shop",
         "Category": "Continuous Integration"
     },
     {
