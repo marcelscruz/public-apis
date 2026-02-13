@@ -1,5 +1,5 @@
 {
-"count": 1551,
+"count": 1552,
 "entries": [
     {
         "API": "Cat Facts",
@@ -10214,6 +10214,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://placekeanu.com/",
+        "Category": "Photography"
+    },
+    {
+        "API": "Poof",
+        "Description": "Image & video background removal API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://poof.bg",
         "Category": "Photography"
     },
     {
