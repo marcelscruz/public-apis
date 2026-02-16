@@ -34,6 +34,13 @@
 </div>
 
 <br/>
+
+<div>
+    <p align="center"><a href="https://bigdevsoon.me?ref=dr-pa&utm_medium=public-apis-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/bigdevsoon-dark-mode.svg" width="170px"><source media="(prefers-color-scheme: light)" srcset="./assets/bigdevsoon-light-mode.svg" width="170px"><img alt="BigDevSoon logo" src="./assets/bigdevsoon-dark-mode.svg" width="170px"></picture></a></p>
+    <p align="center"><a href="https://bigdevsoon.me?ref=dr-pa&utm_medium=public-apis-repo-readme">BigDevSoon</a>: Build real-world projects with Figma designs and an AI copilot in a zero-config browser IDE.</p>
+</div>
+
+<br/>
 <hr/>
 <br/>
 <br/>
