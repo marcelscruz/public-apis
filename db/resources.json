@@ -1,5 +1,5 @@
 {
-"count": 1552,
+"count": 1551,
 "entries": [
     {
         "API": "Cat Facts",
@@ -6155,15 +6155,6 @@
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://magicthegathering.io/",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "Marvel",
-        "Description": "Marvel Comics",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://developer.marvel.com",
         "Category": "Games & Comics"
     },
     {
