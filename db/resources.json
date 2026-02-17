@@ -7071,7 +7071,7 @@
         "Description": "Enhanced United States zip code information. Census, IRS, demographics, radius, distances and more",
         "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "unknown",
+        "Cors": "yes",
         "Link": "https://www.metadapi.com/API-Products/Zip-Code-API",
         "Category": "Geocoding"
     },
