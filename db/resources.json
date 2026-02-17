@@ -1,5 +1,5 @@
 {
-"count": 1535,
+"count": 1550,
 "entries": [
     {
         "API": "Cat Facts",
@@ -992,6 +992,15 @@
         "Category": "Books"
     },
     {
+        "API": "Holy Bible API",
+        "Description": "Free Bible API serving 800+ text translations and 40+ audio translations",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://holy-bible-api.com/docs",
+        "Category": "Books"
+    },
+    {
         "API": "Library Management",
         "Description": "Manage users, books, authors, loans and reviews",
         "Auth": "",
@@ -1709,6 +1718,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/",
+        "Category": "Continuous Integration"
+    },
+    {
+        "API": "EC2.shop API",
+        "Description": "Get AWS service price right from your terminal",
+        "Auth": "",
+        "HTTPS": false,
+        "Cors": "no",
+        "Link": "https://github.com/yeo/ec2.shop",
         "Category": "Continuous Integration"
     },
     {
@@ -2594,7 +2612,7 @@
         "Category": "Development"
     },
     {
-        "API": "ApyHub: The API Marketplace for Developers and Builders",
+        "API": "ApyHub APIs: Secure APIs for Every Application",
         "Description": "Build and ship faster with 150+ APIs to connect to your application",
         "Auth": "apiKey",
         "HTTPS": true,
@@ -2672,6 +2690,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://brainshop.ai/",
+        "Category": "Development"
+    },
+    {
+        "API": "Brand.dev",
+        "Description": "API to personalize your product with logos, colors, and company info from any domain",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.brand.dev/",
         "Category": "Development"
     },
     {
@@ -2783,6 +2810,15 @@
         "Category": "Development"
     },
     {
+        "API": "CSC to JSON API",
+        "Description": "Convert CSV files to JSON with this API. Ideal for developers who want to automate data workflows and integrate structured data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/converter-csv-json",
+        "Category": "Development"
+    },
+    {
         "API": "Databricks",
         "Description": "Service to manage your databricks account,clusters, notebooks, jobs and workspaces",
         "Auth": "apiKey",
@@ -2838,7 +2874,7 @@
     },
     {
         "API": "Format JSON Online Dummy API",
-        "Description": "– A free tool to generate dummy JSON data for testing and prototyping.",
+        "Description": "A free tool to generate dummy JSON data for testing and prototyping.",
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
@@ -3260,6 +3296,15 @@
         "Category": "Development"
     },
     {
+        "API": "Markdown to JSON API",
+        "Description": "Upload Markdown and get JSON with one API call",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/converter-markdown-json",
+        "Category": "Development"
+    },
+    {
         "API": "Markdown to HTML API",
         "Description": "This API lets you upload and transform a Markdown file to HTML",
         "Auth": "apiKey",
@@ -3494,15 +3539,6 @@
         "Category": "Development"
     },
     {
-        "API": "Random Stuff",
-        "Description": "Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://api-docs.pgamerx.com/",
-        "Category": "Development"
-    },
-    {
         "API": "Rejax",
         "Description": "Reverse AJAX service to notify clients",
         "Auth": "apiKey",
@@ -3725,6 +3761,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://sonarcloud.io/web_api",
+        "Category": "Development"
+    },
+    {
+        "API": "SQLable",
+        "Description": "CSV to JSONL conversion API",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://sqlable.com/csv-to-jsonl/",
         "Category": "Development"
     },
     {
@@ -4547,6 +4592,15 @@
         "Category": "Email"
     },
     {
+        "API": "NoParam",
+        "Description": "Email validation API for real-time & bulk checking",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://noparam.com",
+        "Category": "Email"
+    },
+    {
         "API": "Proweblook Email Checker",
         "Description": "Validate email addresses without sending",
         "Auth": "apiKey",
@@ -5060,6 +5114,15 @@
         "Category": "Finance"
     },
     {
+        "API": "Earnings Feed",
+        "Description": "SEC filings, insider transactions, institutional holdings",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://earningsfeed.com/api/docs",
+        "Category": "Finance"
+    },
+    {
         "API": "Econdb",
         "Description": "Global macroeconomic data",
         "Auth": "",
@@ -5512,10 +5575,10 @@
     {
         "API": "LCBO",
         "Description": "Alcohol",
-        "Auth": "apiKey",
+        "Auth": "",
         "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://lcboapi.com/",
+        "Cors": "yes",
+        "Link": "https://lcbo.dev/",
         "Category": "Food & Drink"
     },
     {
@@ -6092,15 +6155,6 @@
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://magicthegathering.io/",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "Marvel",
-        "Description": "Marvel Comics",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://developer.marvel.com",
         "Category": "Games & Comics"
     },
     {
@@ -7008,7 +7062,7 @@
         "Description": "Enhanced United States zip code information. Census, IRS, demographics, radius, distances and more",
         "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "unknown",
+        "Cors": "yes",
         "Link": "https://www.metadapi.com/API-Products/Zip-Code-API",
         "Category": "Geocoding"
     },
@@ -8552,6 +8606,15 @@
         "Category": "Machine Learning"
     },
     {
+        "API": "CustomGPT.ai",
+        "Description": "RAG API with RESTful endpoints, comprehensive SDKs, and enterprise-grade reliability.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.customgpt.ai/reference/i-api-homepage",
+        "Category": "Machine Learning"
+    },
+    {
         "API": "Dialogflow",
         "Description": "Natural Language Processing",
         "Auth": "apiKey",
@@ -9083,6 +9146,15 @@
         "Category": "News"
     },
     {
+        "API": "HasData: Structured Web Data APIs",
+        "Description": "Real-time Google News, SERP, and Web Scraping APIs. Extract structured public data from any news outlet or search engine at scale without blocks",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://hasdata.com",
+        "Category": "News"
+    },
+    {
         "API": "Inshorts News",
         "Description": "Provides news from inshorts",
         "Auth": "",
@@ -9137,8 +9209,8 @@
         "Category": "News"
     },
     {
-        "API": "NewsDataHub API",
-        "Description": "News Data Hub's REST APs access hundreds of thousands of news articles and blogs in various languages, with intelligent data enrichment for advanced analysis",
+        "API": "NewsDataHub",
+        "Description": "NewsDataHub provides a production-ready REST API delivering near-real-time global news data at scale",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
@@ -9884,21 +9956,21 @@
         "Category": "Personality"
     },
     {
-        "API": "WhoIsTheOldest",
-        "Description": "This application tracks and displays data about the oldest person currently alive and the oldest person ever recorded.",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "no",
-        "Link": "https://whoistheoldest.com",
-        "Category": "Personality"
-    },
-    {
         "API": "Zen Quotes",
         "Description": "Large collection of Zen quotes for inspiration",
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://zenquotes.io/",
+        "Category": "Personality"
+    },
+    {
+        "API": "Sentino Personality API",
+        "Description": "AI-powered personality profiling and psychology analysis using NLP and Big 5, NEO, HEXACO, DISC inventories",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://sentino.org/api/",
         "Category": "Personality"
     },
     {
@@ -9971,6 +10043,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apitemplate.io",
+        "Category": "Photography"
+    },
+    {
+        "API": "Change Image Background API",
+        "Description": "This API helps you change the background of any image",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/image-processor-change-background",
         "Category": "Photography"
     },
     {
@@ -10118,6 +10199,15 @@
         "Category": "Photography"
     },
     {
+        "API": "Poof",
+        "Description": "Image & video background removal API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://poof.bg",
+        "Category": "Photography"
+    },
+    {
         "API": "Readme typing SVG",
         "Description": "Customizable typing and deleting text SVG",
         "Auth": "",
@@ -10169,6 +10259,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://apidocs.sirv.com/",
+        "Category": "Photography"
+    },
+    {
+        "API": "Smart Adaptive Ultra-Fast Image Compressor & Converter",
+        "Description": "Compress, convert, and optimize images automatically with adaptive AI tuning",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/vintarok-vintarok-default/api/smart-adaptive-ultra-fast-image-compressor-converter",
         "Category": "Photography"
     },
     {
@@ -11540,6 +11639,15 @@
         "Category": "Sports & Fitness"
     },
     {
+        "API": "Fantasy Premier League",
+        "Description": "Fantasy Premier League data, including fixtures, teams, and player stats",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://github.com/flavnat/fpl-api",
+        "Category": "Sports & Fitness"
+    },
+    {
         "API": "Fitbit",
         "Description": "Fitbit Information",
         "Auth": "OAuth",
@@ -11918,15 +12026,6 @@
         "Category": "Test Data"
     },
     {
-        "API": "QuickMocker",
-        "Description": "API mocking tool to generate contextual, fake or random data",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://quickmocker.com",
-        "Category": "Test Data"
-    },
-    {
         "API": "Random Data",
         "Description": "Random data generator",
         "Auth": "",
@@ -12006,6 +12105,15 @@
         "Cors": "unknown",
         "Link": "https://yesno.wtf/api",
         "Category": "Test Data"
+    },
+    {
+        "API": "AI Text Moderation, Toxicity & Sentiment Analyzer",
+        "Description": "Detect sentiment, toxicity, and emotional aspects in text with AI moderation",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/vintarok-vintarok-default/api/ai-text-moderation-toxicity-aspects-sentiment-analyzer",
+        "Category": "Text Analysis"
     },
     {
         "API": "AI Translate text API",
@@ -12473,6 +12581,15 @@
         "HTTPS": false,
         "Cors": "no",
         "Link": "http://app.metrolisboa.pt/status/getLinhas.php",
+        "Category": "Transportation"
+    },
+    {
+        "API": "MTA",
+        "Description": "MTA Subway Realtime Feeds",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://api.mta.info/#/subwayRealTimeFeeds",
         "Category": "Transportation"
     },
     {
@@ -13160,6 +13277,15 @@
         "Category": "Video"
     },
     {
+        "API": "Extract Audio from Video API",
+        "Description": "This API helps you extract audio from any video at scale",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/job-extract-video-audio",
+        "Category": "Video"
+    },
+    {
         "API": "Final Space",
         "Description": "Final Space API",
         "Auth": "",
@@ -13310,6 +13436,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api",
+        "Category": "Video"
+    },
+    {
+        "API": "Rules of Acquisition",
+        "Description": "Ferengi Rules of Acquisition from Star Trek with episode references",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://rulesofacquisition.herokuapp.com/",
         "Category": "Video"
     },
     {
