@@ -1,5 +1,5 @@
 {
-"count": 1550,
+"count": 1551,
 "entries": [
     {
         "API": "Cat Facts",
@@ -9953,6 +9953,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://vadivelu.anoram.com/",
+        "Category": "Personality"
+    },
+    {
+        "API": "Vedika",
+        "Description": "AI-powered Vedic astrology API with birth charts, compatibility, doshas, AI chatbot in 22 languages",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://vedika.io",
         "Category": "Personality"
     },
     {
