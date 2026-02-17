@@ -1,5 +1,5 @@
 {
-"count": 1551,
+"count": 1550,
 "entries": [
     {
         "API": "Cat Facts",
@@ -9953,15 +9953,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://vadivelu.anoram.com/",
-        "Category": "Personality"
-    },
-    {
-        "API": "WhoIsTheOldest",
-        "Description": "This application tracks and displays data about the oldest person currently alive and the oldest person ever recorded.",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "no",
-        "Link": "https://whoistheoldest.com",
         "Category": "Personality"
     },
     {
