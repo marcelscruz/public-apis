@@ -1035,6 +1035,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [ipgeolocation](https://ipgeolocation.io/) | IP Geolocation AP with free plan 30k requests per month | `apiKey` | Yes | Yes |
 | [IPInfoDB](https://www.ipinfodb.com/api) | Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address | `apiKey` | Yes | Unknown |
 | [IPWhois](https://www.ipwhois.io/documentation) | Identify website, IP, or email owners with geolocation, reverse IP lookup, country insights, ASN data, and email verification | `apiKey` | Yes | Unknown |
+| [IPWho IP Geolocation API](https://www.ipwho.org/) | 2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency. | `apiKey` | Yes | Yes |
 | [Kakao Maps](https://apis.map.kakao.com) | Kakao Maps provide multiple APIs for Korean maps | `apiKey` | Yes | Unknown |
 | [keycdn IP Location Finder](https://tools.keycdn.com/geo) | Get the IP geolocation data through the simple REST API. All the responses are JSON encoded | `apiKey` | Yes | Unknown |
 | [LocationIQ](https://locationiq.org/docs/) | Provides forward/reverse geocoding and batch geocoding | `apiKey` | Yes | Yes |
