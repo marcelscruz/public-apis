@@ -49,7 +49,7 @@ Where:
 - Should be clear and concise
 
 ### 4. API Name Rules
-- Must NOT include the TLD (Top Level Domain) - e.g., ❌ "Gmail.com" ✔ "Gmail"
+- Must NOT include the TLD (top-level domain) - e.g., ❌ "Gmail.com" ✔ "Gmail"
 - Must NOT end with "API" - e.g., ❌ "Gmail API" ✔ "Gmail"
 
 ### 5. Alphabetical Ordering
@@ -58,7 +58,7 @@ Where:
 
 ### 6. PR Title Format
 - Must follow the pattern: "Add [API-name] API"
-- Example: "Add Blockchain API"
+- Example: "Add Blockchain API" (Note: The word "API" in the title is required by convention, even though API names themselves should not end with "API")
 
 ### 7. Commit Message
 - Should be descriptive, not generic
@@ -111,7 +111,7 @@ This pull request does not fully comply with the contributing guidelines. Please
 ...
 
 **Guidelines Reference:**
-Please review the [CONTRIBUTING.md](../CONTRIBUTING.md) for detailed guidelines.
+Please review the [CONTRIBUTING.md](../../CONTRIBUTING.md) for detailed guidelines.
 
 **Need Help?**
 If you have questions, please comment on this PR and a maintainer will assist you.
