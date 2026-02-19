@@ -1,5 +1,5 @@
 {
-"count": 1551,
+"count": 1552,
 "entries": [
     {
         "API": "Cat Facts",
@@ -7001,6 +7001,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.ipwhois.io/documentation",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "IPWho IP Geolocation API",
+        "Description": "2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.ipwho.org/",
         "Category": "Geocoding"
     },
     {
