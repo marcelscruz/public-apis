@@ -370,7 +370,7 @@
 ### Cryptocurrency
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [1inch](https://1inch.io/page-api/) | API for querying decentralize exchange | No | Yes | Unknown |
+| [1inch](https://business.1inch.com/) | API for querying decentralize exchange | `apiKey` | Yes | Yes |
 | [Alchemy Ethereum](https://docs.alchemy.com/alchemy/) | Ethereum Node-as-a-Service Provider | `apiKey` | Yes | Yes |
 | [Binance](https://github.com/binance/binance-spot-api-docs) | Exchange for Trading Cryptocurrencies based in China | `apiKey` | Yes | Unknown |
 | [BitcoinAverage](https://apiv2.bitcoinaverage.com/) | Digital Asset Price Data for the blockchain industry | `apiKey` | Yes | Unknown |
