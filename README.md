@@ -1469,6 +1469,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Remove.bg](https://www.remove.bg/api) | Image Background removal | `apiKey` | Yes | Unknown |
 | [Remove Background from Images API](https://apyhub.com/utility/image-processor-remove-background) | This API helps you remove background from any image | `apiKey` | Yes | Yes |
 | [ReSmush.it](https://resmush.it/api) | Photo optimization | No | No | Unknown |
+| [ShotOG](https://shotog.2214962083.workers.dev/docs) | Open-source OG image generation with 8 templates, custom fonts, and batch generation | `apiKey` | Yes | Yes |
 | [shutterstock](https://api-reference.shutterstock.com/) | Stock Photos and Videos | `OAuth`| Yes | Unknown |
 | [Sirv](https://apidocs.sirv.com/) | Image management solutions like optimization, manipulation, hosting | `apiKey` | Yes | Unknown |
 | [Smart Adaptive Ultra-Fast Image Compressor & Converter](https://rapidapi.com/vintarok-vintarok-default/api/smart-adaptive-ultra-fast-image-compressor-converter) | Compress, convert, and optimize images automatically with adaptive AI tuning | `apiKey` | Yes | Yes |
