@@ -1,5 +1,5 @@
 {
-"count": 1547,
+"count": 1552,
 "entries": [
     {
         "API": "Cat Facts",
@@ -992,6 +992,15 @@
         "Category": "Books"
     },
     {
+        "API": "Holy Bible API",
+        "Description": "Free Bible API serving 800+ text translations and 40+ audio translations",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://holy-bible-api.com/docs",
+        "Category": "Books"
+    },
+    {
         "API": "Library Management",
         "Description": "Manage users, books, authors, loans and reviews",
         "Auth": "",
@@ -1709,6 +1718,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/",
+        "Category": "Continuous Integration"
+    },
+    {
+        "API": "EC2.shop API",
+        "Description": "Get AWS service price right from your terminal",
+        "Auth": "",
+        "HTTPS": false,
+        "Cors": "no",
+        "Link": "https://github.com/yeo/ec2.shop",
         "Category": "Continuous Integration"
     },
     {
@@ -2594,7 +2612,7 @@
         "Category": "Development"
     },
     {
-        "API": "ApyHub APIs: A Complete API Catalog",
+        "API": "ApyHub APIs: Secure APIs for Every Application",
         "Description": "Build and ship faster with 150+ APIs to connect to your application",
         "Auth": "apiKey",
         "HTTPS": true,
@@ -2789,6 +2807,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://corsfix.com/docs/cors-proxy/api",
+        "Category": "Development"
+    },
+    {
+        "API": "CSC to JSON API",
+        "Description": "Convert CSV files to JSON with this API. Ideal for developers who want to automate data workflows and integrate structured data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/converter-csv-json",
         "Category": "Development"
     },
     {
@@ -3269,6 +3296,15 @@
         "Category": "Development"
     },
     {
+        "API": "Markdown to JSON API",
+        "Description": "Upload Markdown and get JSON with one API call",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/converter-markdown-json",
+        "Category": "Development"
+    },
+    {
         "API": "Markdown to HTML API",
         "Description": "This API lets you upload and transform a Markdown file to HTML",
         "Auth": "apiKey",
@@ -3500,15 +3536,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://quickchart.io/",
-        "Category": "Development"
-    },
-    {
-        "API": "Random Stuff",
-        "Description": "Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://api-docs.pgamerx.com/",
         "Category": "Development"
     },
     {
@@ -5087,6 +5114,15 @@
         "Category": "Finance"
     },
     {
+        "API": "Earnings Feed",
+        "Description": "SEC filings, insider transactions, institutional holdings",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://earningsfeed.com/api/docs",
+        "Category": "Finance"
+    },
+    {
         "API": "Econdb",
         "Description": "Global macroeconomic data",
         "Auth": "",
@@ -6122,15 +6158,6 @@
         "Category": "Games & Comics"
     },
     {
-        "API": "Marvel",
-        "Description": "Marvel Comics",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://developer.marvel.com",
-        "Category": "Games & Comics"
-    },
-    {
         "API": "Minecraft Server Status",
         "Description": "API to get Information about a Minecraft Server",
         "Auth": "",
@@ -6977,6 +7004,15 @@
         "Category": "Geocoding"
     },
     {
+        "API": "IPWho IP Geolocation API",
+        "Description": "2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.ipwho.org/",
+        "Category": "Geocoding"
+    },
+    {
         "API": "Kakao Maps",
         "Description": "Kakao Maps provide multiple APIs for Korean maps",
         "Auth": "apiKey",
@@ -7035,7 +7071,7 @@
         "Description": "Enhanced United States zip code information. Census, IRS, demographics, radius, distances and more",
         "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "unknown",
+        "Cors": "yes",
         "Link": "https://www.metadapi.com/API-Products/Zip-Code-API",
         "Category": "Geocoding"
     },
@@ -9182,8 +9218,8 @@
         "Category": "News"
     },
     {
-        "API": "NewsDataHub API",
-        "Description": "News Data Hub's REST APs access hundreds of thousands of news articles and blogs in various languages, with intelligent data enrichment for advanced analysis",
+        "API": "NewsDataHub",
+        "Description": "NewsDataHub provides a production-ready REST API delivering near-real-time global news data at scale",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
@@ -9929,12 +9965,12 @@
         "Category": "Personality"
     },
     {
-        "API": "WhoIsTheOldest",
-        "Description": "This application tracks and displays data about the oldest person currently alive and the oldest person ever recorded.",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "no",
-        "Link": "https://whoistheoldest.com",
+        "API": "Vedika",
+        "Description": "AI-powered Vedic astrology API with birth charts, compatibility, doshas, AI chatbot in 22 languages",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://vedika.io",
         "Category": "Personality"
     },
     {
@@ -10178,6 +10214,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://placekeanu.com/",
+        "Category": "Photography"
+    },
+    {
+        "API": "Poof",
+        "Description": "Image & video background removal API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://poof.bg",
         "Category": "Photography"
     },
     {
@@ -11612,6 +11657,15 @@
         "Category": "Sports & Fitness"
     },
     {
+        "API": "Fantasy Premier League",
+        "Description": "Fantasy Premier League data, including fixtures, teams, and player stats",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://github.com/flavnat/fpl-api",
+        "Category": "Sports & Fitness"
+    },
+    {
         "API": "Fitbit",
         "Description": "Fitbit Information",
         "Auth": "OAuth",
@@ -11987,15 +12041,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.mockaroo.com/docs",
-        "Category": "Test Data"
-    },
-    {
-        "API": "QuickMocker",
-        "Description": "API mocking tool to generate contextual, fake or random data",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://quickmocker.com",
         "Category": "Test Data"
     },
     {
