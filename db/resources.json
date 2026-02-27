@@ -2357,7 +2357,8 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://fxratesapi.com/",
-        "Category": "Currency Exchange"
+        "Category": "Currency Exchange",
+        "icon": "https://fxratesapi.com/favicon.ico"
     },
     {
         "API": "FyGraph",
