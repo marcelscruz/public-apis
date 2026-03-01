@@ -1514,6 +1514,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [CORE](https://core.ac.uk/services#api) | Access the world's Open Access research papers | `apiKey` | Yes | Unknown |
 | [GBIF](https://www.gbif.org/developer/summary) | Global Biodiversity Information Facility | No | Yes | Yes |
 | [iDigBio](https://github.com/idigbio/idigbio-search-api/wiki) | Access millions of museum specimens from organizations around the world | No | Yes | Unknown |
+| [iNaturalist](https://api.inaturalist.org/v1/docs/) | Citizen science biodiversity observations and species identification | No | Yes | Yes |
 | [inspirehep.net](https://github.com/inspirehep/rest-api-doc) | High Energy Physics info. system | No | Yes | Unknown |
 | [isEven (humor)](https://isevenapi.xyz/) | Check if a number is even | No | Yes | Unknown |
 | [ISRO](https://isro.vercel.app) | ISRO Space Crafts Information | No | Yes | No |
