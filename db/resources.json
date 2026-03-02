@@ -1,5 +1,5 @@
 {
-"count": 1554,
+"count": 1555,
 "entries": [
     {
         "API": "Cat Facts",
@@ -8999,6 +8999,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2",
+        "Category": "Music"
+    },
+    {
+        "API": "MusicGPT",
+        "Description": "AI Music Generator with text-to-speech, voice changer, remix & 20+ music features.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://musicgpt.com/api",
         "Category": "Music"
     },
     {
