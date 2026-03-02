@@ -1,5 +1,5 @@
 {
-"count": 1555,
+"count": 1556,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2303,6 +2303,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.awesomeapi.com.br/api-de-moedas",
+        "Category": "Currency Exchange"
+    },
+    {
+        "API": "EuroRates",
+        "Description": "Exchange rates for EUR pairs, historical and real-time data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://euroratesapi.dev/",
         "Category": "Currency Exchange"
     },
     {
