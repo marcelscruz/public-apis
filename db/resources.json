@@ -2621,8 +2621,8 @@
         "Category": "Development"
     },
     {
-        "API": "ApyHub APIs: Secure APIs for Every Application",
-        "Description": "Build and ship faster with 150+ APIs to connect to your application",
+        "API": "ApyHub: A Complete API Catalog",
+        "Description": "Build and ship applications that scale using certified APIs for every use case",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
