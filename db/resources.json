@@ -1,5 +1,5 @@
 {
-"count": 1556,
+"count": 1558,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4238,6 +4238,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://developer.ilovepdf.com/",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Invoice Parsing API",
+        "Description": "Extract structured invoice data using AI with this API. Multiple formats supported",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/sharpapi-ai-invoice-parser",
         "Category": "Documents & Productivity"
     },
     {
@@ -10115,6 +10124,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://cheetaho.com/docs/getting-started",
+        "Category": "Photography"
+    },
+    {
+        "API": "Convert Images to PDF API",
+        "Description": "Convert any image to a PDF without losing quality with one API call",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/converter-image-pdf",
         "Category": "Photography"
     },
     {
