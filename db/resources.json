@@ -1,5 +1,5 @@
 {
-"count": 1558,
+"count": 1557,
 "entries": [
     {
         "API": "Cat Facts",
@@ -539,15 +539,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://colormagic.app/api",
-        "Category": "Art & Design"
-    },
-    {
-        "API": "Colormind",
-        "Description": "Color scheme generator",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://colormind.io/api-access/",
         "Category": "Art & Design"
     },
     {
