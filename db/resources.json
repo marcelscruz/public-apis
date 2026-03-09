@@ -1,5 +1,5 @@
 {
-"count": 1557,
+"count": 1558,
 "entries": [
     {
         "API": "Cat Facts",
@@ -5237,6 +5237,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule",
+        "Category": "Finance"
+    },
+    {
+        "API": "FXMacroData",
+        "Description": "Real-time forex macroeconomic API for all major currency pairs sourced from central bank announcements",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://fxmacrodata.com/",
         "Category": "Finance"
     },
     {
