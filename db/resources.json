@@ -1,5 +1,5 @@
 {
-"count": 1558,
+"count": 1559,
 "entries": [
     {
         "API": "Cat Facts",
@@ -8702,6 +8702,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://docs.gladia.io",
+        "Category": "Machine Learning"
+    },
+    {
+        "API": "HOL Registry Broker",
+        "Description": "Discovery API for AI agents & MCP servers (search, verify, UAID, chat)",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://hol.org/docs/registry-broker/",
         "Category": "Machine Learning"
     },
     {
