@@ -633,6 +633,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [YAMLine](https://yamline.com/json/) | Convert YAML to JSON (on-the-fly) | No | Yes | Yes |
 | [ZenRows](https://www.zenrows.com/) | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies | `apiKey`| Yes | Unknown |
 | [Zuplo](https://zuplo.com/) | API platform for Development, Deployment, and Docs - add auth, rate-limiting, and monetization fast | `apiKey`| Yes | Unknown |
+| [Agify](https://agify.io) | Predict age based on a name | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
