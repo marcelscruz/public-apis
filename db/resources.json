@@ -1,5 +1,5 @@
 {
-"count": 1559,
+"count": 1560,
 "entries": [
     {
         "API": "Cat Facts",
@@ -9144,6 +9144,15 @@
         "Cors": "unknown",
         "Link": "https://api.vagalume.com.br/docs/",
         "Category": "Music"
+    },
+    {
+        "API": "APITube News API",
+        "Description": "Monitor news sources from around the world in real-time. Get the latest news articles from more than 500,000 news sources in 60 languages.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apitube.io/",
+        "Category": "News"
     },
     {
         "API": "Associated Press",
