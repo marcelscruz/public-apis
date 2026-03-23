@@ -1049,6 +1049,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [MapQuest](https://developer.mapquest.com/) | To access tools and resources to map the world | `apiKey` | Yes | No |
 | [Metadapi Zip Code](https://www.metadapi.com/API-Products/Zip-Code-API) | Enhanced United States zip code information. Census, IRS, demographics, radius, distances and more | `apiKey` | Yes | Yes |
 | [Mexico](https://github.com/IcaliaLabs/sepomex) | Mexico RESTful zip codes API | No | Yes | Unknown |
+| [MyAddress](https://myaddress.ai/docs) | Address autocomplete and geocoding engine | No | Yes | Yes |
 | [Nominatim](https://nominatim.org/release-docs/latest/api/Overview/) | Provides worldwide forward / reverse geocoding | No | Yes | Yes |
 | [One Map, Singapore](https://www.onemap.gov.sg/docs/) | Singapore Land Authority REST API services for Singapore addresses | `apiKey` | Yes | Unknown |
 | [OnWater](https://onwater.io/) | Determine if a lat/lon is on water or land | No | Yes | Unknown |
