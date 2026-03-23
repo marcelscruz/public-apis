@@ -476,6 +476,7 @@
 ### Development
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [PageDrop](https://pagedrop.dev/docs) | Free instant HTML hosting API | No | Yes | Yes |
 | [24 Pull Requests](https://24pullrequests.com/api) | Project to promote open source collaboration during December | No | Yes | Yes |
 | [Abacus](https://abacus.jasoncameron.dev/) | Free and simple counting service. You can use it to track page hits and specific events | No | Yes | Yes |
 | [Abstract Screenshot](https://www.abstractapi.com/website-screenshot-api) | Take programmatic screenshots of web pages from any website | `apiKey`| Yes | Yes |
