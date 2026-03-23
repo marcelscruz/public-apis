@@ -800,6 +800,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 ### Finance
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [Faktuj](https://faktuj.pl/docs) | Free Polish VAT invoice generator API | No | Yes | Yes |
 | [Abstract VAT Validation](https://www.abstractapi.com/vat-validation-rates-api) | Validate VAT numbers and calculate VAT rates | `apiKey` | Yes | Yes |
 | [Aletheia](https://aletheiaapi.com/) | Insider trading data, earnings call analysis, financial statements, and more | `apiKey` | Yes | Yes |
 | [Alpha Vantage](https://www.alphavantage.co/) | Realtime and historical stock data | `apiKey` | Yes | Unknown |
