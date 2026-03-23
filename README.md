@@ -615,6 +615,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Shadify](https://github.com/cheatsnake/shadify) | Service for generating data and executing logic to create various games and puzzles | No | Yes | Yes |
 | [Sheet2API](https://sheet2api.com/) | Easy Google Sheets and Excel Online API | `apiKey`| Yes | Unknown |
 | [Sheetsu](https://sheetsu.com/) | Easy google sheets integration | `apiKey`| Yes | Unknown |
+| [SnapAPI](https://api-snap.com) | Developer utility API with 13+ tools: QR codes, screenshots, image processing, hashing, and more | `apiKey` | Yes | Yes |
 | [Sonar](https://github.com/Cgboal/SonarSearch) | Project Sonar DNS Enumeration API | No | Yes | Yes |
 | [SonarQube](https://sonarcloud.io/web_api) | SonarQube REST APIs to detect bugs, code smells & security vulnerabilities | `OAuth` | Yes | Unknown |
 | [SQLable](https://sqlable.com/csv-to-jsonl/) | CSV to JSONL conversion API | No | Yes | Yes |
