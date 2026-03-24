@@ -1,5 +1,5 @@
 {
-"count": 1550,
+"count": 1563,
 "entries": [
     {
         "API": "Cat Facts",
@@ -542,15 +542,6 @@
         "Category": "Art & Design"
     },
     {
-        "API": "Colormind",
-        "Description": "Color scheme generator",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://colormind.io/api-access/",
-        "Category": "Art & Design"
-    },
-    {
         "API": "ColourLovers",
         "Description": "Get various patterns, palettes and images",
         "Auth": "",
@@ -992,6 +983,15 @@
         "Category": "Books"
     },
     {
+        "API": "Holy Bible API",
+        "Description": "Free Bible API serving 800+ text translations and 40+ audio translations",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://holy-bible-api.com/docs",
+        "Category": "Books"
+    },
+    {
         "API": "Library Management",
         "Description": "Manage users, books, authors, loans and reviews",
         "Auth": "",
@@ -1331,6 +1331,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.trello.com/",
+        "Category": "Business"
+    },
+    {
+        "API": "USPTO Trademark",
+        "Description": "Trademark keyword search, availability, owner, serial search, attorney info, MCP ready",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/pentium10/api/uspto-trademark",
         "Category": "Business"
     },
     {
@@ -1712,6 +1721,15 @@
         "Category": "Continuous Integration"
     },
     {
+        "API": "EC2.shop API",
+        "Description": "Get AWS service price right from your terminal",
+        "Auth": "",
+        "HTTPS": false,
+        "Cors": "no",
+        "Link": "https://github.com/yeo/ec2.shop",
+        "Category": "Continuous Integration"
+    },
+    {
         "API": "Travis CI",
         "Description": "Sync your GitHub projects with Travis CI to test your code in minutes",
         "Auth": "apiKey",
@@ -1723,10 +1741,10 @@
     {
         "API": "1inch",
         "Description": "API for querying decentralize exchange",
-        "Auth": "",
+        "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://1inch.io/page-api/",
+        "Cors": "yes",
+        "Link": "https://business.1inch.com/",
         "Category": "Cryptocurrency"
     },
     {
@@ -2288,6 +2306,15 @@
         "Category": "Currency Exchange"
     },
     {
+        "API": "EuroRates",
+        "Description": "Exchange rates for EUR pairs, historical and real-time data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://euroratesapi.dev/",
+        "Category": "Currency Exchange"
+    },
+    {
         "API": "ExchangeRate-API",
         "Description": "Free currency conversion",
         "Auth": "apiKey",
@@ -2594,8 +2621,8 @@
         "Category": "Development"
     },
     {
-        "API": "ApyHub APIs: Secure APIs for Every Application",
-        "Description": "Build and ship faster with 150+ APIs to connect to your application",
+        "API": "ApyHub: A Complete API Catalog",
+        "Description": "Build and ship applications that scale using certified APIs for every use case",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
@@ -3251,15 +3278,6 @@
         "Category": "Development"
     },
     {
-        "API": "License-API",
-        "Description": "Unofficial REST API for choosealicense.com",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://github.com/cmccandless/license-api/blob/master/README.md",
-        "Category": "Development"
-    },
-    {
         "API": "Lua Decompiler",
         "Description": "Online Lua 5.1 Decompiler",
         "Auth": "",
@@ -3368,6 +3386,15 @@
         "Category": "Development"
     },
     {
+        "API": "Olostep",
+        "Description": "AI-native web search, scraping, and crawling API that delivers clean, structured, real-time web data. Used by top AI companies",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.olostep.com",
+        "Category": "Development"
+    },
+    {
         "API": "OneSignal",
         "Description": "Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App",
         "Auth": "apiKey",
@@ -3392,6 +3419,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://hub.openapihub.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "PayUs-as-a-Service (PUaaS)",
+        "Description": "A self-hostable API that returns randomized messages for past-due invoices",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://github.com/sticknologic/payus-as-a-service",
         "Category": "Development"
     },
     {
@@ -3521,15 +3557,6 @@
         "Category": "Development"
     },
     {
-        "API": "Random Stuff",
-        "Description": "Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://api-docs.pgamerx.com/",
-        "Category": "Development"
-    },
-    {
         "API": "Rejax",
         "Description": "Reverse AJAX service to notify clients",
         "Auth": "apiKey",
@@ -3644,6 +3671,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://screenshotone.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "Screenshot Scout",
+        "Description": "Screenshot API for developers that captures any URL in one HTTP request with predictable output",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://screenshotscout.com/",
         "Category": "Development"
     },
     {
@@ -4214,6 +4250,15 @@
         "Category": "Documents & Productivity"
     },
     {
+        "API": "Invoice Parsing API",
+        "Description": "Extract structured invoice data using AI with this API. Multiple formats supported",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/sharpapi-ai-invoice-parser",
+        "Category": "Documents & Productivity"
+    },
+    {
         "API": "JIRA",
         "Description": "JIRA is a proprietary issue tracking product that allows bug tracking and agile project management",
         "Auth": "OAuth",
@@ -4229,6 +4274,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.mattermost.com/",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "MConverter",
+        "Description": "File converter and PDF compressor. Extract images from video, convert documents, Markdown and more",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://dev.mconverter.eu/",
         "Category": "Documents & Productivity"
     },
     {
@@ -5204,6 +5258,15 @@
         "Category": "Finance"
     },
     {
+        "API": "FXMacroData",
+        "Description": "Real-time forex macroeconomic API for all major currency pairs sourced from central bank announcements",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://fxmacrodata.com/",
+        "Category": "Finance"
+    },
+    {
         "API": "IEX Cloud",
         "Description": "Realtime & Historical Stock and Market Data",
         "Auth": "apiKey",
@@ -6149,15 +6212,6 @@
         "Category": "Games & Comics"
     },
     {
-        "API": "Marvel",
-        "Description": "Marvel Comics",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://developer.marvel.com",
-        "Category": "Games & Comics"
-    },
-    {
         "API": "Minecraft Server Status",
         "Description": "API to get Information about a Minecraft Server",
         "Auth": "",
@@ -7004,6 +7058,15 @@
         "Category": "Geocoding"
     },
     {
+        "API": "IPWho IP Geolocation API",
+        "Description": "2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.ipwho.org/",
+        "Category": "Geocoding"
+    },
+    {
         "API": "Kakao Maps",
         "Description": "Kakao Maps provide multiple APIs for Korean maps",
         "Auth": "apiKey",
@@ -7062,7 +7125,7 @@
         "Description": "Enhanced United States zip code information. Census, IRS, demographics, radius, distances and more",
         "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "unknown",
+        "Cors": "yes",
         "Link": "https://www.metadapi.com/API-Products/Zip-Code-API",
         "Category": "Geocoding"
     },
@@ -8660,6 +8723,15 @@
         "Category": "Machine Learning"
     },
     {
+        "API": "HOL Registry Broker",
+        "Description": "Discovery API for AI agents & MCP servers (search, verify, UAID, chat)",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://hol.org/docs/registry-broker/",
+        "Category": "Machine Learning"
+    },
+    {
         "API": "Imagga",
         "Description": "Image Recognition Solutions like Tagging, Visual Search, NSFW moderation",
         "Auth": "apiKey",
@@ -8975,6 +9047,15 @@
         "Category": "Music"
     },
     {
+        "API": "MusicGPT",
+        "Description": "AI Music Generator with text-to-speech, voice changer, remix & 20+ music features.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://musicgpt.com/api",
+        "Category": "Music"
+    },
+    {
         "API": "Musixmatch",
         "Description": "Music",
         "Auth": "apiKey",
@@ -9081,6 +9162,15 @@
         "Cors": "unknown",
         "Link": "https://api.vagalume.com.br/docs/",
         "Category": "Music"
+    },
+    {
+        "API": "APITube News API",
+        "Description": "Monitor news sources from around the world in real-time. Get the latest news articles from more than 500,000 news sources in 60 languages.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apitube.io/",
+        "Category": "News"
     },
     {
         "API": "Associated Press",
@@ -9209,8 +9299,8 @@
         "Category": "News"
     },
     {
-        "API": "NewsDataHub API",
-        "Description": "News Data Hub's REST APs access hundreds of thousands of news articles and blogs in various languages, with intelligent data enrichment for advanced analysis",
+        "API": "NewsDataHub",
+        "Description": "NewsDataHub provides a production-ready REST API delivering near-real-time global news data at scale",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
@@ -9956,12 +10046,12 @@
         "Category": "Personality"
     },
     {
-        "API": "WhoIsTheOldest",
-        "Description": "This application tracks and displays data about the oldest person currently alive and the oldest person ever recorded.",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "no",
-        "Link": "https://whoistheoldest.com",
+        "API": "Vedika",
+        "Description": "AI-powered Vedic astrology API with birth charts, compatibility, doshas, AI chatbot in 22 languages",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://vedika.io",
         "Category": "Personality"
     },
     {
@@ -10070,6 +10160,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://cheetaho.com/docs/getting-started",
+        "Category": "Photography"
+    },
+    {
+        "API": "Convert Images to PDF API",
+        "Description": "Convert any image to a PDF without losing quality with one API call",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/converter-image-pdf",
         "Category": "Photography"
     },
     {
@@ -10208,6 +10307,15 @@
         "Category": "Photography"
     },
     {
+        "API": "Poof",
+        "Description": "Image & video background removal API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://poof.bg",
+        "Category": "Photography"
+    },
+    {
         "API": "Readme typing SVG",
         "Description": "Customizable typing and deleting text SVG",
         "Auth": "",
@@ -10241,6 +10349,15 @@
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://resmush.it/api",
+        "Category": "Photography"
+    },
+    {
+        "API": "ShotOG",
+        "Description": "Open-source OG image generation with 8 templates, custom fonts, and batch generation",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://shotog.2214962083.workers.dev/docs",
         "Category": "Photography"
     },
     {
@@ -11639,6 +11756,15 @@
         "Category": "Sports & Fitness"
     },
     {
+        "API": "Fantasy Premier League",
+        "Description": "Fantasy Premier League data, including fixtures, teams, and player stats",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://github.com/flavnat/fpl-api",
+        "Category": "Sports & Fitness"
+    },
+    {
         "API": "Fitbit",
         "Description": "Fitbit Information",
         "Auth": "OAuth",
@@ -12014,15 +12140,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.mockaroo.com/docs",
-        "Category": "Test Data"
-    },
-    {
-        "API": "QuickMocker",
-        "Description": "API mocking tool to generate contextual, fake or random data",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://quickmocker.com",
         "Category": "Test Data"
     },
     {
