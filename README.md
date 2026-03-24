@@ -228,6 +228,7 @@
 ### Blockchain
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [Blockscout](https://docs.blockscout.com/devs/apis) | Multi-chain explorer for Ethereum and 100+ EVM chains | `apiKey` | Yes | Yes |
 | [Bitquery](https://graphql.bitquery.io/ide) | Onchain GraphQL APIs & DEX APIs | `apiKey` | Yes | Yes |
 | [Bscscan](https://bscscan.com/apis) | Binance Smart Chain explorer API | `apiKey` | Yes | Yes |
 | [Chainlink](https://chain.link/developer-resources) | Build hybrid smart contracts with Chainlink | No | Yes | Unknown |
