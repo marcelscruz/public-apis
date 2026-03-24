@@ -1,5 +1,5 @@
 {
-"count": 1562,
+"count": 1563,
 "entries": [
     {
         "API": "Cat Facts",
@@ -1331,6 +1331,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.trello.com/",
+        "Category": "Business"
+    },
+    {
+        "API": "USPTO Trademark",
+        "Description": "Trademark keyword search, availability, owner, serial search, attorney info, MCP ready",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/pentium10/api/uspto-trademark",
         "Category": "Business"
     },
     {
