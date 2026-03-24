@@ -1,5 +1,5 @@
 {
-"count": 1561,
+"count": 1562,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3383,6 +3383,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md",
+        "Category": "Development"
+    },
+    {
+        "API": "Olostep",
+        "Description": "AI-native web search, scraping, and crawling API that delivers clean, structured, real-time web data. Used by top AI companies",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.olostep.com",
         "Category": "Development"
     },
     {
