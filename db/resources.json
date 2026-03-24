@@ -1,5 +1,5 @@
 {
-"count": 1563,
+"count": 1562,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3275,15 +3275,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://kroki.io",
-        "Category": "Development"
-    },
-    {
-        "API": "License-API",
-        "Description": "Unofficial REST API for choosealicense.com",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://github.com/cmccandless/license-api/blob/master/README.md",
         "Category": "Development"
     },
     {
