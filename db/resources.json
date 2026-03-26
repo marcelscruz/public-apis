@@ -7050,11 +7050,11 @@
     },
     {
         "API": "IPWhois",
-        "Description": "Identify website, IP, or email owners with geolocation, reverse IP lookup, country insights, ASN data, and email verification",
+        "Description": "IP geolocation and IP intelligence API providing location, ISP, ASN, and proxy detection data for IPv4 and IPv6 addresses",
         "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.ipwhois.io/documentation",
+        "Cors": "yes",
+        "Link": "https://ipwhois.io",
         "Category": "Geocoding"
     },
     {
