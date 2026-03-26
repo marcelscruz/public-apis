@@ -454,6 +454,7 @@
 | [Unirate](https://unirateapi.com) | Free Exchange Rates and Currency Conversion | apiKey | Yes | Yes |
 | [VATComply.com](https://www.vatcomply.com/documentation) | Exchange rates, geolocation and VAT number validation | No | Yes | Yes |
 | [Convert Currency to Multiple Currencies](https://apyhub.com/utility/currency-conversion-multiple) | Convert currencies from a source currency to multiple target currencies. | `apiKey` | Yes | Yes |
+| [RealMarketAPI](https://realmarketapi.com/docs) | Access real-time gold, forex, crypto, and stock market data with ultra-low latency and simple REST endpoints. | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
