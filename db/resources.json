@@ -1,5 +1,5 @@
 {
-"count": 1563,
+"count": 1566,
 "entries": [
     {
         "API": "Cat Facts",
@@ -13835,6 +13835,15 @@
         "Category": "Weather"
     },
     {
+        "API": "Data Commons",
+        "Description": "Open source initiative from Google. Global disaster events and statistics data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://datacommons.org/disasters",
+        "Category": "Weather"
+    },
+    {
         "API": "Euskalmet",
         "Description": "Meteorological data of the Basque Country",
         "Auth": "apiKey",
@@ -13850,6 +13859,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.foreca.com",
+        "Category": "Weather"
+    },
+    {
+        "API": "GISTDA",
+        "Description": "Thailand natural disaster information",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://disaster.gistda.or.th/services/open-api",
         "Category": "Weather"
     },
     {
@@ -13922,6 +13940,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.metoffice.gov.uk/services/data/datapoint/",
+        "Category": "Weather"
+    },
+    {
+        "API": "NOAA NGDC",
+        "Description": "Natural hazards data including earthquakes, tsunamis, and volcanic eruptions",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.ngdc.noaa.gov/",
         "Category": "Weather"
     },
     {
