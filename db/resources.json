@@ -1,5 +1,5 @@
 {
-"count": 1566,
+"count": 1567,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3311,6 +3311,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/converter-md-html",
+        "Category": "Development"
+    },
+    {
+        "API": "MetaScrape",
+        "Description": "Extract metadata, Open Graph tags, and structured data from any URL",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://metascrape.shanecode.org",
         "Category": "Development"
     },
     {
