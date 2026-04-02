@@ -690,6 +690,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Notion](https://developers.notion.com/docs/getting-started) | Integrate with Notion | `OAuth`| Yes | Unknown |
 | [OCR AI](https://ocrai.xyz) | Document validation API using OCR and AI. Automatically extracts data from documents  and compares it with user-provided data to verify consistency | `apiKey`| Yes | No |
 | [PandaDoc](https://developers.pandadoc.com) | DocGen and eSignatures API | `apiKey` | Yes | No |
+| [PaperClean](https://paperclean.ip1.cc/api/docs) | Clean document photos for printing, remove shadows and fix lighting | `apiKey` | Yes | Yes |
 | [Paraphrase Text API](https://apyhub.com/utility/sharpapi-paraphrase-text) | The Paraphrase Text Generator API generates a paraphrased version of the provided text | `apiKey` | Yes | Yes |
 | [Pdfblocks](https://pdfblocks.com) | Generate PDF documents using API | `apiKey` | Yes | Yes |
 | [PDFEndpoint](https://pdfendpoint.com) | HTML and URL to PDF API | `apiKey` | Yes | No |
