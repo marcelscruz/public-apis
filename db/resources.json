@@ -14112,5 +14112,35 @@
         "Cors": "no",
         "Link": "https://yandex.com/dev/weather/",
         "Category": "Weather"
-    }
+    },
+    {
+        "API": "Tavily",
+        "Description": "AI-powered search API for real-time web results",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "Unknown",
+        "Link": "https://tavily.com/",
+        "Category": "Search"
+    },
+
+    {
+        "API": "SerpAPI",
+        "Description": "Google search results API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "Unknown",
+        "Link": "https://serpapi.com/",
+        "Category": "Search"
+    },
+    {
+        "API": "Zenserp",
+        "Description": "Search engine results API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "Yes",
+        "Link": "https://zenserp.com/",
+        "Category": "Search"
+}
+
+
 ]}
