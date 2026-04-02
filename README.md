@@ -1208,6 +1208,12 @@ like WhatsApp | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
+### Search
+
+- **[Tavily](https://tavily.com/)** - AI-powered search API for real-time web results (Auth: apiKey)
+- **[SerpAPI](https://serpapi.com/)** - Google search results API (Auth: apiKey)
+
+
 ### Jobs
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
