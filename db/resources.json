@@ -1,5 +1,5 @@
 {
-"count": 1568,
+"count": 1569,
 "entries": [
     {
         "API": "Cat Facts",
@@ -1970,6 +1970,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://coinremitter.com/docs",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "CoinStats",
+        "Description": "Blockchain and DeFi across 120+ chains, market, historical data, portfolio tracking, news, sentiment, MCP, and agent skills",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://coinstats.app/api-docs/",
         "Category": "Cryptocurrency"
     },
     {
