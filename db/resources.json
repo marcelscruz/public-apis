@@ -1,5 +1,5 @@
 {
-"count": 1567,
+"count": 1568,
 "entries": [
     {
         "API": "Cat Facts",
@@ -11834,6 +11834,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://highlightly.net/documentation/hockey/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "iSports API",
+        "Description": "Provide live and historical sports data of global competitions, like live score, fixtures, player & match stats, database etc.",
+        "Auth": "apiKey",
+        "HTTPS": false,
+        "Cors": "yes",
+        "Link": "https://isportsapi.com/",
         "Category": "Sports & Fitness"
     },
     {
