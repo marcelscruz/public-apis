@@ -1295,7 +1295,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Mubert AI Music API](https://landing.mubert.com) | Integrate AI music into your app, game or service | `apiKey`| Yes | Unknown |
 | [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) | Music | No | Yes | Unknown |
 | [MusicGPT](https://musicgpt.com/api) | AI Music Generator with text-to-speech, voice changer, remix & 20+ music features. | `apiKey` | Yes | Yes |
-| [Musixmatch](https://developer.musixmatch.com/) | Music | `apiKey` | Yes | Unknown |
+| [Musixmatch](https://www.musixmatch.com/pro/api/) | Access lyrics, subtitles and music data | `apiKey` | Yes | Yes |
 | [Napster](https://developer.napster.com/api/v2.2) | Music | `apiKey` | Yes | Yes |
 | [Openwhyd](https://openwhyd.github.io/openwhyd/API) | Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...) | No | Yes | No |
 | [Phishin](https://phish.in/api-docs) | A web-based archive of legal live audio recordings of the improvisational rock band Phish | `apiKey` | Yes | No |
