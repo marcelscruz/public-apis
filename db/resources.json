@@ -1,5 +1,5 @@
 {
-"count": 1570,
+"count": 1571,
 "entries": [
     {
         "API": "Cat Facts",
@@ -6245,6 +6245,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://api.mcsrvstat.us",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "Minecraft ServerHub",
+        "Description": "Minecraft server status, player counts, MOTD, and live status badges",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://minecraft-serverhub.com/developers",
         "Category": "Games & Comics"
     },
     {
