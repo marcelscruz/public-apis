@@ -1,5 +1,5 @@
 {
-"count": 1571,
+"count": 1573,
 "entries": [
     {
         "API": "Cat Facts",
@@ -4205,6 +4205,15 @@
         "Category": "Documents & Productivity"
     },
     {
+        "API": "DocForge",
+        "Description": "Convert between Markdown, HTML, CSV, JSON, and YAML formats",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docforge-api.vercel.app",
+        "Category": "Documents & Productivity"
+    },
+    {
         "API": "CV / Resume Parsing API",
         "Description": "The Resume Parser API parses a resume (CV) file from multiple formats (PDF/DOC/DOCX/TXT/RTF) and returns an extensive object of data points",
         "Auth": "apiKey",
@@ -4400,6 +4409,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://prexview.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "ReportForge",
+        "Description": "Generate styled HTML reports from CSV or JSON data with built-in templates",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://reportforge-api.vercel.app",
         "Category": "Documents & Productivity"
     },
     {
