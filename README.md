@@ -1818,6 +1818,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Open Charge Map](https://openchargemap.org/site/develop/api) | Global public registry of electric vehicle charging locations | `apiKey` | Yes | Yes |
 | [Railway Transport for France](https://www.digital.sncf.com/startup/api) | SNCF public API | `apiKey` | Yes | Unknown |
 | [REFUGE Restrooms](https://www.refugerestrooms.org/api/docs/#!/restrooms) | Provides safe restroom access for transgender, intersex and gender nonconforming individuals | No | Yes | Unknown |
+| [Road511](https://road511.com/docs.html) | Unified traffic data from 65 US/CA jurisdictions: events, cameras, signs, bridges, truck routes | `apiKey` | Yes | Yes |
 | [Sabre for Developers](https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel) | Travel Search - Limited usage | `apiKey` | Yes | Unknown |
 | [Schiphol Airport](https://developer.schiphol.nl/) | Schiphol | `apiKey` | Yes | Unknown |
 | [Swedavia Airports](https://apideveloper.swedavia.se/) | Airport and flight information of Swedish Airports operated by Swedavia | `apiKey` | Yes | No |
