@@ -1618,6 +1618,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Printify](https://developers.printify.com/) | Printify's official API to manage and integrate their services | `OAuth` | Yes | Unknown |
 | [Rappi](https://dev-portal.rappi.com/) | Manage orders from Rappi's app | `OAuth`| Yes | Unknown |
 | [ScoutAPI](https://scoutapi.com) | Affordable, Swift, and Reliable Amazon Data in Real-Time | `apiKey` | Yes | Unknown |
+| [ShopSavvy](https://shopsavvy.com/data) | Product lookups by barcode/UPC/EAN/ASIN with real-time pricing and price history | `apiKey` | Yes | Yes |
 | [Shopee](https://open.shopee.com/documents?version=1) | Shopee's official API for integration of various services from Shopee | `apiKey` | Yes | Unknown |
 | [Shopify](https://shopify.dev/docs/api) | Manage sales channels, customers, products, and discounts for a retail business | `OAuth`| Yes | Unknown |
 | [Tokopedia](https://developer.tokopedia.com/openapi/guide/#/) | Tokopedia's Official API for integration of various services from Tokopedia | `OAuth`| Yes | Unknown |
