@@ -1113,6 +1113,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [civicAPI](https://civicapi.org/) | Provides live and historic election results for races across the world | No | Yes | Yes |
 | [Code.gov](https://code.gov) | The primary platform for Open Source and code sharing for the U.S. Federal Government | `apiKey` | Yes | Unknown |
 | [Colorado Information Marketplace](https://data.colorado.gov/) | Colorado State Government Open Data | No | Yes | Unknown |
+| [CPSC Consumer Product Recalls](https://cpsc.starfile.org/api) | Every U.S. Consumer Product Safety Commission recall with hazards, manufacturers, retailers, countries | No | Yes | Yes |
 | [Data USA](https://datausa.io/about/api/) | US Public Data | No | Yes | Unknown |
 | [Data.gov](https://api.data.gov/) | US Government Data | `apiKey` | Yes | Unknown |
 | [Data.parliament.uk](https://explore.data.parliament.uk/?learnmore=Members) | Contains live datasets including information about petitions, bills, MP votes, attendance and more | No | No | Unknown |
