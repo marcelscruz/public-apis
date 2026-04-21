@@ -1,5 +1,5 @@
 {
-"count": 1573,
+"count": 1574,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2888,6 +2888,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/reformify-form-api",
+        "Category": "Development"
+    },
+    {
+        "API": "FormForge",
+        "Description": "Generate styled, accessible HTML forms from JSON definitions with validation",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://formforge-api.vercel.app",
         "Category": "Development"
     },
     {
