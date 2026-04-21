@@ -1,5 +1,5 @@
 {
-"count": 1574,
+"count": 1575,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2573,6 +2573,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.abstractapi.com/website-screenshot-api",
+        "Category": "Development"
+    },
+    {
+        "API": "Agent Gateway",
+        "Description": "34+ AI agent infrastructure services including memory, wallets, and scheduling",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://agent-gateway-kappa.vercel.app",
         "Category": "Development"
     },
     {
