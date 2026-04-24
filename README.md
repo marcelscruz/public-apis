@@ -236,6 +236,7 @@
 | [Etherscan](https://etherscan.io/apis) | Ethereum explorer API | `apiKey` | Yes | Yes |
 | [GetBlock](https://getblock.io/) | Blockchain RPC Node provider that supports over 50 multiple blockchains | `apiKey` | Yes | Unknown |
 | [Layer4](https://www.layer4.app/api-docs) | Layer4 is a blockchain integration platform that supports no-code and API use | `apiKey` | Yes | Yes |
+| [NanoStack](https://api.nano-labs.io) | Cross-chain execution API supporting 86 blockchains with 8-15 bps fees | No | Yes | Yes |
 | [Nownodes](https://nownodes.io/) | Blockchain-as-a-service solution that provides high-quality connection via API | `apiKey` | Yes | Unknown |
 | [Steem](https://developers.steem.io/) | Blockchain-based blogging and social media website | No | No | No |
 | [The Graph](https://thegraph.com) | Indexing protocol for querying networks like Ethereum with GraphQL | `apiKey` | Yes | Unknown |
