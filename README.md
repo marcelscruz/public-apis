@@ -791,7 +791,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Thames Water Open Data](https://data.thameswater.co.uk) | Open Data from the UK's largest water and wastewater services company | `apiKey` | Yes | Unknown |
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | The Official Carbon Intensity API for Great Britain developed by National Grid | No | Yes | Unknown |
 | [WattBuy](https://wattbuy.readme.io/reference/getting-started-with-your-api) | Electricity usage estimations, carbon footprint estimations, and utility data | `apiKey` | Yes | Yes |
-| [Website Carbon](https://api.websitecarbon.com/) | API to estimate the carbon footprint of loading web pages | No | Yes | Unknown |
+| [Website Carbon](https://docs.1clickimpact.com/website-carbon) | API to estimate the carbon footprint of loading web pages | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
