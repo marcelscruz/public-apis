@@ -947,7 +947,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [JokeAPI](https://sv443.net/jokeapi/v2/) | Programming, Miscellaneous and Dark Jokes | No | Yes | Yes |
 | [Jokes One](https://jokes.one/api/joke/) | Joke of the day and large category of jokes accessible via REST API | `apiKey`| Yes | Yes |
 | [Lichess](https://lichess.org/api) | Access to all data of users, games, puzzles and etc on Lichess | `OAuth` | Yes | Unknown |
-| [Magic The Gathering](http://magicthegathering.io/) | Magic The Gathering Game Information | No | No | Unknown |
+| [Magic The Gathering](https://magicthegathering.io/) | Magic The Gathering Game Information | No | Yes | Unknown |
 | [Minecraft Server Status](https://api.mcsrvstat.us) | API to get Information about a Minecraft Server | No | Yes | No |
 | [Minecraft ServerHub](https://minecraft-serverhub.com/developers) | Minecraft server status, player counts, MOTD, and live status badges | No | Yes | Yes |
 | [MMO Games](https://www.mmobomb.com/api) | MMO Games Database, News and Giveaways | No | Yes | No |
