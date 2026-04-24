@@ -1705,7 +1705,6 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Oddsmagnet](https://oddsmagnet.com/oddsdata) | Odds history from multiple UK bookmakers | No | Yes | Yes |
 | [OpenLigaDB](https://www.openligadb.de) | Crowd sourced sports league results | No | Yes | Yes |
 | [Premier League Standings ](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | All Current Premier League Standings and Statistics | `apiKey`| Yes | Unknown |
-| [Sport Data](https://sportdataapi.com) | Get sports data from all over the world | `apiKey`| Yes | Unknown |
 | [Sport Highlights](https://highlightly.net/documentation/sports/) | Real time Sport Highlights | `apiKey`| Yes | Unknown |
 | [Sportmonks Cricket](https://docs.sportmonks.com/cricket/) | Live cricket score, player statistics and fantasy API | `apiKey`| Yes | Unknown |
 | [Sportmonks Football](https://docs.sportmonks.com/football/) | Football score/schedule, news api, tv channels, stats, history, display standing e.g. epl, la liga | `apiKey`| Yes | Unknown |
