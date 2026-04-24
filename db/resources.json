@@ -1955,6 +1955,15 @@
         "Category": "Cryptocurrency"
     },
     {
+        "API": "DexPaprika",
+        "Description": "Free DEX and DeFi data — pools, tokens, OHLCV, and trades across all chains",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://api.dexpaprika.com",
+        "Category": "Cryptocurrency"
+    },
+    {
         "API": "CoinRanking",
         "Description": "Live Cryptocurrency data",
         "Auth": "apiKey",
