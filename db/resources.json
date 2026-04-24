@@ -677,6 +677,15 @@
         "Category": "Art & Design"
     },
     {
+        "API": "Picsart Creative APIs",
+        "Description": "Image & video editing, generative AI, 100+ AI models via unified API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.picsart.io/reference/",
+        "Category": "Art & Design"
+    },
+    {
         "API": "Rijksmuseum",
         "Description": "RijksMuseum Data",
         "Auth": "apiKey",
