@@ -838,6 +838,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Klarna](https://docs.klarna.com/klarna-payments/api/payments-api/) | Klarna payment and shopping service | `apiKey` | Yes | Unknown |
 | [Kite Connect](https://kite.trade/docs/connect/v3/) | Stock market investment and trading platform | `apiKey` | Yes | No |
 | [MercadoPago](https://www.mercadopago.com.br/developers/es/reference) | Mercado Pago API reference - all the information you need to develop your integrations | `apiKey` | Yes | Unknown |
+| [Metal Sentinel](https://metal-sentinel.com) | Real-time precious and base metals prices. One API. Zero cost | `apiKey` | Yes | Unknown |
 | [Mono](https://mono.co/) | Connect with users’ bank accounts and access transaction data in Africa | `apiKey` | Yes | Unknown |
 | [Moov](https://docs.moov.io/api/) | The Moov API makes it simple for platforms to send, receive, and store money | `apiKey` | Yes | Unknown |
 | [Open Bank Project](https://www.openbankproject.com) | Enable account holders to interact with their banks using a wider range of applications and services | `apiKey` | Yes | Yes |
