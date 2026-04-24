@@ -5080,10 +5080,10 @@
     {
         "API": "Website Carbon",
         "Description": "API to estimate the carbon footprint of loading web pages",
-        "Auth": "",
+        "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://api.websitecarbon.com/",
+        "Cors": "yes",
+        "Link": "https://docs.1clickimpact.com/website-carbon",
         "Category": "Environment"
     },
     {
