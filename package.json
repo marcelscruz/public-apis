@@ -2,7 +2,8 @@
     "name": "public-apis",
     "description": "A collaborative list of public APIs for developers",
     "scripts": {
-        "update-db": "node scripts/db/update-db.js"
+        "update-db": "node scripts/db/update-db.js",
+        "remove-paid-apis": "node scripts/db/remove-paid-apis.js"
     },
     "repository": {
         "type": "git",
