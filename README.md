@@ -1888,6 +1888,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 ### Vehicle
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [Auto.dev](https://docs.auto.dev/v2/cli-mcp-sdk) | Automotive data APIs for VIN decoding, vehicle listings, payments, recalls, and specs | `apiKey` | Yes | Unknown |
 | [Brazilian Vehicles and Prices](https://deividfortuna.github.io/fipe/) | Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe | No | Yes | No |
 | [CarAPI](https://carapi.app) | The developer friendly vehicle API. Make, model, trims and more via a RESTFul API | `apiKey` | Yes | No |
 | [CarsXE](https://api.carsxe.com/) | CarsXE API provides comprehensive data on vehicles, including VIN decoding & specifications, license plate decoding, images, history and market value. It enables developers to build innovative applications for the automotive industry, such as insurance & roadside assistance tools, ride sharing & grocery delivery apps, inventory management systems, and market analysis platforms. | `apiKey` | Yes | No |
