@@ -443,6 +443,7 @@
 | [EuroRates](https://euroratesapi.dev/) | Exchange rates for EUR pairs, historical and real-time data | No | Yes | No |
 | [ExchangeRate-API](https://www.exchangerate-api.com) | Free currency conversion | `apiKey` | Yes | Yes |
 | [Exchangerate.host](https://exchangerate.host) | Free foreign exchange & crypto rates API | `apiKey` | Yes | Unknown |
+| [Finexly](https://finexly.com/docs) | Real-time and historical exchange rates for 170+ currencies | `apiKey` | Yes | Yes |
 | [Frankfurter](https://www.frankfurter.app/docs) | Exchange rates, currency conversion and time series | No | Yes | Yes |
 | [FreeForexAPI](https://freeforexapi.com/Home/Api) | Real-time foreign exchange rates for major currency pairs | `apiKey` | Yes | No |
 | [FxFeed.io](https://fxfeed.io) | Foreign exchange rates, currency conversion and time series data | `apiKey` | Yes | Yes |
