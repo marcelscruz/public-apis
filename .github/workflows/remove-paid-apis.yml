@@ -1,0 +1,39 @@
+name: Remove Paid APIs
+
+on:
+    schedule:
+        - cron: '0 */12 * * *'
+    workflow_dispatch:
+
+permissions:
+    contents: write
+    pull-requests: write
+
+jobs:
+    remove-paid-apis:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+
+            - uses: actions/setup-node@v4
+              with:
+                  node-version: 20
+
+            - run: npm ci
+
+            - run: npm run remove-paid-apis
+
+            - run: npm run update-db
+
+            - uses: peter-evans/create-pull-request@v6
+              with:
+                  branch: automation/remove-paid-apis
+                  delete-branch: true
+                  commit-message: 'chore: remove APIs without a free tier'
+                  title: 'chore: remove APIs without a free tier'
+                  body: |
+                      ## Summary
+                      - checked all API links in `README.md` for free-tier references
+                      - removed APIs that are now paid-only
+                      - regenerated `db/resources.json` and `db/categories.json`
+                  labels: automation
