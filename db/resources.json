@@ -1,5 +1,5 @@
 {
-"count": 1576,
+"count": 1488,
 "entries": [
     {
         "API": "Cat Facts",
@@ -605,15 +605,6 @@
         "Category": "Art & Design"
     },
     {
-        "API": "Iconfinder",
-        "Description": "Icons",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://developer.iconfinder.com",
-        "Category": "Art & Design"
-    },
-    {
         "API": "Icons8",
         "Description": "Icons (find \"search icon\" hyperlink in page)",
         "Auth": "",
@@ -719,15 +710,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://auth0.com",
-        "Category": "Authentication & Authorization"
-    },
-    {
-        "API": "Clerk",
-        "Description": "Drop-in React components for authentication and authorization",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://clerk.com",
         "Category": "Authentication & Authorization"
     },
     {
@@ -1217,15 +1199,6 @@
         "Category": "Business"
     },
     {
-        "API": "mailjet",
-        "Description": "Marketing email can be sent and mail templates made in MJML or HTML can be sent using API",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.mailjet.com/",
-        "Category": "Business"
-    },
-    {
         "API": "markerapi",
         "Description": "Trademark Search",
         "Auth": "",
@@ -1541,15 +1514,6 @@
         "Category": "Cloud Storage & File Sharing"
     },
     {
-        "API": "Dropbox",
-        "Description": "File Sharing and Storage",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.dropbox.com/developers",
-        "Category": "Cloud Storage & File Sharing"
-    },
-    {
         "API": "File.io",
         "Description": "Super simple file sharing, convenient, anonymous and secure",
         "Auth": "",
@@ -1637,15 +1601,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://quip.com/dev/automation/documentation",
-        "Category": "Cloud Storage & File Sharing"
-    },
-    {
-        "API": "Smash",
-        "Description": "Upload large files on websites, mobile apps, SaaS solutions and custom workflows",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://api.fromsmash.com/",
         "Category": "Cloud Storage & File Sharing"
     },
     {
@@ -1737,15 +1692,6 @@
         "Cors": "unknown",
         "Link": "https://docs.travis-ci.com/api/",
         "Category": "Continuous Integration"
-    },
-    {
-        "API": "1inch",
-        "Description": "API for querying decentralize exchange",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://business.1inch.com/",
-        "Category": "Cryptocurrency"
     },
     {
         "API": "Alchemy Ethereum",
@@ -1853,384 +1799,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://bybit-exchange.github.io/docs",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "CoinAPI",
-        "Description": "All Currency Exchanges integrate under a single api",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://docs.coinapi.io/",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Coinbase",
-        "Description": "Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://developers.coinbase.com",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Coinbase Pro",
-        "Description": "Cryptocurrency Trading Platform",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.pro.coinbase.com/#api",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "CoinCap",
-        "Description": "Real time Cryptocurrency prices through a RESTful API",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.coincap.io/",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "CoinDCX",
-        "Description": "Cryptocurrency Trading Platform",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.coindcx.com/",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "CoinGecko",
-        "Description": "Cryptocurrency Price, Market, and Developer/Social Data",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "http://www.coingecko.com/api",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Coinigy",
-        "Description": "Interacting with Coinigy Accounts and Exchange Directly",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://coinigy.docs.apiary.io",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Coinlib",
-        "Description": "Crypto Currency Prices",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://coinlib.io/apidocs",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Coinlore",
-        "Description": "Cryptocurrencies prices, volume and more",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.coinlore.com/cryptocurrency-data-api",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "CoinMarketCap",
-        "Description": "Cryptocurrencies Prices",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://coinmarketcap.com/api/",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Coinpaprika",
-        "Description": "Cryptocurrencies prices, volume and more",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://api.coinpaprika.com",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "CoinRanking",
-        "Description": "Live Cryptocurrency data",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://developers.coinranking.com/api/documentation",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Coinremitter",
-        "Description": "Cryptocurrencies Payment & Prices",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://coinremitter.com/docs",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "CoinStats",
-        "Description": "Blockchain and DeFi across 120+ chains, market, historical data, portfolio tracking, news, sentiment, MCP, and agent skills",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://coinstats.app/api-docs/",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "CryptAPI",
-        "Description": "Cryptocurrency Payment Processor",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.cryptapi.io/",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "CryptoCompare",
-        "Description": "Cryptocurrencies Comparison",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.cryptocompare.com/api#",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "CryptoMarket",
-        "Description": "Cryptocurrencies Trading platform",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://api.exchange.cryptomkt.com/",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "dYdX",
-        "Description": "Decentralized cryptocurrency exchange",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.dydx.exchange/",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Ethplorer",
-        "Description": "Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "EXMO",
-        "Description": "Cryptocurrencies exchange based in UK",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://documenter.getpostman.com/view/10287440/SzYXWKPi",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Gateio",
-        "Description": "API provides spot, margin and futures trading operations",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.gate.io/api2",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Gemini",
-        "Description": "Cryptocurrencies Exchange",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.gemini.com/rest-api/",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Huobi",
-        "Description": "Seychelles based cryptocurrency exchange",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://huobiapi.github.io/docs/spot/v1/en/",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Indodax",
-        "Description": "Trade your Bitcoin and other assets with rupiah",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://github.com/btcid/indodax-official-api-docs",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "INFURA Ethereum",
-        "Description": "Interaction with the Ethereum mainnet and several testnets",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://www.infura.io/product/ethereum",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Kraken",
-        "Description": "Cryptocurrencies Exchange",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.kraken.com/rest/",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "KuCoin",
-        "Description": "Cryptocurrency Trading Platform",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.kucoin.com/",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Mempool",
-        "Description": "Bitcoin API Service focusing on the transaction fee",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://mempool.space/api",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "MercadoBitcoin",
-        "Description": "Brazilian Cryptocurrency Information",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://api.mercadobitcoin.net/api/v4/docs",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Messari",
-        "Description": "Provides API endpoints for thousands of crypto assets",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://messari.io/api",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Nexchange",
-        "Description": "Automated cryptocurrency exchange service",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "yes",
-        "Link": "https://nexchange2.docs.apiary.io/",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "NovaDax",
-        "Description": "NovaDAX API to access all market data, trading management endpoints",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://doc.novadax.com/en-US/#introduction",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "OKEx",
-        "Description": "Cryptocurrency exchange based in Seychelles",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://okx.com/okx-api",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "OpenSea",
-        "Description": "The Largest NFT Marketplace",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://docs.opensea.io/reference/api-overview",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Poloniex",
-        "Description": "US based digital asset exchange",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.poloniex.com",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Solana JSON RPC",
-        "Description": "Provides various endpoints to interact with the Solana Blockchain",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.solana.com/developing/clients/jsonrpc-api",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Technical Analysis",
-        "Description": "Cryptocurrency prices and technical analysis",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://technical-analysis-api.com",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Trading View",
-        "Description": "Market price, data, graph for brokers and traders",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.tradingview.com/rest-api-spec/",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Tron Network",
-        "Description": "Provides various endpoints to interact with the Tron Blockchain",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://developers.tron.network/reference/api-key",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "VALR",
-        "Description": "Cryptocurrency Exchange based in South Africa",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.valr.com/",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "WorldCoinIndex",
-        "Description": "Cryptocurrencies Prices",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.worldcoinindex.com/apiservice",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "ZMOK",
-        "Description": "Ethereum JSON RPC API and Web3 provider",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://docs.zmok.io",
         "Category": "Cryptocurrency"
     },
     {
@@ -2618,15 +2186,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.apicagent.com",
-        "Category": "Development"
-    },
-    {
-        "API": "ApiFlash",
-        "Description": "Chrome based screenshot API for developers",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://apiflash.com/",
         "Category": "Development"
     },
     {
@@ -4313,30 +3872,12 @@
         "Category": "Documents & Productivity"
     },
     {
-        "API": "Mattermost",
-        "Description": "An open source platform for developer collaboration",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://api.mattermost.com/",
-        "Category": "Documents & Productivity"
-    },
-    {
         "API": "MConverter",
         "Description": "File converter and PDF compressor. Extract images from video, convert documents, Markdown and more",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://dev.mconverter.eu/",
-        "Category": "Documents & Productivity"
-    },
-    {
-        "API": "Monday",
-        "Description": "Programmatically access and update data inside a monday.com account",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://developer.monday.com/",
         "Category": "Documents & Productivity"
     },
     {
@@ -4355,15 +3896,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://ocrai.xyz",
-        "Category": "Documents & Productivity"
-    },
-    {
-        "API": "PandaDoc",
-        "Description": "DocGen and eSignatures API",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://developers.pandadoc.com",
         "Category": "Documents & Productivity"
     },
     {
@@ -4391,15 +3923,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://pdfendpoint.com",
-        "Category": "Documents & Productivity"
-    },
-    {
-        "API": "PDFGate",
-        "Description": "HTML to PDF API with support for custom headers, footers, fillable form fields, and encryption",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://pdfgate.com/html-to-pdf-api",
         "Category": "Documents & Productivity"
     },
     {
@@ -4598,15 +4121,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.guerrillamail.com/GuerrillaMailAPI.html",
-        "Category": "Email"
-    },
-    {
-        "API": "Heybounce",
-        "Description": "Email Verification API",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://www.heybounce.io/#email-verification-api",
         "Category": "Email"
     },
     {
@@ -5087,15 +4601,6 @@
         "Category": "Environment"
     },
     {
-        "API": "Eventbrite",
-        "Description": "Find events",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.eventbrite.com/platform/api/",
-        "Category": "Events"
-    },
-    {
         "API": "SeatGeek",
         "Description": "Search events, venues and performers",
         "Auth": "apiKey",
@@ -5312,15 +4817,6 @@
         "Category": "Finance"
     },
     {
-        "API": "FXMacroData",
-        "Description": "Real-time forex macroeconomic API for all major currency pairs sourced from central bank announcements",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://fxmacrodata.com/",
-        "Category": "Finance"
-    },
-    {
         "API": "IEX Cloud",
         "Description": "Realtime & Historical Stock and Market Data",
         "Auth": "apiKey",
@@ -5393,15 +4889,6 @@
         "Category": "Finance"
     },
     {
-        "API": "Mono",
-        "Description": "Connect with users’ bank accounts and access transaction data in Africa",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://mono.co/",
-        "Category": "Finance"
-    },
-    {
         "API": "Moov",
         "Description": "The Moov API makes it simple for platforms to send, receive, and store money",
         "Auth": "apiKey",
@@ -5435,15 +4922,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.ambeteco.com/ParityVend/",
-        "Category": "Finance"
-    },
-    {
-        "API": "Plaid",
-        "Description": "Connect with user's bank accounts and access transaction data",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://plaid.com/",
         "Category": "Finance"
     },
     {
@@ -5528,15 +5006,6 @@
         "Category": "Finance"
     },
     {
-        "API": "Stripe",
-        "Description": "Payment processing, subscriptions, and financial management",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://stripe.com/docs/api",
-        "Category": "Finance"
-    },
-    {
         "API": "Tradier",
         "Description": "US equity/option market data (delayed, intraday, historical)",
         "Auth": "OAuth",
@@ -5552,15 +5021,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://tradewatch.io/",
-        "Category": "Finance"
-    },
-    {
-        "API": "Twelve Data",
-        "Description": "Stock market data (real-time & historical)",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://twelvedata.com/",
         "Category": "Finance"
     },
     {
@@ -5624,15 +5084,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://baconmockup.com/",
-        "Category": "Food & Drink"
-    },
-    {
-        "API": "Chomp",
-        "Description": "Data about various grocery products and foods",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://chompthis.com/api/",
         "Category": "Food & Drink"
     },
     {
@@ -6248,15 +5699,6 @@
         "Category": "Games & Comics"
     },
     {
-        "API": "Jokes One",
-        "Description": "Joke of the day and large category of jokes accessible via REST API",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://jokes.one/api/joke/",
-        "Category": "Games & Comics"
-    },
-    {
         "API": "Lichess",
         "Description": "Access to all data of users, games, puzzles and etc on Lichess",
         "Auth": "OAuth",
@@ -6752,15 +6194,6 @@
         "Category": "Geocoding"
     },
     {
-        "API": "Bing Maps",
-        "Description": "Create/customize digital maps based on Bing Maps data",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.microsoft.com/maps/",
-        "Category": "Geocoding"
-    },
-    {
         "API": "bng2latlong",
         "Description": "Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude",
         "Auth": "",
@@ -6977,15 +6410,6 @@
         "Category": "Geocoding"
     },
     {
-        "API": "Google Maps",
-        "Description": "Create/customize digital maps based on Google Maps data",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://developers.google.com/maps/",
-        "Category": "Geocoding"
-    },
-    {
         "API": "Graph Countries",
         "Description": "Country-related data like currencies, languages, flags, regions+subregions and bordering countries",
         "Auth": "",
@@ -7001,15 +6425,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://fourtonfish.com/project/hellosalut-api/",
-        "Category": "Geocoding"
-    },
-    {
-        "API": "HERE Maps",
-        "Description": "Create/customize digital maps based on HERE Maps data",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://developer.here.com",
         "Category": "Geocoding"
     },
     {
@@ -7148,15 +6563,6 @@
         "Category": "Geocoding"
     },
     {
-        "API": "keycdn IP Location Finder",
-        "Description": "Get the IP geolocation data through the simple REST API. All the responses are JSON encoded",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://tools.keycdn.com/geo",
-        "Category": "Geocoding"
-    },
-    {
         "API": "LocationIQ",
         "Description": "Provides forward/reverse geocoding and batch geocoding",
         "Auth": "apiKey",
@@ -7181,15 +6587,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.mapbox.com/",
-        "Category": "Geocoding"
-    },
-    {
-        "API": "MapQuest",
-        "Description": "To access tools and resources to map the world",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://developer.mapquest.com/",
         "Category": "Geocoding"
     },
     {
@@ -7229,30 +6626,12 @@
         "Category": "Geocoding"
     },
     {
-        "API": "OnWater",
-        "Description": "Determine if a lat/lon is on water or land",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://onwater.io/",
-        "Category": "Geocoding"
-    },
-    {
         "API": "Open Topo Data",
         "Description": "Elevation and ocean depth for a latitude and longitude",
         "Auth": "",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://www.opentopodata.org",
-        "Category": "Geocoding"
-    },
-    {
-        "API": "OpenCage",
-        "Description": "Forward and reverse geocoding using open data",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://opencagedata.com",
         "Category": "Geocoding"
     },
     {
@@ -7289,15 +6668,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://pinballmap.com/api/v1/docs",
-        "Category": "Geocoding"
-    },
-    {
-        "API": "Pointpin",
-        "Description": "Pointpin is a simple yet powerful API designed for high traffic websites to deliver fast and reliable IP geolocation for your websites and applications.",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://pointp.in",
         "Category": "Geocoding"
     },
     {
@@ -7397,15 +6767,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/data-lists-timezone",
-        "Category": "Geocoding"
-    },
-    {
-        "API": "TomTom",
-        "Description": "Maps, Directions, Places and Traffic APIs",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://developer.tomtom.com/",
         "Category": "Geocoding"
     },
     {
@@ -8750,15 +8111,6 @@
         "Category": "Machine Learning"
     },
     {
-        "API": "Dialogflow",
-        "Description": "Natural Language Processing",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://cloud.google.com/dialogflow/docs/",
-        "Category": "Machine Learning"
-    },
-    {
         "API": "Eden",
         "Description": "Get all AI models in one place, e.g. OpenAI, Google and lots more!",
         "Auth": "apiKey",
@@ -9341,15 +8693,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.nytimes.com/",
-        "Category": "News"
-    },
-    {
-        "API": "News",
-        "Description": "Headlines currently published on a range of news sources and blogs",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://newsapi.org/",
         "Category": "News"
     },
     {
@@ -10118,15 +9461,6 @@
         "Category": "Personality"
     },
     {
-        "API": "Vedika",
-        "Description": "AI-powered Vedic astrology API with birth charts, compatibility, doshas, AI chatbot in 22 languages",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://vedika.io",
-        "Category": "Personality"
-    },
-    {
         "API": "Zen Quotes",
         "Description": "Large collection of Zen quotes for inspiration",
         "Auth": "",
@@ -10206,15 +9540,6 @@
         "Cors": "yes",
         "Link": "https://proweblook.com/whatsapp-number-checker",
         "Category": "Phone"
-    },
-    {
-        "API": "APITemplate.io",
-        "Description": "Dynamically generate images and PDFs from templates with a simple API",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://apitemplate.io",
-        "Category": "Photography"
     },
     {
         "API": "Change Image Background API",
@@ -10758,15 +10083,6 @@
     },
     {
         "API": "Numbers",
-        "Description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://math.tools/api/numbers/",
-        "Category": "Science & Math"
-    },
-    {
-        "API": "Numbers",
         "Description": "Facts about numbers",
         "Auth": "",
         "HTTPS": false,
@@ -10901,15 +10217,6 @@
         "Category": "Security"
     },
     {
-        "API": "BitWarden",
-        "Description": "Best open-source password manager",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://bitwarden.com/help/api/",
-        "Category": "Security"
-    },
-    {
         "API": "Botd",
         "Description": "Botd is a browser library for JavaScript bot detection",
         "Auth": "apiKey",
@@ -10943,15 +10250,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/cheatsnake/classify",
-        "Category": "Security"
-    },
-    {
-        "API": "Complete Criminal Checks",
-        "Description": "Provides data of offenders from all U.S. States and Puerto Rico",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://completecriminalchecks.com/Developers",
         "Category": "Security"
     },
     {
@@ -10991,30 +10289,12 @@
         "Category": "Security"
     },
     {
-        "API": "FingerprintJS Pro",
-        "Description": "Fraud detection API offering highly accurate browser fingerprinting",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://dev.fingerprintjs.com/docs",
-        "Category": "Security"
-    },
-    {
         "API": "FraudLabs Pro",
         "Description": "Screen order information using AI to detect frauds",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.fraudlabspro.com/developer/api/screen-order",
-        "Category": "Security"
-    },
-    {
-        "API": "FullHunt",
-        "Description": "Searchable attack surface database of the entire internet",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://api-docs.fullhunt.io/#introduction",
         "Category": "Security"
     },
     {
@@ -11213,15 +10493,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://vuldb.com/?doc.api",
-        "Category": "Security"
-    },
-    {
-        "API": "Whoisfreaks",
-        "Description": "Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://whoisfreaks.com/",
         "Category": "Security"
     },
     {
@@ -11738,15 +11009,6 @@
         "Category": "Social"
     },
     {
-        "API": "Webex",
-        "Description": "Team collaboration software",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://developer.webex.com",
-        "Category": "Social"
-    },
-    {
         "API": "Zoom",
         "Description": "Video communication, web conferencing, chat, and webinars",
         "Auth": "OAuth",
@@ -11906,15 +11168,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://highlightly.net/documentation/hockey/",
-        "Category": "Sports & Fitness"
-    },
-    {
-        "API": "iSports API",
-        "Description": "Provide live and historical sports data of global competitions, like live score, fixtures, player & match stats, database etc.",
-        "Auth": "apiKey",
-        "HTTPS": false,
-        "Cors": "yes",
-        "Link": "https://isportsapi.com/",
         "Category": "Sports & Fitness"
     },
     {
@@ -12476,15 +11729,6 @@
         "Category": "Text Analysis"
     },
     {
-        "API": "Semantria",
-        "Description": "Text Analytics with sentiment analysis, categorization & named entity extraction",
-        "Auth": "OAuth",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://semantria.readme.io/docs",
-        "Category": "Text Analysis"
-    },
-    {
         "API": "Tisane",
         "Description": "Text Analytics with focus on detection of abusive content and law enforcement applications",
         "Auth": "OAuth",
@@ -12501,15 +11745,6 @@
         "Cors": "unknown",
         "Link": "https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding",
         "Category": "Text Analysis"
-    },
-    {
-        "API": "Aftership",
-        "Description": "API to update, manage and track shipment efficiently",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://developers.aftership.com/reference/quick-start",
-        "Category": "Tracking"
     },
     {
         "API": "Correios",
@@ -13610,15 +12845,6 @@
         "Category": "Video"
     },
     {
-        "API": "Mux",
-        "Description": "Mux Video is an API that enables developers to build unique live and on-demand video experiences",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.mux.com/",
-        "Category": "Video"
-    },
-    {
         "API": "Open Movie Database",
         "Description": "Movie information",
         "Auth": "apiKey",
@@ -13652,15 +12878,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://rulesofacquisition.herokuapp.com/",
-        "Category": "Video"
-    },
-    {
-        "API": "Shotstack",
-        "Description": "Cloud-based video editing API",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://shotstack.io/",
         "Category": "Video"
     },
     {
@@ -14165,15 +13382,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.weatherapi.com/",
-        "Category": "Weather"
-    },
-    {
-        "API": "Weatherbit",
-        "Description": "Weather",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.weatherbit.io/api",
         "Category": "Weather"
     },
     {
