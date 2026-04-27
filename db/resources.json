@@ -1,5 +1,5 @@
 {
-"count": 1576,
+"count": 1577,
 "entries": [
     {
         "API": "Cat Facts",
@@ -3734,6 +3734,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://www.searchapi.io/",
+        "Category": "Development"
+    },
+    {
+        "API": "SEO Score",
+        "Description": "Comprehensive SEO audit with 28 checks, scoring, and prioritized recommendations",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://seoscoreapi.com",
         "Category": "Development"
     },
     {
