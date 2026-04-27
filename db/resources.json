@@ -1,5 +1,5 @@
 {
-"count": 1577,
+"count": 1578,
 "entries": [
     {
         "API": "Cat Facts",
@@ -5570,6 +5570,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://twelvedata.com/",
+        "Category": "Finance"
+    },
+    {
+        "API": "ValueRay",
+        "Description": "Technical, quantitative and sentiment data for stocks and ETFs, optimized for AI/LLM",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.valueray.com/api",
         "Category": "Finance"
     },
     {
