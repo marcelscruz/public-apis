@@ -9147,11 +9147,11 @@
     },
     {
         "API": "Musixmatch",
-        "Description": "Music",
+        "Description": "Access lyrics, subtitles and music data",
         "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://developer.musixmatch.com/",
+        "Cors": "yes",
+        "Link": "https://www.musixmatch.com/pro/api/",
         "Category": "Music"
     },
     {
