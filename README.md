@@ -611,6 +611,7 @@
 | [Screenshot Scout](https://screenshotscout.com/) | Screenshot API for developers that captures any URL in one HTTP request with predictable output | `apiKey` | Yes | Unknown |
 | [Scrnify](https://scrnify.com/docs) | Screenshot and video capture API to transform any URL into high-quality images and recordings | `apiKey`| Yes | Yes |
 | [SearchApi](https://www.searchapi.io/) | Real-Time Google SERP API | `apiKey` | Yes | No |
+| [SEO Score](https://seoscoreapi.com) | Comprehensive SEO audit with 28 checks, scoring, and prioritized recommendations | `apiKey` | Yes | Yes |
 | [SEO Tags Generator API](https://apyhub.com/utility/sharpapi-generate-seo-tags) | The Generate SEO Tags API generates all the most important META tags based on any content | `apiKey` | Yes | Yes |
 | [Serialif Color](https://color.serialif.com/) | Color conversion, complementary, grayscale and contrasted text | No | Yes | No |
 | [SerpApi - Search API](https://serpapi.com/) | SerpApi's Search API makes it easy and fast to scrape Google and other search engines  | `apiKey` | Yes | No |
