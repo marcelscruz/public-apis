@@ -1214,7 +1214,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Open Data NHS Scotland](https://www.opendata.nhs.scot) | Medical reference data and statistics by Public Health Scotland | No | Yes | Unknown |
 | [Open Disease](https://disease.sh/) | API for Current cases and more stuff about COVID-19 and Influenza | No | Yes | Yes |
 | [openFDA](https://open.fda.gov) | Public FDA data about drugs, devices and foods | `apiKey` | Yes | Unknown |
-| [Psychologie et Sérénité](https://psychologieetserenite.com/api) | French psychology articles metadata (CBT, attachment, couples, anxiety) and validated psychological tests catalog | No | Yes | Yes |
+| [Psychologie et Sérénité](https://psychologieetserenite.com/api) | French psychology articles metadata and validated psychological tests catalog | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
