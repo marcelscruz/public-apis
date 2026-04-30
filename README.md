@@ -1959,6 +1959,8 @@ like WhatsApp | `apiKey` | Yes | Yes |
 **[⬆ Back to Index](#index)**
 
 ### Weather
+
+| [Open-Meteo](https://open-meteo.com/en/docs) | Free weather API with no authentication required | No | Yes | Yes |
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [7Timer!](http://www.7timer.info/doc.php?lang=en) | Weather, especially for Astroweather | No | No | Unknown |
