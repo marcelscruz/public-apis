@@ -1548,6 +1548,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Numbers](http://numbersapi.com) | Facts about numbers | No | No | No |
 | [Open Notify](http://open-notify.org/Open-Notify-API/) | ISS astronauts, current location, etc | No | No | No |
 | [Open Science Framework](https://developer.osf.io) | Repository and archive for study designs, research materials, data, manuscripts, etc | `OAuth` | Yes | Unknown |
+| [Panchanga](https://api.panchangam.org/docs) | Vedic Astrology Panchanga data including tithi, nakshatra, and muhurta | `apiKey` | Yes | Unknown |
 | [Purple Air](https://www2.purpleair.com/) | Real Time Air Quality Monitoring | No | Yes | Unknown |
 | [Satellite Passes](https://sat.terrestre.ar) | Find satellite passes | No | Yes | Yes |
 | [SHARE](https://share.osf.io/api/v2/) | A free, open, dataset about research and scholarly activities | No | Yes | No |
