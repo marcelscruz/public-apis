@@ -1706,6 +1706,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [NHL Records and Stats](https://gitlab.com/dword4/nhlapi) | NHL historical data and statistics | No | Yes | Unknown |
 | [Oddsmagnet](https://oddsmagnet.com/oddsdata) | Odds history from multiple UK bookmakers | No | Yes | Yes |
 | [OpenLigaDB](https://www.openligadb.de) | Crowd sourced sports league results | No | Yes | Yes |
+| [Parlay](https://parlay-api.com/docs) | Real-time sports betting odds from 21+ sportsbooks across 38+ sports with free tier (1K req/month) | `apiKey` | Yes | No |
 | [Premier League Standings ](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | All Current Premier League Standings and Statistics | `apiKey`| Yes | Unknown |
 | [Sport Data](https://sportdataapi.com) | Get sports data from all over the world | `apiKey`| Yes | Unknown |
 | [Sport Highlights](https://highlightly.net/documentation/sports/) | Real time Sport Highlights | `apiKey`| Yes | Unknown |
