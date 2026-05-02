@@ -481,6 +481,7 @@
 | [24 Pull Requests](https://24pullrequests.com/api) | Project to promote open source collaboration during December | No | Yes | Yes |
 | [Abacus](https://abacus.jasoncameron.dev/) | Free and simple counting service. You can use it to track page hits and specific events | No | Yes | Yes |
 | [Abstract Screenshot](https://www.abstractapi.com/website-screenshot-api) | Take programmatic screenshots of web pages from any website | `apiKey`| Yes | Yes |
+| [Agent Gateway](https://agent-gateway-kappa.vercel.app) | 34+ AI agent infrastructure services including memory, wallets, and scheduling | `apiKey` | Yes | Yes |
 | [Agify.io](https://agify.io) | Estimates the age from a first name | No | Yes | Yes |
 | [API Grátis](https://apigratis.com.br/) | Multiples services and public APIs | No | Yes | Unknown |
 | [API League](https://apileague.com) | World-class APIs in a single hub | `apiKey` | Yes | Yes |
@@ -517,6 +518,7 @@
 | [DomainDb Info](https://api.domainsdb.info/) | Domain name search to find all domains containing particular words/phrases/etc | No | Yes | Unknown |
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | A simple JSON store API | No | Yes | Yes |
 | [Form Creation API](https://apyhub.com/utility/reformify-form-api) | Create and manage customizable forms within your applications | `apiKey` | Yes | Yes |
+| [FormForge](https://formforge-api.vercel.app) | Generate styled, accessible HTML forms from JSON definitions with validation | No | Yes | Yes |
 [Format JSON Online Dummy API](https://formatjsononline.com/dummy-api) | A free tool to generate dummy JSON data for testing and prototyping.| No  | Yes | Yes |
 | [Generate Full Webpage Screenshot](https://apyhub.com/utility/generate-webpage-screenshot) | Dynamically capture full page screenshots of websites.| `apiKey` | Yes | Yes |
 | [Gcore CDN](https://docs.gcore.com/cdn) | Make your app fast and responsive for a global audience with Gcore CDN. | `apiKey` | Yes | Yes |
@@ -609,6 +611,7 @@
 | [Screenshot Scout](https://screenshotscout.com/) | Screenshot API for developers that captures any URL in one HTTP request with predictable output | `apiKey` | Yes | Unknown |
 | [Scrnify](https://scrnify.com/docs) | Screenshot and video capture API to transform any URL into high-quality images and recordings | `apiKey`| Yes | Yes |
 | [SearchApi](https://www.searchapi.io/) | Real-Time Google SERP API | `apiKey` | Yes | No |
+| [SEO Score](https://seoscoreapi.com) | Comprehensive SEO audit with 28 checks, scoring, and prioritized recommendations | `apiKey` | Yes | Yes |
 | [SEO Tags Generator API](https://apyhub.com/utility/sharpapi-generate-seo-tags) | The Generate SEO Tags API generates all the most important META tags based on any content | `apiKey` | Yes | Yes |
 | [Serialif Color](https://color.serialif.com/) | Color conversion, complementary, grayscale and contrasted text | No | Yes | No |
 | [SerpApi - Search API](https://serpapi.com/) | SerpApi's Search API makes it easy and fast to scrape Google and other search engines  | `apiKey` | Yes | No |
@@ -789,7 +792,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Thames Water Open Data](https://data.thameswater.co.uk) | Open Data from the UK's largest water and wastewater services company | `apiKey` | Yes | Unknown |
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | The Official Carbon Intensity API for Great Britain developed by National Grid | No | Yes | Unknown |
 | [WattBuy](https://wattbuy.readme.io/reference/getting-started-with-your-api) | Electricity usage estimations, carbon footprint estimations, and utility data | `apiKey` | Yes | Yes |
-| [Website Carbon](https://api.websitecarbon.com/) | API to estimate the carbon footprint of loading web pages | No | Yes | Unknown |
+| [Website Carbon](https://docs.1clickimpact.com/website-carbon) | API to estimate the carbon footprint of loading web pages | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
@@ -855,6 +858,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Tradier](https://developer.tradier.com) | US equity/option market data (delayed, intraday, historical) | `OAuth`| Yes | Yes |
 | [TradeWatch](https://tradewatch.io/) | Real time financial market data | `apiKey` | Yes | Yes |
 | [Twelve Data](https://twelvedata.com/) | Stock market data (real-time & historical) | `apiKey` | Yes | Unknown |
+| [ValueRay](https://www.valueray.com/api) | Technical, quantitative and sentiment data for stocks and ETFs, optimized for AI/LLM | No | Yes | Yes |
 | [WallstreetBets](https://dashboard.nbshare.io/apps/reddit/api/) | WallstreetBets Stock Comments Sentiment Analysis | No | Yes | Unknown |
 | [Validate IBAN API ](https://apyhub.com/utility/finance-validator-iban) | This API lets you quickly validate IBAN bank codes |  `apiKey` | Yes | Yes |
 | [Validate Swift/BIC ](https://apyhub.com/utility/finance-validator-bic) | Validates BIC/SWIFT code |  `apiKey` | Yes | Yes |
@@ -1299,7 +1303,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Mubert AI Music API](https://landing.mubert.com) | Integrate AI music into your app, game or service | `apiKey`| Yes | Unknown |
 | [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) | Music | No | Yes | Unknown |
 | [MusicGPT](https://musicgpt.com/api) | AI Music Generator with text-to-speech, voice changer, remix & 20+ music features. | `apiKey` | Yes | Yes |
-| [Musixmatch](https://developer.musixmatch.com/) | Music | `apiKey` | Yes | Unknown |
+| [Musixmatch](https://www.musixmatch.com/pro/api/) | Access lyrics, subtitles and music data | `apiKey` | Yes | Yes |
 | [Napster](https://developer.napster.com/api/v2.2) | Music | `apiKey` | Yes | Yes |
 | [Openwhyd](https://openwhyd.github.io/openwhyd/API) | Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...) | No | Yes | No |
 | [Phishin](https://phish.in/api-docs) | A web-based archive of legal live audio recordings of the improvisational rock band Phish | `apiKey` | Yes | No |
@@ -1595,6 +1599,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Shodan](https://developer.shodan.io/) | Search engine for Internet connected devices | `apiKey` | Yes | Unknown |
 | [Spyse](https://spyse-dev.readme.io/reference/quick-start) | Access data on all Internet assets and build powerful attack surface management applications | `apiKey` | Yes | Unknown |
 | [UK Police](https://data.police.uk/docs/) | UK Police data | No | Yes | Unknown |
+| [Virus and Malware Scan API by attachmentAV](https://attachmentav.com/solution/virus-malware-scan-api/) | Scan files for viruses, worms, trojans, ransomware, and other kinds of malware by sending them to the attachmentAV API powered by Sophos | `apiKey` | Yes | No |
 | [VulDB](https://vuldb.com/?doc.api) | VulDB API allows to initiate queries for one or more items along with transactional bots | `apiKey` | Yes | Unknown |
 | [Whoisfreaks](https://whoisfreaks.com/) | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security | `apiKey` | Yes | No |
 

@@ -1,5 +1,5 @@
 {
-"count": 1573,
+"count": 1578,
 "entries": [
     {
         "API": "Cat Facts",
@@ -2576,6 +2576,15 @@
         "Category": "Development"
     },
     {
+        "API": "Agent Gateway",
+        "Description": "34+ AI agent infrastructure services including memory, wallets, and scheduling",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://agent-gateway-kappa.vercel.app",
+        "Category": "Development"
+    },
+    {
         "API": "Agify.io",
         "Description": "Estimates the age from a first name",
         "Auth": "",
@@ -2888,6 +2897,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/reformify-form-api",
+        "Category": "Development"
+    },
+    {
+        "API": "FormForge",
+        "Description": "Generate styled, accessible HTML forms from JSON definitions with validation",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://formforge-api.vercel.app",
         "Category": "Development"
     },
     {
@@ -3716,6 +3734,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://www.searchapi.io/",
+        "Category": "Development"
+    },
+    {
+        "API": "SEO Score",
+        "Description": "Comprehensive SEO audit with 28 checks, scoring, and prioritized recommendations",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://seoscoreapi.com",
         "Category": "Development"
     },
     {
@@ -5062,10 +5089,10 @@
     {
         "API": "Website Carbon",
         "Description": "API to estimate the carbon footprint of loading web pages",
-        "Auth": "",
+        "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://api.websitecarbon.com/",
+        "Cors": "yes",
+        "Link": "https://docs.1clickimpact.com/website-carbon",
         "Category": "Environment"
     },
     {
@@ -5543,6 +5570,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://twelvedata.com/",
+        "Category": "Finance"
+    },
+    {
+        "API": "ValueRay",
+        "Description": "Technical, quantitative and sentiment data for stocks and ETFs, optimized for AI/LLM",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.valueray.com/api",
         "Category": "Finance"
     },
     {
@@ -9111,11 +9147,11 @@
     },
     {
         "API": "Musixmatch",
-        "Description": "Music",
+        "Description": "Access lyrics, subtitles and music data",
         "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://developer.musixmatch.com/",
+        "Cors": "yes",
+        "Link": "https://www.musixmatch.com/pro/api/",
         "Category": "Music"
     },
     {
@@ -11177,6 +11213,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.police.uk/docs/",
+        "Category": "Security"
+    },
+    {
+        "API": "Virus and Malware Scan API by attachmentAV",
+        "Description": "Scan files for viruses, worms, trojans, ransomware, and other kinds of malware by sending them to the attachmentAV API powered by Sophos",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://attachmentav.com/solution/virus-malware-scan-api/",
         "Category": "Security"
     },
     {
