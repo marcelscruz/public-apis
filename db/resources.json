@@ -1,5 +1,5 @@
 {
-"count": 1578,
+"count": 1579,
 "entries": [
     {
         "API": "Cat Facts",
@@ -10907,6 +10907,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/fingerprintjs/aev",
+        "Category": "Security"
+    },
+    {
+        "API": "ArkForge Trust Layer",
+        "Description": "Cryptographic proof API for HTTP exchanges — Ed25519, RFC 3161, and Sigstore Rekor attestation",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://arkforge.fr/trust",
         "Category": "Security"
     },
     {
