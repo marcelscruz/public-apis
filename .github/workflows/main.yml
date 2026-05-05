@@ -9,7 +9,7 @@ on:
     inputs:
       branch:
         description: "Branch to fix"
-        required: false
+        required: true
         default: ""
 
 jobs:
