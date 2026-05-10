@@ -1665,7 +1665,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [TwitterApi.IO](https://twitterapi.io) | Access Twitter's Real-time & Historical Data with Unmatched Simplicity | `apiKey`| Yes | No |
 | [vk](https://vk.com/dev/sites) | Read and write vk data | `OAuth`| Yes | Unknown |
 | [Webex](https://developer.webex.com) | Team collaboration software | `OAuth`| Yes | Yes |
-| [Xquik](https://docs.xquik.com) | All-in-one X automation API for tweets, giveaways, monitoring & analytics | `apiKey` | Yes | Unknown |
+| [Xquik](https://docs.xquik.com/api-reference/overview) | X/Twitter API for tweet search, profile tweets, followers, media, posting, monitoring, and webhooks | `apiKey` | Yes | Unknown |
 | [Zoom](https://developers.zoom.us/docs/api) | Video communication, web conferencing, chat, and webinars | `OAuth`| Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
@@ -1993,4 +1993,3 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Yandex.Weather](https://yandex.com/dev/weather/) | Assesses weather condition in specific locations | `apiKey` | Yes | No |
 
 **[⬆ Back to Index](#index)**
-
