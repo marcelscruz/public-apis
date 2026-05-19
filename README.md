@@ -1437,7 +1437,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Stoicism Quote](https://github.com/tlcheah2/stoic-quote-lambda-public-api) | Quotes about Stoicism | No | Yes | Unknown |
 | [They Said So Quotes](https://theysaidso.com/api/) | Quotes Trusted by many fortune brands around the world | No | Yes | Unknown |
 | [Traitify](https://app.traitify.com/developer) | Assess, collect and analyze Personality | No | Yes | Unknown |
-| [PsyQuiz](https://countrycode.xyz/api/frameworks) | Free psychological assessment API with 8 frameworks (Big Five, Attachment, CBT, Flow, EQ, Social Energy, Decision Style, Mental Age). No API key required. | No | Yes | Yes |
+| [PsyQuiz](https://psy.oneroad.com/api/frameworks) | Free psychological assessment API with 8 frameworks (Big Five, Attachment, CBT, Flow, EQ, Social Energy, Decision Style, Mental Age). No API key required. | No | Yes | Yes |
 | [Udemy(instructor)](https://www.udemy.com/developers/instructor/) | API for instructors on Udemy | `apiKey` | Yes | Unknown |
 | [Vadivelu HTTP Codes](https://vadivelu.anoram.com/) | On demand HTTP Codes with images | No | Yes | No |
 | [Vedika](https://vedika.io) | AI-powered Vedic astrology API with birth charts, compatibility, doshas, AI chatbot in 22 languages | `apiKey` | Yes | Yes |
