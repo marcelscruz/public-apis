@@ -471,6 +471,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Development
+- [Geonode](https://geonode.com) — Rotating residential + datacenter proxies and a Firecrawl-compatible scraper API.
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [24 Pull Requests](https://24pullrequests.com/api) | Project to promote open source collaboration during December | No | Yes | Yes |
