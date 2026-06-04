@@ -1939,6 +1939,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Mux](https://www.mux.com/) | Mux Video is an API that enables developers to build unique live and on-demand video experiences | `apiKey` | Yes | Unknown |
 | [Open Movie Database](http://www.omdbapi.com/) | Movie information | `apiKey` | Yes | Unknown |
 | [Rendi](https://rendi.dev) | FFmpeg API | `apiKey` | Yes | No |
+| [Rendobar](https://rendobar.com/docs) | Serverless FFmpeg in the cloud for video and audio transcoding, trimming and conversion | `apiKey` | Yes | No |
 | [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television | No | Yes | Unknown |
 | [Rules of Acquisition](https://rulesofacquisition.herokuapp.com/) | Ferengi Rules of Acquisition from Star Trek with episode references | No | Yes | Unknown |
 | [Shoof Aflam](https://shoofaflam.tv/api-docs/) | Arabic streaming guide — search 14,000+ movies/series, platform availability across 18 services | No | Yes | Yes |
