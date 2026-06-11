@@ -584,6 +584,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Piloterr](https://www.piloterr.com/) | Piloterr web scraping API handles headless browsers, rotates proxies for you, and offers json-parsed data extraction | `apiKey` | Yes | Yes |
 | [PipeDream](https://docs.pipedream.com) | Pipedream is the fastest way to build powerful applications that connect all the services in your stack | `OAuth`| Yes | Unknown |
 | [Postman](https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a) | Tool for testing APIs | `apiKey`| Yes | Unknown |
+| [Prismix](https://prismix.dev/api-docs) | Live status of 75+ AI services (OpenAI, Anthropic, etc.) with uptime and incidents | No | Yes | No |
 | [Proxed AI](https://proxed.ai/) | Secure AI APIs in iOS - No SDK, Just Change Your API URL | `apiKey` | Yes | Yes |
 | [Proxmox VE API](https://pve.proxmox.com/pve-docs/api-viewer/) | API of self-hosted Proxmox VE. Address: https://your.server:8006/api2/json/ (configuring in installation process) | `apiKey`| Yes | Unknown |
 | [ProxyCrawl](https://proxycrawl.com) | Scraping and crawling anticaptcha service | `apiKey`| Yes | Unknown |
