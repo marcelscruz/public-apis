@@ -897,6 +897,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Untappd](https://untappd.com/api/docs) | Social beer sharing | `OAuth`| Yes | Unknown |
 | [What's on the menu?](http://nypl.github.io/menus-api/) | NYPL human-transcribed historical menu collection | `apiKey` | No | Unknown |
 | [WhiskyHunter](https://whiskyhunter.net/api/) | Past online whisky auctions statistical data | No | Yes | Unknown |
+| [Your Move - Nutrition API](https://ymove.app/nutrition-api) | A complete nutrition API. Search foods, get nutrition facts and values. Generate meal plans and look up packaged products from 180+ countries worldwide. | `apiKey` | Yes | Yes |
 | [Zestful](https://zestfuldata.com/) | Parse recipe ingredients | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
@@ -1727,8 +1728,8 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [SuredBits](https://suredbits.com/api/) | Query sports data, including teams, players, games, scores and statistics | No | No | No |
 | [TheSportsDB](https://www.thesportsdb.com/api.php) | Crowd-Sourced Sports Data and Artwork | `apiKey`| Yes | Yes |
 | [Tredict](https://www.tredict.com/blog/oauth_docs/) | Get and set activities, health data and more | `OAuth` | Yes | Unknown |
-| [Video Exercise, Nutrition & Recipe API - ymove.app](https://ymove.app/exercise-api) | One Workout API for: Exercise Videos, Program Generation, Nutritional info & Posture Analysis | `apiKey` | Yes | Yes |
 | [Wger](https://wger.de/en/software/api) | Workout manager data as exercises, muscles or equipment | `apiKey`| Yes | Unknown |
+| [Your Move - Exercise API](https://ymove.app/exercise-api) | The complete exercise library and fitness API for your app. 698+ professional HD exercise videos with workout generation and program builder. | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
@@ -1887,6 +1888,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [CleanURI](https://cleanuri.com/docs) | URL shortener service | No | Yes | Yes |
 | [Cutt.ly](https://cutt.ly/api-documentation/cuttly-links-api) | URL shortener service | `apiKey` | Yes | Unknown |
 | [Free Url Shortener](https://ulvis.net/developer.html) | Free URL Shortener offers a powerful API to interact with other sites | No | Yes | Unknown |
+| [Linkly](https://linklyhq.com/url-shortener-api) | URL shortener API with branded domains, click tracking, smart redirects, and webhooks | `apiKey` | Yes | Yes |
 | [Manyapis.com](https://manyapis.com/products/short-url) | Free URL shortener API with up to 50 requests per day  | Yes | Yes | Yes |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` | Yes | Unknown |
 | [Spoo.me](https://spoo.me/api) | Free URL shortener with custom alias, max-clicks, password protection and advanced analytics support | No | Yes | Yes |
