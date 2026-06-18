@@ -807,6 +807,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Abstract VAT Validation](https://www.abstractapi.com/vat-validation-rates-api) | Validate VAT numbers and calculate VAT rates | `apiKey` | Yes | Yes |
+| [Agent Toolbelt](https://www.agenttoolbelt.live) | AI-generated stock analysis (investment thesis, valuation, insider signal, earnings) from live fundamentals, as structured JSON | `apiKey` | Yes | Unknown |
 | [Aletheia](https://aletheiaapi.com/) | Insider trading data, earnings call analysis, financial statements, and more | `apiKey` | Yes | Yes |
 | [Alpha Vantage](https://www.alphavantage.co/) | Realtime and historical stock data | `apiKey` | Yes | Unknown |
 | [ArgentoFX](https://fastapiproject-1-eziw.onrender.com/docs) | Real-time foreign exchange rates for Argentina | No | Yes | Yes |
