@@ -9542,15 +9542,6 @@
         "Category": "News"
     },
     {
-      "API": "NewsAgent Data",
-      "Description": "Russian & English news with urgency scoring, political-lean & event clustering",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "yes",
-      "Link": "https://newsagentdata.com/",
-      "Category": "News"
-    },
-    {
         "API": "NewsData",
         "Description": "News data API for live-breaking news and headlines from reputed news sources",
         "Auth": "apiKey",
