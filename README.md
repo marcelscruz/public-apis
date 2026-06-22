@@ -8,6 +8,15 @@
 
 <br/>
 <hr/>
+    <div>
+        <p align="center"><a href="https://publicapis.dev?ref=dr-pa&utm_medium=public-apis-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/public-apis.png" width="130px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="130px"><img alt="Scrapfly logo" src="./assets/public-apis.png" width="130px"></picture></a>
+        </p>
+        <p align="center"><a href="https://publicapis.dev?ref=dr-pa&utm_medium=public-apis-repo-readme">Public APIs</a> — A collaborative list of public APIs for developers.</p>
+    </div>
+</div>
+
+<br/>
+<hr/>
 <br/> -->
 
 <div align="center">Sponsored by</div>
@@ -589,6 +598,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [IPinfo](https://ipinfo.io/developers) | Another simple IP Address API | No | Yes | Unknown |
 | [IPLocate](https://www.iplocate.io/) | IP geolocation and threat data API | No | Yes | Yes |
 | [IPQuery](https://ipquery.io) | A free IP Geolocation and proxy/tor/VPN detection API | No | Yes | Yes |
+| [isitdownstatus](https://isitdownstatus.com) | Free public JSON API for real-time status monitoring of 500+ services | No | Yes | Yes |
 | [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) | Package info and download stats on jsDelivr CDN | No | Yes | Yes |
 | [JSON 2 JSONP](https://json2jsonp.com/) | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript | No | Yes | Unknown |
 | [JSONbin.io](https://jsonbin.io) | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps | `apiKey`| Yes | Yes |
