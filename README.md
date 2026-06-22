@@ -529,6 +529,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Brainshop.ai](https://brainshop.ai/) | Make A Free A.I Brain | `apiKey`| Yes | Yes |
 | [Brand.dev](https://www.brand.dev/) | API to personalize your product with logos, colors, and company info from any domain | `apiKey`| Yes | Yes |
 | [Brave Search API](https://brave.com/search/api/) | An index of billions of pages in a single call | `apiKey`| Yes | No |
+| [BrewPage](https://brewpage.app) | Free instant hosting for HTML, Markdown, JSON, and files. No signup | No | Yes | No |
 | [BrowserCat](https://www.browsercat.com/) | Headless browser API for automation, scraping, and more | `apiKey` | Yes | Yes |
 | [Browshot](https://browshot.com/api/documentation) | Easily make screenshots of web pages in any screen size, as any device | `apiKey`| Yes | Yes |
 | [Cache Horse](https://cache.horse) | Combine/batch & cache multiple HTTP requests to save on API quotas, speed up & simplify your app | `apiKey` | Yes | Yes |
