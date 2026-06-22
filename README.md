@@ -888,6 +888,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Realie Property Data API](https://www.realie.ai/real-estate-data-api) | Realie's property data is directly sourced from local municipalities and contains over 100 data fields. Realie covers the entire USA with 180 million parcels. | `apiKey` | Yes | No |
 | [RentCast](https://developers.rentcast.io) | Retrieve real-time property and rental data for real estate in the United States | `apiKey` | Yes | Yes |
 | [SEC EDGAR Data](https://www.sec.gov/search-filings/edgar-application-programming-interfaces) | API to access annual reports of public US companies | No | Yes | Yes |
+| [SiftingIO](https://sifting.io/docs) | Market data API for stocks, currency, crypto, commodities, and DEX | `apiKey` | Yes | Yes | |
 | [SmartAPI](https://smartapi.angelbroking.com/) | Gain access to set of <SmartAPI> and create end-to-end broking services | `apiKey` | Yes | Unknown |
 | [StockData](https://www.StockData.org) | Real-Time, Intraday & Historical Market Data, News and Sentiment API | `apiKey` | Yes | Yes |
 | [Stripe](https://stripe.com/docs/api) | Payment processing, subscriptions, and financial management | `apiKey` | Yes | Unknown |
