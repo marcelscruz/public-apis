@@ -1651,6 +1651,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Facebook](https://developers.facebook.com/) | Facebook Login, Share on FB, Social Plugins, Analytics and more | `OAuth`| Yes | Unknown |
 | [Foursquare](https://developer.foursquare.com/) | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) | `OAuth`| Yes | Unknown |
 | [Full Contact](https://docs.fullcontact.com/) | Get Social Media profiles and contact Information | `OAuth`| Yes | Unknown |
+| [GetXAPI](https://docs.getxapi.com) | Twitter scraping and posting — 44 endpoints from $0.001 per call | `apiKey` | Yes | No |
 | [HackerNews](https://github.com/HackerNews/API) | Social news for CS and entrepreneurship | No | Yes | Unknown |
 | [Hashnode](https://hashnode.com) | A blogging platform built for developers | No | Yes | Unknown |
 | [Hashtag](https://mukeshsolanki.gitbook.io/hashtag-api/) | Generate Hashtags using a keyword or an Image | `apiKey` | Yes | Unknown |
