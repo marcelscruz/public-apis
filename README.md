@@ -217,6 +217,7 @@
 | [ColorMagic](https://colormagic.app/api) | Color Palette Generator | No | Yes | Yes |
 | [ColourLovers](http://www.colourlovers.com/api) | Get various patterns, palettes and images | No | Yes | Unknown |
 | [Cooper Hewitt](https://collection.cooperhewitt.org/api) | Smithsonian Design Museum | `apiKey` | Yes | Unknown |
+| [cv.cm](https://cv.cm/api) | AI video and image generation (Seedance, gpt-image-2, Seedream) with a free credit tier | `apiKey` | Yes | Unknown |
 | [Dribbble](https://developer.dribbble.com) | Discover the world’s top designers & creatives | `OAuth`| Yes | Unknown |
 | [EmojiHub](https://github.com/cheatsnake/emojihub) | Get emojis by categories and groups | No | Yes | Yes |
 | [Europeana](https://pro.europeana.eu/resources/apis/search) | European Museum and Galleries content | `apiKey` | Yes | Unknown |
