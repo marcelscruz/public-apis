@@ -1386,6 +1386,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [OpenSanctions](https://www.opensanctions.org/docs/api/) | Data on international sanctions, crime and politically exposed persons | No | Yes | Yes |
 | [Recreation Information Database](https://ridb.recreation.gov/) | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US) | `apiKey` | Yes | Unknown |
 | [Scoop.it](http://www.scoop.it/dev) | Content Curation Service | `apiKey` | No | Unknown |
+| [SettleSignal](https://settlesignal.com/data/settlements.json) | Verified US class-action & refund settlements | No | Yes | Unknown |
 | [Socrata](https://dev.socrata.com/) | Access to Open Data from Governments, Non-profits and NGOs around the world | `OAuth`| Yes | Yes |
 | [Sofiaplan](https://sofiaplan.bg/api/) | Access to urban research data for the Bulgarian capital Sofia | No | Yes | Yes |
 | [Udemy Coupons, Courses & Instructors Data](https://rapidapi.com/vintarok-vintarok-default/api/udemy-coupons-courses-instructors-data-api) | Retrieve Udemy courses, coupons, instructors, and metadata | `apiKey` | Yes | Yes |
