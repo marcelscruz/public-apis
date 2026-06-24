@@ -1,5 +1,5 @@
 {
-"count": 1602,
+"count": 1603,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12293,6 +12293,15 @@
         "HTTPS": false,
         "Cors": "no",
         "Link": "https://suredbits.com/api/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "Tennis API",
+        "Description": "Premium tennis API with free plan also available. Tennis stats, predictions, odds, live scores, point by point. Tennis websocket also available.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://tennis-api.com",
         "Category": "Sports & Fitness"
     },
     {
