@@ -572,6 +572,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Heroku](https://devcenter.heroku.com/articles/platform-api-reference/) | REST API to programmatically create apps, provision add-ons and perform other task on Heroku | `OAuth` | Yes | Yes |
 | [Hoppscotch](https://hoppscotch.io/) | A lightweight, fast, and customizable app for testing and designing APIs. A free, fast, and beautiful  | No | Yes | Unknown |
 | [Host.io](https://host.io) | Domains Data API for Developers | `apiKey`| Yes | Yes |
+| [HProxy Free Proxy List](https://hproxy.com/api/proxy-list) | Free HTTP, HTTPS, SOCKS4 & SOCKS5 proxy list, updated frequently | No | Yes | Yes |
 | [HTTP2.Pro](https://http2.pro/doc/api) | Test endpoints for client and server HTTP/2 protocol support | No | Yes | Unknown |
 | [HTTPie](https://httpie.io) | a free command-line HTTP client for the API era | No | Yes | Unknown |
 | [Httpbin](https://httpbin.org/) | A Simple HTTP Request & Response Service | No | Yes | Yes |
