@@ -1,5 +1,5 @@
 {
-"count": 1603,
+"count": 1604,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3932,6 +3932,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://quickchart.io/",
+        "Category": "Development"
+    },
+    {
+        "API": "ReefAPI",
+        "Description": "One API for 160+ live web-data sources (search, social, e-commerce, real estate, jobs, finance) as clean JSON",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://reefapi.com",
         "Category": "Development"
     },
     {
