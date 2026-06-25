@@ -1583,6 +1583,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [ClawSearch](https://api.clawsearch.cc) | Security-first search engine API for AI agent skills with Trust Score | No | Yes | Yes |
 | [Complete Criminal Checks](https://completecriminalchecks.com/Developers) | Provides data of offenders from all U.S. States and Puerto Rico | `apiKey` | Yes | Yes |
 | [CRXcavator](https://crxcavator.io/apidocs) | Chrome extension risk scoring | `apiKey` | Yes | Unknown |
+| [DomainIntel](https://domainintel.onrender.com) | Real-time domain intelligence: RDAP, DNS-over-HTTPS, Certificate Transparency and bulk lookups | `apiKey` | Yes | Yes |
 | [EmailRep](https://docs.emailrep.io/) | Email address threat and risk prediction | No | Yes | Unknown |
 | [Escape](https://github.com/polarspetroll/EscapeAPI) | An API for escaping different kind of queries | No | Yes | No |
 | [FilterLists](https://api.filterlists.com) | Lists of filters for adblockers and firewalls | No | Yes | Unknown |
