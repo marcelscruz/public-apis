@@ -28,6 +28,13 @@
 
 <br/>
 
+<div>
+    <p align="center"><a href="https://screenshotscout.com/?ref=dr-pa&utm_medium=public-apis-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/screenshot-scout-dark-mode.svg" width="160px"><source media="(prefers-color-scheme: light)" srcset="./assets/screenshot-scout-light-mode.svg" width="160px"><img alt="Screenshot Scout logo" src="./assets/screenshot-scout-dark-mode.svg" width="160px"></picture></a></p>
+    <p align="center"><a href="https://screenshotscout.com/?ref=dr-pa&utm_medium=public-apis-repo-readme">Screenshot Scout</a>: a screenshot API for developers that delivers clean, production-ready screenshots of any URL with a single HTTP request.</p>
+</div>
+
+<br/>
+
 <br/>
 <hr/>
 <br/>
