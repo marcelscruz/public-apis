@@ -1,5 +1,5 @@
 {
-"count": 1604,
+"count": 1605,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4157,6 +4157,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://sheetsu.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "SnapAPI",
+        "Description": "Developer utility API with 13+ tools: QR codes, screenshots, image processing, hashing, and more",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://api-snap.com",
         "Category": "Development"
     },
     {
