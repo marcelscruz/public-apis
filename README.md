@@ -1735,6 +1735,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [TheSportsDB](https://www.thesportsdb.com/api.php) | Crowd-Sourced Sports Data and Artwork | `apiKey`| Yes | Yes |
 | [Tredict](https://www.tredict.com/blog/oauth_docs/) | Get and set activities, health data and more | `OAuth` | Yes | Unknown |
 | [Wger](https://wger.de/en/software/api) | Workout manager data as exercises, muscles or equipment | `apiKey`| Yes | Unknown |
+| [World Cup 2026 Tour](https://ay-worldcup2026.zeabur.app/developers) | World Cup 2026 fixtures, local-time conversion, calendars, and share links | No | Yes | Yes |
 | [Your Move - Exercise API](https://ymove.app/exercise-api) | The complete exercise library and fitness API for your app. 698+ professional HD exercise videos with workout generation and program builder. | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
