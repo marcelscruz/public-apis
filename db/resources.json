@@ -1,5 +1,5 @@
 {
-"count": 1603,
+"count": 1604,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10367,6 +10367,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://cloudmersive.com/phone-number-validation-API",
+        "Category": "Phone"
+    },
+    {
+        "API": "MobileAPI",
+        "Description": "Smartphone, tablet, and wearable device specifications",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://mobileapi.dev/docs/",
         "Category": "Phone"
     },
     {
