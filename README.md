@@ -859,6 +859,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Binlist](https://binlist.net/) | Public access to a database of IIN/BIN information | No | Yes | Unknown |
 | [Boleto.Cloud](https://boleto.cloud/) | A api to generate boletos in Brazil | `apiKey` | Yes | Unknown |
 | [Bullbear Advisors](https://rapidapi.com/otha1920/api/bullbear-advisor) | See strong buy and sell signals the day they occur. Get today's stocks that closed with a strong Bullish or Bearish candlestick. | No | Yes | No |
+| [Casheva](https://casheva.com/api) | Financial data for Argentina, Spain and Mexico: USD rates, inflation, Euribor, ICL | No | Yes | Yes |
 | [Citi](https://sandbox.developerhub.citi.com/api-catalog-list) | All Citigroup account and statement data APIs | `apiKey` | Yes | Unknown |
 | [DolarAPI](https://dolarapi.com/docs/) | Real-time exchange rates for Latin American currencies | No | Yes | Yes |
 | [Earnings Feed](https://earningsfeed.com/api/docs) | SEC filings, insider transactions, institutional holdings | `apiKey` | Yes | No |
