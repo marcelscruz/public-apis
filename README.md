@@ -339,6 +339,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Tomba email finder](https://tomba.io/api) | Email Finder for B2B sales and email marketing and email verifier | `apiKey` | Yes | Yes |
 | [Trello](https://developers.trello.com/) | Boards, lists and cards to help you organize and prioritize your projects | `OAuth`| Yes | Unknown |
 | [USPTO Trademark](https://rapidapi.com/pentium10/api/uspto-trademark) | Trademark keyword search, availability, owner, serial search, attorney info, MCP ready | `apiKey` | Yes | Yes |
+| [Zillapi](https://zillapi.com) | US property data API — Zestimate, photos, taxes, price history | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
