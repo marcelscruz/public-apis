@@ -10,6 +10,18 @@
 >
 > Thanks for understanding! :)
 
+## What we accept
+
+Before submitting, make sure the API meets all of the following criteria:
+
+-   **Main product only** — the API must be the main product itself; internal tools or features of a larger product are not accepted
+-   **Custom domain required** — APIs hosted on shared subdomains (`vercel.app`, `netlify.app`, `herokuapp.com`, `github.io`, `pages.dev` and similar) are not accepted
+-   **Available now** — no waitlists, betas behind closed signups, or "coming soon" products
+-   **Publicly reachable and documented** — the API must be publicly reachable right now and have proper documentation
+-   **Quality bar** — low-effort or AI-generated listings are rejected
+
+Submissions are reviewed by an automated reviewer first — a bot account may comment on, approve, or close your pull request — and by the maintainer for the final merge.
+
 ## Formatting
 
 Current API entry format:
