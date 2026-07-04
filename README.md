@@ -600,6 +600,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [JSON 2 JSONP](https://json2jsonp.com/) | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript | No | Yes | Unknown |
 | [JSONbin.io](https://jsonbin.io) | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps | `apiKey`| Yes | Yes |
 | [JSONsilo.com](https://jsonsilo.com) | Hassle-free JSON hosting. Convert your JSON file to an API in minutes at no cost. | `apiKey` | Yes | Yes | No |
+| [Kiprio WHOIS](https://kiprio.com/v1/whois) | Domain WHOIS lookup: registrar, expiry, nameservers, registrant info | `apiKey` | Yes | Yes |
 | [Kroki](https://kroki.io) | Creates diagrams from textual descriptions | No | Yes | Yes |
 | [Lua Decompiler](https://lua-decompiler.ferib.dev/) | Online Lua 5.1 Decompiler | No | Yes | Yes |
 | [MAC address vendor lookup](https://macaddress.io/api) | Retrieve vendor details and other information regarding a given MAC address or an OUI | `apiKey`| Yes | Yes |
@@ -772,6 +773,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Heybounce](https://www.heybounce.io/#email-verification-api) | Email Verification API | No | Yes | Yes |
 | [ImprovMX](https://improvmx.com/api) | API for free email forwarding service | `apiKey` | Yes | Unknown |
 | [IndiePitcher](https://docs.indiepitcher.com/api-reference) | Everything email for your startup with markdown support | `apiKey` | Yes | Yes |
+| [Kiprio Email Validate](https://kiprio.com/v1/email-validate) | Free email validation: MX check, disposable detection, role detection, syntax | `apiKey` | Yes | Yes |
 | [Kickbox](https://open.kickbox.com/) | Email verification API | No | Yes | Yes |
 | [mail.gw](https://docs.mail.gw) | 10 Minute Mail | No | Yes | Yes |
 | [mail.tm](https://docs.mail.tm) | Temporary Email Service | No | Yes | Yes |
@@ -1603,6 +1605,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [HackerOne](https://api.hackerone.com/) | The industry’s first hacker API that helps increase productivity towards creative bug bounty hunting | `apiKey` | Yes | Unknown |
 | [HaveIBeenPwned](https://haveibeenpwned.com/API/v3) | Passwords which have previously been exposed in data breaches | `apiKey` | Yes | Unknown |
 | [Intelligence X](https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf) | Perform OSINT via Intelligence X | `apiKey` | Yes | Unknown |
+| [Kiprio SSL Inspector](https://kiprio.com/v1/ssl) | SSL/TLS certificate inspection: chain, expiry, issuer, HSTS, OCSP status | `apiKey` | Yes | Yes |
 | [LoginRadius](https://www.loginradius.com/docs/) | Managed User Authentication Service | `apiKey` | Yes | Yes |
 | [LeakInsight](https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api/) | Find leaked or exposed credentials by email, username, phone, domain, hash, or breach origin | `apiKey` | Yes | Unknown |
 | [Microsoft Security Response Center (MSRC)](https://msrc.microsoft.com/report/developer) | Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC) | No | Yes | Unknown |
