@@ -1,5 +1,5 @@
 {
-"count": 1607,
+"count": 1608,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5534,6 +5534,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://aletheiaapi.com/",
+        "Category": "Finance"
+    },
+    {
+        "API": "AlphaAI",
+        "Description": "AI-enriched financial & insider-trading news, scored for relevance",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://alphai.io/developers",
         "Category": "Finance"
     },
     {
