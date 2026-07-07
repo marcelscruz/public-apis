@@ -18,7 +18,7 @@ Before submitting, make sure the API meets all of the following criteria:
 -   **Custom domain required** — APIs hosted on shared subdomains (`vercel.app`, `netlify.app`, `herokuapp.com`, `github.io`, `pages.dev` and similar) are not accepted
 -   **Available now** — no waitlists, betas behind closed signups, or "coming soon" products
 -   **Publicly reachable and documented** — the API must be publicly reachable right now and have proper documentation
--   **Quality bar** — low-effort or AI-generated listings are rejected
+-   **Quality bar** — low-effort projects are not accepted
 
 Submissions are reviewed by an automated reviewer first — a bot account may comment on, approve, or close your pull request — and by the maintainer for the final merge.
 
