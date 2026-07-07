@@ -1,5 +1,5 @@
 {
-"count": 1606,
+"count": 1607,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2942,6 +2942,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apileague.com",
+        "Category": "Development"
+    },
+    {
+        "API": "API Status Check",
+        "Description": "Real-time status and uptime monitoring for 270+ APIs and services",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apistatuscheck.com",
         "Category": "Development"
     },
     {
