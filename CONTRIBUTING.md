@@ -2,11 +2,10 @@
 
 > ❗️ The `/db` folder is auto-generated, so please **_do not_** edit it. Changes related to public APIs should happen on the `README.md` file.
 
-> While the masses of pull requests and community involvement are appreciated, some pull requests have been specifically
-> opened to market company APIs that offer paid solutions. This API list is not a marketing tool, but a tool to help the
-> community build applications and use free, public APIs quickly and easily. Pull requests that are identified as marketing attempts will not be accepted.
->
-> Please make sure the API you want to add has full, free access or at least a free tier and does not depend on the purchase of a device/service before submitting. An example that would be rejected is an API that is used to control a smart outlet - the API is free, but you must purchase the smart device.
+> While the masses of pull requests and community involvement are appreciated, some pull requests are opened purely to
+> market a product rather than to share a usable API. This list is not a billboard: every entry must point at a publicly
+> documented, self-serve API that others can actually connect to. Paid, freemium and free APIs are all equally welcome -
+> "public" means anyone can sign up and call it, not that it costs nothing.
 >
 > Thanks for understanding! :)
 
