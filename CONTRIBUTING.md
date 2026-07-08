@@ -14,11 +14,15 @@
 
 Before submitting, make sure the API meets all of the following criteria:
 
--   **Main product only** — the API must be the main product itself; internal tools or features of a larger product are not accepted
+-   **Any use case** — the product can serve any audience or subject matter. What matters is that it exposes an API others can connect to
+-   **Free or paid** — "public" means anyone can sign up and call it, not that it costs nothing. Paid and freemium APIs are welcome
+-   **Self-serve** — no waitlists, betas behind closed signups, "coming soon" products, partner-approval processes, or "contact sales" gates. A stranger must be able to go from the docs to a working call on their own
+-   **Publicly reachable and documented** — the API must be publicly reachable right now and have proper documentation. If its Auth, HTTPS and CORS behaviour cannot be determined from the docs, it does not qualify
+-   **Main product only** — the submission must be a product in its own right; internal tools or features of a larger product are not accepted. The API itself does not have to be the product's main offering
 -   **Custom domain required** — APIs hosted on shared subdomains (`vercel.app`, `netlify.app`, `herokuapp.com`, `github.io`, `pages.dev` and similar) are not accepted
--   **Available now** — no waitlists, betas behind closed signups, or "coming soon" products
--   **Publicly reachable and documented** — the API must be publicly reachable right now and have proper documentation
 -   **Quality bar** — low-effort projects are not accepted
+
+Apps, libraries, CLIs, SDKs and websites with no connectable API do not belong here. If your product is a tool developers use to build software, it belongs in [dev-resources](https://github.com/marcelscruz/dev-resources) — and if it *also* exposes a public API, it belongs in **both**; the two directories overlap on purpose, and a listing in one is not a duplicate of the other.
 
 Submissions are reviewed by an automated reviewer first — a bot account may comment on, approve, or close your pull request — and by the maintainer for the final merge.
 
