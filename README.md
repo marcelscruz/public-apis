@@ -1127,6 +1127,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Rwanda Locations](https://rapidapi.com/victorkarangwa4/api/rwanda) | Rwanda Provinces, Districts, Cities, Capital City, Sector, cells, villages and streets | No | Yes | Unknown |
 | [SLF](https://github.com/slftool/slftool.github.io/blob/master/API.md) | German city, country, river, database | No | Yes | Yes |
 | [SpotSense](https://spotsense.io/) | Add location based interactions to your mobile app | `apiKey` | Yes | Unknown |
+| [SpryTools IP Geolocation](https://sprytools.com/apis/geo/) | Resolve IPv4/IPv6 to country, region, city, ISP, ASN and timezone via MaxMind GeoLite2 | `apiKey` | Yes | Unknown |
 | [Telize](https://rapidapi.com/fcambus/api/telize/) | Telize offers location information from any IP address | `apiKey` | Yes | Yes |
 | [The IP API](https://theipapi.com) | IP to Location API, with data about country, region, city etc, with free plan allowing 1000 req/day | `apiKey` | Yes | Unknown |
 | [Timezones Dictionary API](https://apyhub.com/utility/data-lists-timezone) | This API returns a list of all available timezones for your application | `apiKey` | Yes | Yes |
@@ -1796,6 +1797,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Proofread and Grammar Check API](https://apyhub.com/utility/sharpapi-proofread-grammer-check) | The Proofreading and Grammar Check API ensures the provided text is grammatically correct and polished by automatically proofreading and checking for errors | `apiKey`| Yes | Yes |
 | [Safe text](https://rapidapi.com/bacloud14/api/safe-text) | Clean short and long texts. It is probably world most complete text-cleaner API! Providing very fast and accurate results. | `apiKey`| Yes | Yes |
 | [Semantria](https://semantria.readme.io/docs) | Text Analytics with sentiment analysis, categorization & named entity extraction | `OAuth`| Yes | Unknown |
+| [SpryTools AI Text Analysis](https://sprytools.com/apis/ai/) | Sentiment, summarization, NER, zero-shot classification and keyword extraction via Gemini | `apiKey` | Yes | Unknown |
 | [Tisane](https://tisane.ai/) | Text Analytics with focus on detection of abusive content and law enforcement applications | `OAuth`| Yes | Yes |
 | [Watson Natural Language Understanding](https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding) | Natural language processing for advanced text analysis | `OAuth`| Yes | Unknown |
 
