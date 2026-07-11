@@ -22,8 +22,8 @@
 <br/>
 
 <div>
-    <p align="center"><a href="https://www.rapidproxy.io/?ref=dr-pa&utm_medium=public-apis-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rapidproxy-dark-mode.svg" width="160px"><source media="(prefers-color-scheme: light)" srcset="./assets/rapidproxy-light-mode.svg" width="160px"><img alt="RapidProxy logo" src="./assets/rapidproxy-dark-mode.svg" width="160px"></picture></a></p>
-    <p align="center"><a href="https://www.rapidproxy.io/?ref=dr-pa&utm_medium=public-apis-repo-readme">RapidProxy</a>: 90M+ residential IPs in 200+ countries, starting at $0.65/GB with non-expiring traffic. Power your scraping and automation. Try it free today.</p>
+    <p align="center"><a href="https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=public-apis-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/talordata-dark-mode.svg" width="80px"><source media="(prefers-color-scheme: light)" srcset="./assets/talordata-light-mode.svg" width="80px"><img alt="Talordata logo" src="./assets/talordata-dark-mode.svg" width="80px"></picture></a></p>
+    <p align="center"><a href="https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=public-apis-repo-readme">Talordata</a>: Get structured results from Google, Bing, Yandex, and DuckDuckGo through one API, with fast, reliable responses.</p>
 </div>
 
 <br/>
