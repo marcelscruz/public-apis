@@ -1289,6 +1289,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Juju](http://www.juju.com/publisher/spec/) | Job search engine | `apiKey` | No | Unknown |
 | [OkJob](https://okjob.io/api) | 4 day week job board | `apiKey` | Yes | Unknown |
 | [Reed](https://www.reed.co.uk/developers) | Job board aggregator | `apiKey` | Yes | Unknown |
+| [RolesAPI](https://rolesapi.com/docs) | Indeed job postings data: search listings, salaries, and role details across 60+ country editions | `apiKey` | Yes | Yes |
 | [Techmap's Job Postings](https://jobdatafeeds.com/job-api) | API for International Job postings | `apiKey` | Yes | Unknown |
 | [TheirStack's Job Postings](https://theirstack.com/en/job-posting-api) | Access simultaneously to jobs from Linkedin, Glassdoor, Indeed and 16+ other job sites | `apiKey` | Yes | Unknown |
 | [The Muse](https://www.themuse.com/developers/api/v2) | Job board and company profiles | `apiKey` | Yes | Unknown |
