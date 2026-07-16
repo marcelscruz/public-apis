@@ -76,7 +76,7 @@ _Please follow the guidelines given below while making a Pull Request to the Pub
 -   Don't mention the TLD(Top Level Domain) in the name of the API. _for e.g._: ❌Gmail.com ✔Gmail
 -   Please make sure the API name does not end with `API`. _for e.g._: ❌Gmail API ✔Gmail
 -   Please make sure the API has proper documentation.
--   Keep the description under 160 characters so it fits the listing card. Longer descriptions are automatically shortened by our reviewer, kept as close to the original as possible while retaining the most important information.
+-   Keep the description under 160 characters so it fits the listing card.
 -   Please make sure you squash all commits together before opening a pull request. If your pull request requires changes upon review, please be sure to squash all additional commits as well. [This wiki page][squash-link] outlines the squash process.
 -   Target your Pull Request to the `main` branch of the `public-apis`
 
