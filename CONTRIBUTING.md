@@ -19,6 +19,7 @@ Before submitting, make sure the API meets all of the following criteria:
 -   **Publicly reachable and documented** — the API must be publicly reachable right now and have proper documentation. If its Auth, HTTPS and CORS behaviour cannot be determined from the docs, it does not qualify
 -   **Main product only** — the submission must be a product in its own right; internal tools or features of a larger product are not accepted. The API itself does not have to be the product's main offering
 -   **Custom domain required** — APIs hosted on shared subdomains (`vercel.app`, `netlify.app`, `herokuapp.com`, `github.io`, `pages.dev` and similar) are not accepted
+-   **Clean URLs** — the URL must not contain query parameters (anything after `?`); link to the plain documentation page instead
 -   **Quality bar** — low-effort projects are not accepted
 
 Apps, libraries, CLIs, SDKs and websites with no connectable API do not belong here. If your product is a tool developers use to build software, it belongs in [dev-resources](https://github.com/marcelscruz/dev-resources) — and if it *also* exposes a public API, it belongs in **both**; the two directories overlap on purpose, and a listing in one is not a duplicate of the other.
