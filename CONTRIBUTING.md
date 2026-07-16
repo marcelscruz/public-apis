@@ -67,7 +67,6 @@ _Please follow the guidelines given below while making a Pull Request to the Pub
 -   Never put an update/new version of an API that is already listed, the old version of the API gets deprecated.
 -   Continue to follow the alphabetical ordering that is in place per section.
 -   Each table column should be padded with one space on either side.
--   The Description should not exceed 100 characters.
 -   If an API seems to fall into multiple categories, please place the listing within the section most in line with the services offered through the API. For example, the Instagram API is listed under `Social` since it is mainly a social network, even though it could also apply to `Photography`.
 -   Add one link per Pull Request.
 -   Make sure the PR title is in the format of `Add Api-name API` _for e.g._: `Add Blockchain API`
