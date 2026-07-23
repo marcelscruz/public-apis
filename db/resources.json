@@ -1,5 +1,5 @@
 {
-"count": 1616,
+"count": 1617,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13193,6 +13193,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.refugerestrooms.org/api/docs/#!/restrooms",
+        "Category": "Transportation"
+    },
+    {
+        "API": "Road511",
+        "Description": "Unified traffic data from 65 US/CA jurisdictions: events, cameras, signs, bridges, truck routes",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://road511.com/docs.html",
         "Category": "Transportation"
     },
     {
