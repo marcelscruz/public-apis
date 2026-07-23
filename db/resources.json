@@ -1,5 +1,5 @@
 {
-"count": 1626,
+"count": 1627,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5309,6 +5309,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://mememaker.github.io/API/",
+        "Category": "Entertainment"
+    },
+    {
+        "API": "Memesio",
+        "Description": "Meme creation API with templates, editable captions and hosted share links",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://memesio.com/developers/api",
         "Category": "Entertainment"
     },
     {
