@@ -1,5 +1,5 @@
 {
-"count": 1637,
+"count": 1638,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2600,6 +2600,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://1forge.com/forex-data-api/api-documentation",
+        "Category": "Currency Exchange"
+    },
+    {
+        "API": "AllRatesToday",
+        "Description": "Real-time exchange rates for 160+ currencies with historical data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://allratestoday.com",
         "Category": "Currency Exchange"
     },
     {
