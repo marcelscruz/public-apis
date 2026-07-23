@@ -1,5 +1,5 @@
 {
-"count": 1638,
+"count": 1639,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2699,6 +2699,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://euroratesapi.dev/",
+        "Category": "Currency Exchange"
+    },
+    {
+        "API": "Exchange-Rate",
+        "Description": "Live currency exchange rates and conversion for 160+ currencies",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://exchange-rateapi.com",
         "Category": "Currency Exchange"
     },
     {
