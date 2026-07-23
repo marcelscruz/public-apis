@@ -1,5 +1,5 @@
 {
-"count": 1617,
+"count": 1618,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12608,6 +12608,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://rapidapi.com/edualc1018/api/random-identity-generator",
+        "Category": "Test Data"
+    },
+    {
+        "API": "Random Profiles",
+        "Description": "Fake user profiles and companies with 100+ fields each",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://random-profiles.com",
         "Category": "Test Data"
     },
     {
