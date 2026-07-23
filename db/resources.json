@@ -1,5 +1,5 @@
 {
-"count": 1633,
+"count": 1634,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11942,6 +11942,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.fullcontact.com/",
+        "Category": "Social"
+    },
+    {
+        "API": "GetXAPI",
+        "Description": "Twitter scraping and posting — 44 endpoints from $0.001 per call",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://docs.getxapi.com",
         "Category": "Social"
     },
     {
