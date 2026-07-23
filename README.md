@@ -848,6 +848,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [OpenAQ](https://docs.openaq.org/) | Open air quality data | `apiKey` | Yes | Unknown |
 | [PM2.5 Open Data Portal](https://pm25.lass-net.org/#apis) | Open low-cost PM2.5 sensor data | No | Yes | Unknown |
 | [PVWatts](https://developer.nrel.gov/docs/solar/pvwatts/v6/) | Energy production photovoltaic (PV) energy systems | `apiKey` | Yes | Unknown |
+| [Solematica](https://www.solematica.it/sviluppatori) | Compare Italian solar installer offers, energy prices (PUN/ARERA) and satellite roof data | No | Yes | No |
 | [Srp Energy](https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html) | Hourly usage energy report for Srp customers | `apiKey` | Yes | No |
 | [Thames Water Open Data](https://data.thameswater.co.uk) | Open Data from the UK's largest water and wastewater services company | `apiKey` | Yes | Unknown |
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | The Official Carbon Intensity API for Great Britain developed by National Grid | No | Yes | Unknown |
