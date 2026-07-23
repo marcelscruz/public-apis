@@ -1,5 +1,5 @@
 {
-"count": 1635,
+"count": 1636,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7559,6 +7559,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://geolocated.io",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "Geomelon",
+        "Description": "Multilingual City autocomplete",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://geomelon.dev/free-city-autocomplete-api/",
         "Category": "Geocoding"
     },
     {
