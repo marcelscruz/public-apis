@@ -1,5 +1,5 @@
 {
-"count": 1621,
+"count": 1622,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10970,6 +10970,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://bootprint.space/",
+        "Category": "Science & Math"
+    },
+    {
+        "API": "CodeCogs",
+        "Description": "Generate LaTeX equations as PNG, SVG, and GIF images",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://editor.codecogs.com/docs/4-LaTeX_rendering.php",
         "Category": "Science & Math"
     },
     {
