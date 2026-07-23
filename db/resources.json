@@ -1,5 +1,5 @@
 {
-"count": 1652,
+"count": 1653,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5759,6 +5759,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://rapidapi.com/otha1920/api/bullbear-advisor",
+        "Category": "Finance"
+    },
+    {
+        "API": "Casheva",
+        "Description": "Financial data for Argentina, Spain and Mexico: USD rates, inflation, Euribor, ICL",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://casheva.com/api",
         "Category": "Finance"
     },
     {
