@@ -1,5 +1,5 @@
 {
-"count": 1655,
+"count": 1656,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10097,6 +10097,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://collegescorecard.ed.gov/data/",
+        "Category": "Open Data"
+    },
+    {
+        "API": "CrawlGraph",
+        "Description": "Backlink and domain-link data from Common Crawl's open web graph",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://crawlgraph.com/docs/api",
         "Category": "Open Data"
     },
     {
