@@ -1,5 +1,5 @@
 {
-"count": 1618,
+"count": 1619,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5858,6 +5858,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.mercadopago.com.br/developers/es/reference",
+        "Category": "Finance"
+    },
+    {
+        "API": "Metal Sentinel",
+        "Description": "Real-time precious and base metals prices. One API. Zero cost",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://metal-sentinel.com",
         "Category": "Finance"
     },
     {
