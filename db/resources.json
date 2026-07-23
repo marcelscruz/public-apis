@@ -1,5 +1,5 @@
 {
-"count": 1636,
+"count": 1637,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8315,6 +8315,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.colorado.gov/",
+        "Category": "Government"
+    },
+    {
+        "API": "Conversor IAE CNAE",
+        "Description": "Spanish IAE/CNAE tax activity codes, 2009→2025 crosswalk and AEAT obligations",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://www.conversoriaecnae.es/api/v1/docs",
         "Category": "Government"
     },
     {
