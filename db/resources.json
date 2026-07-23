@@ -1,5 +1,5 @@
 {
-"count": 1656,
+"count": 1657,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9260,6 +9260,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://open.fda.gov",
+        "Category": "Health"
+    },
+    {
+        "API": "Verified Supplement Data",
+        "Description": "Supplement dosing, form comparisons and drug-nutrient interactions with PubMed citations",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://verifiedsupplementdata.com/api/v1/recommend/index.json",
         "Category": "Health"
     },
     {
