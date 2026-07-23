@@ -1,5 +1,5 @@
 {
-"count": 1661,
+"count": 1662,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12158,6 +12158,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.facebook.com/",
+        "Category": "Social"
+    },
+    {
+        "API": "Feedframer",
+        "Description": "Instagram feed posts as JSON, GraphQL or RSS with automatic token refresh",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://feedframer.com/docs",
         "Category": "Social"
     },
     {
