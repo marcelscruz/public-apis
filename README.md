@@ -451,10 +451,10 @@
 | [MetalpriceAPI](https://metalpriceapi.com) | Real-time and historical exchange rates and currency conversion API | `apiKey` | Yes | Unknown |
 | [National Bank of Poland](http://api.nbp.pl/en.html) | A collection of currency exchange rates (data in XML and JSON) | No | Yes | Yes |
 | [RBA Exchange Rates API](https://www.exchangeratesapi.com.au) | Real-time and historical Reserve Bank of Australia (RBA) exchange rates API | `apiKey` | Yes | Yes |
+| [RealMarketAPI](https://realmarketapi.com/docs) | Access real-time gold, forex, crypto, and stock market data with ultra-low latency and simple REST endpoints | `apiKey` | Yes | Unknown |
 | [Unirate](https://unirateapi.com) | Free Exchange Rates and Currency Conversion | apiKey | Yes | Yes |
 | [VATComply.com](https://www.vatcomply.com/documentation) | Exchange rates, geolocation and VAT number validation | No | Yes | Yes |
 | [Convert Currency to Multiple Currencies](https://apyhub.com/utility/currency-conversion-multiple) | Convert currencies from a source currency to multiple target currencies. | `apiKey` | Yes | Yes |
-| [RealMarketAPI](https://realmarketapi.com/docs) | Access real-time gold, forex, crypto, and stock market data with ultra-low latency and simple REST endpoints | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
