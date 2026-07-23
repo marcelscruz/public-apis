@@ -1,5 +1,5 @@
 {
-"count": 1643,
+"count": 1644,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5732,6 +5732,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://sandbox.developerhub.citi.com/api-catalog-list",
+        "Category": "Finance"
+    },
+    {
+        "API": "ComplianceWatch",
+        "Description": "AML/KYC sanctions screening against OFAC, EU, UN, UK, INTERPOL and FBI watchlists",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://compliancewatch.stackmint.cloud/",
         "Category": "Finance"
     },
     {
