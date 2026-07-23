@@ -1,5 +1,5 @@
 {
-"count": 1646,
+"count": 1647,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10889,6 +10889,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://pixabay.com/sk/service/about/api/",
+        "Category": "Photography"
+    },
+    {
+        "API": "PixelVault",
+        "Description": "Agent-first image hosting with instant CDN URLs",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://pixelvault.dev/docs",
         "Category": "Photography"
     },
     {
