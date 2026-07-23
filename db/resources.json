@@ -1,5 +1,5 @@
 {
-"count": 1609,
+"count": 1610,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4760,6 +4760,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://developers.pandadoc.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "PaperClean",
+        "Description": "Clean document photos for printing, remove shadows and fix lighting",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://paperclean.ip1.cc/api/docs",
         "Category": "Documents & Productivity"
     },
     {
