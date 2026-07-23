@@ -1,5 +1,5 @@
 {
-"count": 1625,
+"count": 1626,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2456,6 +2456,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://messari.io/api",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "Mobula",
+        "Description": "Real-time onchain market data, wallet portfolios, and trading streams across multiple chains",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.mobula.io/",
         "Category": "Cryptocurrency"
     },
     {
