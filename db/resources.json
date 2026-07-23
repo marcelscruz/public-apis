@@ -1,5 +1,5 @@
 {
-"count": 1628,
+"count": 1629,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2519,6 +2519,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.poloniex.com",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "Sharpe",
+        "Description": "Crypto market data for funding, futures, options, arbitrage, narratives, and news",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://www.sharpe.ai/docs/free-api",
         "Category": "Cryptocurrency"
     },
     {
