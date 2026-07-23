@@ -482,6 +482,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Amdoren](https://www.amdoren.com/currency-api/) | Free currency API with over 150 currencies | `apiKey` | Yes | Unknown |
 | [ApogeoAPI](https://apogeoapi.com/exchange-rates-api) | Live exchange rates for 161 currencies bundled with country reference data and IP geolocation | `apiKey` | Yes | Yes |
 | [Bank of Russia](https://www.cbr.ru/development/SXML/) | Exchange rates and currency conversion | No | Yes | Unknown |
+| [Cambio Uruguay](https://cambio-uruguay.com) | Real-time buy/sell rates from every Uruguayan exchange house, with conversion and history | No | Yes | Yes |
 | [Currencyapi](https://currencyapi.com) | Currency Conversion API and cryptocurrency prices, updated minutely | `apiKey` | Yes | Yes |
 | [Currency-api](https://github.com/fawazahmed0/currency-api#readme) | Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits | No | Yes | Yes |
 | [CurrencyFreaks](https://currencyfreaks.com/) | Provides current and historical currency exchange rates with free plan 1K requests/month | `apiKey` | Yes | Yes |
