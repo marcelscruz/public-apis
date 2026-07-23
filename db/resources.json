@@ -1,5 +1,5 @@
 {
-"count": 1619,
+"count": 1620,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7577,6 +7577,15 @@
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://ip-api.com/docs",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "ip.app",
+        "Description": "IP, ASN, geolocation, timezone, security, user-agent in plain text, JSON or HTTP headers",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://ip.app",
         "Category": "Geocoding"
     },
     {
