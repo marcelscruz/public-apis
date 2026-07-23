@@ -1,5 +1,5 @@
 {
-"count": 1660,
+"count": 1661,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3104,6 +3104,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/catalog",
+        "Category": "Development"
+    },
+    {
+        "API": "ASORadar",
+        "Description": "App Store and Google Play reviews, ratings, rankings and app metadata",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://asoradar.com",
         "Category": "Development"
     },
     {
