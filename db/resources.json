@@ -1,5 +1,5 @@
 {
-"count": 1630,
+"count": 1631,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10169,6 +10169,15 @@
         "HTTPS": false,
         "Cors": "no",
         "Link": "https://urbanobservatory.ac.uk",
+        "Category": "Open Data"
+    },
+    {
+        "API": "Warnely",
+        "Description": "Composite travel-safety scores for 180 countries (FCDO + US State + GPI + WGI + live wire)",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://warnely.com/developers",
         "Category": "Open Data"
     },
     {
