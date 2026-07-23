@@ -1,5 +1,5 @@
 {
-"count": 1639,
+"count": 1640,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12275,6 +12275,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://developer.webex.com",
+        "Category": "Social"
+    },
+    {
+        "API": "WoopSocial",
+        "Description": "Schedule and publish posts across social media platforms",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://docs.woopsocial.com/",
         "Category": "Social"
     },
     {
