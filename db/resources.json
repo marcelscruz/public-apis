@@ -1,5 +1,5 @@
 {
-"count": 1658,
+"count": 1660,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4655,6 +4655,15 @@
         "Category": "Documents & Productivity"
     },
     {
+        "API": "Clipform",
+        "Description": "Create and manage interactive video-style forms, quizzes, and surveys",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://clipform.io/docs",
+        "Category": "Documents & Productivity"
+    },
+    {
         "API": "Clockify",
         "Description": "Clockify's REST-based API can be used to push/pull data to/from it & integrate it with other systems",
         "Auth": "apiKey",
@@ -5453,6 +5462,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://uselessfacts.jsph.pl/",
+        "Category": "Entertainment"
+    },
+    {
+        "API": "Rope Drop News",
+        "Description": "Live Disney and Universal theme park wait times, ride reliability, crowds, and Lightning Lane prices",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://ropedropnews.com/developers",
         "Category": "Entertainment"
     },
     {
