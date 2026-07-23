@@ -1,5 +1,5 @@
 {
-"count": 1634,
+"count": 1635,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7037,6 +7037,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://quizapi.io/",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "QuizBase",
+        "Description": "Trivia questions API: 1.1M+ items, full EN + PL parity, OpenAPI 3.1, TypeScript SDK, MCP server",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://quizbase.runriva.com",
         "Category": "Games & Comics"
     },
     {
