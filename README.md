@@ -475,6 +475,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 |---|---|---|---|---|
 | [1Forge](https://1forge.com/forex-data-api/api-documentation) | Forex currency market data | `apiKey` | Yes | Unknown |
 | [Amdoren](https://www.amdoren.com/currency-api/) | Free currency API with over 150 currencies | `apiKey` | Yes | Unknown |
+| [ApogeoAPI](https://apogeoapi.com/exchange-rates-api) | Live exchange rates for 161 currencies bundled with country reference data and IP geolocation | `apiKey` | Yes | Yes |
 | [Bank of Russia](https://www.cbr.ru/development/SXML/) | Exchange rates and currency conversion | No | Yes | Unknown |
 | [Currencyapi](https://currencyapi.com) | Currency Conversion API and cryptocurrency prices, updated minutely | `apiKey` | Yes | Yes |
 | [Currency-api](https://github.com/fawazahmed0/currency-api#readme) | Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits | No | Yes | Yes |
@@ -1066,6 +1067,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [administrative-divisons-db](https://github.com/kamikazechaser/administrative-divisions-db) | Get all administrative divisions of a country | No | Yes | Yes |
 | [adresse.data.gouv.fr](https://adresse.data.gouv.fr) | Address database of France, geocoding and reverse | No | Yes | Unknown |
 | [Apiip](https://apiip.net/) | Get location information by IP address | `apiKey` | Yes | Yes |
+| [ApogeoAPI](https://apogeoapi.com/ip-geolocation-api) | IP geolocation (IPv4 + IPv6) with country, city, timezone and 150k cities database | `apiKey` | Yes | Yes |
 | [Battuta](http://battuta.medunes.net) | A (country/region/city) in-cascade location API | `apiKey` | No | Unknown |
 | [BigDataCloud's IP Geolocation API](https://www.bigdatacloud.com/ip-geolocation) | Provides fast and accurate IP geolocation APIs along with security checks and confidence area. | `apiKey` | Yes | Yes |
 | [BigDataCloud's Reverse Geocoding API](https://www.bigdatacloud.com/reverse-geocoding) | Get rich locality information from the geographical coordinates. | `apiKey` | Yes | Yes |
