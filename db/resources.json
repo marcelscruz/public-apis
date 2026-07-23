@@ -1,5 +1,5 @@
 {
-"count": 1623,
+"count": 1624,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1367,6 +1367,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/fawazahmed0/quran-api#readme",
+        "Category": "Books"
+    },
+    {
+        "API": "Sefaria",
+        "Description": "Jewish texts",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://developers.sefaria.org/reference/getting-started",
         "Category": "Books"
     },
     {
