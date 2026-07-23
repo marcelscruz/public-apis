@@ -1,5 +1,5 @@
 {
-"count": 1649,
+"count": 1650,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2510,6 +2510,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://okx.com/okx-api",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "OpenChainBench",
+        "Description": "Open dataset of crypto infrastructure benchmarks: RPC latency, oracles, bridges, prediction markets",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://openchainbench.com/api/openapi.json",
         "Category": "Cryptocurrency"
     },
     {
