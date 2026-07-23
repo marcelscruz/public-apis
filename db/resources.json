@@ -1,5 +1,5 @@
 {
-"count": 1651,
+"count": 1652,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7685,6 +7685,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/lennertVanSever/graphcountries",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "HackMyIP",
+        "Description": "IP geolocation and ASN lookup with privacy/VPN scoring, no API key required",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://hackmyip.com/api-docs",
         "Category": "Geocoding"
     },
     {
