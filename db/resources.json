@@ -1,5 +1,5 @@
 {
-"count": 1627,
+"count": 1628,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -845,6 +845,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://collection.cooperhewitt.org/api",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "DiceBear",
+        "Description": "Free avatar generation library with multiple styles",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.dicebear.com/how-to-use/http-api",
         "Category": "Art & Design"
     },
     {
