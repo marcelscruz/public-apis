@@ -1,5 +1,5 @@
 {
-"count": 1612,
+"count": 1613,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5768,6 +5768,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://fxmacrodata.com/",
+        "Category": "Finance"
+    },
+    {
+        "API": "IBANforge",
+        "Description": "IBAN validation, BIC/SWIFT lookup & compliance scoring",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://ibanforge.com",
         "Category": "Finance"
     },
     {
