@@ -1,5 +1,5 @@
 {
-"count": 1611,
+"count": 1612,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7028,6 +7028,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://github.com/Revadike/InternalSteamWebAPI/wiki",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "TCGApi",
+        "Description": "Trading card game prices and historical data across 89+ games",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://tcgapi.dev/introduction/",
         "Category": "Games & Comics"
     },
     {
