@@ -1,5 +1,5 @@
 {
-"count": 1620,
+"count": 1621,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11501,6 +11501,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://phishstats.info/",
+        "Category": "Security"
+    },
+    {
+        "API": "Portscan",
+        "Description": "Scans the requesting client's IP for open TCP ports with fast or deep modes on IPv4/IPv6",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://api.portscan.com/docs",
         "Category": "Security"
     },
     {
