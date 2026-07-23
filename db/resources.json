@@ -1,5 +1,5 @@
 {
-"count": 1650,
+"count": 1651,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9458,6 +9458,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://aimastering.com/api_docs/",
+        "Category": "Music"
+    },
+    {
+        "API": "AudD",
+        "Description": "Music recognition from audio files, URLs, and live streams",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://docs.audd.io",
         "Category": "Music"
     },
     {
