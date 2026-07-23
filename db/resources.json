@@ -1,5 +1,5 @@
 {
-"count": 1654,
+"count": 1655,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11546,6 +11546,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://search.censys.io/api",
+        "Category": "Security"
+    },
+    {
+        "API": "ChronoVerify",
+        "Description": "Image capture time and provenance verification: C2PA Content Credentials, EXIF, pixel forensics",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://chronoverify.com/method",
         "Category": "Security"
     },
     {
