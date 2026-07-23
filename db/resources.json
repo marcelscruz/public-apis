@@ -1,5 +1,5 @@
 {
-"count": 1640,
+"count": 1641,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7460,6 +7460,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://freegeoip.app/",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "Geo Toolkit",
+        "Description": "Plus Codes, geohash and Maidenhead encode/decode plus distance, bearing and bounding box math",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://abundanceapis.com/apis/geo-toolkit",
         "Category": "Geocoding"
     },
     {
