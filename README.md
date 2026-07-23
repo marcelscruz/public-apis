@@ -474,6 +474,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [1Forge](https://1forge.com/forex-data-api/api-documentation) | Forex currency market data | `apiKey` | Yes | Unknown |
+| [AllRatesToday](https://allratestoday.com) | Real-time exchange rates for 160+ currencies with historical data | `apiKey` | Yes | Yes |
 | [Amdoren](https://www.amdoren.com/currency-api/) | Free currency API with over 150 currencies | `apiKey` | Yes | Unknown |
 | [ApogeoAPI](https://apogeoapi.com/exchange-rates-api) | Live exchange rates for 161 currencies bundled with country reference data and IP geolocation | `apiKey` | Yes | Yes |
 | [Bank of Russia](https://www.cbr.ru/development/SXML/) | Exchange rates and currency conversion | No | Yes | Unknown |
