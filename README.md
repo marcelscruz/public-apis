@@ -1773,6 +1773,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Hockey Highlights](https://highlightly.net/documentation/hockey/) | Real time hockey highlights | `apiKey` | Yes | Unknown |
 | [iSports API](https://isportsapi.com/) | Provide live and historical sports data of global competitions, like live score, fixtures, player & match stats, database etc. | `apiKey` | No | Yes |
 | [JCDecaux Bike](https://developer.jcdecaux.com/) | JCDecaux's self-service bicycles | `apiKey`| Yes | Unknown |
+| [Live Tennis](https://livetennisapi.com) | Real-time tennis scores, players, fixtures and model win-probability for ATP, WTA, Challenger and ITF, over REST and WebSocket. Free plan available | `apiKey` | Yes | Yes |
 | [MLB Records and Stats](https://appac.github.io/mlb-data-api-docs/) | Current and historical MLB statistics | No | No | Unknown |
 | [NBA Data](https://rapidapi.com/api-sports/api/api-nba/) | All NBA Stats DATA, Games, Livescore, Standings, Statistics | `apiKey`| Yes | Unknown |
 | [NBA GraphQL](https://nbaapi.com/graphql/) | Advanced NBA Player, Team, and Season Statistics and Data | No | Yes | Yes |
