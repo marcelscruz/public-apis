@@ -1,5 +1,5 @@
 {
-"count": 1645,
+"count": 1646,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5651,6 +5651,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.abstractapi.com/vat-validation-rates-api",
+        "Category": "Finance"
+    },
+    {
+        "API": "Agent Toolbelt",
+        "Description": "AI-generated stock analysis (investment thesis, valuation, insider signal, earnings) from live fundamentals, as structured JSON",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.agenttoolbelt.live",
         "Category": "Finance"
     },
     {
