@@ -1,5 +1,5 @@
 {
-"count": 1642,
+"count": 1643,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11483,6 +11483,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://crxcavator.io/apidocs",
+        "Category": "Security"
+    },
+    {
+        "API": "Defend Network",
+        "Description": "Free no-auth JSON feed of exploited CVEs with CVSS, EPSS and CISA KEV status",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://defend.network/api/",
         "Category": "Security"
     },
     {
