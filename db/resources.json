@@ -1,5 +1,5 @@
 {
-"count": 1615,
+"count": 1616,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9044,6 +9044,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.adzuna.com/overview",
+        "Category": "Jobs"
+    },
+    {
+        "API": "AI Dev Jobs",
+        "Description": "AI and ML engineering job board with 6,100+ positions across 321 companies",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://aidevboard.com/api/v1/jobs",
         "Category": "Jobs"
     },
     {
