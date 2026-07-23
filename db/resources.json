@@ -1,5 +1,5 @@
 {
-"count": 1631,
+"count": 1633,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2609,6 +2609,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.amdoren.com/currency-api/",
+        "Category": "Currency Exchange"
+    },
+    {
+        "API": "ApogeoAPI",
+        "Description": "Live exchange rates for 161 currencies bundled with country reference data and IP geolocation",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apogeoapi.com/exchange-rates-api",
         "Category": "Currency Exchange"
     },
     {
@@ -7280,6 +7289,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apiip.net/",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "ApogeoAPI",
+        "Description": "IP geolocation (IPv4 + IPv6) with country, city, timezone and 150k cities database",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apogeoapi.com/ip-geolocation-api",
         "Category": "Geocoding"
     },
     {
