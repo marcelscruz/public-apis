@@ -1,5 +1,5 @@
 {
-"count": 1614,
+"count": 1615,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6209,6 +6209,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/alxiw/punkapi",
+        "Category": "Food & Drink"
+    },
+    {
+        "API": "RecipeAPI",
+        "Description": "Recipes, ingredients, nutrition data and cooking instructions",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://recipeapi.io",
         "Category": "Food & Drink"
     },
     {
