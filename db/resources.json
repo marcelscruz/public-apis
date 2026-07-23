@@ -1,5 +1,5 @@
 {
-"count": 1629,
+"count": 1630,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2960,6 +2960,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://agify.io",
+        "Category": "Development"
+    },
+    {
+        "API": "Amazonscraperapi",
+        "Description": "Amazon product, search & batch scraping API with residential proxies (1000 free)",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://amazonscraperapi.com",
         "Category": "Development"
     },
     {
