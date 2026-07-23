@@ -321,6 +321,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | `OAuth`| Yes | Unknown |
 | [Gmail](https://developers.google.com/gmail/api/) | Flexible, RESTful access to the user's inbox | `OAuth`| Yes | Unknown |
 | [Google Analytics](https://developers.google.com/analytics/) | Collect, configure and analyze your data to reach the right audience | `OAuth`| Yes | Unknown |
+| [Listings API](https://docs.listingsapi.com) | Manage business locations, sync listings across publishers, respond to reviews, publish posts, and pull local search analytics | `apiKey` | Yes | Unknown |
 | [NioLeads](https://nioleads.com/apidoc) | LinkedIn Email Finder and Email Verifier | `apiKey` | Yes | Yes |
 | [Instatus](https://instatus.com/help/api) | Post to and update maintenance and incidents on your status page through an HTTP REST API | `apiKey` | Yes | Unknown |
 | [Logo.dev](https://www.logo.dev) | Automated company logo API that updates daily. Transform any domain or company name into verified logos. | `apiKey` | Yes | Yes |
@@ -340,7 +341,6 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Tomba email finder](https://tomba.io/api) | Email Finder for B2B sales and email marketing and email verifier | `apiKey` | Yes | Yes |
 | [Trello](https://developers.trello.com/) | Boards, lists and cards to help you organize and prioritize your projects | `OAuth`| Yes | Unknown |
 | [USPTO Trademark](https://rapidapi.com/pentium10/api/uspto-trademark) | Trademark keyword search, availability, owner, serial search, attorney info, MCP ready | `apiKey` | Yes | Yes |
-| [Listings API](https://docs.listingsapi.com) | Manage business locations, sync listings across publishers, respond to reviews, publish posts, and pull local search analytics | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
