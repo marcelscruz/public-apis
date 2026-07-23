@@ -1,5 +1,5 @@
 {
-"count": 1624,
+"count": 1625,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3446,6 +3446,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://hasura.io/opensource/",
+        "Category": "Development"
+    },
+    {
+        "API": "Haunt Web Extractor",
+        "Description": "Extract structured JSON from web pages using natural language prompts",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://hauntapi.com/docs",
         "Category": "Development"
     },
     {
