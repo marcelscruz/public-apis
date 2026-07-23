@@ -1,5 +1,5 @@
 {
-"count": 1663,
+"count": 1664,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9413,6 +9413,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://api.jobs2careers.com/api/spec.pdf",
+        "Category": "Jobs"
+    },
+    {
+        "API": "JobsPipe",
+        "Description": "Search live job postings from job boards and company career sites, plus tech stack detection by domain",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://jobspipe.dev/docs",
         "Category": "Jobs"
     },
     {
