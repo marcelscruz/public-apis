@@ -1,5 +1,5 @@
 {
-"count": 1610,
+"count": 1611,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3131,6 +3131,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://github.com/polarspetroll/ciprand",
+        "Category": "Development"
+    },
+    {
+        "API": "Citability",
+        "Description": "AI visibility scoring for domains: ADP, llms.txt, Schema.org, MCP endpoints",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://citability.ai/docs",
         "Category": "Development"
     },
     {
