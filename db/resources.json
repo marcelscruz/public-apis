@@ -1,5 +1,5 @@
 {
-"count": 1664,
+"count": 1665,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12680,6 +12680,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.jcdecaux.com/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "Lumify",
+        "Description": "Real-time sports intelligence: scores, odds, betting splits & AI bet analysis across 8 sports",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://lumify.ai/docs",
         "Category": "Sports & Fitness"
     },
     {
