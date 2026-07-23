@@ -1,5 +1,5 @@
 {
-"count": 1647,
+"count": 1648,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9899,6 +9899,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://risksentinel.ai",
+        "Category": "News"
+    },
+    {
+        "API": "Sonto",
+        "Description": "Tech and AI news as JSON or RSS, with translated feeds in EN, DE, ES, FR, JA",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://sonto.tech/api/",
         "Category": "News"
     },
     {
