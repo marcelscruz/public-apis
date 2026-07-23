@@ -1,5 +1,5 @@
 {
-"count": 1662,
+"count": 1663,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10133,6 +10133,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://carto.com/",
+        "Category": "Open Data"
+    },
+    {
+        "API": "College ROI",
+        "Description": "Lifetime ROI of US colleges and majors, static JSON, CC BY 4.0",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://le-teen.com/api",
         "Category": "Open Data"
     },
     {
