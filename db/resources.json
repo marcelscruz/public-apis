@@ -1,5 +1,5 @@
 {
-"count": 1622,
+"count": 1623,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11429,6 +11429,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf",
+        "Category": "Security"
+    },
+    {
+        "API": "IPASIS",
+        "Description": "Bot detection and fraud prevention API with IP reputation and email validation",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://ipasis.com/docs",
         "Category": "Security"
     },
     {
