@@ -1,5 +1,5 @@
 {
-"count": 1666,
+"count": 1667,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10223,6 +10223,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.destatis.de/EN/Service/OpenData/api-webservice.html",
+        "Category": "Open Data"
+    },
+    {
+        "API": "InfraNode",
+        "Description": "Unified German city open data: weather, air quality, EV chargers, transit, demographics",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://infranode.dev",
         "Category": "Open Data"
     },
     {
