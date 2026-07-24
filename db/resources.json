@@ -1,5 +1,5 @@
 {
-"count": 1669,
+"count": 1670,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7946,6 +7946,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://map.longdo.com/docs/",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "Mapbase",
+        "Description": "Location registry API for official locations, zones, hierarchy, and geometry",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://mapbase.dev/",
         "Category": "Geocoding"
     },
     {
