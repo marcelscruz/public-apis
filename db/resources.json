@@ -1,5 +1,5 @@
 {
-"count": 1670,
+"count": 1671,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1520,6 +1520,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.google.com/analytics/",
+        "Category": "Business"
+    },
+    {
+        "API": "Listings API",
+        "Description": "Manage business locations, sync listings across publishers, respond to reviews, publish posts, and pull local search analytics",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://docs.listingsapi.com",
         "Category": "Business"
     },
     {
