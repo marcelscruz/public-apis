@@ -1,5 +1,5 @@
 {
-"count": 1665,
+"count": 1666,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6173,6 +6173,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces",
+        "Category": "Finance"
+    },
+    {
+        "API": "SiftingIO",
+        "Description": "Market data for stocks, forex, crypto, commodities and DEX",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://sifting.io/",
         "Category": "Finance"
     },
     {
