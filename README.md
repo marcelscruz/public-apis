@@ -2003,6 +2003,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [GIF from Video API](https://apyhub.com/utility/gif-from-video) | This API helps you generate GIF from any video | `apiKey` | Yes | Yes |
 | [Harry Potter Characters](https://hp-api.onrender.com/) | Harry Potter Characters Data with with imagery | No | Yes | Unknown |
 | [Hunt](https://www.huntapi.com) | Video To API. Get video or audio and metadata for all video platforms with one provider. | `apiKey` | Yes | Yes |
+| [iLoveVideoEditor](https://ilovevideoeditor.com/docs/api) | Render videos from JSON: motion templates, effects, transitions, batch rendering | `apiKey` | Yes | No |
 | [IMDb](https://developer.imdb.com/) | API for receiving movie, serial and cast information | `apiKey` | Yes | Unknown |
 | [IMDbOT](https://github.com/SpEcHiDe/IMDbOT) | Unofficial IMDb Movie / Series Information | No | Yes | Yes |
 | [JSON2Video](https://json2video.com) | Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations | `apiKey` | Yes | No |
