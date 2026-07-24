@@ -1,5 +1,5 @@
 {
-"count": 1666,
+"count": 1667,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6167,21 +6167,21 @@
         "Category": "Finance"
     },
     {
-        "API": "Salary API",
-        "Description": "The REST API returns structured JSON responses containing salary ranges, hourly rates, compensation benchmarks, required skills, market demand, and regional employment insights",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://jobicy.com/salary-api",
-        "Category": "Finance"
-    },
-    {
         "API": "SEC EDGAR Data",
         "Description": "API to access annual reports of public US companies",
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces",
+        "Category": "Finance"
+    },
+    {
+        "API": "SiftingIO",
+        "Description": "Market data for stocks, forex, crypto, commodities and DEX",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://sifting.io/",
         "Category": "Finance"
     },
     {
@@ -10223,6 +10223,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.destatis.de/EN/Service/OpenData/api-webservice.html",
+        "Category": "Open Data"
+    },
+    {
+        "API": "InfraNode",
+        "Description": "Unified German city open data: weather, air quality, EV chargers, transit, demographics",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://infranode.dev",
         "Category": "Open Data"
     },
     {
