@@ -1,5 +1,5 @@
 {
-"count": 1668,
+"count": 1669,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9953,6 +9953,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://newsapi.org/",
+        "Category": "News"
+    },
+    {
+        "API": "NewsAgent Data",
+        "Description": "Russian & English news with urgency scoring, political-lean & event clustering",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://newsagentdata.com/",
         "Category": "News"
     },
     {
