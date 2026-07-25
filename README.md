@@ -324,6 +324,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | `OAuth`| Yes | Unknown |
 | [Gmail](https://developers.google.com/gmail/api/) | Flexible, RESTful access to the user's inbox | `OAuth`| Yes | Unknown |
 | [Google Analytics](https://developers.google.com/analytics/) | Collect, configure and analyze your data to reach the right audience | `OAuth`| Yes | Unknown |
+| [Listings API](https://docs.listingsapi.com) | Manage business locations, sync listings across publishers, respond to reviews, publish posts, and pull local search analytics | `apiKey` | Yes | Unknown |
 | [NioLeads](https://nioleads.com/apidoc) | LinkedIn Email Finder and Email Verifier | `apiKey` | Yes | Yes |
 | [Instatus](https://instatus.com/help/api) | Post to and update maintenance and incidents on your status page through an HTTP REST API | `apiKey` | Yes | Unknown |
 | [Logo.dev](https://www.logo.dev) | Automated company logo API that updates daily. Transform any domain or company name into verified logos. | `apiKey` | Yes | Yes |
@@ -1141,6 +1142,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [keycdn IP Location Finder](https://tools.keycdn.com/geo) | Get the IP geolocation data through the simple REST API. All the responses are JSON encoded | `apiKey` | Yes | Unknown |
 | [LocationIQ](https://locationiq.org/docs/) | Provides forward/reverse geocoding and batch geocoding | `apiKey` | Yes | Yes |
 | [Longdo Map](https://map.longdo.com/docs/) | Interactive map with detailed places and information portal in Thailand | `apiKey` | Yes | Yes |
+| [Mapbase](https://mapbase.dev/) | Location registry API for official locations, zones, hierarchy, and geometry | `apiKey` | Yes | Yes |
 | [Mapbox](https://docs.mapbox.com/) | Create/customize beautiful digital maps | `apiKey` | Yes | Unknown |
 | [MapQuest](https://developer.mapquest.com/) | To access tools and resources to map the world | `apiKey` | Yes | No |
 | [Metadapi Zip Code](https://www.metadapi.com/API-Products/Zip-Code-API) | Enhanced United States zip code information. Census, IRS, demographics, radius, distances and more | `apiKey` | Yes | Yes |
@@ -1394,6 +1396,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [MarketAux](https://www.marketaux.com/) | Live stock market news with tagged tickers + sentiment and stats JSON API | `apiKey` | Yes | Yes |
 | [New York Times](https://developer.nytimes.com/) | The New York Times Developer Network | `apiKey` | Yes | Unknown |
 | [News](https://newsapi.org/) | Headlines currently published on a range of news sources and blogs | `apiKey` | Yes | Unknown |
+| [NewsAgent Data](https://newsagentdata.com/) | Russian & English news with urgency scoring, political-lean & event clustering | `apiKey` | Yes | Yes |
 | [NewsAPI.ai](https://www.newsapi.ai/documentation) | News API access to real-time and archive news content | `apiKey` | Yes | Yes |
 | [NewsData](https://newsdata.io/docs) | News data API for live-breaking news and headlines from reputed news sources | `apiKey` | Yes | Unknown |
 | [NewsDataHub](https://newsdatahub.com) | NewsDataHub provides a production-ready REST API delivering near-real-time global news data at scale | `apiKey` | Yes | Yes |
@@ -2013,6 +2016,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Mux](https://www.mux.com/) | Mux Video is an API that enables developers to build unique live and on-demand video experiences | `apiKey` | Yes | Unknown |
 | [Open Movie Database](http://www.omdbapi.com/) | Movie information | `apiKey` | Yes | Unknown |
 | [Rendi](https://rendi.dev) | FFmpeg API | `apiKey` | Yes | No |
+| [Rendobar](https://rendobar.com/docs) | Serverless FFmpeg in the cloud for video and audio transcoding, trimming and conversion | `apiKey` | Yes | No |
 | [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television | No | Yes | Unknown |
 | [Rules of Acquisition](https://rulesofacquisition.herokuapp.com/) | Ferengi Rules of Acquisition from Star Trek with episode references | No | Yes | Unknown |
 | [Shoof Aflam](https://shoofaflam.tv/api-docs/) | Arabic streaming guide — search 14,000+ movies/series, platform availability across 18 services | No | Yes | Yes |

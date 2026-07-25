@@ -1,5 +1,5 @@
 {
-"count": 1668,
+"count": 1671,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1520,6 +1520,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.google.com/analytics/",
+        "Category": "Business"
+    },
+    {
+        "API": "Listings API",
+        "Description": "Manage business locations, sync listings across publishers, respond to reviews, publish posts, and pull local search analytics",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://docs.listingsapi.com",
         "Category": "Business"
     },
     {
@@ -7958,6 +7967,15 @@
         "Category": "Geocoding"
     },
     {
+        "API": "Mapbase",
+        "Description": "Location registry API for official locations, zones, hierarchy, and geometry",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://mapbase.dev/",
+        "Category": "Geocoding"
+    },
+    {
         "API": "Mapbox",
         "Description": "Create/customize beautiful digital maps",
         "Auth": "apiKey",
@@ -9962,6 +9980,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://newsapi.org/",
+        "Category": "News"
+    },
+    {
+        "API": "NewsAgent Data",
+        "Description": "Russian & English news with urgency scoring, political-lean & event clustering",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://newsagentdata.com/",
         "Category": "News"
     },
     {
@@ -14453,6 +14480,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://rendi.dev",
+        "Category": "Video"
+    },
+    {
+        "API": "Rendobar",
+        "Description": "Serverless FFmpeg in the cloud for video and audio transcoding, trimming and conversion",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://rendobar.com/docs",
         "Category": "Video"
     },
     {
