@@ -1,5 +1,5 @@
 {
-"count": 1672,
+"count": 1673,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6227,6 +6227,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://sugra.ai",
+        "Category": "Finance"
+    },
+    {
+        "API": "Svensk Skatte-API",
+        "Description": "Swedish tax calculations: ISK, VAT, income tax, employer contributions",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://skatteapi.gracestack.se",
         "Category": "Finance"
     },
     {
