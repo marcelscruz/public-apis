@@ -959,6 +959,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [LCBO](https://lcbo.dev/) | Alcohol | No | Yes | Yes |
 | [Open Brewery DB](https://www.openbrewerydb.org) | Breweries, Cideries and Craft Beer Bottle Shops | No | Yes | Yes |
 | [Open Food Facts](https://world.openfoodfacts.org/data) | Food Products Database | No | Yes | Unknown |
+| [ProteinBenchmark](https://proteinbenchmark.com/api) | Protein, density scores and DIAAS-adjusted metrics for ~200 foods, powders and snacks | No | Yes | Yes |
 | [PunkAPI](https://github.com/alxiw/punkapi) | BrewDog's DIY Dog beer catalogue as an API | No | Yes | Yes |
 | [RecipeAPI](https://recipeapi.io) | Recipes, ingredients, nutrition data and cooking instructions | `apiKey` | Yes | Yes |
 | [Spoonacular](https://spoonacular.com/food-api) | Recipes, Food Products, and Meal Planning | `apiKey` | Yes | Unknown |
