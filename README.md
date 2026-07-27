@@ -107,13 +107,13 @@
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Advanced Multilanguage AI Translator (RapidAPI)](https://rapidapi.com/vintarok-vintarok-default/api/advanced-multilanguage-ai-translator-api-with-fast-responses) | AI-powered translator supporting multiple languages with fast, context-aware responses | `apiKey` | Yes | Yes |
-| [AI/ML API](https://aimlapi.com) | Access 100+ curated AI Models over 1 API | Yes | Yes | Yes |
+| [AI/ML](https://aimlapi.com) | Access 100+ curated AI Models over 1 API | Yes | Yes | Yes |
 | [AI For Thai](https://aiforthai.in.th/index.php) | Free Various Thai AI API | `apiKey` | Yes | Yes |
 | [AI Learning Engine](https://rapidapi.com/vintarok-vintarok-default/api/ai-learning-engine-task-creation-auto-grading-api) | Create, auto-grade, and analyze learning tasks with AI-based evaluations | `apiKey` | Yes | Yes |
 | [Chatwith](https://chatwith.tools) | Build custom ChatGPT-style AI chatbots trained on your website and files, integrated with 5000+ apps — no coding, live in minutes. | `apiKey`| Yes | Yes |
 | [Clarifai](https://docs.clarifai.com/api-guide/api-overview) | Computer Vision | `OAuth`| Yes | Unknown |
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` | Yes | Yes |
-| [Cohere](https://docs.cohere.ai/) | Harness the power of language understanding. Join the developers and businesses who are using Cohere to generate, categorize and organize text at a scale that was previously unimaginable. | `apiKey` | Yes | Yes |
+| [Cohere](https://docs.cohere.ai/) | Harness the power of language understanding. Join the developers and businesses who are using Cohere to generate, categorize and organize text at a scale... | `apiKey` | Yes | Yes |
 | [CustomGPT.ai](https://docs.customgpt.ai/reference/i-api-homepage) | RAG API with RESTful endpoints, comprehensive SDKs, and enterprise-grade reliability. | `apiKey` | Yes | Yes |
 | [Dialogflow](https://cloud.google.com/dialogflow/docs/) | Natural Language Processing | `apiKey` | Yes | Unknown |
 | [Eden](https://www.edenai.co/) | Get all AI models in one place, e.g. OpenAI, Google and lots more! | `apiKey` | Yes | Yes 
@@ -127,7 +127,7 @@
 | [jsonAi.cloud](https://jsonai.cloud) | Save JSON schemas as api endpoints, feed it with your data and get structured JSON responses with AI | `apiKey` | Yes | Unknown |
 | [Keen IO](https://keen.io/) | Data Analytics | `apiKey` | Yes | Unknown |
 | [Machinetutors](https://machinetutors.com/api/) | AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP | `apiKey` | Yes | Yes |
-| [MessengerX.io](https://messengerx.rtfd.io) | A FREE API for developers to build and monetize personalized ML based chat apps | `apiKey` | Yes | Yes |
+| [MessengerX](https://messengerx.rtfd.io) | A FREE API for developers to build and monetize personalized ML based chat apps | `apiKey` | Yes | Yes |
 | [NLP Cloud](https://nlpcloud.io) | NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more | `apiKey` | Yes | Unknown |
 | [OpenAI](https://openai.com/index/openai-api) | Use AI models such as ChatGPT or DALL-E to experience the capabilities of AI | `apiKey` | Yes | Yes |
 | [Perspective](https://perspectiveapi.com) | NLP API to return probability that if text is toxic, obscene, insulting or threatening | `apiKey` | Yes | Unknown |
@@ -176,16 +176,16 @@
 | [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) | Anime discovery & tracking | `OAuth`| Yes | Unknown |
 | [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news | No | Yes | Yes |
 | [Danbooru Anime](https://danbooru.donmai.us/wiki_pages/help:api) | Thousands of anime artist database to find good anime art | `apiKey` | Yes | Yes |
-| [Dattebayo API](https://api-dattebayo.vercel.app/) | Dattebayo: Your Ultimate Naruto Anime API | No | Yes | No |
+| [Dattebayo](https://api-dattebayo.vercel.app/) | Dattebayo: Your Ultimate Naruto Anime API | No | Yes | No |
 | [Dragon Ball](https://web.dragonball-api.com) | An easy to use Dragon Ball API | No | Yes | No |
 | [Jikan](https://jikan.moe) | Unofficial MyAnimeList API | No | Yes | Yes |
 | [Kitsu](https://kitsu.docs.apiary.io/) | Anime discovery platform | `OAuth`| Yes | Yes |
 | [MangaDex](https://api.mangadex.org/docs/) | Manga Database and Community | `apiKey` | Yes | Unknown |
 | [Mangapi](https://rapidapi.com/pierre.carcellermeunier/api/mangapi3/) | Translate manga pages from one language to another | `apiKey` | Yes | Unknown |
 | [MyAnimeList](https://myanimelist.net/clubs.php?cid=13727) | Anime and Manga Database and Community | `OAuth`| Yes | Unknown |
-| [Nekos API](https://nekosapi.com/docs) | Anime images with lots of metadata | `OAuth` | Yes | Yes |
+| [Nekos](https://nekosapi.com/docs) | Anime images with lots of metadata | `OAuth` | Yes | Yes |
 | [NekosBest](https://docs.nekos.best) | Neko Images & Anime roleplaying GIFs | No | Yes | Yes |
-| [Nekosia API](https://nekosia.cat) | Anime API with cute random images. Dominated colors & compressed images & avoiding duplicates. | No | Yes | Yes |
+| [Nekosia](https://nekosia.cat) | Anime API with cute random images. Dominated colors & compressed images & avoiding duplicates. | No | Yes | Yes |
 | [PokéAPI](https://pokeapi.co) | Pokémon data, including imagery | No | Yes | No |
 | [Shikimori](https://shikimori.one/api/doc) | Anime discovery, tracking, forum, rates | `OAuth`| Yes | Unknown |
 | [Trace Moe](https://soruly.github.io/trace.moe-api/#/) | A useful tool to get the exact scene of an anime from a screenshot | No | Yes | No |
@@ -201,7 +201,7 @@
 | [AbuseIPDB](https://docs.abuseipdb.com/) | IP/domain/URL reputation | `apiKey` | Yes | Unknown |
 | [AlienVault Open Threat Exchange (OTX)](https://otx.alienvault.com/api) | IP/domain/URL reputation | `apiKey` | Yes | Unknown |
 | [CAPEsandbox](https://capev2.readthedocs.io/en/latest/usage/api.html) | Malware execution and analysis | `apiKey` | Yes | Unknown |
-| [Dymo API](https://dymo.tpeoficial.com/products/dymo-api) | Fraud & reputation detection | `apiKey` | Yes | Yes |
+| [Dymo](https://dymo.tpeoficial.com/products/dymo-api) | Fraud & reputation detection | `apiKey` | Yes | Yes |
 | [FishFish](https://fishfish.gg/) | A volunteer cybersecurity project focused on providing resources and services that improve safety across Discord | No | Yes | Unknown |
 | [Google Safe Browsing](https://developers.google.com/safe-browsing/) | Google Link/Domain Flagging | `apiKey` | Yes | Unknown |
 | [MalDatabase](https://maldatabase.com/api-doc.html) | Provide malware datasets and threat intelligence feeds | `apiKey` | Yes | Unknown |
@@ -210,8 +210,8 @@
 | [Metacert](https://metacert.com/) | Metacert Link Flagging | `apiKey` | Yes | Unknown |
 | [Scanii](https://docs.scanii.com/) | Simple REST API that can scan submitted documents/files for the presence of threats | `apiKey` | Yes | Yes |
 | [URLhaus](https://urlhaus-api.abuse.ch/) | Bulk queries and Download Malware Samples | No | Yes | Yes |
-| [URLScan.io](https://urlscan.io/about-api/) | Scan and Analyse URLs | `apiKey` | Yes | Unknown |
-| [Verisys Antivirus API](https://www.ionxsolutions.com/products/antivirus-api) | Antivirus as a service - REST API that scans provided files for malware and NSFW content | `apiKey` | Yes | Yes |
+| [URLScan](https://urlscan.io/about-api/) | Scan and Analyse URLs | `apiKey` | Yes | Unknown |
+| [Verisys Antivirus](https://www.ionxsolutions.com/products/antivirus-api) | Antivirus as a service - REST API that scans provided files for malware and NSFW content | `apiKey` | Yes | Yes |
 | [VirusTotal](https://www.virustotal.com/en/documentation/public-api/) | VirusTotal File/URL Analysis | `apiKey` | Yes | Unknown |
 | [Web of Trust](https://support.mywot.com/hc/en-us/sections/360004477734-API-) | IP/domain/URL reputation | `apiKey` | Yes | Unknown |
 
@@ -295,7 +295,7 @@
 | [Google Books](https://developers.google.com/books/) | Books | `OAuth`| Yes | Unknown |
 | [Gutendex](https://gutendex.com/) | Web-API for fetching data from Project Gutenberg Books Library | No | Yes | Unknown |
 | [Harry Potter](https://github.com/fedeperin/potterapi) | API to get data from Harry Potter books, movies and characters | No | Yes | Yes |
-| [Holy Bible API](https://holy-bible-api.com/docs) | Free Bible API serving 800+ text translations and 40+ audio translations | No | Yes | No
+| [Holy Bible](https://holy-bible-api.com/docs) | Free Bible API serving 800+ text translations and 40+ audio translations | No | Yes | No
 | [Library Management](https://github.com/adam-dev2/library-management-api) | Manage users, books, authors, loans and reviews | No | Yes | Yes |
 | [Open Library](https://openlibrary.org/developers/api) | Books, book covers and related data | No | Yes | No |
 | [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/) | Books, book covers and related data | No | Yes | Yes |
@@ -325,10 +325,10 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | `OAuth`| Yes | Unknown |
 | [Gmail](https://developers.google.com/gmail/api/) | Flexible, RESTful access to the user's inbox | `OAuth`| Yes | Unknown |
 | [Google Analytics](https://developers.google.com/analytics/) | Collect, configure and analyze your data to reach the right audience | `OAuth`| Yes | Unknown |
-| [Listings API](https://docs.listingsapi.com) | Manage business locations, sync listings across publishers, respond to reviews, publish posts, and pull local search analytics | `apiKey` | Yes | Unknown |
+| [Listings](https://docs.listingsapi.com) | Manage business locations, sync listings across publishers, respond to reviews, publish posts, and pull local search analytics | `apiKey` | Yes | Unknown |
 | [NioLeads](https://nioleads.com/apidoc) | LinkedIn Email Finder and Email Verifier | `apiKey` | Yes | Yes |
 | [Instatus](https://instatus.com/help/api) | Post to and update maintenance and incidents on your status page through an HTTP REST API | `apiKey` | Yes | Unknown |
-| [Logo.dev](https://www.logo.dev) | Automated company logo API that updates daily. Transform any domain or company name into verified logos. | `apiKey` | Yes | Yes |
+| [Logo](https://www.logo.dev) | Automated company logo API that updates daily. Transform any domain or company name into verified logos. | `apiKey` | Yes | Yes |
 | [LogoKit](https://docs.logokit.com) | Logo API for brands, stocks, and cryptocurrencies | `apiKey` | Yes | Unknown |
 | [Mailchimp](https://mailchimp.com/developer/) | Send marketing campaigns and transactional mails | `apiKey` | Yes | Unknown |
 | [mailjet](https://www.mailjet.com/) | Marketing email can be sent and mail templates made in MJML or HTML can be sent using API | `apiKey` | Yes | Unknown |
@@ -367,7 +367,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Namedays Calendar](https://nameday.abalin.net) | Provides namedays for multiple countries | No | Yes | Yes |
 | [Non-Working Days](https://github.com/gadael/icsdb) | Database of ICS files for non working days | No | Yes | Unknown |
 | [Non-Working Days](https://isdayoff.ru) | Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other | No | Yes | Yes |
-| [OpenHolidays API](https://www.openholidaysapi.org/) | Public and school holidays for many countries via an open REST API | No | Yes | Yes |
+| [OpenHolidays](https://www.openholidaysapi.org/) | Public and school holidays for many countries via an open REST API | No | Yes | Yes |
 | [Russian Calendar](https://github.com/egno/work-calendar) | Check if a date is a Russian holiday or not | No | Yes | No |
 | [UK Bank Holidays](https://www.gov.uk/bank-holidays.json) | Bank holidays in England and Wales, Scotland and Northern Ireland | No | Yes | Unknown |
 
@@ -381,8 +381,8 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Delta Lake](https://docs.delta.io/latest/delta-apidoc.html) | Open-source storage framework enabling Lakehouse architecture with Spark, PrestoDB, Flink, Trino, Hive, and APIs | No | No | Unknown |
 | [ddownload](https://ddownload.com/api) | File Sharing and Storage | `apiKey` | Yes | Unknown |
 | [Dropbox](https://www.dropbox.com/developers) | File Sharing and Storage | `OAuth`| Yes | Unknown |
-| [File.io](https://www.file.io) | Super simple file sharing, convenient, anonymous and secure | No | Yes | Unknown |
-| [Gcore Storage](https://docs.gcore.com/storage) | S3-Compatible Object Storage is a fast and scalable cloud storage system by Gcore that gives you an opportunity to store and retrieve any amount of data at any time. High-performance storage for use as a CDN origin. | `apiKey` | Yes | Yes |
+| [File](https://www.file.io) | Super simple file sharing, convenient, anonymous and secure | No | Yes | Unknown |
+| [Gcore Storage](https://docs.gcore.com/storage) | S3-Compatible Object Storage is a fast and scalable cloud storage system by Gcore that gives you an opportunity to store and retrieve any amount of data at... | `apiKey` | Yes | Yes |
 | [GoFile](https://gofile.io/api) | Unlimited size file uploads for free | `apiKey` | Yes | Unknown |
 | [Google Drive](https://developers.google.com/drive/) | File Sharing and Storage | `OAuth`| Yes | Unknown |
 | [Gyazo](https://gyazo.com/api/docs) | Save & Share screen captures instantly | `apiKey` | Yes | Unknown |
@@ -406,7 +406,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Buddy](https://buddy.works/docs/api/getting-started/overview) | The fastest continuous integration and continuous delivery platform | `OAuth`| Yes | Unknown |
 | [CircleCI](https://circleci.com/docs/api/v1-reference/) | Automate the software development process using continuous integration and continuous delivery | `apiKey` | Yes | Unknown |
 | [Codeship](https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/) | Codeship is a Continuous Integration Platform in the cloud | `apiKey` | Yes | Unknown |
-| [EC2.shop API](https://github.com/yeo/ec2.shop) | Get AWS service price right from your terminal | No | No | No |
+| [EC2.shop](https://github.com/yeo/ec2.shop) | Get AWS service price right from your terminal | No | No | No |
 | [Travis CI](https://docs.travis-ci.com/api/) | Sync your GitHub projects with Travis CI to test your code in minutes | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
@@ -497,15 +497,15 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Exchangerate.host](https://exchangerate.host) | Free foreign exchange & crypto rates API | `apiKey` | Yes | Unknown |
 | [Frankfurter](https://www.frankfurter.app/docs) | Exchange rates, currency conversion and time series | No | Yes | Yes |
 | [FreeForexAPI](https://freeforexapi.com/Home/Api) | Real-time foreign exchange rates for major currency pairs | `apiKey` | Yes | No |
-| [FxFeed.io](https://fxfeed.io) | Foreign exchange rates, currency conversion and time series data | `apiKey` | Yes | Yes |
+| [FxFeed](https://fxfeed.io) | Foreign exchange rates, currency conversion and time series data | `apiKey` | Yes | Yes |
 | [FxRatesAPI](https://fxratesapi.com/) | Real-time exchange rates, historical rates and currency conversion | `apiKey` | Yes | No |
 | [FyGraph](https://fygraph.com) | GraphQL API of latest 1.000+ crypto and 167+ fiat updated every minute | `apiKey` | Yes | Yes |
 | [Manyapis](https://manyapis.com/products/currency/usd-to-eur-rate) | Exchange rates and currency conversion with free plan 50 requests/day | `apiKey` | Yes | Yes |
 | [MetalpriceAPI](https://metalpriceapi.com) | Real-time and historical exchange rates and currency conversion API | `apiKey` | Yes | Unknown |
 | [National Bank of Poland](http://api.nbp.pl/en.html) | A collection of currency exchange rates (data in XML and JSON) | No | Yes | Yes |
-| [RBA Exchange Rates API](https://www.exchangeratesapi.com.au) | Real-time and historical Reserve Bank of Australia (RBA) exchange rates API | `apiKey` | Yes | Yes |
+| [RBA Exchange Rates](https://www.exchangeratesapi.com.au) | Real-time and historical Reserve Bank of Australia (RBA) exchange rates API | `apiKey` | Yes | Yes |
 | [Unirate](https://unirateapi.com) | Free Exchange Rates and Currency Conversion | apiKey | Yes | Yes |
-| [VATComply.com](https://www.vatcomply.com/documentation) | Exchange rates, geolocation and VAT number validation | No | Yes | Yes |
+| [VATComply](https://www.vatcomply.com/documentation) | Exchange rates, geolocation and VAT number validation | No | Yes | Yes |
 | [Convert Currency to Multiple Currencies](https://apyhub.com/utility/currency-conversion-multiple) | Convert currencies from a source currency to multiple target currencies. | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
@@ -515,7 +515,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 |---|---|---|---|---|
 | [API Adresse](https://adresse.data.gouv.fr/api-doc/adresse) | Official French address validation service | No | Yes | Unknown |
 | [Brevo Suit](https://developers.brevo.com/) | Connection for brevo CRM suite | `apiKey` | Yes | Yes |
-| [Lob.com](https://lob.com/) | US Address Verification | `apiKey` | Yes | Unknown |
+| [Lob](https://lob.com/) | US Address Verification | `apiKey` | Yes | Unknown |
 | [Nonprofit Check Plus](https://pactman.org/nonprofitcheckplus-api/landing) | Verify charities via EIN using IRS, PUB78, BMF & OFAC data for compliance and legitimacy | `apiKey` | Yes | Unknown |
 | [Postman Echo](https://www.postman-echo.com) | Test api server to receive and return value from HTTP method | No | Yes | Unknown |
 | [PurgoMalum](http://www.purgomalum.com) | Content validator against profanity & obscenity | No | No | Unknown |
@@ -535,7 +535,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Abacus](https://abacus.jasoncameron.dev/) | Free and simple counting service. You can use it to track page hits and specific events | No | Yes | Yes |
 | [Abstract Screenshot](https://www.abstractapi.com/website-screenshot-api) | Take programmatic screenshots of web pages from any website | `apiKey`| Yes | Yes |
 | [Agent Gateway](https://agent-gateway-kappa.vercel.app) | 34+ AI agent infrastructure services including memory, wallets, and scheduling | `apiKey` | Yes | Yes |
-| [Agify.io](https://agify.io) | Estimates the age from a first name | No | Yes | Yes |
+| [Agify](https://agify.io) | Estimates the age from a first name | No | Yes | Yes |
 | [Amazonscraperapi](https://amazonscraperapi.com) | Amazon product, search & batch scraping API with residential proxies (1000 free) | `apiKey` | Yes | No |
 | [API Grátis](https://apigratis.com.br/) | Multiples services and public APIs | No | Yes | Unknown |
 | [API League](https://apileague.com) | World-class APIs in a single hub | `apiKey` | Yes | Yes |
@@ -546,15 +546,15 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [ApyHub: A Complete API Catalog](https://apyhub.com/catalog) | Build and ship applications that scale using certified APIs for every use case | `apiKey` | Yes | Yes |
 | [ASORadar](https://asoradar.com) | App Store and Google Play reviews, ratings, rankings and app metadata | `apiKey` | Yes | Unknown |
 | [AutoChangelog](https://autochangelog.com) | Automatically creates changelog entries from deployments by analyzing pull requests, commits, and code diffs across your GitHub repositories | `apiKey` | Yes | Yes |
-| [Autom](https://www.autom.dev) | Our SERP API delivers lightning-fast Google search results at unbeatable prices. Built for developers who need reliable, scalable access to search data without the complexity of web scraping or CAPTCHA challenges. | `apiKey` | Yes | Yes |
+| [Autom](https://www.autom.dev) | Our SERP API delivers lightning-fast Google search results at unbeatable prices. Built for developers who need reliable, scalable access to search data... | `apiKey` | Yes | Yes |
 | [Azure DevOps](https://docs.microsoft.com/en-us/rest/api/azure/devops) | The Azure DevOps basic components of a REST API request/response pair | `apiKey`| Yes | Unknown |
 | [Beeceptor](https://beeceptor.com/) | Build a mock Rest API endpoint in seconds | No | Yes | Yes |
 | [Bitbucket](https://developer.atlassian.com/bitbucket/api/2/reference/) | Bitbucket API | `OAuth` | Yes | Unknown |
 | [Blitapp](https://blitapp.com/api/) | Schedule screenshots of web pages and sync them to your cloud | `apiKey`| Yes | Unknown |
 | [Blynk-Cloud](https://blynkapi.docs.apiary.io/#) | Control IoT Devices from Blynk IoT Cloud | `apiKey`| No | Unknown |
 | [Brainshop.ai](https://brainshop.ai/) | Make A Free A.I Brain | `apiKey`| Yes | Yes |
-| [Brand.dev](https://www.brand.dev/) | API to personalize your product with logos, colors, and company info from any domain | `apiKey`| Yes | Yes |
-| [Brave Search API](https://brave.com/search/api/) | An index of billions of pages in a single call | `apiKey`| Yes | No |
+| [Brand](https://www.brand.dev/) | API to personalize your product with logos, colors, and company info from any domain | `apiKey`| Yes | Yes |
+| [Brave Search](https://brave.com/search/api/) | An index of billions of pages in a single call | `apiKey`| Yes | No |
 | [BrowserCat](https://www.browsercat.com/) | Headless browser API for automation, scraping, and more | `apiKey` | Yes | Yes |
 | [Browshot](https://browshot.com/api/documentation) | Easily make screenshots of web pages in any screen size, as any device | `apiKey`| Yes | Yes |
 | [Cache Horse](https://cache.horse) | Combine/batch & cache multiple HTTP requests to save on API quotas, speed up & simplify your app | `apiKey` | Yes | Yes |
@@ -567,7 +567,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Contentful Images](https://www.contentful.com/developers/docs/references/images-api/) | Used to retrieve and apply transformations to images | `apiKey`| Yes | Yes |
 | [CORS Proxy](https://github.com/burhanuday/cors-proxy) | Get around the dreaded CORS error by using this proxy as a middle man | No | Yes | Yes |
 | [Corsfix](https://corsfix.com/docs/cors-proxy/api) | Corsfix lets you fetch any resource and bypass CORS errors, free for development environment | No | Yes | Yes |
-| [CSV to JSON API](https://apyhub.com/utility/converter-csv-json) | Convert CSV files to JSON with this API. Ideal for developers who want to automate data workflows and integrate structured data | `apiKey` | Yes | Yes |
+| [CSV to JSON](https://apyhub.com/utility/converter-csv-json) | Convert CSV files to JSON with this API. Ideal for developers who want to automate data workflows and integrate structured data | `apiKey` | Yes | Yes |
 | [Databricks](https://docs.databricks.com/dev-tools/api/latest/index.html) | Service to manage your databricks account,clusters, notebooks, jobs and workspaces | `apiKey`| Yes | Yes |
 | [DATPAQ](https://datpaq.com) | Developer-first APIs. Enterprise-ready infrastructure. Sampla data, avatars, image processing and a lot more. | `apiKey` | Yes | Yes |
 | [DigitalOcean Status](https://status.digitalocean.com/api) | Status of all DigitalOcean services | No | Yes | Unknown |
@@ -581,7 +581,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Gcore CDN](https://docs.gcore.com/cdn) | Make your app fast and responsive for a global audience with Gcore CDN. | `apiKey` | Yes | Yes |
 | [Gcore Cloud](https://docs.gcore.com/cloud) | Scalable, secure, and reliable hybrid cloud services anywhere in the world. | `apiKey` | Yes | Yes |
 | [Gcore DNS](https://docs.gcore.com/dns) | Fast and resilient DNS hosting service by Gcore. Improve the performance and availability of your online business. | `apiKey` | Yes | Yes |
-| [Genderize.io](https://genderize.io) | Estimates a gender from a first name | No | Yes | Yes |
+| [Genderize](https://genderize.io) | Estimates a gender from a first name | No | Yes | Yes |
 | [GETPing](https://www.getping.info) | Trigger an email notification with a simple GET request | `apiKey`| Yes | Unknown |
 | [Ghost](https://ghost.org/) | Get Published content into your Website, App or other embedded media | `apiKey`| Yes | Yes |
 | [GitHub](https://docs.github.com/en/free-pro-team@latest/rest) | Make use of GitHub repositories, code and user info programmatically | `OAuth` | Yes | Yes |
@@ -598,7 +598,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Haunt Web Extractor](https://hauntapi.com/docs) | Extract structured JSON from web pages using natural language prompts | `apiKey` | Yes | Yes |
 | [Heroku](https://devcenter.heroku.com/articles/platform-api-reference/) | REST API to programmatically create apps, provision add-ons and perform other task on Heroku | `OAuth` | Yes | Yes |
 | [Hoppscotch](https://hoppscotch.io/) | A lightweight, fast, and customizable app for testing and designing APIs. A free, fast, and beautiful  | No | Yes | Unknown |
-| [Host.io](https://host.io) | Domains Data API for Developers | `apiKey`| Yes | Yes |
+| [Host](https://host.io) | Domains Data API for Developers | `apiKey`| Yes | Yes |
 | [HTTP2.Pro](https://http2.pro/doc/api) | Test endpoints for client and server HTTP/2 protocol support | No | Yes | Unknown |
 | [HTTPie](https://httpie.io) | a free command-line HTTP client for the API era | No | Yes | Unknown |
 | [Httpbin](https://httpbin.org/) | A Simple HTTP Request & Response Service | No | Yes | Yes |
@@ -607,19 +607,19 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [IBM Text to Speech](https://cloud.ibm.com/docs/text-to-speech/getting-started.html) | Convert text to speech | `apiKey`| Yes | Yes |
 | [IFTTT](https://platform.ifttt.com/docs/connect_api) | IFTTT Connect API | No | Yes | Unknown |
 | [Image-Charts](https://documentation.image-charts.com/) | Generate charts, QR codes and graph images | No | Yes | Yes |
-| [import.io](http://api.docs.import.io/) | Retrieve structured data from a website or RSS feed | `apiKey`| Yes | Unknown |
+| [import](http://api.docs.import.io/) | Retrieve structured data from a website or RSS feed | `apiKey`| Yes | Unknown |
 | [Insomnia](https://insomnia.rest/) | A free API client that allows you to design, debug, test, and mock APIs locally, on Git, or cloud. | `OAuth` | Yes | Unknown |
 | [IP2WHOIS Information Lookup](https://www.ip2whois.com/) | WHOIS domain name lookup | `apiKey`| Yes | Unknown |
-| [IP Details API](https://rapidapi.com/Bluehatcoders/api/ip-details-api) | Geographic location of an IP address or any domain name along with some other useful information | `apiKey`| Yes | Unknown |
-| [ipfind.io](https://ipfind.io) | Geographic location of an IP address or any domain name along with some other useful information | `apiKey`| Yes | Yes |
+| [IP Details](https://rapidapi.com/Bluehatcoders/api/ip-details-api) | Geographic location of an IP address or any domain name along with some other useful information | `apiKey`| Yes | Unknown |
+| [ipfind](https://ipfind.io) | Geographic location of an IP address or any domain name along with some other useful information | `apiKey`| Yes | Yes |
 | [IPify](https://www.ipify.org/) | A simple IP Address API | No | Yes | Unknown |
 | [IPinfo](https://ipinfo.io/developers) | Another simple IP Address API | No | Yes | Unknown |
 | [IPLocate](https://www.iplocate.io/) | IP geolocation and threat data API | No | Yes | Yes |
 | [IPQuery](https://ipquery.io) | A free IP Geolocation and proxy/tor/VPN detection API | No | Yes | Yes |
 | [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) | Package info and download stats on jsDelivr CDN | No | Yes | Yes |
 | [JSON 2 JSONP](https://json2jsonp.com/) | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript | No | Yes | Unknown |
-| [JSONbin.io](https://jsonbin.io) | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps | `apiKey`| Yes | Yes |
-| [JSONsilo.com](https://jsonsilo.com) | Hassle-free JSON hosting. Convert your JSON file to an API in minutes at no cost. | `apiKey` | Yes | Yes | No |
+| [JSONbin](https://jsonbin.io) | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps | `apiKey`| Yes | Yes |
+| [JSONsilo](https://jsonsilo.com) | Hassle-free JSON hosting. Convert your JSON file to an API in minutes at no cost. | `apiKey` | Yes | Yes | No |
 | [Kroki](https://kroki.io) | Creates diagrams from textual descriptions | No | Yes | Yes |
 | [Lua Decompiler](https://lua-decompiler.ferib.dev/) | Online Lua 5.1 Decompiler | No | Yes | Yes |
 | [MAC address vendor lookup](https://macaddress.io/api) | Retrieve vendor details and other information regarding a given MAC address or an OUI | `apiKey`| Yes | Yes |
@@ -630,7 +630,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Mocky](https://designer.mocky.io/) | Mock user defined test JSON for REST API endpoints | No | Yes | Yes |
 | [MY IP](https://www.myip.com/api-docs/) | Get IP address information | No | Yes | Unknown |
 | [MySQL Visual EXPLAIN](https://api.mysqlexplain.com/) | Transform MySQL EXPLAIN output to interactive graphs | No | Yes | Yes |
-| [Nationalize.io](https://nationalize.io) | Estimate the nationality of a first name | No | Yes | Yes |
+| [Nationalize](https://nationalize.io) | Estimate the nationality of a first name | No | Yes | Yes |
 | [Netlify](https://docs.netlify.com/api/get-started/) | Netlify is a hosting service for the programmable web | `OAuth` | Yes | Unknown |
 | [NetworkCalc](https://networkcalc.com/api/docs) | Network calculators, including subnets, DNS, binary, and security tools | No | Yes | Yes |
 | [npm Registry](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md) | Query information about your favorite Node.js libraries programmatically | No | Yes | Unknown |
@@ -645,7 +645,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Posthook](https://docs.posthook.io) | Schedule webhooks for future delivery with retries and delivery tracking | `apiKey` | Yes | No |
 | [Postman](https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a) | Tool for testing APIs | `apiKey`| Yes | Unknown |
 | [Proxed AI](https://proxed.ai/) | Secure AI APIs in iOS - No SDK, Just Change Your API URL | `apiKey` | Yes | Yes |
-| [Proxmox VE API](https://pve.proxmox.com/pve-docs/api-viewer/) | API of self-hosted Proxmox VE. Address: https://your.server:8006/api2/json/ (configuring in installation process) | `apiKey`| Yes | Unknown |
+| [Proxmox VE](https://pve.proxmox.com/pve-docs/api-viewer/) | API of self-hosted Proxmox VE. Address: https://your.server:8006/api2/json/ (configuring in installation process) | `apiKey`| Yes | Unknown |
 | [ProxyCrawl](https://proxycrawl.com) | Scraping and crawling anticaptcha service | `apiKey`| Yes | Unknown |
 | [ProxyKingdom](https://proxykingdom.com) | Rotating Proxy API that produces a working proxy on every request | `apiKey`| Yes | Yes |
 | [Pusher Beams](https://pusher.com/beams) | Push notifications for Android & iOS | `apiKey`| Yes | Unknown |
@@ -656,25 +656,25 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Qrcode Monkey](https://www.qrcode-monkey.com/qr-code-api-with-logo/) | Integrate custom and unique looking QR codes into your system or workflow | No | Yes | Unknown |
 | [QuickChart](https://quickchart.io/) | Generate chart and graph images | No | Yes | Yes |
 | [Rejax](https://rejax.io/) | Reverse AJAX service to notify clients | `apiKey`| Yes | No |
-| [Render API](https://render.com/docs/api) | Lets you programmatically manage your Render services (web apps, APIs, and static sites) including deployments, scaling, and configuration | `apiKey`| Yes | Unknown |
+| [Render](https://render.com/docs/api) | Lets you programmatically manage your Render services (web apps, APIs, and static sites) including deployments, scaling, and configuration | `apiKey`| Yes | Unknown |
 | [ReqRes](https://reqres.in/) | A hosted REST-API ready to respond to your AJAX requests | No | Yes | Unknown |
 | [RSS to JSON](https://github.com/ayusharma/RSS-to-JSON) | Returns RSS feed in JSON format using feed URL | No | Yes | Yes |
 | [ScrapeNinja](https://scrapeninja.net) | Scraping API with Chrome fingerprint and residential proxies | `apiKey`| Yes | Unknown |
 | [ScraperApi](https://www.scraperapi.com) | Easily build scalable web scrapers | `apiKey`| Yes | Unknown |
 | [scraperBox](https://scraperbox.com/) | Undetectable web scraping API | `apiKey`| Yes | Yes |
-| [Scrapfly](https://scrapfly.io) | Scrapfly is an enterprise-grade solution providing Web Scraping API that aims to simplify the scraping process by managing everything: real browser rendering, rotating proxies, and fingerprints (TLS, HTTP, browser) to bypass all major anti-bots. | `apiKey`| Yes | No |
+| [Scrapfly](https://scrapfly.io) | Scrapfly is an enterprise-grade solution providing Web Scraping API that aims to simplify the scraping process by managing everything: real browser... | `apiKey`| Yes | No |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping with a simple API | `apiKey`| Yes | Unknown |
 | [ScrapingDog](https://www.scrapingdog.com/) | Proxy API for Web scraping | `apiKey`| Yes | Unknown |
-| [ScreenshotAPI.net](https://screenshotapi.net/) | Create pixel-perfect website screenshots | `apiKey`| Yes | Yes |
+| [ScreenshotAPI](https://screenshotapi.net/) | Create pixel-perfect website screenshots | `apiKey`| Yes | Yes |
 | [Screenshotbase](https://screenshotbase.com/) | Screenshot API, 1000 free requests per month | `apiKey`| Yes | Yes |
-| [ScreenshotOne.com](https://screenshotone.com/) | Convert URLs, HTML, or Markdown into PNG, JPEG, WebP, or PDF with a simple screenshot API | `apiKey`| Yes | Yes |
+| [ScreenshotOne](https://screenshotone.com/) | Convert URLs, HTML, or Markdown into PNG, JPEG, WebP, or PDF with a simple screenshot API | `apiKey`| Yes | Yes |
 | [Screenshot Scout](https://screenshotscout.com/) | Screenshot API for developers that captures any URL in one HTTP request with predictable output | `apiKey` | Yes | Unknown |
 | [Scrnify](https://scrnify.com/docs) | Screenshot and video capture API to transform any URL into high-quality images and recordings | `apiKey`| Yes | Yes |
 | [SearchApi](https://www.searchapi.io/) | Real-Time Google SERP API | `apiKey` | Yes | No |
 | [SEO Score](https://seoscoreapi.com) | Comprehensive SEO audit with 28 checks, scoring, and prioritized recommendations | `apiKey` | Yes | Yes |
-| [SEO Tags Generator API](https://apyhub.com/utility/sharpapi-generate-seo-tags) | The Generate SEO Tags API generates all the most important META tags based on any content | `apiKey` | Yes | Yes |
+| [SEO Tags Generator](https://apyhub.com/utility/sharpapi-generate-seo-tags) | The Generate SEO Tags API generates all the most important META tags based on any content | `apiKey` | Yes | Yes |
 | [Serialif Color](https://color.serialif.com/) | Color conversion, complementary, grayscale and contrasted text | No | Yes | No |
-| [SerpApi - Search API](https://serpapi.com/) | SerpApi's Search API makes it easy and fast to scrape Google and other search engines  | `apiKey` | Yes | No |
+| [SerpApi - Search](https://serpapi.com/) | SerpApi's Search API makes it easy and fast to scrape Google and other search engines  | `apiKey` | Yes | No |
 | [SERP Rank Checker](https://apyhub.com/utility/serp-rank) | Check realtime Google SERP Rank of any keywords | `apiKey` | Yes | Yes |
 | [Sent.dm](https://sent.dm) | Sent is a unified API for messaging across SMS and apps like WhatsApp | `apiKey` | Yes | Yes |
 | [Shadify](https://github.com/cheatsnake/shadify) | Service for generating data and executing logic to create various games and puzzles | No | Yes | Yes |
@@ -692,10 +692,10 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [TalorData](https://talordata.com) | Get structured results from Google, Bing, Yandex, and DuckDuckGo through one API, with fast, reliable responses | `apiKey` | Yes | No |
 | [Tolgee](https://tolgee.io) | Open-source localization (i18n) platform enabling you to translate you app fast | `apiKey` | Yes | No |
 | [Tyk](https://tyk.io/open-source/) | Api and service management platform | `apiKey`| Yes | Yes |
-| [UserAgent](https://useragent.app) | User agent parsing API is designed to help you better understand and interact with your users. By identifying browser, device, and OS data from user agent strings, this API empowers you with accurate, real-time insights into your audience. | `apiKey`| Yes | Yes |
+| [UserAgent](https://useragent.app) | User agent parsing API is designed to help you better understand and interact with your users. By identifying browser, device, and OS data from user agent... | `apiKey`| Yes | Yes |
 | [YADG](https://yadg.cc/api/v2/) | An API that scrapes music release data and renders it using different templates | `apiKey`| Yes | Unknown |
 | [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel/API.md) | Code compiler supporting 35+ languages mentioned at wandbox.org | No | Yes | Unknown |
-| [Web Scraping API](https://apyhub.com/utility/sharpapi-web-scraping-api) | Extract structured data from any public URL | `apiKey`| Yes | Yes |
+| [Web Scraping](https://apyhub.com/utility/sharpapi-web-scraping-api) | Extract structured data from any public URL | `apiKey`| Yes | Yes |
 | [WebScraping.AI](https://webscraping.ai/) | Web Scraping API with built-in proxies and JS rendering | `apiKey`| Yes | Yes |
 | [YAMLine](https://yamline.com/json/) | Convert YAML to JSON (on-the-fly) | No | Yes | Yes |
 | [ZenRows](https://www.zenrows.com/) | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies | `apiKey`| Yes | Unknown |
@@ -734,22 +734,22 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [CloudConvert](https://cloudconvert.com/api/v2) | Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation | `apiKey` | Yes | Unknown |
 | [Cloudmersive Document and Data Conversion](https://cloudmersive.com/convert-api) | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | `apiKey` | Yes | Yes |
 | [Code::Stats](https://codestats.net/api-docs) | Automatic time tracking for programmers | `apiKey` | Yes | No |
-| [ConvertHub API](https://converthub.com/api) | File Conversion API for Developers - Powerful REST API for file conversion. Convert documents, images, ebooks, and more. Simple integration, dev-friendly pricing. | `apiKey` | Yes | No |
-| [Convert HTML to PDF API](https://apyhub.com/utility/converter-html-pdf) | This API converts any HTML (file, url, base64) to a PDF | `apiKey` | Yes | Yes |
+| [ConvertHub](https://converthub.com/api) | File Conversion API for Developers - Powerful REST API for file conversion. Convert documents, images, ebooks, and more. Simple integration, dev-friendly... | `apiKey` | Yes | No |
+| [Convert HTML to PDF](https://apyhub.com/utility/converter-html-pdf) | This API converts any HTML (file, url, base64) to a PDF | `apiKey` | Yes | Yes |
 | [Convert RSS to JSON](https://apyhub.com/utility/converter-rss-json) | Transform raw RSS data into structured JSON | `apiKey` | Yes | Yes |
-| [Convert Speech to Text API](https://apyhub.com/utility/speech-to-text) | This API converts any speech to text multiple languages and dialects | `apiKey` | Yes | Yes |
+| [Convert Speech to Text](https://apyhub.com/utility/speech-to-text) | This API converts any speech to text multiple languages and dialects | `apiKey` | Yes | Yes |
 | [Convert Word to PDF](https://apyhub.com/utility/converter-doc-pdf) | Convert a Word document (doc, docx, or ODF formats) to a PDF document | `apiKey` | Yes | Yes |
 | [CraftMyPDF](https://craftmypdf.com) | Generate PDF documents from templates with a drop-and-drop editor and a simple API | `apiKey` | Yes | No |
 | [CustomJS](https://www.customjs.io) | HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs | `apiKey` | Yes | Unknown |
 | [DocForge](https://docforge-api.vercel.app) | Convert between Markdown, HTML, CSV, JSON, and YAML formats | No | Yes | Yes |
-| [CV / Resume Parsing API](https://apyhub.com/utility/sharpapi-ai-resume-parser) | The Resume Parser API parses a resume (CV) file from multiple formats (PDF/DOC/DOCX/TXT/RTF) and returns an extensive object of data points | `apiKey` | Yes | Yes |
+| [CV / Resume Parsing](https://apyhub.com/utility/sharpapi-ai-resume-parser) | The Resume Parser API parses a resume (CV) file from multiple formats (PDF/DOC/DOCX/TXT/RTF) and returns an extensive object of data points | `apiKey` | Yes | Yes |
 | [FastApi Simple Calculator](https://fastapi-calculadora.onrender.com/) | Math, Stadistics, Conversions, Currency and more | No | Yes | Unknown |
-| [File Conversions API](https://apyhub.com/catalog/file-conversion) | APIs to handle all your file transformations. Word to PDF, Markdown to HTML, CSV to JSON, audio and many more | `apiKey` | Yes | Yes |
+| [File Conversions](https://apyhub.com/catalog/file-conversion) | APIs to handle all your file transformations. Word to PDF, Markdown to HTML, CSV to JSON, audio and many more | `apiKey` | Yes | Yes |
 | [Flowdash](https://docs.flowdash.com/docs/api-introduction) | Automate business workflows | `apiKey` | Yes | Unknown |
 | [fynk](https://fynk.com) | Generate, update, and manage contracts from your own systems with a secure and scalable REST API | `apiKey` | Yes | Yes |
 | [Html2PDF](https://html2pdf.app/) | HTML/URL to PDF | `apiKey` | Yes | Unknown |
 | [iLovePDF](https://developer.ilovepdf.com/) | Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month | `apiKey` | Yes | Yes |
-| [Invoice Parsing API](https://apyhub.com/utility/sharpapi-ai-invoice-parser) | Extract structured invoice data using AI with this API. Multiple formats supported | `apiKey` | Yes | Yes |
+| [Invoice Parsing](https://apyhub.com/utility/sharpapi-ai-invoice-parser) | Extract structured invoice data using AI with this API. Multiple formats supported | `apiKey` | Yes | Yes |
 | [JIRA](https://developer.atlassian.com/server/jira/platform/rest-apis/) | JIRA is a proprietary issue tracking product that allows bug tracking and agile project management | `OAuth`| Yes | Unknown |
 | [Mattermost](https://api.mattermost.com/) | An open source platform for developer collaboration | `OAuth`| Yes | Unknown |
 | [MConverter](https://dev.mconverter.eu/) | File converter and PDF compressor. Extract images from video, convert documents, Markdown and more | `apiKey` | Yes | Unknown |
@@ -758,7 +758,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [OCR AI](https://ocrai.xyz) | Document validation API using OCR and AI. Automatically extracts data from documents  and compares it with user-provided data to verify consistency | `apiKey`| Yes | No |
 | [PandaDoc](https://developers.pandadoc.com) | DocGen and eSignatures API | `apiKey` | Yes | No |
 | [PaperClean](https://paperclean.ip1.cc/api/docs) | Clean document photos for printing, remove shadows and fix lighting | `apiKey` | Yes | Yes |
-| [Paraphrase Text API](https://apyhub.com/utility/sharpapi-paraphrase-text) | The Paraphrase Text Generator API generates a paraphrased version of the provided text | `apiKey` | Yes | Yes |
+| [Paraphrase Text](https://apyhub.com/utility/sharpapi-paraphrase-text) | The Paraphrase Text Generator API generates a paraphrased version of the provided text | `apiKey` | Yes | Yes |
 | [Pdfblocks](https://pdfblocks.com) | Generate PDF documents using API | `apiKey` | Yes | Yes |
 | [PDFBolt](https://pdfbolt.com/docs) | High-quality HTML to PDF conversion with templates and AI generation | `apiKey` | Yes | Yes |
 | [PDFEndpoint](https://pdfendpoint.com) | HTML and URL to PDF API | `apiKey` | Yes | No |
@@ -767,14 +767,14 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Podio](https://developers.podio.com) | File sharing and productivity | `OAuth`| Yes | Unknown |
 | [PrexView](https://prexview.com) | Data from XML or JSON to PDF, HTML or Image | `apiKey` | Yes | Unknown |
 | [ReportForge](https://reportforge-api.vercel.app) | Generate styled HTML reports from CSV or JSON data with built-in templates | No | Yes | Yes |
-| [RenderPDF.io](https://renderpdf.io) | HTML to PDF crazy fast, 500 pdfs/month + CDN-ready | `apiKey` | Yes | Yes |
+| [RenderPDF](https://renderpdf.io) | HTML to PDF crazy fast, 500 pdfs/month + CDN-ready | `apiKey` | Yes | Yes |
 | [Restpack](https://restpack.io/) | Provides screenshot, HTML to PDF and content extraction APIs | `apiKey` | Yes | Unknown |
 | [Todoist](https://developer.todoist.com) | Todo Lists | `OAuth`| Yes | Unknown |
 | [URL to Markdown](https://github.com/macsplit/urltomarkdown) | Convert web page to MarkDown | No | Yes | Yes |
 | [Vector Express v2.0](https://vector.express) | Free vector file converting API | No | Yes | No |
 | [Vertopal](https://www.vertopal.com/en/developer/api/introduction) | Convert your files to a variety of formats using Vertopal API | `apiKey` | Yes | No |
 | [WakaTime](https://wakatime.com/developers) | Automated time tracking leaderboards for programmers | No | Yes | Unknown |
-| [WAV to MP3 API](https://apyhub.com/utility/audio-converter-wav-mp3) | This API lets you convert wav files to mp3 | `apiKey`| Yes | Yes |
+| [WAV to MP3](https://apyhub.com/utility/audio-converter-wav-mp3) | This API lets you convert wav files to mp3 | `apiKey`| Yes | Yes |
 | [WebPDF](https://webpdf.xyz/) | Work with PDF files via API | `apiKey`| Yes | No |
 | [Zube](https://zube.io/docs/api) | Full stack project management | `OAuth`| Yes | Unknown |
 
@@ -784,7 +784,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Abstract Email Validation](https://www.abstractapi.com/email-verification-validation-api) | Validate email addresses for deliverability and spam | `apiKey` | Yes | Yes |
-| [Academic Email API](https://apyhub.com/utility/validator-academic-email) | This API allows you to verify whether an email belongs to a recognized educational institution | `apiKey` | Yes | Yes |
+| [Academic Email](https://apyhub.com/utility/validator-academic-email) | This API allows you to verify whether an email belongs to a recognized educational institution | `apiKey` | Yes | Yes |
 | [Cloudmersive Validate](https://cloudmersive.com/validate-api) | Validate email addresses, phone numbers, VAT numbers and domain names | `apiKey` | Yes | Yes |
 | [Disify](https://www.disify.com/) | Validate and detect disposable and temporary email addresses | No | Yes | Yes |
 | [DropMail](https://dropmail.me/api/#live-demo) | GraphQL API for creating and managing ephemeral e-mail inboxes | No | Yes | Unknown |
@@ -809,7 +809,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Sendinblue](https://developers.sendinblue.com/docs) | A service that provides solutions relating to marketing and/or transactional email and/or SMS | `apiKey` | Yes | Unknown |
 | [Sweego](https://learn.sweego.io/docs/api-intro) | Self-serve multichannel notification platform for transactional email, SMS, push web& mobile, chat, in-app | `apiKey` | Yes | Yes |
 | [Sweep Emails](https://sweepemails.com/) | Reliable email validation API with Free tier | `apikey` | Yes | NO |
-| [Temporary and Disposable emails API](https://apyhub.com/utility/boomlify-temp-mail) | This API provides temporary & disposable email addresses | `apiKey` | Yes | Yes |
+| [Temporary and Disposable emails](https://apyhub.com/utility/boomlify-temp-mail) | This API provides temporary & disposable email addresses | `apiKey` | Yes | Yes |
 | [Trueguard](https://trueguard.io) | Trueguard offers API for detecting temporary emails, free-tier abusers and automated bots | `apiKey` | Yes | No |
 | [Verifier](https://verifier.meetchopra.com/docs#/) | Verifies that a given email is real | `apiKey` | Yes | Yes |
 | [Zyntra](https://docs.zyntra.app/) | Unlimited e-mail inboxes with API access. Catch OTPs, reset links, and sign-up emails in test flows | `apiKey` | Yes | Unknown |
@@ -819,7 +819,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 ### Entertainment
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [chucknorris.io](https://api.chucknorris.io) | JSON API for hand curated Chuck Norris jokes | No | Yes | Unknown |
+| [chucknorris](https://api.chucknorris.io) | JSON API for hand curated Chuck Norris jokes | No | Yes | Unknown |
 | [Corporate Buzz Words](https://github.com/sameerkumar18/corporate-bs-generator-api) | REST API for Corporate Buzz Words | No | Yes | Yes |
 | [elonmu.sh](https://elonmu.sh/) | Get random news article featuring Elon Musk | No | Yes | Unknown |
 | [Imgflip](https://imgflip.com/api) | Gets an array of popular memes | No | Yes | Unknown |
@@ -906,7 +906,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [IBANforge](https://ibanforge.com) | IBAN validation, BIC/SWIFT lookup & compliance scoring | `apiKey` | Yes | Yes |
 | [IEX Cloud](https://iexcloud.io/docs/api/) | Realtime & Historical Stock and Market Data | `apiKey` | Yes | Yes |
 | [IG](https://labs.ig.com/gettingstarted) | Spreadbetting and CFD Market Data | `apiKey` | Yes | Unknown |
-| [IIN API](https://iinapi.com) | IIN API allows you to accurately identify the issuing bank, card type, country of origin, and other details from a credit or debit card number. This is essential for fraud prevention, payment processing, and customer verification. | `apiKey` | Yes | Yes |
+| [IIN](https://iinapi.com) | IIN API allows you to accurately identify the issuing bank, card type, country of origin, and other details from a credit or debit card number. This is... | `apiKey` | Yes | Yes |
 | [Indian Mutual Fund](https://www.mfapi.in/) | Get complete history of India Mutual Funds Data | No | Yes | Unknown |
 | [Intrinio](https://intrinio.com/) | A wide selection of financial data feeds | `apiKey` | Yes | Unknown |
 | [KeepRule](https://github.com/henu-wang/keeprule-api) | Investment principles and quotes from Buffett, Munger, and other masters | No | Yes | Yes |
@@ -924,14 +924,14 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Portfolio Optimizer](https://portfoliooptimizer.io/) | Portfolio analysis and optimization | No | Yes | Yes |
 | [Razorpay IFSC](https://razorpay.com/docs/) | Indian Financial Systems Code (Bank Branch Codes) | No | Yes | Unknown |
 | [Real Time Finance](https://github.com/Real-time-finance/finance-websocket-API/) | Websocket API to access realtime stock data | `apiKey` | No | Unknown |
-| [Realie Property Data API](https://www.realie.ai/real-estate-data-api) | Realie's property data is directly sourced from local municipalities and contains over 100 data fields. Realie covers the entire USA with 180 million parcels. | `apiKey` | Yes | No |
+| [Realie Property Data](https://www.realie.ai/real-estate-data-api) | Realie's property data is directly sourced from local municipalities and contains over 100 data fields. Realie covers the entire USA with 180 million parcels. | `apiKey` | Yes | No |
 | [RentCast](https://developers.rentcast.io) | Retrieve real-time property and rental data for real estate in the United States | `apiKey` | Yes | Yes |
 | [SEC EDGAR Data](https://www.sec.gov/search-filings/edgar-application-programming-interfaces) | API to access annual reports of public US companies | No | Yes | Yes |
 | [SiftingIO](https://sifting.io/) | Market data for stocks, forex, crypto, commodities and DEX | `apiKey` | Yes | Yes |
 | [SmartAPI](https://smartapi.angelbroking.com/) | Gain access to set of <SmartAPI> and create end-to-end broking services | `apiKey` | Yes | Unknown |
 | [StockData](https://www.StockData.org) | Real-Time, Intraday & Historical Market Data, News and Sentiment API | `apiKey` | Yes | Yes |
 | [Stripe](https://stripe.com/docs/api) | Payment processing, subscriptions, and financial management | `apiKey` | Yes | Unknown |
-| [Sugra API](https://sugra.ai) | One API across markets, economics, commodities, climate, government, and global news. 1,400+ endpoints, 146 primary sources, LLM-ready JSON | `apiKey` | Yes | Yes |
+| [Sugra](https://sugra.ai) | One API across markets, economics, commodities, climate, government, and global news. 1,400+ endpoints, 146 primary sources, LLM-ready JSON | `apiKey` | Yes | Yes |
 | [Svensk Skatte-API](https://skatteapi.gracestack.se) | Swedish tax calculations: ISK, VAT, income tax, employer contributions | `apiKey` | Yes | Unknown |
 | [Tradier](https://developer.tradier.com) | US equity/option market data (delayed, intraday, historical) | `OAuth`| Yes | Yes |
 | [TradeWatch](https://tradewatch.io/) | Real time financial market data | `apiKey` | Yes | Yes |
@@ -972,7 +972,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Untappd](https://untappd.com/api/docs) | Social beer sharing | `OAuth`| Yes | Unknown |
 | [What's on the menu?](http://nypl.github.io/menus-api/) | NYPL human-transcribed historical menu collection | `apiKey` | No | Unknown |
 | [WhiskyHunter](https://whiskyhunter.net/api/) | Past online whisky auctions statistical data | No | Yes | Unknown |
-| [Your Move - Nutrition API](https://ymove.app/nutrition-api) | A complete nutrition API. Search foods, get nutrition facts and values. Generate meal plans and look up packaged products from 180+ countries worldwide. | `apiKey` | Yes | Yes |
+| [Your Move - Nutrition](https://ymove.app/nutrition-api) | A complete nutrition API. Search foods, get nutrition facts and values. Generate meal plans and look up packaged products from 180+ countries worldwide. | `apiKey` | Yes | Yes |
 | [Zestful](https://zestfuldata.com/) | Parse recipe ingredients | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
@@ -984,13 +984,13 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Atlas Academy](https://api.atlasacademy.io/docs) | API for Fate/Grand Order game data | No | Yes | Unknown |
 | [Autochess VNG](https://github.com/didadadida93/autochess-vng-api) | Rest Api for Autochess VNG | No | Yes | Yes |
 | [Barter.VG](https://github.com/bartervg/barter.vg/wiki) | Provides information about Game, DLC, Bundles, Giveaways, Trading | No | Yes | Yes |
-| [Battle.net](https://develop.battle.net/documentation/guides/getting-started) | Diablo III, Hearthstone, StarCraft II and World of Warcraft game data APIs | `OAuth` | Yes | Yes |
+| [Battle](https://develop.battle.net/documentation/guides/getting-started) | Diablo III, Hearthstone, StarCraft II and World of Warcraft game data APIs | `OAuth` | Yes | Yes |
 | [Blue Archive](https://github.com/arufars/api-blue-archive) | Provides Blue Archive characters information | No | Yes | Yes |
 | [Board Game Geek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) | Board games, RPG and videogames | No | Yes | No |
 | [Brawl Stars](https://developer.brawlstars.com) | Brawl Stars Game Information | `apiKey`| Yes | Unknown |
 | [Call of Duty](https://codapi.dev/) | Unofficial wrapper for the Call of Duty API with multi-language support. | No | Yes | Unknown |
 | [CheapShark](https://www.cheapshark.com/api) | Steam/PC Game Prices and Deals | No | Yes | Yes |
-| [Chess.com](https://www.chess.com/news/view/published-data-api) | Chess.com read-only REST API | No | Yes | Unknown |
+| [Chess](https://www.chess.com/news/view/published-data-api) | Chess.com read-only REST API | No | Yes | Unknown |
 | [Clash of Clans](https://developer.clashofclans.com) | Clash of Clans Game Information | `apiKey`| Yes | Unknown |
 | [Clash Royale](https://developer.clashroyale.com) | Clash Royale Game Information | `apiKey`| Yes | Unknown |
 | [Comic Vine](https://comicvine.gamespot.com/api/documentation) | Comics | No | Yes | Unknown |
@@ -1024,7 +1024,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Humor](https://humorapi.com) | Humor, Jokes, and Memes | `apiKey`| Yes | Unknown |
 | [Hypixel](https://api.hypixel.net/) | Hypixel player stats | `apiKey`| Yes | Unknown |
 | [Hyrule Compendium](https://github.com/gadhagod/Hyrule-Compendium-API) | Data on all interactive items from The Legend of Zelda: BOTW | No | Yes | Unknown |
-| [IGDB.com](https://api-docs.igdb.com) | Video Game Database | `apiKey`| Yes | Unknown |
+| [IGDB](https://api-docs.igdb.com) | Video Game Database | `apiKey`| Yes | Unknown |
 | [Italian Jokes](https://italian-jokes.vercel.app/) | JSON API for getting jokes about Italians | No | Yes | Unknown |
 | [JokeAPI](https://sv443.net/jokeapi/v2/) | Programming, Miscellaneous and Dark Jokes | No | Yes | Yes |
 | [Jokes One](https://jokes.one/api/joke/) | Joke of the day and large category of jokes accessible via REST API | `apiKey`| Yes | Yes |
@@ -1033,7 +1033,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Minecraft Server Status](https://api.mcsrvstat.us) | API to get Information about a Minecraft Server | No | Yes | No |
 | [Minecraft ServerHub](https://minecraft-serverhub.com/developers) | Minecraft server status, player counts, MOTD, and live status badges | No | Yes | Yes |
 | [MMO Games](https://www.mmobomb.com/api) | MMO Games Database, News and Giveaways | No | Yes | No |
-| [mod.io](https://docs.mod.io) | Cross Platform Mod API | `apiKey`| Yes | Unknown |
+| [mod](https://docs.mod.io) | Cross Platform Mod API | `apiKey`| Yes | Unknown |
 | [Mojang](https://wiki.vg/Mojang_API) | Mojang / Minecraft API | `apiKey`| Yes | Unknown |
 | [Monster Hunter World](https://docs.mhw-db.com/) | Monster Hunter World data | No | Yes | Yes |
 | [moogleAPI](https://www.moogleapi.com/) | Final Fantasy franchise data | No | Yes | Unknown |
@@ -1049,10 +1049,10 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Psychonauts](https://psychonauts-api.netlify.app/) | Psychonauts World Characters Information and PSI Powers | No | Yes | Yes |
 | [PUBG](https://developer.pubg.com/) | Access in-game PUBG data | `apiKey`| Yes | Yes |
 | [Puyo Nexus](https://github.com/deltadex7/puyodb-api-deno) | Puyo Puyo information from Puyo Nexus Wiki | No | Yes | Yes |
-| [quizapi.io](https://quizapi.io/) | Access to various kind of quiz questions | `apiKey`| Yes | Yes |
+| [quizapi](https://quizapi.io/) | Access to various kind of quiz questions | `apiKey`| Yes | Yes |
 | [QuizBase](https://quizbase.runriva.com) | Trivia questions API: 1.1M+ items, full EN + PL parity, OpenAPI 3.1, TypeScript SDK, MCP server | `apiKey` | Yes | Yes |
 | [Raider](https://raider.io/api) | Provides detailed character and guild rankings for Raiding and Mythic+ content in World of Warcraft | No | Yes | Unknown |
-| [RAWG.io](https://rawg.io/apidocs) | 500,000+ games for 50 platforms including mobiles | `apiKey`| Yes | Unknown |
+| [RAWG](https://rawg.io/apidocs) | 500,000+ games for 50 platforms including mobiles | `apiKey`| Yes | Unknown |
 | [Rick and Morty](https://rickandmortyapi.com) | All the Rick and Morty information, including images | No | Yes | Yes |
 | [Riot Games](https://developer.riotgames.com/) | League of Legends, Teamfight Tactics, Legends of Runetera and Valorant information | `apiKey`| Yes | Unknown |
 | [RuneScape](https://runescape.wiki/w/Application_programming_interface) | RuneScape and OSRS RPGs information | No | Yes | No |
@@ -1064,11 +1064,11 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [TCGApi](https://tcgapi.dev/introduction/) | Trading card game prices and historical data across 89+ games | `apiKey` | Yes | No |
 | [TCGdex](https://www.tcgdex.net/docs) | Multi languages Pokémon TCG Information | No | Yes | Yes |
 | [Tebex](https://docs.tebex.io/plugin/) | Tebex API for information about game purchases | `X-Mashape-Key` | Yes | No |
-| [TETR.IO](https://tetr.io/about/api/) | TETR.IO Tetra Channel API | No | Yes | Unknown |
+| [TETR](https://tetr.io/about/api/) | TETR.IO Tetra Channel API | No | Yes | Unknown |
 | [Universalis](https://universalis.app/docs/index.html) | Final Fantasy XIV market board data | No | Yes | Yes |
 | [Valorant (non-official)](https://valorant-api.com) | An extensive API containing data of most Valorant in-game items, assets and more | No | Yes | Unknown |
 | [Warface (non-official)](https://api.wfstats.cf) | Official API proxy with better data structure and more features | No | Yes | No |
-| [Wargaming.net](https://developers.wargaming.net/) | Wargaming.net info and stats | `apiKey`| Yes | No |
+| [Wargaming](https://developers.wargaming.net/) | Wargaming.net info and stats | `apiKey`| Yes | No |
 | [When is next MCU film](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md) | Upcoming MCU film information | No | Yes | Unknown |
 | [Wynncraft](https://docs.wynncraft.com/) | Wynncraft Information | No | Yes | Unknown |
 | [xkcd](https://xkcd.com/json.html) | Retrieve xkcd comics as JSON | No | Yes | No |
@@ -1087,14 +1087,14 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Apiip](https://apiip.net/) | Get location information by IP address | `apiKey` | Yes | Yes |
 | [ApogeoAPI](https://apogeoapi.com/ip-geolocation-api) | IP geolocation (IPv4 + IPv6) with country, city, timezone and 150k cities database | `apiKey` | Yes | Yes |
 | [Battuta](http://battuta.medunes.net) | A (country/region/city) in-cascade location API | `apiKey` | No | Unknown |
-| [BigDataCloud's IP Geolocation API](https://www.bigdatacloud.com/ip-geolocation) | Provides fast and accurate IP geolocation APIs along with security checks and confidence area. | `apiKey` | Yes | Yes |
-| [BigDataCloud's Reverse Geocoding API](https://www.bigdatacloud.com/reverse-geocoding) | Get rich locality information from the geographical coordinates. | `apiKey` | Yes | Yes |
-| [BigDataCloud's Phone and Email Verification API](https://www.bigdatacloud.com/phone-email-verification) | Syntax and Format Validation of Phone Number and Email address. | `apiKey` | Yes | Yes |
-| [BigDataCloud's Network Engineering API](https://www.bigdatacloud.com/network-engineering) | Get detailed ASN and Network lookup of an IP address. | `apiKey` | Yes | Yes |
-| [BigDataCloud's Free API](https://www.bigdatacloud.com//free-api) | Get free client-side reverse geocoding API and Client Info API. No account creation and API key required.| No | Yes | Yes |    
+| [BigDataCloud's IP Geolocation](https://www.bigdatacloud.com/ip-geolocation) | Provides fast and accurate IP geolocation APIs along with security checks and confidence area. | `apiKey` | Yes | Yes |
+| [BigDataCloud's Reverse Geocoding](https://www.bigdatacloud.com/reverse-geocoding) | Get rich locality information from the geographical coordinates. | `apiKey` | Yes | Yes |
+| [BigDataCloud's Phone and Email Verification](https://www.bigdatacloud.com/phone-email-verification) | Syntax and Format Validation of Phone Number and Email address. | `apiKey` | Yes | Yes |
+| [BigDataCloud's Network Engineering](https://www.bigdatacloud.com/network-engineering) | Get detailed ASN and Network lookup of an IP address. | `apiKey` | Yes | Yes |
+| [BigDataCloud's Free](https://www.bigdatacloud.com//free-api) | Get free client-side reverse geocoding API and Client Info API. No account creation and API key required.| No | Yes | Yes |    
 | [Bing Maps](https://www.microsoft.com/maps/) | Create/customize digital maps based on Bing Maps data | `apiKey` | Yes | Unknown |
 | [bng2latlong](https://www.getthedata.com/bng2latlong) | Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude | No | Yes | Yes |
-| [Cartes.io](https://github.com/M-Media-Group/Cartes.io/wiki/API) | Create maps and markers for anything | No | Yes | Unknown |
+| [Cartes](https://github.com/M-Media-Group/Cartes.io/wiki/API) | Create maps and markers for anything | No | Yes | Unknown |
 | [Cep.la](http://cep.la/) | Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states | No | No | Unknown |
 | [CitySDK](http://www.citysdk.eu/citysdk-toolkit/) | Open APIs for select European cities | No | Yes | Unknown |
 | [Country](http://country.is/) | Get your visitor's country from their IP | No | Yes | Yes |
@@ -1104,9 +1104,9 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Geo Toolkit](https://abundanceapis.com/apis/geo-toolkit) | Plus Codes, geohash and Maidenhead encode/decode plus distance, bearing and bounding box math | `apiKey` | Yes | Yes |
 | [GeoApi](https://api.gouv.fr/api/geoapi.html) | French geographical data | No | Yes | Unknown |
 | [Geoapify](https://www.geoapify.com/api/geocoding-api/) | Forward and reverse geocoding, address autocomplete | `apiKey` | Yes | Yes |
-| [Geocod.io](https://www.geocod.io/) | Address geocoding / reverse geocoding in bulk | `apiKey` | Yes | Unknown |
+| [Geocod](https://www.geocod.io/) | Address geocoding / reverse geocoding in bulk | `apiKey` | Yes | Unknown |
 | [Geocode.xyz](https://geocode.xyz/api) | Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing | No | Yes | Unknown |
-| [Geocodify.com](https://geocodify.com/) | Worldwide geocoding, geoparsing and autocomplete for addresses | `apiKey` | Yes | Yes |
+| [Geocodify](https://geocodify.com/) | Worldwide geocoding, geoparsing and autocomplete for addresses | `apiKey` | Yes | Yes |
 | [Geodata.gov.gr](https://geodata.gov.gr/en/) | Open geospatial data and API service for Greece | No | Yes | Unknown |
 | [GeoDataSource](https://www.geodatasource.com/web-service) | Geocoding of city name by using latitude and longitude coordinates | `apiKey` | Yes | Unknown |
 | [GeoDB Cities](http://geodb-cities-api.wirefreethought.com/) | Get global city, region, and country data | `apiKey` | Yes | Unknown |
@@ -1129,16 +1129,16 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [IP 2 Country](https://ip2country.info) | Map an IP to a country | No | Yes | Unknown |
 | [IP Address Details](https://ipinfo.io/) | Find geolocation with ip address | No | Yes | Unknown |
 | [ip-api](https://ip-api.com/docs) | Find location with IP address or domain | No | No | Unknown |
-| [ip.app](https://ip.app) | IP, ASN, geolocation, timezone, security, user-agent in plain text, JSON or HTTP headers | No | Yes | Yes |
+| [ip](https://ip.app) | IP, ASN, geolocation, timezone, security, user-agent in plain text, JSON or HTTP headers | No | Yes | Yes |
 | [IP2Location](https://www.ip2location.com/web-service/ip2location) | IP geolocation web service to get more than 55 parameters | `apiKey` | Yes | Unknown |
-| [IP2Location.io](https://www.ip2location.io) | Bundle of Free IP geolocation and WHOIS API  | `apiKey` | Yes | Unknown |
+| [IP2Location](https://www.ip2location.io) | Bundle of Free IP geolocation and WHOIS API  | `apiKey` | Yes | Unknown |
 | [IP2Proxy](https://www.ip2location.com/web-service/ip2proxy) | Detect proxy and VPN using IP address | `apiKey` | Yes | Unknown |
-| [ipapi.co](https://ipapi.co/api/#introduction) | Find IP address location information | No | Yes | Yes |
+| [ipapi](https://ipapi.co/api/#introduction) | Find IP address location information | No | Yes | Yes |
 | [IPGEO](https://api.techniknews.net/ipgeo/) | Unlimited free IP Address API with useful information | No | Yes | Unknown |
 | [ipgeolocation](https://ipgeolocation.io/) | IP Geolocation AP with free plan 30k requests per month | `apiKey` | Yes | Yes |
 | [IPInfoDB](https://www.ipinfodb.com/api) | Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address | `apiKey` | Yes | Unknown |
 | [IPWhois](https://ipwhois.io) | IP geolocation and IP intelligence API providing location, ISP, ASN, and proxy detection data for IPv4 and IPv6 addresses | `apiKey` | Yes | Yes |
-| [IPWho IP Geolocation API](https://www.ipwho.org/) | 2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency. | `apiKey` | Yes | Yes |
+| [IPWho IP Geolocation](https://www.ipwho.org/) | 2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency. | `apiKey` | Yes | Yes |
 | [Kakao Maps](https://apis.map.kakao.com) | Kakao Maps provide multiple APIs for Korean maps | `apiKey` | Yes | Unknown |
 | [keycdn IP Location Finder](https://tools.keycdn.com/geo) | Get the IP geolocation data through the simple REST API. All the responses are JSON encoded | `apiKey` | Yes | Unknown |
 | [LocationIQ](https://locationiq.org/docs/) | Provides forward/reverse geocoding and batch geocoding | `apiKey` | Yes | Yes |
@@ -1153,13 +1153,13 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [OnWater](https://onwater.io/) | Determine if a lat/lon is on water or land | No | Yes | Unknown |
 | [Open Topo Data](https://www.opentopodata.org) | Elevation and ocean depth for a latitude and longitude | No | Yes | No |
 | [OpenCage](https://opencagedata.com) | Forward and reverse geocoding using open data | `apiKey` | Yes | Yes |
-| [OpenPLZ API](https://www.openplzapi.org/) | A public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland via an open REST API | No | Yes | Yes |
-| [openrouteservice.org](https://openrouteservice.org/) | Directions, POIs, isochrones, geocoding (+reverse), elevation, and more | `apiKey` | Yes | Unknown |
+| [OpenPLZ](https://www.openplzapi.org/) | A public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland via an open REST API | No | Yes | Yes |
+| [openrouteservice](https://openrouteservice.org/) | Directions, POIs, isochrones, geocoding (+reverse), elevation, and more | `apiKey` | Yes | Unknown |
 | [OpenStreetMap](http://wiki.openstreetmap.org/wiki/API) | Navigation, geolocation and geographical data | `OAuth`| No | Unknown |
 | [Pinball Map](https://pinballmap.com/api/v1/docs) | A crowdsourced map of public pinball machines | No | Yes | Yes |
 | [Pointpin](https://pointp.in) | Pointpin is a simple yet powerful API designed for high traffic websites to deliver fast and reliable IP geolocation for your websites and applications. | `apiKey` | Yes | Yes |
 | [Postali](https://postali.app/api) | Mexico Zip Codes API | No | Yes | Yes |
-| [Postcodes.io](https://postcodes.io) | Postcode lookup & Geolocation for the UK | No | Yes | Yes |
+| [Postcodes](https://postcodes.io) | Postcode lookup & Geolocation for the UK | No | Yes | Yes |
 | [Proweblook IP Checker](https://proweblook.com/ipapi) | Proweblook lookup & Geolocation | `apiKey` | Yes | Yes |
 | [REST Countries](https://restcountries.com) | Get information about countries via a RESTful API | No | Yes | Yes |
 | [RoadGoat Cities](https://www.roadgoat.com/business/cities-api) | Cities content & photos API | `apiKey` | Yes | No |
@@ -1168,7 +1168,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [SpotSense](https://spotsense.io/) | Add location based interactions to your mobile app | `apiKey` | Yes | Unknown |
 | [SpryTools IP Geolocation](https://sprytools.com/apis/geo/) | Resolve IPv4/IPv6 to country, region, city, ISP, ASN and timezone via MaxMind GeoLite2 | `apiKey` | Yes | Unknown |
 | [Telize](https://rapidapi.com/fcambus/api/telize/) | Telize offers location information from any IP address | `apiKey` | Yes | Yes |
-| [The IP API](https://theipapi.com) | IP to Location API, with data about country, region, city etc, with free plan allowing 1000 req/day | `apiKey` | Yes | Unknown |
+| [The IP](https://theipapi.com) | IP to Location API, with data about country, region, city etc, with free plan allowing 1000 req/day | `apiKey` | Yes | Unknown |
 | [Timezones Dictionary API](https://apyhub.com/utility/data-lists-timezone) | This API returns a list of all available timezones for your application | `apiKey` | Yes | Yes |
 | [TomTom](https://developer.tomtom.com/) | Maps, Directions, Places and Traffic APIs | `apiKey` | Yes | Yes |
 | [Uebermaps](https://uebermaps.com/api/v2) | Discover and share maps with friends | `apiKey` | Yes | Unknown |
@@ -1212,7 +1212,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Data USA](https://datausa.io/about/api/) | US Public Data | No | Yes | Unknown |
 | [Data.gov](https://api.data.gov/) | US Government Data | `apiKey` | Yes | Unknown |
 | [Data.parliament.uk](https://explore.data.parliament.uk/?learnmore=Members) | Contains live datasets including information about petitions, bills, MP votes, attendance and more | No | No | Unknown |
-| [Dedline.io API](https://github.com/dedline-io/dedline-api) | Data for US state voter registration deadlines and details, for primaries and general elections | No | Yes | Yes |
+| [Dedline](https://github.com/dedline-io/dedline-api) | Data for US state voter registration deadlines and details, for primaries and general elections | No | Yes | Yes |
 | [Deutscher Bundestag DIP](https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf) | This API provides read access to DIP entities (e.g. activities, persons, printed material) | `apiKey` | Yes | Unknown |
 | [District of Columbia Open Data](http://opendata.dc.gov/pages/using-apis) | Contains D.C. government public datasets, including crime, GIS, financial data, and so on | No | Yes | Unknown |
 | [EPA](https://www.epa.gov/developers/data-data-products#apis) | Web services and data sets from the US Environmental Protection Agency | No | Yes | Unknown |
@@ -1321,12 +1321,12 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Arbeitnow](https://documenter.getpostman.com/view/18545278/UVJbJdKh) | API for Job board aggregator in Europe / Remote | No | Yes | Yes |
 | [Arbeitsamt](https://jobsuche.api.bund.dev/) | API for the "Arbeitsamt", which is a german Job board aggregator | `OAuth`| Yes | Unknown |
 | [Careerjet](https://www.careerjet.com/partners/api/) | Job search engine | `apiKey` | No | Unknown |
-| [CV - Job match score API](https://apyhub.com/utility/sharpapi-resume-job-match-score) | This API use multiple criteria to evaluate how well a candidate fits a job position | `apiKey` | Yes | Yes |
+| [CV - Job match score](https://apyhub.com/utility/sharpapi-resume-job-match-score) | This API use multiple criteria to evaluate how well a candidate fits a job position | `apiKey` | Yes | Yes |
 | [DevITjobs UK](https://devitjobs.uk/job_feed.xml) | Jobs with GraphQL | No | Yes | Yes |
-| [Fantastic.jobs](https://fantastic.jobs/api) | Access over 14 million jobs per month directly from company career sites and leading job boards. We refresh jobs every hour with several AI enriched job and company fields. | `apiKey` | Yes | Yes |
+| [Fantastic.jobs](https://fantastic.jobs/api) | Access over 14 million jobs per month directly from company career sites and leading job boards. We refresh jobs every hour with several AI enriched job and... | `apiKey` | Yes | Yes |
 | [Findwork](https://findwork.dev/developers/) | Job board | `apiKey` | Yes | Unknown |
 | [Himalayas](https://himalayas.app/api) | Remote job listings with salary, timezone, and location data | No | Yes | No |
-| [jobdata API](https://jobdataapi.com/) | Simple Job Data API | `apiKey` | Yes | Unknown |
+| [jobdata](https://jobdataapi.com/) | Simple Job Data API | `apiKey` | Yes | Unknown |
 | [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf) | Job aggregator | `apiKey` | Yes | Unknown |
 | [JobsPipe](https://jobspipe.dev/docs) | Search live job postings from job boards and company career sites, plus tech stack detection by domain | `apiKey` | Yes | Yes |
 | [Jooble](https://jooble.org/api/about) | Job search engine | `apiKey` | Yes | Unknown |
@@ -1364,7 +1364,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [LastFm](https://www.last.fm/api) | Music | `apiKey` | Yes | Unknown |
 | [LRCLIB](https://lrclib.net/docs) | Crowdsourced lyrics | No | Yes | Yes |
 | [Mixcloud](https://www.mixcloud.com/developers/) | Music | `OAuth`| Yes | Yes |
-| [Mubert AI Music API](https://landing.mubert.com) | Integrate AI music into your app, game or service | `apiKey`| Yes | Unknown |
+| [Mubert AI Music](https://landing.mubert.com) | Integrate AI music into your app, game or service | `apiKey`| Yes | Unknown |
 | [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) | Music | No | Yes | Unknown |
 | [MusicGPT](https://musicgpt.com/api) | AI Music Generator with text-to-speech, voice changer, remix & 20+ music features. | `apiKey` | Yes | Yes |
 | [Musixmatch](https://www.musixmatch.com/pro/api/) | Access lyrics, subtitles and music data | `apiKey` | Yes | Yes |
@@ -1385,13 +1385,13 @@ registers. Search all active companies worldwide, including directors, owners, e
 ### News
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [APITube News API](https://apitube.io/) |  Monitor news sources from around the world in real-time. Get the latest news articles from more than 500,000 news sources in 60 languages.  | `apiKey` | Yes | Yes |
+| [APITube News](https://apitube.io/) |  Monitor news sources from around the world in real-time. Get the latest news articles from more than 500,000 news sources in 60 languages.  | `apiKey` | Yes | Yes |
 | [Associated Press](https://developer.ap.org/) | Search for news and metadata from Associated Press | `apiKey` | Yes | Unknown |
 | [Chronicling America](http://chroniclingamerica.loc.gov/about/api/) | Provides access to millions of pages of historic US newspapers from the Library of Congress | No | No | Unknown |
 | [Currents](https://currentsapi.services/) | Latest news published in various news sources, blogs and forums | `apiKey` | Yes | Yes |
 | [Feedbin](https://github.com/feedbin/feedbin-api) | RSS reader | `OAuth`| Yes | Unknown |
 | [Finlight](https://finlight.me) | Realtime financial news with sentiment and article content | `apiKey`| Yes | Unknown |
-| [Free News API](https://www.freenewsapi.io/docs/) | Search and retrieve news articles with full-text search, filters and cursor pagination | `apiKey` | Yes | No |
+| [Free News](https://www.freenewsapi.io/docs/) | Search and retrieve news articles with full-text search, filters and cursor pagination | `apiKey` | Yes | No |
 | [GNews](https://gnews.io/) | Search for news from various sources | `apiKey` | Yes | Yes |
 | [HackerNews Node](https://github.com/EdixonAlberto/api-hackernews-node) | Api to get related articles about Node.js in Hacker News | `apiKey` | Yes | No |
 | [HasData: Structured Web Data APIs](https://hasdata.com) | Real-time Google News, SERP, and Web Scraping APIs. Extract structured public data from any news outlet or search engine at scale without blocks | `apiKey` | Yes | No |
@@ -1406,7 +1406,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [NewsMesh](https://newsmesh.co) | Access the news articles from trusted sources with real-time updates & powerful search capabilities | `apiKey` | Yes | Yes |
 | [NewsX](https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/) | Get or Search Latest Breaking News with ML Powered Summaries 🤖| `apiKey` | Yes | Unknown |
 | [Noozra](https://noozra.com/api) | Free news headlines from 200+ curated RSS sources | No | Yes | Yes |
-| [RiskSentinel](https://risksentinel.ai) | AI-powered news intelligence API delivering structured events with risk assessment, sentiment analysis, company impacts, geo tagging, ai generated summary and more | `apiKey` | Yes | No |
+| [RiskSentinel](https://risksentinel.ai) | AI-powered news intelligence API delivering structured events with risk assessment, sentiment analysis, company impacts, geo tagging, ai generated summary... | `apiKey` | Yes | No |
 | [Sonto](https://sonto.tech/api/) | Tech and AI news as JSON or RSS, with translated feeds in EN, DE, ES, FR, JA | No | Yes | Yes |
 | [Spaceflight News](https://spaceflightnewsapi.net) | Spaceflight related news 🚀| No | Yes | Yes |
 | [Substack API Wrapper](https://github.com/NHagar/substack_api) | Substack's newsletter platform now has an API wrapper, for easy access to latest posts | `No` | Yes | Unknown |
@@ -1422,7 +1422,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [18F](http://18f.github.io/API-All-the-X/) | Unofficial US Federal Government API Development | No | No | Unknown |
-| [Archive.org](https://archive.readme.io/docs) | The Internet Archive | No | Yes | No |
+| [Archive](https://archive.readme.io/docs) | The Internet Archive | No | Yes | No |
 | [ArgentinaDatos](https://argentinadatos.com/) | Unofficial Argentinian data API | No | Yes | Yes |
 | [Black History Facts](https://www.blackhistoryapi.io/docs) | Contribute or search one of the largest black history fact databases on the web | `apiKey` | Yes | Yes |
 | [BotsArchive](https://botsarchive.com/docs.html) | JSON formatted details about Telegram Bots available in database | No | Yes | Unknown |
@@ -1441,7 +1441,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Kaggle](https://www.kaggle.com/docs/api) | Create and interact with Datasets, Notebooks, and connect with Kaggle | `apiKey` | Yes | Unknown |
 | [LinkPreview](https://www.linkpreview.net) | Get JSON formatted summary with title, description and preview image for any requested URL | `apiKey` | Yes | Yes |
 | [Lowy Asia Power Index](https://github.com/0x0is1/lowy-index-api-docs) | Get measure resources and influence to rank the relative power of states in Asia | No | Yes | Unknown |
-| [Microlink.io](https://microlink.io) | Extract structured data from any website | No | Yes | Yes |
+| [Microlink](https://microlink.io) | Extract structured data from any website | No | Yes | Yes |
 | [Nasdaq Data Link](https://docs.data.nasdaq.com/) | Stock market data | `apiKey` | Yes | Unknown |
 | [Nobel Prize](https://www.nobelprize.org/about/developer-zone-2/) | Open data about nobel prizes and events | No | Yes | Yes |
 | [Open Data Minneapolis](https://opendata.minneapolismn.gov/) | Spatial (GIS) and non-spatial city data for Minneapolis | No | Yes | No |
@@ -1472,7 +1472,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Countly](https://api.count.ly/reference) | Countly web analytics | No | No | Unknown |
 | [Creative Commons Catalog](https://api.creativecommons.engineering/) | Search among openly licensed and public domain works | `OAuth` | Yes | Yes |
 | [Datamuse](https://www.datamuse.com/api/) | Word-finding query engine | No | Yes | Unknown |
-| [Drupal.org](https://www.drupal.org/drupalorg/docs/api) | Drupal.org | No | Yes | Unknown |
+| [Drupal](https://www.drupal.org/drupalorg/docs/api) | Drupal.org | No | Yes | Unknown |
 | [Evil Insult Generator](https://evilinsult.com/api) | Evil Insults | No | Yes | Yes |
 | [GitHub Contribution Chart Generator](https://github-contributions.vercel.app) | Create an image of your GitHub contributions | No | Yes | Yes |
 | [GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats) | Add dynamically generated statistics to your GitHub profile ReadMe | No | Yes | Yes |
@@ -1497,7 +1497,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Advice Slip](http://api.adviceslip.com/) | Generate random advice slips | No | Yes | Unknown |
 | [akshaykumar-rest](https://akshaykumar-rest.vercel.app/) | Akshay Kumar for every HTTP status code | No | Yes | Yes |
 | [Dev.to](https://developers.forem.com/api) | Access Forem articles, users and other resources via API | `apiKey` | Yes | Unknown |
-| [FavQs.com](https://favqs.com/api) | FavQs allows you to collect, discover and share your favorite quotes | `apiKey` | Yes | Unknown |
+| [FavQs](https://favqs.com/api) | FavQs allows you to collect, discover and share your favorite quotes | `apiKey` | Yes | Unknown |
 | [Forismatic](http://forismatic.com/en/api/) | Inspirational Quotes | No | No | Unknown |
 | [Human Design Hub](https://humandesignhub.app/en/docs) | Human Design bodygraph, transit, compatibility, and penta calculations | `apiKey` | Yes | No |
 | [icanhazdadjoke](https://icanhazdadjoke.com/api) | The largest selection of dad jokes on the internet | No | Yes | Unknown |
@@ -1518,7 +1518,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Vadivelu HTTP Codes](https://vadivelu.anoram.com/) | On demand HTTP Codes with images | No | Yes | No |
 | [Vedika](https://vedika.io) | AI-powered Vedic astrology API with birth charts, compatibility, doshas, AI chatbot in 22 languages | `apiKey` | Yes | Yes |
 | [Zen Quotes](https://zenquotes.io/) | Large collection of Zen quotes for inspiration | No | Yes | Yes |
-| [Sentino Personality API](https://sentino.org/api/) | AI-powered personality profiling and psychology analysis using NLP and Big 5, NEO, HEXACO, DISC inventories | `apiKey` | Yes | No |
+| [Sentino Personality](https://sentino.org/api/) | AI-powered personality profiling and psychology analysis using NLP and Big 5, NEO, HEXACO, DISC inventories | `apiKey` | Yes | No |
 
 **[⬆ Back to Index](#index)**
 
@@ -1539,15 +1539,15 @@ registers. Search all active companies worldwide, including directors, owners, e
 ### Photography
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [APITemplate.io](https://apitemplate.io) | Dynamically generate images and PDFs from templates with a simple API | `apiKey` | Yes | Yes |
-| [Change Image Background API](https://apyhub.com/utility/image-processor-change-background) | This API helps you change the background of any image | `apiKey` | Yes | Yes |
+| [APITemplate](https://apitemplate.io) | Dynamically generate images and PDFs from templates with a simple API | `apiKey` | Yes | Yes |
+| [Change Image Background](https://apyhub.com/utility/image-processor-change-background) | This API helps you change the background of any image | `apiKey` | Yes | Yes |
 | [CheetahO](https://cheetaho.com/docs/getting-started) | Photo optimization and resize | `apiKey` | Yes | Unknown |
 | [Convert Images to PDF API](https://apyhub.com/utility/converter-image-pdf) | Convert any image to a PDF without losing quality with one API call | `apiKey` | Yes | Yes |
 | [Dagpi](https://dagpi.xyz) | Image manipulation and processing | `apiKey` | Yes | Unknown |
 | [Duply](https://app.duply.co/docs) | Generate, Edit, Scale and Manage Images and Videos Smarter & Faster | `apiKey` | Yes | Yes |
 | [DynaPictures](https://dynapictures.com/docs/) | Generate Hundreds of Personalized Images in Minutes | `apiKey` | Yes | Yes |
 | [Flickr](https://www.flickr.com/services/api/) | Flickr Services | `OAuth`| Yes | Unknown |
-| [Generate Image Thumbnails API](https://apyhub.com/utility/image-processor-thumbnail) | Generate and optimise Image Thumbnails from any image with this API and save hours of image editing | `apiKey`| Yes | Yes |
+| [Generate Image Thumbnails](https://apyhub.com/utility/image-processor-thumbnail) | Generate and optimise Image Thumbnails from any image with this API and save hours of image editing | `apiKey`| Yes | Yes |
 | [Getty Images](http://developers.gettyimages.com/en/) | Build applications using the world's most powerful imagery | `OAuth`| Yes | Unknown |
 | [Giphy](https://developers.giphy.com/docs/) | Get all your gifs | `apiKey` | Yes | Unknown |
 | [Google Photos](https://developers.google.com/photos) | Integrate Google Photos with your apps or devices | `OAuth`| Yes | Unknown |
@@ -1562,7 +1562,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Poof](https://poof.bg) | Image & video background removal API | `apiKey` | Yes | Yes |
 | [Readme typing SVG](https://github.com/DenverCoder1/readme-typing-svg) | Customizable typing and deleting text SVG | No | Yes | Unknown |
 | [Remove.bg](https://www.remove.bg/api) | Image Background removal | `apiKey` | Yes | Unknown |
-| [Remove Background from Images API](https://apyhub.com/utility/image-processor-remove-background) | This API helps you remove background from any image | `apiKey` | Yes | Yes |
+| [Remove Background from Images](https://apyhub.com/utility/image-processor-remove-background) | This API helps you remove background from any image | `apiKey` | Yes | Yes |
 | [ReSmush.it](https://resmush.it/api) | Photo optimization | No | No | Unknown |
 | [ShotOG](https://shotog.2214962083.workers.dev/docs) | Open-source OG image generation with 8 templates, custom fonts, and batch generation | `apiKey` | Yes | Yes |
 | [shutterstock](https://api-reference.shutterstock.com/) | Stock Photos and Videos | `OAuth`| Yes | Unknown |
@@ -1602,14 +1602,14 @@ registers. Search all active companies worldwide, including directors, owners, e
 ### Science & Math
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [arcsecond.io](https://api.arcsecond.io/) | Multiple astronomy data sources | `apiKey` | Yes | Unknown |
+| [arcsecond](https://api.arcsecond.io/) | Multiple astronomy data sources | `apiKey` | Yes | Unknown |
 | [arXiv](https://arxiv.org/help/api) | Curated research-sharing platform: physics, mathematics, quantitative finance, and economics | No | Yes | Unknown |
 | [Bootprint](https://bootprint.space/) | Random facts and images of space | No | Yes | Yes |
 | [CodeCogs](https://editor.codecogs.com/docs/4-LaTeX_rendering.php) | Generate LaTeX equations as PNG, SVG, and GIF images | No | Yes | Unknown |
 | [CORE](https://core.ac.uk/services#api) | Access the world's Open Access research papers | `apiKey` | Yes | Unknown |
 | [GBIF](https://www.gbif.org/developer/summary) | Global Biodiversity Information Facility | No | Yes | Yes |
 | [iDigBio](https://github.com/idigbio/idigbio-search-api/wiki) | Access millions of museum specimens from organizations around the world | No | Yes | Unknown |
-| [inspirehep.net](https://github.com/inspirehep/rest-api-doc) | High Energy Physics info. system | No | Yes | Unknown |
+| [inspirehep](https://github.com/inspirehep/rest-api-doc) | High Energy Physics info. system | No | Yes | Unknown |
 | [isEven (humor)](https://isevenapi.xyz/) | Check if a number is even | No | Yes | Unknown |
 | [ISRO](https://isro.vercel.app) | ISRO Space Crafts Information | No | Yes | No |
 | [ISRO Statistics](https://isrostats.in/apis) | ISRO Launches and Spacecrafts details | No | Yes | Yes |
@@ -1675,7 +1675,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Passwordinator](https://github.com/fawazsullia/password-generator/) | Generate random passwords of varying complexities | No | Yes | Yes |
 | [PhishStats](https://phishstats.info/) | Phishing database | No | Yes | Unknown |
 | [Portscan](https://api.portscan.com/docs) | Scans the requesting client's IP for open TCP ports with fast or deep modes on IPv4/IPv6 | No | Yes | Yes |
-| [Privacy.com](https://privacy.com/developer/docs) | Generate merchant-specific and one-time use credit card numbers that link back to your bank | `apiKey` | Yes | Unknown |
+| [Privacy](https://privacy.com/developer/docs) | Generate merchant-specific and one-time use credit card numbers that link back to your bank | `apiKey` | Yes | Unknown |
 | [Pulsedive](https://pulsedive.com/api/) | Scan, search and collect threat intelligence data in real-time | `apiKey` | Yes | Unknown |
 | [SecurityTrails](https://securitytrails.com/corp/api) | Domain and IP related information such as current and historical WHOIS and DNS records | `apiKey` | Yes | Unknown |
 | [Shodan](https://developer.shodan.io/) | Search engine for Internet connected devices | `apiKey` | Yes | Unknown |
@@ -1683,7 +1683,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [UK Police](https://data.police.uk/docs/) | UK Police data | No | Yes | Unknown |
 | [Virus and Malware Scan API by attachmentAV](https://attachmentav.com/solution/virus-malware-scan-api/) | Scan files for viruses, worms, trojans, ransomware, and other kinds of malware by sending them to the attachmentAV API powered by Sophos | `apiKey` | Yes | No |
 | [VulDB](https://vuldb.com/?doc.api) | VulDB API allows to initiate queries for one or more items along with transactional bots | `apiKey` | Yes | Unknown |
-| [Whoisfreaks](https://whoisfreaks.com/) | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security | `apiKey` | Yes | No |
+| [Whoisfreaks](https://whoisfreaks.com/) | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced... | `apiKey` | Yes | No |
 
 **[⬆ Back to Index](#index)**
 
@@ -1743,7 +1743,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Reddit](https://www.reddit.com/dev/api) | Homepage of the internet | `OAuth`| Yes | Unknown |
 | [Revolt](https://developers.revolt.chat) | Revolt open source Discord alternative | `apiKey` | Yes | Unknown |
 | [Saidit](https://www.saidit.net/dev/api) | Open Source Reddit Clone | `OAuth`| Yes | Unknown |
-| [SocialData API](https://socialdata.tools) | Read Twitter data | `apiKey`| Yes | No |
+| [SocialData](https://socialdata.tools) | Read Twitter data | `apiKey`| Yes | No |
 | [Slack](https://api.slack.com/) | Team Instant Messaging | `OAuth`| Yes | Unknown |
 | [TamTam](https://dev.tamtam.chat/) | Bot API to interact with TamTam | `apiKey` | Yes | Unknown |
 | [Telegram Bot](https://core.telegram.org/bots/api) | Simplified HTTP version of the MTProto API for bots | `apiKey` | Yes | Unknown |
@@ -1753,7 +1753,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Tumblr](https://www.tumblr.com/docs/en/api/v2) | Read and write Tumblr Data | `OAuth`| Yes | Unknown |
 | [Twitch](https://dev.twitch.tv/docs) | Game Streaming API | `OAuth`| Yes | Unknown |
 | [Twitter](https://developer.twitter.com/en/docs) | Read and write Twitter data | `OAuth`| Yes | No |
-| [TwitterApi.IO](https://twitterapi.io) | Access Twitter's Real-time & Historical Data with Unmatched Simplicity | `apiKey`| Yes | No |
+| [TwitterApi](https://twitterapi.io) | Access Twitter's Real-time & Historical Data with Unmatched Simplicity | `apiKey`| Yes | No |
 | [vk](https://vk.com/dev/sites) | Read and write vk data | `OAuth`| Yes | Unknown |
 | [Webex](https://developer.webex.com) | Team collaboration software | `OAuth`| Yes | Yes |
 | [WoopSocial](https://docs.woopsocial.com/) | Schedule and publish posts across social media platforms | `apiKey` | Yes | No |
@@ -1764,15 +1764,15 @@ registers. Search all active companies worldwide, including directors, owners, e
 ### Sports & Fitness
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [American Football Highlights API](https://highlightly.net/documentation/american-football/) | Real time American Football (NFL/NCAA) highlights | `apiKey`| Yes | Unknown |
+| [American Football Highlights](https://highlightly.net/documentation/american-football/) | Real time American Football (NFL/NCAA) highlights | `apiKey`| Yes | Unknown |
 | [API-FOOTBALL](https://www.api-football.com/documentation-v3) | Get information about Football Leagues & Cups | `apiKey`| Yes | Yes |
 | [balldontlie](https://www.balldontlie.io) | Balldontlie provides access to stats data from the NBA | No | Yes | Yes |
-| [Basketball Highlights API](https://highlightly.net/documentation/basketball/) | Real time basketball video highlights | `apiKey`| Yes | Unknown |
+| [Basketball Highlights](https://highlightly.net/documentation/basketball/) | Real time basketball video highlights | `apiKey`| Yes | Unknown |
 | [Canadian Football League (CFL)](http://api.cfl.ca/) | Official JSON API providing real-time league, team and player statistics about the CFL | `apiKey`| Yes | No |
 | [City Bikes](https://api.citybik.es/v2/) | City Bikes around the world | No | Yes | Unknown |
 | [Cloudbet](https://www.cloudbet.com/api/) | Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically | `apiKey`| Yes | Yes |
-| [CollegeFootballData.com](https://collegefootballdata.com) | Unofficial detailed American college football statistics, records, and results API | `apiKey`| Yes | Unknown |
-| [F1 API](https://f1api.dev) | Open F1 API with realtime data | No | Yes | Unknown |
+| [CollegeFootballData](https://collegefootballdata.com) | Unofficial detailed American college football statistics, records, and results API | `apiKey`| Yes | Unknown |
+| [F1](https://f1api.dev) | Open F1 API with realtime data | No | Yes | Unknown |
 | [Fantasy Premier League](https://github.com/flavnat/fpl-api) | Fantasy Premier League data, including fixtures, teams, and player stats | No | Yes | Unknown |
 | [Fitbit](https://dev.fitbit.com/) | Fitbit Information | `OAuth` | Yes | Unknown |
 | [Football](https://rapidapi.com/GiulianoCrescimbeni/api/football98/) | A simple Open Source Football API to get squads’ stats, best scorers and more | `X-Mashape-Key` | Yes | Unknown |
@@ -1781,7 +1781,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Football Standings](https://github.com/azharimm/football-standings-api) | Display football standings e.g epl, la liga, serie a etc. The data is based on espn site | No | Yes | Yes |
 | [Football-Data](https://www.football-data.org) | Football data with matches info, players, teams, and competitions | `X-Mashape-Key` | Yes | Unknown |
 | [Hockey Highlights](https://highlightly.net/documentation/hockey/) | Real time hockey highlights | `apiKey` | Yes | Unknown |
-| [iSports API](https://isportsapi.com/) | Provide live and historical sports data of global competitions, like live score, fixtures, player & match stats, database etc. | `apiKey` | No | Yes |
+| [iSports](https://isportsapi.com/) | Provide live and historical sports data of global competitions, like live score, fixtures, player & match stats, database etc. | `apiKey` | No | Yes |
 | [JCDecaux Bike](https://developer.jcdecaux.com/) | JCDecaux's self-service bicycles | `apiKey`| Yes | Unknown |
 | [Lumify](https://lumify.ai/docs) | Real-time sports intelligence: scores, odds, betting splits & AI bet analysis across 8 sports | `apiKey` | Yes | No |
 | [MLB Records and Stats](https://appac.github.io/mlb-data-api-docs/) | Current and historical MLB statistics | No | No | Unknown |
@@ -1800,11 +1800,11 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Squiggle](https://api.squiggle.com.au) | Fixtures, results and predictions for Australian Football League matches | No | Yes | Yes |
 | [Strava](https://strava.github.io/api/) | Connect with athletes, activities and more | `OAuth` | Yes | Unknown |
 | [SuredBits](https://suredbits.com/api/) | Query sports data, including teams, players, games, scores and statistics | No | No | No |
-| [Tennis API](https://tennis-api.com) | Premium tennis API with free plan also available. Tennis stats, predictions, odds, live scores, point by point. Tennis websocket also available. | `apiKey`| Yes | Yes |
+| [Tennis](https://tennis-api.com) | Premium tennis API with free plan also available. Tennis stats, predictions, odds, live scores, point by point. Tennis websocket also available. | `apiKey`| Yes | Yes |
 | [TheSportsDB](https://www.thesportsdb.com/api.php) | Crowd-Sourced Sports Data and Artwork | `apiKey`| Yes | Yes |
 | [Tredict](https://www.tredict.com/blog/oauth_docs/) | Get and set activities, health data and more | `OAuth` | Yes | Unknown |
 | [Wger](https://wger.de/en/software/api) | Workout manager data as exercises, muscles or equipment | `apiKey`| Yes | Unknown |
-| [Your Move - Exercise API](https://ymove.app/exercise-api) | The complete exercise library and fitness API for your app. 698+ professional HD exercise videos with workout generation and program builder. | `apiKey` | Yes | Yes |
+| [Your Move - Exercise](https://ymove.app/exercise-api) | The complete exercise library and fitness API for your app. 698+ professional HD exercise videos with workout generation and program builder. | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
@@ -1848,10 +1848,10 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Aylien Text Analysis](https://docs.aylien.com/textapi/#getting-started) | A collection of information retrieval and natural language APIs | `apiKey` | Yes | Unknown |
 | [Chatpdf](https://chatpdf.so/api) | Chat with pdf using GPT4 and ChatGPT | `apiKey` | Yes | Yes |
 | [Cloudmersive Natural Language Processing](https://www.cloudmersive.com/nlp-api) | Natural language processing and text analysis | `apiKey` | Yes | Yes |
-| [Code Detection API](https://codedetectionapi.runtime.dev) | Detect, label, format and enrich the code in your app or in your data pipeline | `OAuth`| Yes | Unknown |
-| [Convert Text to Speech API]( https://apyhub.com/utility/text-to-speech/) | This API converts any text to speech automatically | `apiKey`| Yes | Yes |
+| [Code Detection](https://codedetectionapi.runtime.dev) | Detect, label, format and enrich the code in your app or in your data pipeline | `OAuth`| Yes | Unknown |
+| [Convert Text to Speech]( https://apyhub.com/utility/text-to-speech/) | This API converts any text to speech automatically | `apiKey`| Yes | Yes |
 | [Detect Language](https://detectlanguage.com/) | Detects text language | `apiKey` | Yes | Unknown |
-| [Detect Language API](https://apyhub.com/utility/language-detector) | This API detects the language from any text (+ 50 languages supported) | `apiKey` | Yes | Yes |
+| [Detect Language](https://apyhub.com/utility/language-detector) | This API detects the language from any text (+ 50 languages supported) | `apiKey` | Yes | Yes |
 | [ELI](https://nlp.insightera.co.th/docs/v1.0) | Natural Language Processing Tools for Thai Language | `apiKey` | Yes | Unknown |
 | [Fuzzy Text Search API](https://apyhub.com/utility/search-fuzzy-text) | The Fuzzy Text Search API finds close matches for user queries, handling typos and partial inputs to deliver relevant results quickly and accurately | `apiKey` | Yes | Yes |
 | [Google Cloud Natural](https://cloud.google.com/natural-language/docs/) | Natural language understanding technology, including sentiment, entity and syntax analysis | `apiKey` | Yes | Unknown |
@@ -1967,7 +1967,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Cutt.ly](https://cutt.ly/api-documentation/cuttly-links-api) | URL shortener service | `apiKey` | Yes | Unknown |
 | [Free Url Shortener](https://ulvis.net/developer.html) | Free URL Shortener offers a powerful API to interact with other sites | No | Yes | Unknown |
 | [Linkly](https://linklyhq.com/url-shortener-api) | URL shortener API with branded domains, click tracking, smart redirects, and webhooks | `apiKey` | Yes | Yes |
-| [Manyapis.com](https://manyapis.com/products/short-url) | Free URL shortener API with up to 50 requests per day  | Yes | Yes | Yes |
+| [Manyapis](https://manyapis.com/products/short-url) | Free URL shortener API with up to 50 requests per day  | Yes | Yes | Yes |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` | Yes | Unknown |
 | [Spoo.me](https://spoo.me/api) | Free URL shortener with custom alias, max-clicks, password protection and advanced analytics support | No | Yes | Yes |
 | [TinyURL](https://tinyurl.com/app/dev) | Shorten long URLs | `apiKey` | Yes | No |
@@ -1981,7 +1981,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 |---|---|---|---|---|
 | [Brazilian Vehicles and Prices](https://deividfortuna.github.io/fipe/) | Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe | No | Yes | No |
 | [CarAPI](https://carapi.app) | The developer friendly vehicle API. Make, model, trims and more via a RESTFul API | `apiKey` | Yes | No |
-| [CarsXE](https://api.carsxe.com/) | CarsXE API provides comprehensive data on vehicles, including VIN decoding & specifications, license plate decoding, images, history and market value. It enables developers to build innovative applications for the automotive industry, such as insurance & roadside assistance tools, ride sharing & grocery delivery apps, inventory management systems, and market analysis platforms. | `apiKey` | Yes | No |
+| [CarsXE](https://api.carsxe.com/) | CarsXE API provides comprehensive data on vehicles, including VIN decoding & specifications, license plate decoding, images, history and market value. It... | `apiKey` | Yes | No |
 | [CarVector](https://carvector.io/docs) | Vehicle specs, images, federal recalls, and DTC codes for 12,000+ vehicles (1925–2029) | `apiKey` | Yes | Yes |
 | [Helipaddy sites](https://helipaddy.com/api/) | Helicopter and passenger drone landing site directory, Helipaddy data and much more | `apiKey` | Yes | Unknown |
 | [Kelley Blue Book](http://developer.kbb.com/#!/data/1-Default) | Vehicle info, pricing, configuration, plus much more | `apiKey` | Yes | No |
@@ -1995,20 +1995,20 @@ registers. Search all active companies worldwide, including directors, owners, e
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [An API of Ice And Fire](https://anapioficeandfire.com/) | Game Of Thrones API | No | Yes | Unknown |
-| [Bob's Burgers API](https://bobsburgersapi.com/) | The Bob's Burgers API contains data for hundreds of characters, episodes, running gags, and images from the show | No | Yes | Yes |
+| [Bob's Burgers](https://bobsburgersapi.com/) | The Bob's Burgers API contains data for hundreds of characters, episodes, running gags, and images from the show | No | Yes | Yes |
 | [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) | Some Breaking Bad quotes | No | Yes | Unknown |
 | [Buffy the Vampire Slayer and Angel](https://github.com/Thatskat/btvs-angel-api) | Get episode, cast and crew data from Buffy the Vampire Slayer and Angel | No | Yes | Yes |
 | [Catalogopolis](https://api.catalogopolis.xyz/docs/) | Doctor Who API | No | Yes | Unknown |
-| [Compress Video API](https://apyhub.com/utility/job-compress-video) | Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks | `apiKey` | Yes | Yes |
+| [Compress Video](https://apyhub.com/utility/job-compress-video) | Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks | `apiKey` | Yes | Yes |
 | [Czech Television](http://www.ceskatelevize.cz/xml/tv-program/) | TV programme of Czech TV | No | No | Unknown |
 | [Dailymotion](https://developer.dailymotion.com/) | Dailymotion Developer API | `OAuth`| Yes | Unknown |
 | [Eurovision Song Contest](https://eurovisionapi.runasp.net/) | Unofficial Eurovision Song Contest API | No | Yes | Unknown |
-| [Extract Audio from Video API](https://apyhub.com/utility/job-extract-video-audio) | This API helps you extract audio from any video at scale | `apiKey` | Yes | Yes |
+| [Extract Audio from Video](https://apyhub.com/utility/job-extract-video-audio) | This API helps you extract audio from any video at scale | `apiKey` | Yes | Yes |
 | [Final Space](https://finalspaceapi.com/docs/) | Final Space API | No | Yes | Yes |
 | [Game of Thrones Quotes](https://gameofthronesquotes.xyz/) | Some Game of Thrones quotes | No | Yes | Unknown |
 | [Gcore Streaming](https://docs.gcore.com/streaming) | Scale to 100+ million viewers and beyond. Stream everything from online games to online events reliably in minutes instead of months. | `apiKey` | Yes | Yes |
-| [Generate Thumbnail from video API](https://apyhub.com/utility/thumbnail-from-video) | This API generates image thumbnails from any input video file, in the desired size (pixels). The API supports multiple video formats including MP4, WEBM, FLV, AVI, MKV, MOV and 3GP | `apiKey` | Yes | Yes |
-| [GIF from Video API](https://apyhub.com/utility/gif-from-video) | This API helps you generate GIF from any video | `apiKey` | Yes | Yes |
+| [Generate Thumbnail from video](https://apyhub.com/utility/thumbnail-from-video) | This API generates image thumbnails from any input video file, in the desired size (pixels). The API supports multiple video formats including MP4, WEBM,... | `apiKey` | Yes | Yes |
+| [GIF from Video](https://apyhub.com/utility/gif-from-video) | This API helps you generate GIF from any video | `apiKey` | Yes | Yes |
 | [Harry Potter Characters](https://hp-api.onrender.com/) | Harry Potter Characters Data with with imagery | No | Yes | Unknown |
 | [Hunt](https://www.huntapi.com) | Video To API. Get video or audio and metadata for all video platforms with one provider. | `apiKey` | Yes | Yes |
 | [IMDb](https://developer.imdb.com/) | API for receiving movie, serial and cast information | `apiKey` | Yes | Unknown |
@@ -2043,7 +2043,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [TVDB](https://thetvdb.com/api-information) | Television data | `apiKey` | Yes | Unknown |
 | [TVMaze](http://www.tvmaze.com/api) | TV Show Data | No | No | Unknown |
 | [uNoGS](https://rapidapi.com/unogs/api/unogsng) | Unofficial Netflix Online Global Search, Search all netflix regions in one place | `apiKey` | Yes | Yes |
-| [Video Thumbnail API](https://apyhub.com/utility/job-video-thumbnail) | Create Video Thumbnails from any video or URL | `apiKey`| Yes | Yes |
+| [Video Thumbnail](https://apyhub.com/utility/job-video-thumbnail) | Create Video Thumbnails from any video or URL | `apiKey`| Yes | Yes |
 | [Vimeo](https://developer.vimeo.com/) | Vimeo Developer API | `OAuth`| Yes | Unknown |
 | [Watchmode](https://api.watchmode.com/) | API for finding out the streaming availability of movies & shows | `apiKey` | Yes | Unknown |
 | [YouTube](https://developers.google.com/youtube/) | Add YouTube functionality to your sites and apps | `OAuth`| Yes | Unknown |
