@@ -503,7 +503,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [MetalpriceAPI](https://metalpriceapi.com) | Real-time and historical exchange rates and currency conversion API | `apiKey` | Yes | Unknown |
 | [National Bank of Poland](http://api.nbp.pl/en.html) | A collection of currency exchange rates (data in XML and JSON) | No | Yes | Yes |
 | [RBA Exchange Rates API](https://www.exchangeratesapi.com.au) | Real-time and historical Reserve Bank of Australia (RBA) exchange rates API | `apiKey` | Yes | Yes |
-| [Unirate](https://unirateapi.com) | Free Exchange Rates and Currency Conversion | apiKey | Yes | Yes |
+| [Unirate](https://unirateapi.com) | Free Exchange Rates and Currency Conversion | `apiKey` | Yes | Yes |
 | [VATComply.com](https://www.vatcomply.com/documentation) | Exchange rates, geolocation and VAT number validation | No | Yes | Yes |
 | [Convert Currency to Multiple Currencies](https://apyhub.com/utility/currency-conversion-multiple) | Convert currencies from a source currency to multiple target currencies. | `apiKey` | Yes | Yes |
 
@@ -1407,7 +1407,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [RiskSentinel](https://risksentinel.ai) | AI-powered news intelligence API delivering structured events with risk assessment, sentiment analysis, company impacts, geo tagging, ai generated summary and more | `apiKey` | Yes | No |
 | [Sonto](https://sonto.tech/api/) | Tech and AI news as JSON or RSS, with translated feeds in EN, DE, ES, FR, JA | No | Yes | Yes |
 | [Spaceflight News](https://spaceflightnewsapi.net) | Spaceflight related news 🚀| No | Yes | Yes |
-| [Substack API Wrapper](https://github.com/NHagar/substack_api) | Substack's newsletter platform now has an API wrapper, for easy access to latest posts | `No` | Yes | Unknown |
+| [Substack API Wrapper](https://github.com/NHagar/substack_api) | Substack's newsletter platform now has an API wrapper, for easy access to latest posts | No | Yes | Unknown |
 | [The Guardian](http://open-platform.theguardian.com/) | Access all the content the Guardian creates, categorised by tags and section | `apiKey` | Yes | Unknown |
 | [The Old Reader](https://github.com/theoldreader/api) | RSS reader | `apiKey` | Yes | Unknown |
 | [TheNews](https://www.thenewsapi.com/) | Aggregated headlines, top story and live news JSON API | `apiKey` | Yes | Yes |
