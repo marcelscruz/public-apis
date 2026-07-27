@@ -1,5 +1,5 @@
 {
-"count": 1676,
+"count": 1677,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12761,6 +12761,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.jcdecaux.com/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "Live Tennis API",
+        "Description": "Live tennis scores, historical results, market odds and AI win-probability for ATP, WTA, Challenger and ITF",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.livetennisapi.com",
         "Category": "Sports & Fitness"
     },
     {
