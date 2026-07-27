@@ -118,7 +118,7 @@
 | [Dialogflow](https://cloud.google.com/dialogflow/docs/) | Natural Language Processing | `apiKey` | Yes | Unknown |
 | [Eden](https://www.edenai.co/) | Get all AI models in one place, e.g. OpenAI, Google and lots more! | `apiKey` | Yes | Yes 
 | [EXUDE-API](http://uttesh.com/exude-api/) | Used for the primary ways for filtering the stopping, stemming words from the text data | No | Yes | Yes |
-| [Face-api.js](https://github.com/justadudewhohacks/face-api.js) | JavaScript API for face detection, recognition, and emotion analysis using TensorFlow.js | No | No | Unknown |
+| [Face-api.js](https://github.com/justadudewhohacks/face-api.js) | JavaScript API for face detection, recognition, and emotion analysis using TensorFlow.js | No | Yes | Unknown |
 | [Gladia](https://docs.gladia.io) | Artificial intelligence API's | `apiKey` | Yes | No |
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Discovery API for AI agents & MCP servers (search, verify, UAID, chat) | `apiKey` | Yes | Yes |
 | [Imagga](https://imagga.com/) | Image Recognition Solutions like Tagging, Visual Search, NSFW moderation | `apiKey` | Yes | Unknown |
