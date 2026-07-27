@@ -830,6 +830,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Official Joke](https://official-joke-api.appspot.com/) | API for random and programming jokes | No | Yes | Unknown |
 | [Random Dad Joke](https://icanhazdadjoke.com/) | API for largest selection of dad jokes on the internet | No | Yes | Unknown |
 | [Random Useless Facts](https://uselessfacts.jsph.pl/) | Get useless, but true facts | No | Yes | Unknown |
+| [Rick and Morty](https://rickandmortyapi.com) | Hundreds of characters, images, locations, and episodes | No | Yes | Unknown |
 | [Rope Drop News](https://ropedropnews.com/developers) | Live Disney and Universal theme park wait times, ride reliability, crowds, and Lightning Lane prices | No | Yes | No |
 | [Techy](https://techy-api.vercel.app/) | JSON and Plaintext API for tech-savvy sounding phrases | No | Yes | Unknown |
 | [World Fun Facts (RapidAPI)](https://rapidapi.com/vintarok-vintarok-default/api/world-fun-facts-all-languages-support) | Fun and interesting facts with multi-language support | `apiKey` | Yes | Yes |
