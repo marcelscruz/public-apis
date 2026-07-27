@@ -1716,6 +1716,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [4chan](https://github.com/4chan/4chan-API) | Simple image-based bulletin board dedicated to a variety of topics | No | Yes | Yes |
 | [Ayrshare](https://www.ayrshare.com) | Social media APIs to post, get analytics, and manage multiple users social media accounts | `apiKey` | Yes | Yes |
 | [Blogger](https://developers.google.com/blogger/) | The Blogger APIs allows client applications to view and update Blogger content | `OAuth`| Yes | Unknown |
+| [SocialClaw](https://getsocialclaw.com/) | Unified API to schedule and publish posts across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, Discord, Telegram, and WordPress | `apiKey` | Yes | Yes |
 | [Discord](https://discord.com/developers/docs/intro) | Make bots for Discord, integrate Discord onto an external platform | `OAuth`| Yes | Unknown |
 | [Disqus](https://disqus.com/api/docs/auth/) | Communicate with Disqus data | `OAuth`| Yes | Unknown |
 | [Facebook](https://developers.facebook.com/) | Facebook Login, Share on FB, Social Plugins, Analytics and more | `OAuth`| Yes | Unknown |
