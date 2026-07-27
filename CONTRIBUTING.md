@@ -19,6 +19,7 @@ Before submitting, make sure the API meets all of the following criteria:
 -   **Publicly reachable and documented** — the API must be publicly reachable right now and have proper documentation. If its Auth, HTTPS and CORS behaviour cannot be determined from the docs, it does not qualify
 -   **Main product only** — the submission must be a product in its own right; internal tools or features of a larger product are not accepted. The API itself does not have to be the product's main offering
 -   **Custom domain required** — APIs hosted on shared subdomains (`vercel.app`, `netlify.app`, `herokuapp.com`, `github.io`, `pages.dev` and similar) are not accepted
+-   **Clean URLs** — the URL must not contain query parameters (anything after `?`); link to the plain page instead
 -   **Quality bar** — low-effort projects are not accepted
 
 Apps, libraries, CLIs, SDKs and websites with no connectable API do not belong here. If your product is a tool developers use to build software, it belongs in [dev-resources](https://github.com/marcelscruz/dev-resources) — and if it *also* exposes a public API, it belongs in **both**; the two directories overlap on purpose, and a listing in one is not a duplicate of the other.
@@ -66,7 +67,6 @@ _Please follow the guidelines given below while making a Pull Request to the Pub
 -   Never put an update/new version of an API that is already listed, the old version of the API gets deprecated.
 -   Continue to follow the alphabetical ordering that is in place per section.
 -   Each table column should be padded with one space on either side.
--   The Description should not exceed 100 characters.
 -   If an API seems to fall into multiple categories, please place the listing within the section most in line with the services offered through the API. For example, the Instagram API is listed under `Social` since it is mainly a social network, even though it could also apply to `Photography`.
 -   Add one link per Pull Request.
 -   Make sure the PR title is in the format of `Add Api-name API` _for e.g._: `Add Blockchain API`
@@ -75,7 +75,7 @@ _Please follow the guidelines given below while making a Pull Request to the Pub
 -   Don't mention the TLD(Top Level Domain) in the name of the API. _for e.g._: ❌Gmail.com ✔Gmail
 -   Please make sure the API name does not end with `API`. _for e.g._: ❌Gmail API ✔Gmail
 -   Please make sure the API has proper documentation.
--   Keep the description under 160 characters so it fits the listing card. Longer descriptions are automatically shortened by our reviewer, kept as close to the original as possible while retaining the most important information.
+-   Keep the description under 160 characters so it fits the listing card.
 -   Please make sure you squash all commits together before opening a pull request. If your pull request requires changes upon review, please be sure to squash all additional commits as well. [This wiki page][squash-link] outlines the squash process.
 -   Target your Pull Request to the `main` branch of the `public-apis`
 
