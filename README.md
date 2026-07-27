@@ -1964,7 +1964,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Cutt.ly](https://cutt.ly/api-documentation/cuttly-links-api) | URL shortener service | `apiKey` | Yes | Unknown |
 | [Free Url Shortener](https://ulvis.net/developer.html) | Free URL Shortener offers a powerful API to interact with other sites | No | Yes | Unknown |
 | [Linkly](https://linklyhq.com/url-shortener-api) | URL shortener API with branded domains, click tracking, smart redirects, and webhooks | `apiKey` | Yes | Yes |
-| [Manyapis.com](https://manyapis.com/products/short-url) | Free URL shortener API with up to 50 requests per day  | Yes | Yes | Yes |
+| [Manyapis](https://manyapis.com/products/short-url) | Free URL shortener API with up to 10 requests per day | `apiKey` | Yes | Yes |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` | Yes | Unknown |
 | [Spoo.me](https://spoo.me/api) | Free URL shortener with custom alias, max-clicks, password protection and advanced analytics support | No | Yes | Yes |
 | [TinyURL](https://tinyurl.com/app/dev) | Shorten long URLs | `apiKey` | Yes | No |
