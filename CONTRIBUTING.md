@@ -30,17 +30,17 @@ Submissions are reviewed by an automated reviewer first — a bot account may co
 
 Current API entry format:
 
-| API                                  | Description        | Auth                                     | HTTPS                       | CORS                                                                                    |
-| ------------------------------------ | ------------------ | ---------------------------------------- | --------------------------- | --------------------------------------------------------------------------------------- |
-| API Title(Link to API documentation) | Description of API | Does this API require authentication? \* | Does the API support HTTPS? | Does the API support [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)? \* |
+| API                                   | Description        | Auth                                     | HTTPS                       | CORS                                                                                    |
+| ------------------------------------- | ------------------ | ---------------------------------------- | --------------------------- | --------------------------------------------------------------------------------------- |
+| API Title(Link to the API's homepage) | Description of API | Does this API require authentication? \* | Does the API support HTTPS? | Does the API support [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)? \* |
 
 Example entry:
 
 ```
-| [NASA](https://api.nasa.gov) | NASA data, including imagery | No | Yes | Yes |
+| [Cataas](https://cataas.com) | Cat as a service (cats pictures and gifs) | No | Yes | No |
 ```
 
-The URL must start with `http://` or `https://`.
+The URL must start with `http://` or `https://`, and should point at the API's homepage — the page you'd send someone to first. Avoid deep links to docs pages, endpoints or subdomains when the product has a homepage of its own: the linked page becomes your listing's screenshot on [publicapis.dev](https://publicapis.dev), and visitors can reach the docs from there.
 
 Currently, the only accepted inputs for the `Auth` field are as follows:
 
@@ -75,6 +75,7 @@ _Please follow the guidelines given below while making a Pull Request to the Pub
 -   Don't mention the TLD(Top Level Domain) in the name of the API. _for e.g._: ❌Gmail.com ✔Gmail
 -   Please make sure the API name does not end with `API`. _for e.g._: ❌Gmail API ✔Gmail
 -   Please make sure the API has proper documentation.
+-   Link the API's homepage rather than a deep docs page, endpoint or subdomain, when one exists.
 -   Keep the description under 160 characters so it fits the listing card.
 -   Please make sure you squash all commits together before opening a pull request. If your pull request requires changes upon review, please be sure to squash all additional commits as well. [This wiki page][squash-link] outlines the squash process.
 -   Target your Pull Request to the `main` branch of the `public-apis`
