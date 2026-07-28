@@ -1,5 +1,5 @@
 {
-"count": 1678,
+"count": 1679,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11762,6 +11762,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://defend.network/api/",
+        "Category": "Security"
+    },
+    {
+        "API": "DomScan",
+        "Description": "Domain, DNS, WHOIS/RDAP, TLS, email, brand and web intelligence",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://domscan.net/docs",
         "Category": "Security"
     },
     {
