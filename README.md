@@ -889,6 +889,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Casheva](https://casheva.com/api) | Financial data for Argentina, Spain and Mexico: USD rates, inflation, Euribor, ICL | No | Yes | Yes |
 | [Citi](https://sandbox.developerhub.citi.com/api-catalog-list) | All Citigroup account and statement data APIs | `apiKey` | Yes | Unknown |
 | [ComplianceWatch](https://compliancewatch.stackmint.cloud/) | AML/KYC sanctions screening against OFAC, EU, UN, UK, INTERPOL and FBI watchlists | `apiKey` | Yes | Unknown |
+| [DepthFeed](https://depthfeed.com/docs) | Historical prediction-market order-book data across Polymarket, Kalshi, Limitless, and Predict.fun | `apiKey` | Yes | No |
 | [DolarAPI](https://dolarapi.com/docs/) | Real-time exchange rates for Latin American currencies | No | Yes | Yes |
 | [Earnings Feed](https://earningsfeed.com/api/docs) | SEC filings, insider transactions, institutional holdings | `apiKey` | Yes | No |
 | [Econdb](https://www.econdb.com/api/) | Global macroeconomic data | No | Yes | Yes |
