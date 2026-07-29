@@ -577,6 +577,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | A simple JSON store API | No | Yes | Yes |
 | [Form Creation API](https://apyhub.com/utility/reformify-form-api) | Create and manage customizable forms within your applications | `apiKey` | Yes | Yes |
 | [FormForge](https://formforge-api.vercel.app) | Generate styled, accessible HTML forms from JSON definitions with validation | No | Yes | Yes |
+| [Haunt Web Extractor](https://hauntapi.com) | Extract structured JSON from web pages using natural language prompts | `apiKey` | Yes | Yes |
 [Format JSON Online Dummy API](https://formatjsononline.com/dummy-api) | A free tool to generate dummy JSON data for testing and prototyping.| No  | Yes | Yes |
 | [Generate Full Webpage Screenshot](https://apyhub.com/utility/generate-webpage-screenshot) | Dynamically capture full page screenshots of websites.| `apiKey` | Yes | Yes |
 | [Gcore CDN](https://docs.gcore.com/cdn) | Make your app fast and responsive for a global audience with Gcore CDN. | `apiKey` | Yes | Yes |
@@ -596,7 +597,6 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Google Slides](https://developers.google.com/slides/api/reference/rest) | API to read, write, and format Google Slides presentations | `OAuth` | Yes | Unknown |
 | [Gorest](https://gorest.co.in/) | Online REST API for Testing and Prototyping | `OAuth` | Yes | Unknown |
 | [Hasura](https://hasura.io/opensource/) | GraphQL and REST API Engine with built in Authorization | `apiKey`| Yes | Yes |
-| [Haunt Web Extractor](https://hauntapi.com/docs) | Extract structured JSON from web pages using natural language prompts | `apiKey` | Yes | Yes |
 | [Heroku](https://devcenter.heroku.com/articles/platform-api-reference/) | REST API to programmatically create apps, provision add-ons and perform other task on Heroku | `OAuth` | Yes | Yes |
 | [Hoppscotch](https://hoppscotch.io/) | A lightweight, fast, and customizable app for testing and designing APIs. A free, fast, and beautiful  | No | Yes | Unknown |
 | [Host.io](https://host.io) | Domains Data API for Developers | `apiKey`| Yes | Yes |
