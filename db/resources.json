@@ -3292,7 +3292,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://citability.ai/docs",
+        "Link": "https://citability.ai",
         "Category": "Development"
     },
     {
@@ -7306,7 +7306,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "no",
-        "Link": "https://tcgapi.dev/introduction/",
+        "Link": "https://tcgapi.dev",
         "Category": "Games & Comics"
     },
     {
