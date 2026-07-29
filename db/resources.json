@@ -9952,7 +9952,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "no",
-        "Link": "https://www.freenewsapi.io/docs/",
+        "Link": "https://freenewsapi.io",
         "Category": "News"
     },
     {
