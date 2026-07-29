@@ -3422,6 +3422,15 @@
         "Category": "Development"
     },
     {
+        "API": "Haunt Web Extractor",
+        "Description": "Extract structured JSON from web pages using natural language prompts",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://hauntapi.com",
+        "Category": "Development"
+    },
+    {
         "API": "Format JSON Online Dummy API",
         "Description": "A free tool to generate dummy JSON data for testing and prototyping.",
         "Auth": "",
@@ -3590,15 +3599,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://hasura.io/opensource/",
-        "Category": "Development"
-    },
-    {
-        "API": "Haunt Web Extractor",
-        "Description": "Extract structured JSON from web pages using natural language prompts",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://hauntapi.com/docs",
         "Category": "Development"
     },
     {
