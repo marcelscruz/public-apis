@@ -10,6 +10,7 @@
 <hr/>
 <br/> -->
 
+<!-- SPONSORS:START -->
 <div align="center">Sponsored by</div>
 
 <br/>
@@ -34,7 +35,7 @@
 </div>
 
 <br/>
-
+<!-- SPONSORS:END -->
 <br/>
 <hr/>
 <br/>
