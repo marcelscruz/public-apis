@@ -38,7 +38,7 @@
 
 <div>
     <p align="center"><a href="https://coreclaw.com?ref=dr-pa&utm_medium=public-apis-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/coreclaw-dark-mode.png" width="165px"><source media="(prefers-color-scheme: light)" srcset="./assets/coreclaw-light-mode.svg" width="165px"><img alt="CoreClaw logo" src="./assets/coreclaw-dark-mode.png" width="165px"></picture></a></p>
-    <p align="center"><a href="https://coreclaw.com?ref=dr-pa&utm_medium=public-apis-repo-readme">CoreClaw</a></p>
+    <p align="center"><a href="https://coreclaw.com?ref=dr-pa&utm_medium=public-apis-repo-readme">CoreClaw</a>: Real-time public data, ready to use. Extract web data from Amazon, TikTok, Google Maps and more with 100+ ready-made tools.</p>
 </div>
 
 <br/>
