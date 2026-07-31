@@ -1372,6 +1372,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Jamendo](https://developer.jamendo.com/v3.0/docs) | Music | `OAuth`| Yes | Unknown |
 | [JioSaavn](https://github.com/cyberboysumanjay/JioSaavnAPI) | API to retrieve song information, album meta data and many more from JioSaavn | No | Yes | Unknown |
 | [KKBOX](https://developer.kkbox.com) | Get music libraries, playlists, charts, and perform out of KKBOX's platform | `OAuth`| Yes | Unknown |
+| [Lacuna](https://lacuna.fm) | AI music generation: full songs with vocals and lyrics, or instrumentals | `apiKey` | Yes | Unknown |
 | [LastFm](https://www.last.fm/api) | Music | `apiKey` | Yes | Unknown |
 | [LRCLIB](https://lrclib.net/docs) | Crowdsourced lyrics | No | Yes | Yes |
 | [Mixcloud](https://www.mixcloud.com/developers/) | Music | `OAuth`| Yes | Yes |
