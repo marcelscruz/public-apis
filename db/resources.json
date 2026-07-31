@@ -1,5 +1,5 @@
 {
-"count": 1680,
+"count": 1681,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1151,6 +1151,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://tierion.com/chainpoint/",
+        "Category": "Blockchain"
+    },
+    {
+        "API": "ClearTrace",
+        "Description": "Cross-frontend DEX attribution and execution quality data across Ethereum and L2s",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://cleartracedata.com/docs",
         "Category": "Blockchain"
     },
     {
