@@ -1,5 +1,5 @@
 {
-"count": 1682,
+"count": 1683,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2249,6 +2249,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://bybit-exchange.github.io/docs",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "Codex Data",
+        "Description": "Real-time and historical token prices, charts and wallet data across 80+ blockchain networks",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.codex.io",
         "Category": "Cryptocurrency"
     },
     {
