@@ -23,6 +23,13 @@
 <br/>
 
 <div>
+    <p align="center"><a href="https://screenshotscout.com/?ref=dr-pa&utm_medium=public-apis-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/screenshot-scout-dark-mode.svg" width="160px"><source media="(prefers-color-scheme: light)" srcset="./assets/screenshot-scout-light-mode.svg" width="160px"><img alt="Screenshot Scout logo" src="./assets/screenshot-scout-dark-mode.svg" width="160px"></picture></a></p>
+    <p align="center"><a href="https://screenshotscout.com/?ref=dr-pa&utm_medium=public-apis-repo-readme">Screenshot Scout</a>: A screenshot API for developers that delivers clean, production-ready screenshots of any URL with a single HTTP request.</p>
+</div>
+
+<br/>
+
+<div>
     <p align="center"><a href="https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=public-apis-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/talordata-dark-mode.svg" width="80px"><source media="(prefers-color-scheme: light)" srcset="./assets/talordata-light-mode.svg" width="80px"><img alt="TalorData logo" src="./assets/talordata-dark-mode.svg" width="80px"></picture></a></p>
     <p align="center"><a href="https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=public-apis-repo-readme">TalorData</a>: Get structured results from Google, Bing, Yandex, and DuckDuckGo through one API, with fast, reliable responses.</p>
 </div>
@@ -30,8 +37,8 @@
 <br/>
 
 <div>
-    <p align="center"><a href="https://screenshotscout.com/?ref=dr-pa&utm_medium=public-apis-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/screenshot-scout-dark-mode.svg" width="160px"><source media="(prefers-color-scheme: light)" srcset="./assets/screenshot-scout-light-mode.svg" width="160px"><img alt="Screenshot Scout logo" src="./assets/screenshot-scout-dark-mode.svg" width="160px"></picture></a></p>
-    <p align="center"><a href="https://screenshotscout.com/?ref=dr-pa&utm_medium=public-apis-repo-readme">Screenshot Scout</a>: A screenshot API for developers that delivers clean, production-ready screenshots of any URL with a single HTTP request.</p>
+    <p align="center"><a href="https://coreclaw.com?ref=dr-pa&utm_medium=public-apis-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/coreclaw-dark-mode.png" width="165px"><source media="(prefers-color-scheme: light)" srcset="./assets/coreclaw-light-mode.svg" width="165px"><img alt="CoreClaw logo" src="./assets/coreclaw-dark-mode.png" width="165px"></picture></a></p>
+    <p align="center"><a href="https://coreclaw.com?ref=dr-pa&utm_medium=public-apis-repo-readme">CoreClaw</a></p>
 </div>
 
 <br/>
