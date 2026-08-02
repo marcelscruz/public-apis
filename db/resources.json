@@ -1,5 +1,5 @@
 {
-"count": 1683,
+"count": 1684,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5804,6 +5804,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.alphavantage.co/",
+        "Category": "Finance"
+    },
+    {
+        "API": "AlQANAAS Gold Data",
+        "Description": "Live XAUUSD, country gold prices, and weekly gold research in JSON and CSV",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://alqanaas.com/en/developers/gold-data-api",
         "Category": "Finance"
     },
     {
