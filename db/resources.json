@@ -1,5 +1,5 @@
 {
-"count": 1693,
+"count": 1694,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -62,6 +62,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.cloudmersive.com/image-recognition-and-processing-api",
+        "Category": "AI"
+    },
+    {
+        "API": "cogDepot",
+        "Description": "Marketplace API for AI agents to post service listings, negotiate terms, and finalize deals, with an A2A Agent Card and JSON-RPC endpoint",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://cogdepot.com",
         "Category": "AI"
     },
     {
