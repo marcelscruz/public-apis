@@ -576,6 +576,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Cloudflare Trace](https://github.com/fawazahmed0/cloudflare-trace-api) | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More | No | Yes | Yes |
 | [Codex](https://github.com/Jaagrav/CodeX) | Online Compiler for Various Languages | No | Yes | Unknown |
 | [Contentful Images](https://www.contentful.com/developers/docs/references/images-api/) | Used to retrieve and apply transformations to images | `apiKey`| Yes | Yes |
+| [CoreClaw](https://coreclaw.com) | Real-time public data, ready to use. Extract web data from Amazon, TikTok, Google Maps and more with 100+ ready-made tools | `apiKey` | Yes | Unknown |
 | [CORS Proxy](https://github.com/burhanuday/cors-proxy) | Get around the dreaded CORS error by using this proxy as a middle man | No | Yes | Yes |
 | [Corsfix](https://corsfix.com/docs/cors-proxy/api) | Corsfix lets you fetch any resource and bypass CORS errors, free for development environment | No | Yes | Yes |
 | [CSV to JSON API](https://apyhub.com/utility/converter-csv-json) | Convert CSV files to JSON with this API. Ideal for developers who want to automate data workflows and integrate structured data | `apiKey` | Yes | Yes |
