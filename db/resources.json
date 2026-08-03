@@ -1,5 +1,5 @@
 {
-"count": 1686,
+"count": 1687,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12968,6 +12968,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.sportmonks.com/football/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "SportScore",
+        "Description": "Live scores, fixtures, standings, and top scorers for football, basketball, cricket, and tennis",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://sportscore.com/developers/api/",
         "Category": "Sports & Fitness"
     },
     {
