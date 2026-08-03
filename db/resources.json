@@ -1,5 +1,5 @@
 {
-"count": 1687,
+"count": 1688,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3248,6 +3248,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://brave.com/search/api/",
+        "Category": "Development"
+    },
+    {
+        "API": "BrewPage",
+        "Description": "Free instant hosting for HTML, Markdown, JSON, and files. No signup",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://brewpage.app",
         "Category": "Development"
     },
     {
