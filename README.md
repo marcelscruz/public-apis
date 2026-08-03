@@ -1932,6 +1932,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Road511](https://road511.com) | Unified traffic data from 65 US/CA jurisdictions: events, cameras, signs, bridges, truck routes | `apiKey` | Yes | Yes |
 | [Sabre for Developers](https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel) | Travel Search - Limited usage | `apiKey` | Yes | Unknown |
 | [Schiphol Airport](https://developer.schiphol.nl/) | Schiphol | `apiKey` | Yes | Unknown |
+| [StayingAPI](https://stayingapi.com) | Live search, availability, real-time price and normalized reviews across Airbnb, Booking.com, Vrbo and Google Hotels | `apiKey` | Yes | Unknown |
 | [Swedavia Airports](https://apideveloper.swedavia.se/) | Airport and flight information of Swedish Airports operated by Swedavia | `apiKey` | Yes | No |
 | [Tankerkoenig](https://creativecommons.tankerkoenig.de/swagger/) | German realtime gas/diesel prices | `apiKey` | Yes | Yes |
 | [Trackr TMS](https://rapidapi.com/jccm6/api/trackr-tms) | Trackr API makes it easy to create, assign, and track shipments, with driver support, movement history, and more | `apiKey` | Yes | No |
