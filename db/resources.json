@@ -1,5 +1,5 @@
 {
-"count": 1684,
+"count": 1685,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3338,6 +3338,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.contentful.com/developers/docs/references/images-api/",
+        "Category": "Development"
+    },
+    {
+        "API": "CoreClaw",
+        "Description": "Real-time public data, ready to use. Extract web data from Amazon, TikTok, Google Maps and more with 100+ ready-made tools",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://coreclaw.com",
         "Category": "Development"
     },
     {
