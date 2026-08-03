@@ -1,5 +1,5 @@
 {
-"count": 1690,
+"count": 1691,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14552,6 +14552,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.huntapi.com",
+        "Category": "Video"
+    },
+    {
+        "API": "iLoveVideoEditor",
+        "Description": "Render videos from JSON: motion templates, effects, transitions, batch rendering",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://ilovevideoeditor.com/docs/api",
         "Category": "Video"
     },
     {
