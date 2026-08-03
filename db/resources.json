@@ -1,5 +1,5 @@
 {
-"count": 1691,
+"count": 1692,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1556,6 +1556,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.listingsapi.com",
+        "Category": "Business"
+    },
+    {
+        "API": "Mydentify",
+        "Description": "Startup-directory research and weekly product leaderboard data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://mydentify.com/openapi.json",
         "Category": "Business"
     },
     {
