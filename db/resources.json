@@ -1,5 +1,5 @@
 {
-"count": 1688,
+"count": 1689,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4256,6 +4256,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.scrapingdog.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "ScreenshotAPI",
+        "Description": "Website screenshots, PDFs, HTML rendering, caching, and webhooks",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://screenshotapi.to/docs",
         "Category": "Development"
     },
     {
