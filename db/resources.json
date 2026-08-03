@@ -1,5 +1,5 @@
 {
-"count": 1689,
+"count": 1690,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2411,6 +2411,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://api.exchange.cryptomkt.com/",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "DexPaprika",
+        "Description": "DEX pools, tokens, prices and OHLCV across 35 blockchain networks",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://docs.dexpaprika.com",
         "Category": "Cryptocurrency"
     },
     {
