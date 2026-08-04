@@ -1,5 +1,5 @@
 {
-"count": 1710,
+"count": 1711,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9575,6 +9575,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://open.fda.gov",
+        "Category": "Health"
+    },
+    {
+        "API": "Psychologie et Sérénité",
+        "Description": "French psychology articles metadata and validated psychological tests catalog",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://psychologieetserenite.com/api",
         "Category": "Health"
     },
     {
