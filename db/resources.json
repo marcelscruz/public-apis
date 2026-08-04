@@ -1,5 +1,5 @@
 {
-"count": 1701,
+"count": 1702,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8522,6 +8522,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://dadosabertos.bcb.gov.br/",
+        "Category": "Government"
+    },
+    {
+        "API": "CNPJ Aberto",
+        "Description": "Serch Brazilian companies by CNPJ",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://cnpjaberto.com.br",
         "Category": "Government"
     },
     {
