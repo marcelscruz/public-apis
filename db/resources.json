@@ -1,5 +1,5 @@
 {
-"count": 1701,
+"count": 1698,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -297,15 +297,6 @@
         "Cors": "unknown",
         "Link": "https://products.wolframalpha.com/api/",
         "Category": "AI"
-    },
-    {
-        "API": "Cat Facts",
-        "Description": "Daily cat facts",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://alexwohlbruck.github.io/cat-facts/",
-        "Category": "Animals"
     },
     {
         "API": "Cataas",
@@ -3494,15 +3485,6 @@
         "Category": "Development"
     },
     {
-        "API": "Haunt Web Extractor",
-        "Description": "Extract structured JSON from web pages using natural language prompts",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://hauntapi.com",
-        "Category": "Development"
-    },
-    {
         "API": "Format JSON Online Dummy API",
         "Description": "A free tool to generate dummy JSON data for testing and prototyping.",
         "Auth": "",
@@ -4617,15 +4599,6 @@
         "Cors": "unknown",
         "Link": "https://zuplo.com/",
         "Category": "Development"
-    },
-    {
-        "API": "Chinese Character Web",
-        "Description": "Chinese character definitions and pronunciations",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "no",
-        "Link": "http://ccdb.hemiola.com/",
-        "Category": "Dictionaries"
     },
     {
         "API": "Chinese Text Project",
