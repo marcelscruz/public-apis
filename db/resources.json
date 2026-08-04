@@ -1,5 +1,5 @@
 {
-"count": 1718,
+"count": 1719,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10529,6 +10529,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/datastreamapp/api-docs",
+        "Category": "Open Data"
+    },
+    {
+        "API": "Dimdom",
+        "Description": "Polish real estate listings, agency profiles and TERYT geographic data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://api.dimdom.pl/api/public/docs",
         "Category": "Open Data"
     },
     {
