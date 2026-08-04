@@ -2433,7 +2433,7 @@
     },
     {
         "API": "DexPaprika",
-        "Description": "DEX pools, tokens, prices and OHLCV across 35 blockchain networks",
+        "Description": "DEX pools, tokens, prices and OHLCV across 36 blockchain networks",
         "Auth": "",
         "HTTPS": true,
         "Cors": "no",
