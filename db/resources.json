@@ -1,5 +1,5 @@
 {
-"count": 1713,
+"count": 1714,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5768,6 +5768,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.nrel.gov/docs/solar/pvwatts/v6/",
+        "Category": "Environment"
+    },
+    {
+        "API": "Solematica",
+        "Description": "Compare Italian solar installer offers, energy prices (PUN/ARERA) and satellite roof data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://www.solematica.it/sviluppatori",
         "Category": "Environment"
     },
     {
