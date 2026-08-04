@@ -1,5 +1,5 @@
 {
-"count": 1696,
+"count": 1697,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3365,6 +3365,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/Jaagrav/CodeX",
+        "Category": "Development"
+    },
+    {
+        "API": "Codex Reset",
+        "Description": "OpenAI Codex usage-limit reset history, verified announcements and 24h/48h reset probability",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://codex-reset.com/llms.txt",
         "Category": "Development"
     },
     {
