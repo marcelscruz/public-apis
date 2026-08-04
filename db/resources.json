@@ -1,5 +1,5 @@
 {
-"count": 1711,
+"count": 1712,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13112,6 +13112,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.openligadb.de",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "Parlay",
+        "Description": "Real-time sports betting odds from 21+ sportsbooks across 38+ sports with free tier (1K req/month)",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://parlay-api.com/docs",
         "Category": "Sports & Fitness"
     },
     {
