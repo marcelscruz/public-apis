@@ -1,5 +1,5 @@
 {
-"count": 1716,
+"count": 1717,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13166,6 +13166,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://rapidapi.com/heisenbug/api/premier-league-live-scores/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "SkipOdds",
+        "Description": "De-vigged fair win probabilities across 13 sports, averaged from 69+ bookmakers",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://skipodds.com/docs",
         "Category": "Sports & Fitness"
     },
     {
