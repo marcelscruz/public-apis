@@ -14348,9 +14348,9 @@
         "Category": "URL Shorteners"
     },
     {
-        "API": "Manyapis.com",
-        "Description": "Free URL shortener API with up to 50 requests per day",
-        "Auth": "Yes",
+        "API": "Manyapis",
+        "Description": "Free URL shortener API with up to 10 requests per day",
+        "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://manyapis.com/products/short-url",
