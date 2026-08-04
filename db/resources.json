@@ -1,5 +1,5 @@
 {
-"count": 1709,
+"count": 1710,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12410,6 +12410,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://scoutapi.com",
+        "Category": "Shopping"
+    },
+    {
+        "API": "ShopSavvy",
+        "Description": "Product lookups by barcode/UPC/EAN/ASIN with real-time pricing and price history",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://shopsavvy.com/data",
         "Category": "Shopping"
     },
     {
