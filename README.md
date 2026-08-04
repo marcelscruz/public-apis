@@ -121,6 +121,7 @@
 | [Chatwith](https://chatwith.tools) | Build custom ChatGPT-style AI chatbots trained on your website and files, integrated with 5000+ apps — no coding, live in minutes. | `apiKey`| Yes | Yes |
 | [Clarifai](https://docs.clarifai.com/api-guide/api-overview) | Computer Vision | `OAuth`| Yes | Unknown |
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` | Yes | Yes |
+| [cogDepot](https://cogdepot.com) | Marketplace API for AI agents to post service listings, negotiate terms, and finalize deals, with an A2A Agent Card and JSON-RPC endpoint | `apiKey` | Yes | No |
 | [Cohere](https://docs.cohere.ai/) | Harness the power of language understanding. Join the developers and businesses who are using Cohere to generate, categorize and organize text at a scale that was previously unimaginable. | `apiKey` | Yes | Yes |
 | [CustomGPT.ai](https://docs.customgpt.ai/reference/i-api-homepage) | RAG API with RESTful endpoints, comprehensive SDKs, and enterprise-grade reliability. | `apiKey` | Yes | Yes |
 | [Dialogflow](https://cloud.google.com/dialogflow/docs/) | Natural Language Processing | `apiKey` | Yes | Unknown |
@@ -336,6 +337,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Google Analytics](https://developers.google.com/analytics/) | Collect, configure and analyze your data to reach the right audience | `OAuth`| Yes | Unknown |
 | [Indexed](https://indexed.vc/docs/api) | Startup funding rounds, investors, and company tech stacks for founders, sales, and GTM engineers | `apiKey` | Yes | No |
 | [Listings API](https://docs.listingsapi.com) | Manage business locations, sync listings across publishers, respond to reviews, publish posts, and pull local search analytics | `apiKey` | Yes | Unknown |
+| [Mydentify](https://mydentify.com/openapi.json) | Startup-directory research and weekly product leaderboard data | No | Yes | Yes |
 | [NioLeads](https://nioleads.com/apidoc) | LinkedIn Email Finder and Email Verifier | `apiKey` | Yes | Yes |
 | [Instatus](https://instatus.com/help/api) | Post to and update maintenance and incidents on your status page through an HTTP REST API | `apiKey` | Yes | Unknown |
 | [Logo.dev](https://www.logo.dev) | Automated company logo API that updates daily. Transform any domain or company name into verified logos. | `apiKey` | Yes | Yes |
@@ -455,6 +457,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [CryptAPI](https://docs.cryptapi.io/) | Cryptocurrency Payment Processor | No | Yes | Unknown |
 | [CryptoCompare](https://www.cryptocompare.com/api#) | Cryptocurrencies Comparison | No | Yes | Unknown |
 | [CryptoMarket](https://api.exchange.cryptomkt.com/) | Cryptocurrencies Trading platform | `apiKey` | Yes | Yes |
+| [DexPaprika](https://docs.dexpaprika.com) | DEX pools, tokens, prices and OHLCV across 35 blockchain networks | No | Yes | No |
 | [dYdX](https://docs.dydx.exchange/) | Decentralized cryptocurrency exchange | `apiKey` | Yes | Unknown |
 | [Ethplorer](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API) | Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures | `apiKey` | Yes | Unknown |
 | [EXMO](https://documenter.getpostman.com/view/10287440/SzYXWKPi) | Cryptocurrencies exchange based in UK | `apiKey` | Yes | Unknown |
@@ -678,6 +681,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Scrapfly](https://scrapfly.io) | Scrapfly is an enterprise-grade solution providing Web Scraping API that aims to simplify the scraping process by managing everything: real browser rendering, rotating proxies, and fingerprints (TLS, HTTP, browser) to bypass all major anti-bots. | `apiKey`| Yes | No |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping with a simple API | `apiKey`| Yes | Unknown |
 | [ScrapingDog](https://www.scrapingdog.com/) | Proxy API for Web scraping | `apiKey`| Yes | Unknown |
+| [ScreenshotAPI](https://screenshotapi.to/docs) | Website screenshots, PDFs, HTML rendering, caching, and webhooks | `apiKey` | Yes | Yes |
 | [ScreenshotAPI.net](https://screenshotapi.net/) | Create pixel-perfect website screenshots | `apiKey`| Yes | Yes |
 | [Screenshotbase](https://screenshotbase.com/) | Screenshot API, 1000 free requests per month | `apiKey`| Yes | Yes |
 | [ScreenshotOne.com](https://screenshotone.com/) | Convert URLs, HTML, or Markdown into PNG, JPEG, WebP, or PDF with a simple screenshot API | `apiKey`| Yes | Yes |
@@ -1866,6 +1870,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [AI Translate text API](https://apyhub.com/utility/sharpapi-translate-text) | The Text Translation API translates text into any of the 80 supported languages, providing accurate and context-aware translations | `apiKey` | Yes | Yes |
 | [Analyse Keywords API](https://apyhub.com/utility/analyse-keywords) | This API lets you extract high-frequency keywords, key phrases and latent semantic keywords from any URL | `apiKey` | Yes | Yes |
 | [Aylien Text Analysis](https://docs.aylien.com/textapi/#getting-started) | A collection of information retrieval and natural language APIs | `apiKey` | Yes | Unknown |
+| [Brainiall Text-to-Speech](https://www.brainiall.com/en/apis/text-to-speech) | Pay-as-you-go multilingual text-to-speech with Portuguese voices and WAV, MP3, and Opus output | `apiKey` | Yes | Yes |
 | [Chatpdf](https://chatpdf.so/api) | Chat with pdf using GPT4 and ChatGPT | `apiKey` | Yes | Yes |
 | [Cloudmersive Natural Language Processing](https://www.cloudmersive.com/nlp-api) | Natural language processing and text analysis | `apiKey` | Yes | Yes |
 | [Code Detection API](https://codedetectionapi.runtime.dev) | Detect, label, format and enrich the code in your app or in your data pipeline | `OAuth`| Yes | Unknown |
@@ -2031,6 +2036,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [GIF from Video API](https://apyhub.com/utility/gif-from-video) | This API helps you generate GIF from any video | `apiKey` | Yes | Yes |
 | [Harry Potter Characters](https://hp-api.onrender.com/) | Harry Potter Characters Data with with imagery | No | Yes | Unknown |
 | [Hunt](https://www.huntapi.com) | Video To API. Get video or audio and metadata for all video platforms with one provider. | `apiKey` | Yes | Yes |
+| [iLoveVideoEditor](https://ilovevideoeditor.com/docs/api) | Render videos from JSON: motion templates, effects, transitions, batch rendering | `apiKey` | Yes | No |
 | [IMDb](https://developer.imdb.com/) | API for receiving movie, serial and cast information | `apiKey` | Yes | Unknown |
 | [IMDbOT](https://github.com/SpEcHiDe/IMDbOT) | Unofficial IMDb Movie / Series Information | No | Yes | Yes |
 | [JSON2Video](https://json2video.com) | Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations | `apiKey` | Yes | No |
