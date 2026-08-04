@@ -1,5 +1,5 @@
 {
-"count": 1704,
+"count": 1705,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4346,6 +4346,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://www.searchapi.io/",
+        "Category": "Development"
+    },
+    {
+        "API": "SearXNG",
+        "Description": "Open-source meta-search engine aggregating results from multiple sources",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.searxng.org/dev/search_api.html",
         "Category": "Development"
     },
     {
