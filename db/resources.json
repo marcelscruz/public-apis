@@ -1,5 +1,5 @@
 {
-"count": 1702,
+"count": 1703,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9224,6 +9224,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.wa.gov.au/",
+        "Category": "Government"
+    },
+    {
+        "API": "OpenRegistry",
+        "Description": "Real-time queries to 27 national company registries (UK, FR, DE, IT, ES, KR + 21 more)",
+        "Auth": "OAuth",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://openregistry.sophymarine.com",
         "Category": "Government"
     },
     {
