@@ -1,5 +1,5 @@
 {
-"count": 1717,
+"count": 1718,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2681,6 +2681,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.valr.com/",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "VaultVision",
+        "Description": "Read-only Hyperliquid vault data, risk rankings, and research signals",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://vaultvision.tech/developers",
         "Category": "Cryptocurrency"
     },
     {
