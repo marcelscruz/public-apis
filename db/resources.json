@@ -122,7 +122,7 @@
         "API": "Face-api.js",
         "Description": "JavaScript API for face detection, recognition, and emotion analysis using TensorFlow.js",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/justadudewhohacks/face-api.js",
         "Category": "AI"
