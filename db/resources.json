@@ -1,5 +1,5 @@
 {
-"count": 1698,
+"count": 1699,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1403,6 +1403,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/fawazahmed0/quran-api#readme",
+        "Category": "Books"
+    },
+    {
+        "API": "Scholar Sidekick",
+        "Description": "Resolve scholarly IDs (DOI, PMID, ISBN, arXiv) and format citations in multiple styles",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://scholar-sidekick.com/docs",
         "Category": "Books"
     },
     {
