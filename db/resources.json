@@ -482,7 +482,7 @@
         "API": "AniDB",
         "Description": "Anime Database",
         "Auth": "apiKey",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "yes",
         "Link": "https://wiki.anidb.net/HTTP_API_Definition",
         "Category": "Anime"
@@ -905,7 +905,7 @@
         "API": "Harvard Art Museums",
         "Description": "Art",
         "Auth": "apiKey",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/harvardartmuseums/api-docs",
         "Category": "Art & Design"
@@ -1013,7 +1013,7 @@
         "API": "The Color",
         "Description": "Swiss army knife for color",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.thecolorapi.com/",
         "Category": "Art & Design"
@@ -1211,7 +1211,7 @@
         "API": "Steem",
         "Description": "Blockchain-based blogging and social media website",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "no",
         "Link": "https://developers.steem.io/",
         "Category": "Blockchain"
@@ -1634,7 +1634,7 @@
         "API": "markerapi",
         "Description": "Trademark Search",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://markerapi.com",
         "Category": "Business"
@@ -1787,7 +1787,7 @@
         "API": "Czech Namedays Calendar",
         "Description": "Lookup for a name and returns nameday date",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://svatky.adresa.info",
         "Category": "Calendar"
@@ -1832,7 +1832,7 @@
         "API": "Hebrew Calendar",
         "Description": "Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.hebcal.com/home/developer-apis",
         "Category": "Calendar"
@@ -1940,7 +1940,7 @@
         "API": "Delta Lake",
         "Description": "Open-source storage framework enabling Lakehouse architecture with Spark, PrestoDB, Flink, Trino, Hive, and APIs",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.delta.io/latest/delta-apidoc.html",
         "Category": "Cloud Storage & File Sharing"
@@ -2093,7 +2093,7 @@
         "API": "Azure DevOps Health",
         "Description": "Resource health helps you diagnose and get support when an Azure issue impacts your resources",
         "Auth": "apiKey",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "no",
         "Link": "https://docs.microsoft.com/en-us/rest/api/resourcehealth",
         "Category": "Continuous Integration"
@@ -2138,7 +2138,7 @@
         "API": "EC2.shop API",
         "Description": "Get AWS service price right from your terminal",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "no",
         "Link": "https://github.com/yeo/ec2.shop",
         "Category": "Continuous Integration"
@@ -2570,7 +2570,7 @@
         "API": "Nexchange",
         "Description": "Automated cryptocurrency exchange service",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "yes",
         "Link": "https://nexchange2.docs.apiary.io/",
         "Category": "Cryptocurrency"
@@ -3245,7 +3245,7 @@
         "API": "Blynk-Cloud",
         "Description": "Control IoT Devices from Blynk IoT Cloud",
         "Auth": "apiKey",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://blynkapi.docs.apiary.io/#",
         "Category": "Development"
@@ -5684,7 +5684,7 @@
         "API": "GrünstromIndex",
         "Description": "Green Power Index for Germany (Grünstromindex/GSI)",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "yes",
         "Link": "https://gruenstromindex.de/",
         "Category": "Environment"
@@ -6287,7 +6287,7 @@
         "API": "Real Time Finance",
         "Description": "Websocket API to access realtime stock data",
         "Auth": "apiKey",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/Real-time-finance/finance-websocket-API/",
         "Category": "Finance"
@@ -6620,7 +6620,7 @@
         "API": "TacoFancy",
         "Description": "Community-driven taco database",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/evz/tacofancy-api",
         "Category": "Food & Drink"
@@ -7988,7 +7988,7 @@
         "API": "ip-api",
         "Description": "Find location with IP address or domain",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://ip-api.com/docs",
         "Category": "Geocoding"
@@ -8492,7 +8492,7 @@
         "API": "BCLaws",
         "Description": "Access to the laws of British Columbia",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html",
         "Category": "Government"
@@ -8681,7 +8681,7 @@
         "API": "Data.parliament.uk",
         "Description": "Contains live datasets including information about petitions, bills, MP votes, attendance and more",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://explore.data.parliament.uk/?learnmore=Members",
         "Category": "Government"
@@ -8843,7 +8843,7 @@
         "API": "Open Government, Colombia",
         "Description": "Colombia Government Open Data",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.dane.gov.co/",
         "Category": "Government"
@@ -9554,7 +9554,7 @@
         "API": "Careerjet",
         "Description": "Job search engine",
         "Auth": "apiKey",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.careerjet.com/partners/api/",
         "Category": "Jobs"
@@ -10643,7 +10643,7 @@
         "API": "Urban Observatory",
         "Description": "The largest set of publicly available real time urban data in the UK",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "no",
         "Link": "https://urbanobservatory.ac.uk",
         "Category": "Open Data"
@@ -10688,7 +10688,7 @@
         "API": "Countly",
         "Description": "Countly web analytics",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.count.ly/reference",
         "Category": "Open Source Projects"
@@ -11318,7 +11318,7 @@
         "API": "ReSmush.it",
         "Description": "Photo optimization",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://resmush.it/api",
         "Category": "Photography"
@@ -12920,7 +12920,7 @@
         "API": "iSports API",
         "Description": "Provide live and historical sports data of global competitions, like live score, fixtures, player & match stats, database etc.",
         "Auth": "apiKey",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "yes",
         "Link": "https://isportsapi.com/",
         "Category": "Sports & Fitness"
@@ -12956,7 +12956,7 @@
         "API": "MLB Records and Stats",
         "Description": "Current and historical MLB statistics",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://appac.github.io/mlb-data-api-docs/",
         "Category": "Sports & Fitness"
@@ -13100,7 +13100,7 @@
         "API": "SuredBits",
         "Description": "Query sports data, including teams, players, games, scores and statistics",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "no",
         "Link": "https://suredbits.com/api/",
         "Category": "Sports & Fitness"
@@ -13631,7 +13631,7 @@
         "API": "PostNord",
         "Description": "Provides information about parcels in transport for Sweden and Denmark",
         "Auth": "apiKey",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.postnord.com/apis",
         "Category": "Tracking"
@@ -13856,7 +13856,7 @@
         "API": "Land Transport Authority DataMall, Singapore",
         "Description": "Singapore transport information",
         "Auth": "apiKey",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf",
         "Category": "Transportation"
@@ -14063,7 +14063,7 @@
         "API": "Transport for Grenoble, France",
         "Description": "Grenoble public transport",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "no",
         "Link": "https://www.mobilites-m.fr/pages/opendata/OpenDataApi.html",
         "Category": "Transportation"
@@ -14225,7 +14225,7 @@
         "API": "Transport for United States",
         "Description": "NextBus API",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf",
         "Category": "Transportation"
@@ -14990,7 +14990,7 @@
         "API": "AccuWeather",
         "Description": "Weather and forecast data",
         "Auth": "apiKey",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.accuweather.com/apis",
         "Category": "Weather"
