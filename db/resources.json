@@ -13171,7 +13171,7 @@
     {
         "API": "DummyJSON",
         "Description": "Generate dummy data in JSON format",
-        "Auth": "Yes",
+        "Auth": "",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://dummyjson.com/",
