@@ -1,5 +1,5 @@
 {
-"count": 1698,
+"count": 1699,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6092,6 +6092,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://fxmacrodata.com/",
+        "Category": "Finance"
+    },
+    {
+        "API": "German Tax Calculator",
+        "Description": "Tax calculations for Germany: income tax, crypto, commuter allowance, and more",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://rechner-hub.de/steuerrechner-api/",
         "Category": "Finance"
     },
     {
