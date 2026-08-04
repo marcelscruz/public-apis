@@ -7151,9 +7151,9 @@
         "API": "Magic The Gathering",
         "Description": "Magic The Gathering Game Information",
         "Auth": "",
-        "HTTPS": false,
+        "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://magicthegathering.io/",
+        "Link": "https://magicthegathering.io/",
         "Category": "Games & Comics"
     },
     {
