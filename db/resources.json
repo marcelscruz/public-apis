@@ -1,5 +1,5 @@
 {
-"count": 1695,
+"count": 1696,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6479,6 +6479,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.edamam.com/edamam-docs-recipe-api",
+        "Category": "Food & Drink"
+    },
+    {
+        "API": "Food Info",
+        "Description": "Nutrient data for foods from five national food composition datasets plus Open Food Facts",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://food-info.org/developer",
         "Category": "Food & Drink"
     },
     {
