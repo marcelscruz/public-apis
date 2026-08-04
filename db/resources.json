@@ -1,5 +1,5 @@
 {
-"count": 1719,
+"count": 1720,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12545,6 +12545,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.google.com/blogger/",
+        "Category": "Social"
+    },
+    {
+        "API": "SocialClaw",
+        "Description": "Unified API to schedule and publish posts across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, Discord, Telegram, and WordPress",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://getsocialclaw.com/",
         "Category": "Social"
     },
     {
