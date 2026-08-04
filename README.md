@@ -952,6 +952,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [SEC EDGAR Data](https://www.sec.gov/search-filings/edgar-application-programming-interfaces) | API to access annual reports of public US companies | No | Yes | Yes |
 | [SiftingIO](https://sifting.io/) | Market data for stocks, forex, crypto, commodities and DEX | `apiKey` | Yes | Yes |
 | [SmartAPI](https://smartapi.angelbroking.com/) | Gain access to set of <SmartAPI> and create end-to-end broking services | `apiKey` | Yes | Unknown |
+| [Statistics of the World](https://statisticsoftheworld.com/api-docs) | GDP, population, inflation & 440+ indicators for 218 countries | No | Yes | Yes |
 | [StockData](https://www.StockData.org) | Real-Time, Intraday & Historical Market Data, News and Sentiment API | `apiKey` | Yes | Yes |
 | [Stripe](https://stripe.com/docs/api) | Payment processing, subscriptions, and financial management | `apiKey` | Yes | Unknown |
 | [Sugra API](https://sugra.ai) | One API across markets, economics, commodities, climate, government, and global news. 1,400+ endpoints, 146 primary sources, LLM-ready JSON | `apiKey` | Yes | Yes |
