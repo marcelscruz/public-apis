@@ -1,5 +1,5 @@
 {
-"count": 1712,
+"count": 1713,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7451,6 +7451,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://scryfall.com/docs/api",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "slot.report",
+        "Description": "Online slot machine data: RTP, volatility, max win and features for 6,000+ games",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://slot.report/api/",
         "Category": "Games & Comics"
     },
     {
