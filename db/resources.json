@@ -1,5 +1,5 @@
 {
-"count": 1703,
+"count": 1704,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8261,6 +8261,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://pointp.in",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "PostalCodes",
+        "Description": "Global postal code search, country exports and address validation data",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://postalcodes.info/api",
         "Category": "Geocoding"
     },
     {
