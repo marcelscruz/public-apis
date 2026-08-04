@@ -1,5 +1,5 @@
 {
-"count": 1697,
+"count": 1698,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4967,6 +4967,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.atlassian.com/server/jira/platform/rest-apis/",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Kiprio PDF Text",
+        "Description": "Extract plain text from PDF documents for LLM and RAG pipelines",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://kiprio.com/v1/pdf-text/",
         "Category": "Documents & Productivity"
     },
     {
