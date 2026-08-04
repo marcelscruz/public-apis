@@ -1,5 +1,5 @@
 {
-"count": 1699,
+"count": 1700,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5498,6 +5498,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/sameerkumar18/corporate-bs-generator-api",
+        "Category": "Entertainment"
+    },
+    {
+        "API": "Deny By Default as a Service",
+        "Description": "Random creative rejection and acceptance reasons",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://dbdaas.rajathjaiprakash.com/help",
         "Category": "Entertainment"
     },
     {
