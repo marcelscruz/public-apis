@@ -973,6 +973,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Coffee](https://coffee.alexflipnote.dev/) | Random pictures of coffee | No | Yes | Unknown |
 | [Edamam nutrition](https://developer.edamam.com/edamam-docs-nutrition-api) | Nutrition Analysis | `apiKey` | Yes | Unknown |
 | [Edamam recipes](https://developer.edamam.com/edamam-docs-recipe-api) | Recipe Search | `apiKey` | Yes | Unknown |
+| [Food Info](https://food-info.org/developer) | Nutrient data for foods from five national food composition datasets plus Open Food Facts | `apiKey` | Yes | No |
 | [Foodish](https://github.com/surhud004/Foodish#readme) | Random pictures of food dishes | No | Yes | Yes |
 | [Jelly Belly Wiki](https://jelly-belly-wiki.netlify.app/) | Data about Jelly Belly beans- flavores, facts, history and more endpoints | No | Yes | Yes |
 | [Kroger](https://developer.kroger.com/reference) | Supermarket Data | `apiKey` | Yes | Unknown |
