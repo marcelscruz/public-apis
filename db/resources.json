@@ -1,5 +1,5 @@
 {
-"count": 1700,
+"count": 1701,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7226,6 +7226,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://rapidapi.com/vintarok-vintarok-default/api/multilingual-truth-or-dare-party-date-game-api",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "Nookipedia",
+        "Description": "Animal Crossing game data including villagers, items, and events",
+        "Auth": "\u0007 apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://api.nookipedia.com/",
         "Category": "Games & Comics"
     },
     {
