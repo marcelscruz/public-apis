@@ -1,5 +1,5 @@
 {
-"count": 1705,
+"count": 1706,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3464,6 +3464,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.domainsdb.info/",
+        "Category": "Development"
+    },
+    {
+        "API": "DownStatus",
+        "Description": "Real-time status for GitHub, AWS, Discord and 90+ services",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://isitdownstatus.com",
         "Category": "Development"
     },
     {
