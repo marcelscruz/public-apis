@@ -11,9 +11,9 @@
         "Category": "AI"
     },
     {
-        "API": "AI/ML API",
+        "API": "AI/ML",
         "Description": "Access 100+ curated AI Models over 1 API",
-        "Auth": "Yes",
+        "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://aimlapi.com",
