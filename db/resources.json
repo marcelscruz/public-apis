@@ -1,5 +1,5 @@
 {
-"count": 1720,
+"count": 1721,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2933,6 +2933,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.exchangeratesapi.com.au",
+        "Category": "Currency Exchange"
+    },
+    {
+        "API": "RealMarketAPI",
+        "Description": "Access real-time gold, forex, crypto, and stock market data with ultra-low latency and simple REST endpoints",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://realmarketapi.com/docs",
         "Category": "Currency Exchange"
     },
     {
