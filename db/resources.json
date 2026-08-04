@@ -1,5 +1,5 @@
 {
-"count": 1699,
+"count": 1700,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6254,6 +6254,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://polygon.io/",
+        "Category": "Finance"
+    },
+    {
+        "API": "Polymarket",
+        "Description": "Prediction market data including markets, prices, and order book",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.polymarket.com",
         "Category": "Finance"
     },
     {
