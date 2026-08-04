@@ -1879,7 +1879,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Chatpdf](https://chatpdf.so/api) | Chat with pdf using GPT4 and ChatGPT | `apiKey` | Yes | Yes |
 | [Cloudmersive Natural Language Processing](https://www.cloudmersive.com/nlp-api) | Natural language processing and text analysis | `apiKey` | Yes | Yes |
 | [Code Detection API](https://codedetectionapi.runtime.dev) | Detect, label, format and enrich the code in your app or in your data pipeline | `OAuth`| Yes | Unknown |
-| [Convert Text to Speech API]( https://apyhub.com/utility/text-to-speech/) | This API converts any text to speech automatically | `apiKey`| Yes | Yes |
+| [Convert Text to Speech API](https://apyhub.com/utility/text-to-speech/) | This API converts any text to speech automatically | `apiKey`| Yes | Yes |
 | [Detect Language](https://detectlanguage.com/) | Detects text language | `apiKey` | Yes | Unknown |
 | [Detect Language API](https://apyhub.com/utility/language-detector) | This API detects the language from any text (+ 50 languages supported) | `apiKey` | Yes | Yes |
 | [ELI](https://nlp.insightera.co.th/docs/v1.0) | Natural Language Processing Tools for Thai Language | `apiKey` | Yes | Unknown |
