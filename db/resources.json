@@ -1,5 +1,5 @@
 {
-"count": 1706,
+"count": 1707,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14454,6 +14454,15 @@
         "Cors": "unknown",
         "Link": "https://github.com/Axorax/urlmskr#urlmskr-api",
         "Category": "URL Shorteners"
+    },
+    {
+        "API": "Auto.dev",
+        "Description": "Automotive data APIs for VIN decoding, vehicle listings, payments, recalls, and specs",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://docs.auto.dev/v2/cli-mcp-sdk",
+        "Category": "Vehicle"
     },
     {
         "API": "Brazilian Vehicles and Prices",
