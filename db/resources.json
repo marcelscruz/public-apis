@@ -1,5 +1,5 @@
 {
-"count": 1707,
+"count": 1708,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3086,6 +3086,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.abstractapi.com/website-screenshot-api",
+        "Category": "Development"
+    },
+    {
+        "API": "AgentDeals",
+        "Description": "Search and compare developer free tiers, startup credits, and pricing changes",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://agentdeals.dev/api",
         "Category": "Development"
     },
     {
