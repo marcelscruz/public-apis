@@ -715,6 +715,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Tolgee](https://tolgee.io) | Open-source localization (i18n) platform enabling you to translate you app fast | `apiKey` | Yes | No |
 | [Tyk](https://tyk.io/open-source/) | Api and service management platform | `apiKey`| Yes | Yes |
 | [UserAgent](https://useragent.app) | User agent parsing API is designed to help you better understand and interact with your users. By identifying browser, device, and OS data from user agent strings, this API empowers you with accurate, real-time insights into your audience. | `apiKey`| Yes | Yes |
+| [Utilorax](https://utilorax.com/api) | 203 JSON endpoints: hashing, encoding, unit conversion, text, dates and file conversion | `apiKey` | Yes | Yes |
 | [YADG](https://yadg.cc/api/v2/) | An API that scrapes music release data and renders it using different templates | `apiKey`| Yes | Unknown |
 | [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel/API.md) | Code compiler supporting 35+ languages mentioned at wandbox.org | No | Yes | Unknown |
 | [Web Scraping API](https://apyhub.com/utility/sharpapi-web-scraping-api) | Extract structured data from any public URL | `apiKey`| Yes | Yes |
