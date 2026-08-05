@@ -9664,7 +9664,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://aidevboard.com/api/v1/jobs",
+        "Link": "https://aidevboard.com",
         "Category": "Jobs"
     },
     {
@@ -12265,7 +12265,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://api.portscan.com/docs",
+        "Link": "https://portscan.com",
         "Category": "Security"
     },
     {
