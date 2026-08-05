@@ -2563,7 +2563,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://docs.mobula.io/",
+        "Link": "https://mobula.io",
         "Category": "Cryptocurrency"
     },
     {
