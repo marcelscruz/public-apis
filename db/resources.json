@@ -1,5 +1,5 @@
 {
-"count": 1722,
+"count": 1723,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4589,6 +4589,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://useragent.app",
+        "Category": "Development"
+    },
+    {
+        "API": "Utilorax",
+        "Description": "203 JSON endpoints: hashing, encoding, unit conversion, text, dates and file conversion",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://utilorax.com/api",
         "Category": "Development"
     },
     {
