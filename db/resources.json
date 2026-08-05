@@ -1,5 +1,5 @@
 {
-"count": 1721,
+"count": 1722,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11555,6 +11555,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://podcastindex-org.github.io/docs-api/",
+        "Category": "Podcasts"
+    },
+    {
+        "API": "Podchaser | Podcast Data API",
+        "Description": "The podcast API for discovery and insights. Access 6M+ podcasts with audience demographics, transcripts, Apple/Spotify charts. For media monitoring and intel",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.podchaser.com/api",
         "Category": "Podcasts"
     },
     {
