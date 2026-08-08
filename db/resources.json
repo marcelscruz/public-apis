@@ -1,5 +1,5 @@
 {
-"count": 1728,
+"count": 1729,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13202,6 +13202,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://documenter.getpostman.com/view/25652688/2sB34Zs4xZ",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "NegativeEV",
+        "Description": "Grades a sports bet against thousands of play-by-play game simulations and returns the win probability and the edge at the quoted price",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://negativeev.com",
         "Category": "Sports & Fitness"
     },
     {
