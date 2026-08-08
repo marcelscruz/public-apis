@@ -1840,6 +1840,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [NBA GraphQL](https://nbaapi.com/graphql/) | Advanced NBA Player, Team, and Season Statistics and Data | No | Yes | Yes |
 | [NBA Stats](https://api.server.nbaapi.com/) | NBA player statistics, season totals, advanced metrics, game data, and shot chart data | No | Yes | Yes |
 | [NBA Stats](https://documenter.getpostman.com/view/25652688/2sB34Zs4xZ) | Postman docs for comprehensive NBA player statistics, advanced metrics, and detailed shot chart data | No | Yes | Yes |
+| [NegativeEV](https://negativeev.com) | Grades a sports bet against thousands of play-by-play game simulations and returns the win probability and the edge at the quoted price | No | Yes | No |
 | [NHL Records and Stats](https://gitlab.com/dword4/nhlapi) | NHL historical data and statistics | No | Yes | Unknown |
 | [Oddsmagnet](https://oddsmagnet.com/oddsdata) | Odds history from multiple UK bookmakers | No | Yes | Yes |
 | [OpenLigaDB](https://www.openligadb.de) | Crowd sourced sports league results | No | Yes | Yes |
