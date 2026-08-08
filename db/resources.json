@@ -1,5 +1,5 @@
 {
-"count": 1729,
+"count": 1730,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11798,6 +11798,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://mpds.io",
+        "Category": "Science & Math"
+    },
+    {
+        "API": "Moonlora",
+        "Description": "Moon phases, illumination, moon signs, full/new moon dates (1900–2100), moonrise/moonset by coordinates",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://moonlora.com/developers",
         "Category": "Science & Math"
     },
     {
