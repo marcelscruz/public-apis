@@ -1,5 +1,5 @@
 {
-"count": 1725,
+"count": 1727,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13025,6 +13025,15 @@
         "Category": "Sports & Fitness"
     },
     {
+        "API": "Cricket API",
+        "Description": "Comprehensive Cricket API for live scores, fixtures, results, player stats, match data, and smarter digital cricket experiences",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://cricket-api.net",
+        "Category": "Sports & Fitness"
+    },
+    {
         "API": "F1 API",
         "Description": "Open F1 API with realtime data",
         "Auth": "",
@@ -13319,6 +13328,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://suredbits.com/api/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "Table Tennis API",
+        "Description": "The best table tennis API, including stats, predictions, rankings (also ELO), odds, live scores, point by point. Table Tennis websocket also available",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://tabletennis-api.com",
         "Category": "Sports & Fitness"
     },
     {
