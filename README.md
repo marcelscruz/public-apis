@@ -1820,6 +1820,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [City Bikes](https://api.citybik.es/v2/) | City Bikes around the world | No | Yes | Unknown |
 | [Cloudbet](https://www.cloudbet.com/api/) | Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically | `apiKey`| Yes | Yes |
 | [CollegeFootballData.com](https://collegefootballdata.com) | Unofficial detailed American college football statistics, records, and results API | `apiKey`| Yes | Unknown |
+| [Cricket API](https://cricket-api.net) | Comprehensive Cricket API for live scores, fixtures, results, player stats, match data, and smarter digital cricket experiences | `apiKey` | Yes | Yes |
 | [F1 API](https://f1api.dev) | Open F1 API with realtime data | No | Yes | Unknown |
 | [Fantasy Premier League](https://github.com/flavnat/fpl-api) | Fantasy Premier League data, including fixtures, teams, and player stats | No | Yes | Unknown |
 | [Fitbit](https://dev.fitbit.com/) | Fitbit Information | `OAuth` | Yes | Unknown |
