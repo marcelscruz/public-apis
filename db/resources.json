@@ -1,5 +1,5 @@
 {
-"count": 1724,
+"count": 1725,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13238,6 +13238,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://skipodds.com/docs",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "Soccer / Football API",
+        "Description": "Reliable Soccer API for live scores (websocket), fixtures, results, standings, player stats, match events, and smarter football data experiences",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://soccer-api.com",
         "Category": "Sports & Fitness"
     },
     {
