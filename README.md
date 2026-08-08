@@ -1853,6 +1853,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Squiggle](https://api.squiggle.com.au) | Fixtures, results and predictions for Australian Football League matches | No | Yes | Yes |
 | [Strava](https://strava.github.io/api/) | Connect with athletes, activities and more | `OAuth` | Yes | Unknown |
 | [SuredBits](https://suredbits.com/api/) | Query sports data, including teams, players, games, scores and statistics | No | Yes | No |
+| [Table Tennis API](https://tabletennis-api.com) | The best table tennis API, including stats, predictions, rankings (also ELO), odds, live scores, point by point. Table Tennis websocket also available | `apiKey` | Yes | Yes |
 | [Tennis API](https://tennis-api.com) | Premium tennis API with free plan also available. Tennis stats, predictions, odds, live scores, point by point. Tennis websocket also available. | `apiKey`| Yes | Yes |
 | [TheSportsDB](https://www.thesportsdb.com/api.php) | Crowd-Sourced Sports Data and Artwork | `apiKey`| Yes | Yes |
 | [Tredict](https://www.tredict.com/blog/oauth_docs/) | Get and set activities, health data and more | `OAuth` | Yes | Unknown |
