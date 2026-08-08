@@ -1660,6 +1660,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [ITIS](https://www.itis.gov/ws_description.html) | Integrated Taxonomic Information System | No | Yes | Unknown |
 | [Launch Library 2](https://thespacedevs.com/llapi) | Spaceflight launches and events database | No | Yes | Yes |
 | [Materials Platform for Data Science](https://mpds.io) | Curated experimental data for materials science | `apiKey` | Yes | No |
+| [Moonlora](https://moonlora.com/developers) | Moon phases, illumination, moon signs, full/new moon dates (1900–2100), moonrise/moonset by coordinates | No | Yes | Yes |
 | [NASA](https://api.nasa.gov) | NASA data, including imagery | No | Yes | No |
 | [NASA ADS](https://ui.adsabs.harvard.edu/help/api/api-docs.html) | NASA Astrophysics Data System | `OAuth`| Yes | Yes |
 | [Newton](https://newton.vercel.app) | Symbolic and Arithmetic Math Calculator | No | Yes | No |
