@@ -1,5 +1,5 @@
 {
-"count": 1730,
+"count": 1731,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13310,6 +13310,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.sportmonks.com/football/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "Sports API (Tennis / Cricket / Soccer)",
+        "Description": "The best sports API for tennis, cricket and soccer live scores, fixtures, results, stats, match data, odds and predictions",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://sportsapi365.com",
         "Category": "Sports & Fitness"
     },
     {
