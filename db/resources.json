@@ -1,5 +1,5 @@
 {
-"count": 1731,
+"count": 1732,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2267,6 +2267,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://bybit-exchange.github.io/docs",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "ByKaranteli",
+        "Description": "Cross-exchange crypto derivatives data: funding rates, open interest, liquidation maps, options flow, ETF flows and Fear & Greed. JSON and CSV, no key",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://bykaranteli.com",
         "Category": "Cryptocurrency"
     },
     {
