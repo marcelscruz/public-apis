@@ -1,5 +1,5 @@
 {
-"count": 1732,
+"count": 1733,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3932,6 +3932,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://kroki.io",
+        "Category": "Development"
+    },
+    {
+        "API": "LinkPeek",
+        "Description": "Link previews, QR codes, DNS, SSL, security headers, email validation, IP geolocation, JWT decode, and 100+ dev utility endpoints. No signup, free tier, CORS-enabled",
+        "Auth": "No",
+        "HTTPS": true,
+        "Cors": "Yes",
+        "Link": "https://147.15.103.217.sslip.io",
         "Category": "Development"
     },
     {
