@@ -1,5 +1,5 @@
 {
-"count": 1734,
+"count": 1735,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5282,6 +5282,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/validator-academic-email",
+        "Category": "Email"
+    },
+    {
+        "API": "Atomic Mail",
+        "Description": "Email for AI agents with programmatic inbox creation and send/receive over the open JMAP standard",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://atomicmail.ai",
         "Category": "Email"
     },
     {
