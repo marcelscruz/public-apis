@@ -1,5 +1,5 @@
 {
-"count": 1734,
+"count": 1733,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -656,15 +656,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://waifu.im/docs",
-        "Category": "Anime"
-    },
-    {
-        "API": "Waifu.pics",
-        "Description": "Image sharing platform for anime images",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://waifu.pics/docs",
         "Category": "Anime"
     },
     {
