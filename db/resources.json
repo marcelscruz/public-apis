@@ -592,7 +592,7 @@
         "Auth": "OAuth",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "https://myanimelist.net/clubs.php",
+        "Link": "https://myanimelist.net/clubs.php?cid=13727",
         "Category": "Anime"
     },
     {
