@@ -1399,10 +1399,10 @@
     {
         "API": "Scholar Sidekick",
         "Description": "Resolve scholarly IDs (DOI, PMID, ISBN, arXiv) and format citations in multiple styles",
-        "Auth": "apiKey",
+        "Auth": "",
         "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://scholar-sidekick.com/docs",
+        "Cors": "yes",
+        "Link": "https://scholar-sidekick.com",
         "Category": "Books"
     },
     {
