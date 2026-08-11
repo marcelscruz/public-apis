@@ -191,7 +191,7 @@
 | [Kitsu](https://kitsu.docs.apiary.io/) | Anime discovery platform | `OAuth` | Yes | Yes |
 | [MangaDex](https://api.mangadex.org/docs/) | Manga Database and Community | `apiKey` | Yes | Unknown |
 | [Mangapi](https://rapidapi.com/pierre.carcellermeunier/api/mangapi3/) | Translate manga pages from one language to another | `apiKey` | Yes | Unknown |
-| [MyAnimeList](https://myanimelist.net/clubs.php) | Anime and Manga Database and Community | `OAuth` | Yes | Unknown |
+| [MyAnimeList](https://myanimelist.net/clubs.php?cid=13727) | Anime and Manga Database and Community | `OAuth` | Yes | Unknown |
 | [Nekos API](https://nekosapi.com/docs) | Anime images with lots of metadata | `OAuth` | Yes | Yes |
 | [NekosBest](https://docs.nekos.best) | Neko Images & Anime roleplaying GIFs | No | Yes | Yes |
 | [Nekosia API](https://nekosia.cat) | Anime API with cute random images. Dominated colors & compressed images & avoiding duplicates. | No | Yes | Yes |
