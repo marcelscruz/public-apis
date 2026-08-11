@@ -6207,7 +6207,7 @@
         "Description": "IBAN validation, BIC/SWIFT lookup & compliance scoring",
         "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "yes",
+        "Cors": "no",
         "Link": "https://ibanforge.com",
         "Category": "Finance"
     },
