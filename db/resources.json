@@ -282,11 +282,11 @@
     },
     {
         "API": "UnoRouter",
-        "Description": "OpenAI-compatible gateway routing chat/completions across 200+ models with a free tier",
+        "Description": "OpenAI-compatible gateway routing chat/completions across 500+ models with a free tier",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://unorouter.com/docs",
+        "Link": "https://unorouter.com",
         "Category": "AI"
     },
     {
