@@ -1,5 +1,5 @@
 {
-"count": 1733,
+"count": 1734,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -134,6 +134,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://docs.gladia.io",
+        "Category": "AI"
+    },
+    {
+        "API": "HarnessRouter",
+        "Description": "Run coding agent harnesses (Codex, Claude Code, Hermes) behind your product through one API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://harnessrouter.ai/docs",
         "Category": "AI"
     },
     {
