@@ -1,5 +1,5 @@
 {
-"count": 1730,
+"count": 1731,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -125,6 +125,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/justadudewhohacks/face-api.js",
+        "Category": "AI"
+    },
+    {
+        "API": "Gandr",
+        "Description": "Text to speech API for voice agents. One voice in 23 languages, every render watermarked",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://gandr.ai",
         "Category": "AI"
     },
     {
