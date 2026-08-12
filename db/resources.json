@@ -1,5 +1,5 @@
 {
-"count": 1732,
+"count": 1733,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -764,6 +764,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://docs.scanii.com/",
+        "Category": "Anti-Malware"
+    },
+    {
+        "API": "ScanMalware",
+        "Description": "Scan URLs in a sandboxed browser and search past scans by domain, IP, ASN, JARM or favicon hash",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://scanmalware.com",
         "Category": "Anti-Malware"
     },
     {
