@@ -1015,7 +1015,6 @@
 ### Games & Comics
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [AmiiboAPI](https://amiiboapi.com/) | Nintendo Amiibo Information | No | Yes | Yes |
 | [Atlas Academy](https://api.atlasacademy.io/docs) | API for Fate/Grand Order game data | No | Yes | Unknown |
 | [Autochess VNG](https://github.com/didadadida93/autochess-vng-api) | Rest Api for Autochess VNG | No | Yes | Yes |
 | [Barter.VG](https://github.com/bartervg/barter.vg/wiki) | Provides information about Game, DLC, Bundles, Giveaways, Trading | No | Yes | Yes |
