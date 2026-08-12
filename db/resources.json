@@ -1,5 +1,5 @@
 {
-"count": 1732,
+"count": 1731,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7154,15 +7154,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.haloapi.com/",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "Hearthstone",
-        "Description": "Hearthstone Cards Information",
-        "Auth": "X-Mashape-Key",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "http://hearthstoneapi.com/",
         "Category": "Games & Comics"
     },
     {
