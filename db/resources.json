@@ -1,5 +1,5 @@
 {
-"count": 1731,
+"count": 1732,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11888,6 +11888,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.osf.io",
+        "Category": "Science & Math"
+    },
+    {
+        "API": "OrbitalWiki",
+        "Description": "Catalog of 16,000+ satellites with the source cited for every field: orbital elements, operators, NORAD/COSPAR IDs",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.orbitalwiki.com",
         "Category": "Science & Math"
     },
     {
