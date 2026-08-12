@@ -1,5 +1,5 @@
 {
-"count": 1733,
+"count": 1732,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6813,15 +6813,6 @@
         "Cors": "yes",
         "Link": "https://zestfuldata.com/",
         "Category": "Food & Drink"
-    },
-    {
-        "API": "AmiiboAPI",
-        "Description": "Nintendo Amiibo Information",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://amiiboapi.com/",
-        "Category": "Games & Comics"
     },
     {
         "API": "Atlas Academy",
