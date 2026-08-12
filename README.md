@@ -128,6 +128,7 @@
 | [Eden](https://www.edenai.co/) | Get all AI models in one place, e.g. OpenAI, Google and lots more! | `apiKey` | Yes | Yes |
 | [EXUDE-API](http://uttesh.com/exude-api/) | Used for the primary ways for filtering the stopping, stemming words from the text data | No | Yes | Yes |
 | [Face-api.js](https://github.com/justadudewhohacks/face-api.js) | JavaScript API for face detection, recognition, and emotion analysis using TensorFlow.js | No | Yes | Unknown |
+| [Gandr](https://gandr.ai) | Text to speech API for voice agents. One voice in 23 languages, every render watermarked | `apiKey` | Yes | Yes |
 | [Gladia](https://docs.gladia.io) | Artificial intelligence API's | `apiKey` | Yes | No |
 | [HarnessRouter](https://harnessrouter.ai/docs) | Run coding agent harnesses (Codex, Claude Code, Hermes) behind your product through one API | `apiKey` | Yes | Unknown |
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Discovery API for AI agents & MCP servers (search, verify, UAID, chat) | `apiKey` | Yes | Yes |
