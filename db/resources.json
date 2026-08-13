@@ -1,5 +1,5 @@
 {
-"count": 1719,
+"count": 1720,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11511,6 +11511,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://highlightly.net/documentation/basketball/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "Blacktop Motorsport API",
+        "Description": "Motorsport results, standings and schedules, with live timing for F1, NASCAR, IndyCar and WRC",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://ocblacktop.com/api",
         "Category": "Sports & Fitness"
     },
     {
