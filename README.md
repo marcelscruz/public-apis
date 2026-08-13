@@ -1977,6 +1977,7 @@
 | [Road511](https://road511.com) | Unified traffic data from 65 US/CA jurisdictions: events, cameras, signs, bridges, truck routes | `apiKey` | Yes | Yes |
 | [Sabre for Developers](https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel) | Travel Search - Limited usage | `apiKey` | Yes | Unknown |
 | [Schiphol Airport](https://developer.schiphol.nl/) | Schiphol | `apiKey` | Yes | Unknown |
+| [Strait of Hormuz Ship Monitor](https://hormuz.data-tracking.net/llms.txt) | Live AIS vessel traffic, crossings and oil flow through the Strait of Hormuz | No | Yes | No |
 | [Swedavia Airports](https://apideveloper.swedavia.se/) | Airport and flight information of Swedish Airports operated by Swedavia | `apiKey` | Yes | No |
 | [Tankerkoenig](https://creativecommons.tankerkoenig.de/swagger/) | German realtime gas/diesel prices | `apiKey` | Yes | Yes |
 | [Trackr TMS](https://rapidapi.com/jccm6/api/trackr-tms) | Trackr API makes it easy to create, assign, and track shipments, with driver support, movement history, and more | `apiKey` | Yes | No |
