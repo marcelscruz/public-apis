@@ -1,5 +1,5 @@
 {
-"count": 1733,
+"count": 1734,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14228,6 +14228,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.schiphol.nl/",
+        "Category": "Transportation"
+    },
+    {
+        "API": "Strait of Hormuz Ship Monitor",
+        "Description": "Live AIS vessel traffic, crossings and oil flow through the Strait of Hormuz",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://hormuz.data-tracking.net/llms.txt",
         "Category": "Transportation"
     },
     {
