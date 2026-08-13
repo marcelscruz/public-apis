@@ -1,5 +1,5 @@
 {
-"count": 1735,
+"count": 1719,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -107,15 +107,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.edenai.co/",
-        "Category": "AI"
-    },
-    {
-        "API": "EXUDE-API",
-        "Description": "Used for the primary ways for filtering the stopping, stemming words from the text data",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "http://uttesh.com/exude-api/",
         "Category": "AI"
     },
     {
@@ -377,15 +368,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://http.dog/",
-        "Category": "Animals"
-    },
-    {
-        "API": "IUCN",
-        "Description": "IUCN Red List of Threatened Species",
-        "Auth": "apiKey",
-        "HTTPS": false,
-        "Cors": "no",
-        "Link": "http://apiv3.iucnredlist.org/api/v3/docs",
         "Category": "Animals"
     },
     {
@@ -853,7 +835,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://www.colourlovers.com/api",
+        "Link": "https://www.colourlovers.com/api",
         "Category": "Art & Design"
     },
     {
@@ -979,7 +961,7 @@
         "Auth": "OAuth",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://api.thenounproject.com/index.html",
+        "Link": "https://api.thenounproject.com/index.html",
         "Category": "Art & Design"
     },
     {
@@ -1375,7 +1357,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "http://www.penguinrandomhouse.biz/webservices/rest/",
+        "Link": "https://www.penguinrandomhouse.biz/webservices/rest/",
         "Category": "Books"
     },
     {
@@ -1501,7 +1483,7 @@
         "Auth": "apiKey",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://charityapi.orghunter.com/",
+        "Link": "https://charityapi.orghunter.com/",
         "Category": "Business"
     },
     {
@@ -1784,15 +1766,6 @@
         "Category": "Calendar"
     },
     {
-        "API": "Church Calendar",
-        "Description": "Catholic liturgical calendar",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://calapi.inadiutorium.cz/",
-        "Category": "Calendar"
-    },
-    {
         "API": "Czech Namedays Calendar",
         "Description": "Lookup for a name and returns nameday date",
         "Auth": "",
@@ -1861,7 +1834,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://www.lectserve.com",
+        "Link": "https://www.lectserve.com",
         "Category": "Calendar"
     },
     {
@@ -2347,7 +2320,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "http://www.coingecko.com/api",
+        "Link": "https://www.coingecko.com/api",
         "Category": "Cryptocurrency"
     },
     {
@@ -2959,7 +2932,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "http://api.nbp.pl/en.html",
+        "Link": "https://api.nbp.pl/en.html",
         "Category": "Currency Exchange"
     },
     {
@@ -3049,7 +3022,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://www.purgomalum.com",
+        "Link": "https://www.purgomalum.com",
         "Category": "Data Validation"
     },
     {
@@ -3832,7 +3805,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://api.docs.import.io/",
+        "Link": "https://api.docs.import.io/",
         "Category": "Development"
     },
     {
@@ -4228,7 +4201,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://goqr.me/api/",
+        "Link": "https://goqr.me/api/",
         "Category": "Development"
     },
     {
@@ -5911,7 +5884,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://developer.ticketmaster.com/products-and-docs/apis/getting-started/",
+        "Link": "https://developer.ticketmaster.com/products-and-docs/apis/getting-started/",
         "Category": "Events"
     },
     {
@@ -6811,7 +6784,7 @@
         "Auth": "apiKey",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://nypl.github.io/menus-api/",
+        "Link": "https://nypl.github.io/menus-api/",
         "Category": "Food & Drink"
     },
     {
@@ -7742,15 +7715,6 @@
         "Category": "Geocoding"
     },
     {
-        "API": "Battuta",
-        "Description": "A (country/region/city) in-cascade location API",
-        "Auth": "apiKey",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://battuta.medunes.net",
-        "Category": "Geocoding"
-    },
-    {
         "API": "BigDataCloud's Free API",
         "Description": "Get free client-side reverse geocoding API and Client Info API. No account creation and API key required.",
         "Auth": "",
@@ -7828,7 +7792,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://cep.la/",
+        "Link": "https://cep.la/",
         "Category": "Geocoding"
     },
     {
@@ -7837,7 +7801,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://www.citysdk.eu/citysdk-toolkit/",
+        "Link": "https://www.citysdk.eu/citysdk-toolkit/",
         "Category": "Geocoding"
     },
     {
@@ -7846,7 +7810,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "http://country.is/",
+        "Link": "https://country.is/",
         "Category": "Geocoding"
     },
     {
@@ -7949,15 +7913,6 @@
         "Category": "Geocoding"
     },
     {
-        "API": "GeoDB Cities",
-        "Description": "Get global city, region, and country data",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "http://geodb-cities-api.wirefreethought.com/",
-        "Category": "Geocoding"
-    },
-    {
         "API": "GeoDescription",
         "Description": "Reverse geocoding - Converting geographic coordinates to address-like location description",
         "Auth": "",
@@ -8017,7 +7972,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://www.geonames.org/export/web-services.html",
+        "Link": "https://www.geonames.org/export/web-services.html",
         "Category": "Geocoding"
     },
     {
@@ -8368,7 +8323,7 @@
         "Auth": "OAuth",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://wiki.openstreetmap.org/wiki/API",
+        "Link": "https://wiki.openstreetmap.org/wiki/API",
         "Category": "Geocoding"
     },
     {
@@ -8593,7 +8548,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://www.zippopotam.us",
+        "Link": "https://www.zippopotam.us",
         "Category": "Geocoding"
     },
     {
@@ -8719,7 +8674,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://otwartedane.gdynia.pl/en/api_doc.html",
+        "Link": "https://otwartedane.gdynia.pl/en/api_doc.html",
         "Category": "Government"
     },
     {
@@ -8863,7 +8818,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://opendata.dc.gov/pages/using-apis",
+        "Link": "https://opendata.dc.gov/pages/using-apis",
         "Category": "Government"
     },
     {
@@ -8989,7 +8944,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://open.canada.ca/en",
+        "Link": "https://open.canada.ca/en",
         "Category": "Government"
     },
     {
@@ -9232,7 +9187,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://data.gov.ro/",
+        "Link": "https://data.gov.ro/",
         "Category": "Government"
     },
     {
@@ -9619,7 +9574,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://makeup-api.herokuapp.com/",
+        "Link": "https://makeup-api.herokuapp.com/",
         "Category": "Health"
     },
     {
@@ -9803,15 +9758,6 @@
         "Category": "Jobs"
     },
     {
-        "API": "Jobs2Careers",
-        "Description": "Job aggregator",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "http://api.jobs2careers.com/api/spec.pdf",
-        "Category": "Jobs"
-    },
-    {
         "API": "JobsPipe",
         "Description": "Search live job postings from job boards and company career sites, plus tech stack detection by domain",
         "Auth": "apiKey",
@@ -9844,7 +9790,7 @@
         "Auth": "apiKey",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://www.juju.com/publisher/spec/",
+        "Link": "https://www.juju.com/publisher/spec/",
         "Category": "Jobs"
     },
     {
@@ -10240,7 +10186,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://chroniclingamerica.loc.gov/about/api/",
+        "Link": "https://chroniclingamerica.loc.gov/about/api/",
         "Category": "News"
     },
     {
@@ -10447,7 +10393,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://open-platform.theguardian.com/",
+        "Link": "https://open-platform.theguardian.com/",
         "Category": "News"
     },
     {
@@ -10485,15 +10431,6 @@
         "Cors": "yes",
         "Link": "https://worldnewsapi.com",
         "Category": "News"
-    },
-    {
-        "API": "18F",
-        "Description": "Unofficial US Federal Government API Development",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://18f.github.io/API-All-the-X/",
-        "Category": "Open Data"
     },
     {
         "API": "Archive.org",
@@ -10726,7 +10663,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://api.opencorporates.com/documentation/API-Reference",
+        "Link": "https://api.opencorporates.com/documentation/API-Reference",
         "Category": "Open Data"
     },
     {
@@ -10753,7 +10690,7 @@
         "Auth": "apiKey",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://www.scoop.it/dev",
+        "Link": "https://www.scoop.it/dev",
         "Category": "Open Data"
     },
     {
@@ -10996,7 +10933,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://api.adviceslip.com/",
+        "Link": "https://api.adviceslip.com/",
         "Category": "Personality"
     },
     {
@@ -11024,15 +10961,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://favqs.com/api",
-        "Category": "Personality"
-    },
-    {
-        "API": "Forismatic",
-        "Description": "Inspirational Quotes",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://forismatic.com/en/api/",
         "Category": "Personality"
     },
     {
@@ -11374,7 +11302,7 @@
         "Auth": "OAuth",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://developers.gettyimages.com/en/",
+        "Link": "https://developers.gettyimages.com/en/",
         "Category": "Photography"
     },
     {
@@ -11879,24 +11807,6 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://math.tools/api/numbers/",
-        "Category": "Science & Math"
-    },
-    {
-        "API": "Numbers",
-        "Description": "Facts about numbers",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "no",
-        "Link": "http://numbersapi.com",
-        "Category": "Science & Math"
-    },
-    {
-        "API": "Open Notify",
-        "Description": "ISS astronauts, current location, etc",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "no",
-        "Link": "http://open-notify.org/Open-Notify-API/",
         "Category": "Science & Math"
     },
     {
@@ -13043,15 +12953,6 @@
         "Category": "Sports & Fitness"
     },
     {
-        "API": "Canadian Football League (CFL)",
-        "Description": "Official JSON API providing real-time league, team and player statistics about the CFL",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "http://api.cfl.ca/",
-        "Category": "Sports & Fitness"
-    },
-    {
         "API": "City Bikes",
         "Description": "City Bikes around the world",
         "Auth": "",
@@ -13543,16 +13444,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://jsonplaceholder.typicode.com/",
-        "Category": "Test Data"
-    },
-    {
-        "API": "Loripsum",
-        "Description": "The \"lorem ipsum\" generator that doesn't suck",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://loripsum.net/",
+        "Link": "https://jsonplaceholder.typicode.com/",
         "Category": "Test Data"
     },
     {
@@ -13562,15 +13454,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://mailsac.com/docs/api",
-        "Category": "Test Data"
-    },
-    {
-        "API": "Metaphorsum",
-        "Description": "Generate demo paragraphs giving number of words and sentences",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://metaphorpsum.com/",
         "Category": "Test Data"
     },
     {
@@ -13660,7 +13543,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "yes",
-        "Link": "http://whatthecommit.com/index.txt",
+        "Link": "https://whatthecommit.com/index.txt",
         "Category": "Test Data"
     },
     {
@@ -13916,15 +13799,6 @@
         "Category": "Tracking"
     },
     {
-        "API": "PostalPinCode",
-        "Description": "API for getting Pincode details in India",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "http://www.postalpincode.in/Api-Details",
-        "Category": "Tracking"
-    },
-    {
         "API": "PostNord",
         "Description": "Provides information about parcels in transport for Sweden and Denmark",
         "Auth": "apiKey",
@@ -13993,7 +13867,7 @@
         "Auth": "apiKey",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://www.aishub.net/api",
+        "Link": "https://www.aishub.net/api",
         "Category": "Transportation"
     },
     {
@@ -14021,15 +13895,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.az511.com/developers/doc",
-        "Category": "Transportation"
-    },
-    {
-        "API": "Bay Area Rapid Transit",
-        "Description": "Stations and predicted arrivals for BART",
-        "Auth": "apiKey",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://api.bart.gov",
         "Category": "Transportation"
     },
     {
@@ -14128,7 +13993,7 @@
         "Auth": "",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://docs.apis.is/",
+        "Link": "https://docs.apis.is/",
         "Category": "Transportation"
     },
     {
@@ -14137,7 +14002,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://api-docs.izi.travel/",
+        "Link": "https://api-docs.izi.travel/",
         "Category": "Transportation"
     },
     {
@@ -14164,7 +14029,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "no",
-        "Link": "http://app.metrolisboa.pt/status/getLinhas.php",
+        "Link": "https://app.metrolisboa.pt/status/getLinhas.php",
         "Category": "Transportation"
     },
     {
@@ -14290,7 +14155,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://www.itsmarta.com/app-developer-resources.aspx",
+        "Link": "https://www.itsmarta.com/app-developer-resources.aspx",
         "Category": "Transportation"
     },
     {
@@ -14344,7 +14209,7 @@
         "Auth": "apiKey",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://www.transitchicago.com/developers/",
+        "Link": "https://www.transitchicago.com/developers/",
         "Category": "Transportation"
     },
     {
@@ -14389,7 +14254,7 @@
         "Auth": "apiKey",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://hea.thebus.org/api_info.asp",
+        "Link": "https://hea.thebus.org/api_info.asp",
         "Category": "Transportation"
     },
     {
@@ -14443,7 +14308,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://data.ratp.fr/api/v1/console/datasets/1.0/search/",
+        "Link": "https://data.ratp.fr/api/v1/console/datasets/1.0/search/",
         "Category": "Transportation"
     },
     {
@@ -14452,7 +14317,7 @@
         "Auth": "OAuth",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/",
+        "Link": "https://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/",
         "Category": "Transportation"
     },
     {
@@ -14497,7 +14362,7 @@
         "Auth": "apiKey",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://www.ns.nl/reisinformatie/ns-api",
+        "Link": "https://www.ns.nl/reisinformatie/ns-api",
         "Category": "Transportation"
     },
     {
@@ -14605,7 +14470,7 @@
         "Auth": "OAuth",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://dev.bitly.com/get_started.html",
+        "Link": "https://dev.bitly.com/get_started.html",
         "Category": "URL Shorteners"
     },
     {
@@ -14767,7 +14632,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "no",
-        "Link": "http://developer.kbb.com/#!/data/1-Default",
+        "Link": "https://developer.kbb.com/#!/data/1-Default",
         "Category": "Vehicle"
     },
     {
@@ -14857,7 +14722,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://www.ceskatelevize.cz/xml/tv-program/",
+        "Link": "https://www.ceskatelevize.cz/xml/tv-program/",
         "Category": "Video"
     },
     {
@@ -15028,7 +14893,7 @@
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "unknown",
-        "Link": "http://www.omdbapi.com/",
+        "Link": "https://www.omdbapi.com/",
         "Category": "Video"
     },
     {
@@ -15244,7 +15109,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://www.tvmaze.com/api",
+        "Link": "https://www.tvmaze.com/api",
         "Category": "Video"
     },
     {
@@ -15298,7 +15163,7 @@
         "Auth": "",
         "HTTPS": false,
         "Cors": "unknown",
-        "Link": "http://www.7timer.info/doc.php",
+        "Link": "https://www.7timer.info/doc.php",
         "Category": "Weather"
     },
     {
@@ -15470,15 +15335,6 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.ngdc.noaa.gov/",
-        "Category": "Weather"
-    },
-    {
-        "API": "ODWeather",
-        "Description": "Weather and weather webcams",
-        "Auth": "",
-        "HTTPS": false,
-        "Cors": "unknown",
-        "Link": "http://api.oceandrivers.com/static/docs.html",
         "Category": "Weather"
     },
     {
