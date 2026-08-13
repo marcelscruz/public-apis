@@ -16,7 +16,7 @@ Before submitting, make sure the API meets all of the following criteria:
 -   **Any use case** — the product can serve any audience or subject matter. What matters is that it exposes an API others can connect to
 -   **Free or paid** — "public" means anyone can sign up and call it, not that it costs nothing. Paid and freemium APIs are welcome
 -   **Self-serve** — no waitlists, betas behind closed signups, "coming soon" products, partner-approval processes, or "contact sales" gates. A stranger must be able to go from the docs to a working call on their own
--   **Publicly reachable and documented** — the API must be publicly reachable right now and have proper documentation. If its Auth, HTTPS and CORS behaviour cannot be determined from the docs, it does not qualify
+-   **Publicly reachable and documented** — the API must be publicly reachable right now and have proper documentation. If its Auth and CORS behaviour cannot be determined from the docs, it does not qualify
 -   **Main product only** — the submission must be a product in its own right; internal tools or features of a larger product are not accepted. The API itself does not have to be the product's main offering
 -   **Custom domain required** — APIs hosted on shared subdomains (`vercel.app`, `netlify.app`, `herokuapp.com`, `github.io`, `pages.dev` and similar) are not accepted
 -   **Clean URLs** — the URL must not contain query parameters (anything after `?`); link to the plain page instead
@@ -30,14 +30,14 @@ Submissions are reviewed by an automated reviewer first — a bot account may co
 
 Current API entry format:
 
-| API                                   | Description        | Auth                                     | HTTPS                       | CORS                                                                                    |
-| ------------------------------------- | ------------------ | ---------------------------------------- | --------------------------- | --------------------------------------------------------------------------------------- |
-| API Title(Link to the API's homepage) | Description of API | Does this API require authentication? \* | Does the API support HTTPS? | Does the API support [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)? \* |
+| API                                   | Description        | Auth                                     | CORS                                                                                    |
+| ------------------------------------- | ------------------ | ---------------------------------------- | --------------------------------------------------------------------------------------- |
+| API Title(Link to the API's homepage) | Description of API | Does this API require authentication? \* | Does the API support [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)? \* |
 
 Example entry:
 
 ```
-| [Cataas](https://cataas.com) | Cat as a service (cats pictures and gifs) | No | Yes | No |
+| [Cataas](https://cataas.com) | Cat as a service (cats pictures and gifs) | No | No |
 ```
 
 The URL must start with `https://` (plain `http://` URLs are not accepted), and should point at the API's homepage — the page you'd send someone to first. Avoid deep links to docs pages, endpoints or subdomains when the product has a homepage of its own: the linked page becomes your listing's screenshot on [publicapis.dev](https://publicapis.dev), and visitors can reach the docs from there.
