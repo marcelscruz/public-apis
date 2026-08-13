@@ -5,9 +5,8 @@
 -   [ ] My submission is formatted according to the guidelines in the [contributing guide](https://github.com/marcelscruz/public-apis/blob/main/CONTRIBUTING.md)
 -   [ ] My addition is ordered alphabetically
 -   [ ] My submission has a useful description
--   [ ] The URL points to the API's homepage (not a deep link, docs page or subdomain), where applicable
--   [ ] The description does not have more than 100 characters
--   [ ] The description does not end with punctuation
+-   [ ] The URL starts with `https://` and points to the API's homepage (not a deep link, docs page or subdomain), where applicable
+-   [ ] The description is under 160 characters, so it fits the listing card
 -   [ ] Each table column is padded with one space on either side
 -   [ ] I have searched the repository for any relevant issues or pull requests
 -   [ ] Any category I am creating has the minimum requirement of 3 items
