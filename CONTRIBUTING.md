@@ -40,7 +40,7 @@ Example entry:
 | [Cataas](https://cataas.com) | Cat as a service (cats pictures and gifs) | No | Yes | No |
 ```
 
-The URL must start with `http://` or `https://`, and should point at the API's homepage — the page you'd send someone to first. Avoid deep links to docs pages, endpoints or subdomains when the product has a homepage of its own: the linked page becomes your listing's screenshot on [publicapis.dev](https://publicapis.dev), and visitors can reach the docs from there.
+The URL must start with `https://` (plain `http://` URLs are not accepted), and should point at the API's homepage — the page you'd send someone to first. Avoid deep links to docs pages, endpoints or subdomains when the product has a homepage of its own: the linked page becomes your listing's screenshot on [publicapis.dev](https://publicapis.dev), and visitors can reach the docs from there.
 
 Currently, the only accepted inputs for the `Auth` field are as follows:
 
