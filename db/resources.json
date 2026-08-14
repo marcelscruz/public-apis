@@ -1,5 +1,5 @@
 {
-"count": 1720,
+"count": 1721,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5407,6 +5407,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://fiscaldata.treasury.gov/api-documentation/",
+        "Category": "Finance"
+    },
+    {
+        "API": "Filingrail",
+        "Description": "SEC EDGAR filings, XBRL financials, Form 4 insider trades, 8-K events and 13F holdings, each record linked to its source filing",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://filingrail.hudsonenterprisesllc.com",
         "Category": "Finance"
     },
     {
