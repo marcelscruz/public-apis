@@ -1,5 +1,5 @@
 {
-"count": 1721,
+"count": 1722,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -247,6 +247,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/ai-summarize",
+        "Category": "AI"
+    },
+    {
+        "API": "TranscriptFetch",
+        "Description": "YouTube transcript API for developers. Fetch captions from any video in production—no proxies, no IP blocks. Built for LLM, RAG, and MCP pipelines",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://transcriptfetch.com",
         "Category": "AI"
     },
     {
