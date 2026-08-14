@@ -1,5 +1,5 @@
 {
-"count": 1722,
+"count": 1723,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7671,6 +7671,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://dadosabertos.bcb.gov.br/",
+        "Category": "Government"
+    },
+    {
+        "API": "Brazil CNPJ",
+        "Description": "Query Brazilian companies by CNPJ with full Receita Federal registry data, no key required",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://cnpj.wiki/docs",
         "Category": "Government"
     },
     {
