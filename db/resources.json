@@ -1,5 +1,5 @@
 {
-"count": 1723,
+"count": 1724,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13199,6 +13199,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.huntapi.com",
+        "Category": "Video"
+    },
+    {
+        "API": "Hyperserve",
+        "Description": "Video backend API to upload any format, transcode to MP4, and deliver via CDN",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://hyperserve.io/",
         "Category": "Video"
     },
     {
