@@ -703,6 +703,7 @@
 | [Sheet2API](https://sheet2api.com/) | Easy Google Sheets and Excel Online API | `apiKey` | Unknown |
 | [Sheetsu](https://sheetsu.com/) | Easy google sheets integration | `apiKey` | Unknown |
 | [SnapAPI](https://api-snap.com) | Developer utility API with 13+ tools: QR codes, screenshots, image processing, hashing, and more | `apiKey` | Yes |
+| [Snapdok](https://snapdok.io) | Turn a web page's HTML form into a fillable AcroForm PDF, or render any URL to PDF, PNG or JPEG with real headless Chromium | `apiKey` | No |
 | [Sonar](https://github.com/Cgboal/SonarSearch) | Project Sonar DNS Enumeration API | No | Yes |
 | [SonarQube](https://sonarcloud.io/web_api) | SonarQube REST APIs to detect bugs, code smells & security vulnerabilities | `OAuth` | Unknown |
 | [SQLable](https://sqlable.com/csv-to-jsonl/) | CSV to JSONL conversion API | No | Yes |
