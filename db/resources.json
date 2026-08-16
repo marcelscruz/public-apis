@@ -1,5 +1,5 @@
 {
-"count": 1724,
+"count": 1725,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10111,6 +10111,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://objectcut.com/",
+        "Category": "Photography"
+    },
+    {
+        "API": "Pexafy",
+        "Description": "Semantic image search across 9+ free stock photo sources (Unsplash, Pexels, Pixabay & more), one unified JSON schema, plain-language and reverse image search",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://docs.pexafy.com",
         "Category": "Photography"
     },
     {
