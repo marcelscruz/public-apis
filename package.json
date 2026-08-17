@@ -1,0 +1,20 @@
+{
+    "name": "public-apis",
+    "description": "A collaborative list of public APIs for developers",
+    "scripts": {
+        "update-db": "node scripts/db/update-db.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/marcelscruz/public-apis.git"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/marcelscruz/public-apis#readme",
+    "bugs": {
+        "url": "https://github.com/marcelscruz/public-apis/issues"
+    },
+    "dependencies": {
+        "remark-parse": "^9.0.0",
+        "unified": "^9.2.2"
+    }
+}

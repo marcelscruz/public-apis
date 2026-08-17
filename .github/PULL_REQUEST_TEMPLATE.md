@@ -1,0 +1,15 @@
+<!-- Thank you for taking the time to work on a Pull Request for this project! -->
+<!-- To ensure your PR is dealt with swiftly please check the following: -->
+
+-   [ ] My submission meets the What we accept criteria in the [contributing guide](https://github.com/marcelscruz/public-apis/blob/main/CONTRIBUTING.md)
+-   [ ] My submission is formatted according to the guidelines in the [contributing guide](https://github.com/marcelscruz/public-apis/blob/main/CONTRIBUTING.md)
+-   [ ] My addition is ordered alphabetically
+-   [ ] My submission has a useful description
+-   [ ] The URL starts with `https://` and points to the API's homepage (not a deep link, docs page or subdomain), where applicable
+-   [ ] The description is under 160 characters, so it fits the listing card
+-   [ ] Each table column is padded with one space on either side
+-   [ ] I have searched the repository for any relevant issues or pull requests
+-   [ ] Any category I am creating has the minimum requirement of 3 items
+-   [ ] All changes have been [squashed][squash-link] into a single commit
+
+[squash-link]: https://github.com/todotxt/todo.txt-android/wiki/Squash-All-Commits-Related-to-a-Single-Issue-into-a-Single-Commit

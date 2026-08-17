@@ -1,0 +1,23 @@
+name: Update DB
+
+on:
+    push: { branches: main }
+    # schedule:
+    #     # Every day at 00:00AM
+    #     - cron: '0 0 * * *'
+    workflow_dispatch:
+
+jobs:
+    update-db:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - uses: actions/setup-node@v3
+            - run: npm install
+            - run: npm run update-db
+            - run: |
+                  git config user.name "GitHub Actions Bot"
+                  git config user.email "<>"
+            - run: git add .
+            - run: git commit -m "Auto updating db" || echo "Nothing to commit"
+            - run: git push origin HEAD:main
