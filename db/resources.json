@@ -1,5 +1,5 @@
 {
-"count": 1723,
+"count": 1721,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -8186,14 +8186,6 @@
         "Category": "Government"
     },
     {
-        "API": "Open Government, Saudi Arabia",
-        "Description": "Saudi Arabia Government Open Data",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://data.gov.sa",
-        "Category": "Government"
-    },
-    {
         "API": "Open Government, Singapore",
         "Description": "Singapore Government Open Data",
         "Auth": "",
@@ -8215,14 +8207,6 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://podatki.gov.si/",
-        "Category": "Government"
-    },
-    {
-        "API": "Open Government, South Australian Government",
-        "Description": "South Australian Government Open Data",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://data.sa.gov.au/",
         "Category": "Government"
     },
     {
