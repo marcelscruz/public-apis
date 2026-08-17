@@ -685,7 +685,7 @@
         "API": "ScanMalware",
         "Description": "Scan URLs in a sandboxed browser and search past scans by domain, IP, ASN, JARM or favicon hash",
         "Auth": "",
-        "Cors": "no",
+        "Cors": "yes",
         "Link": "https://scanmalware.com",
         "Category": "Anti-Malware"
     },
