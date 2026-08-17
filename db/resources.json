@@ -1,5 +1,5 @@
 {
-"count": 1728,
+"count": 1727,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -3239,14 +3239,6 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://docs.gitlab.com/ee/api/",
-        "Category": "Development"
-    },
-    {
-        "API": "Glitterly",
-        "Description": "Image generation API",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://developers.glitterly.app",
         "Category": "Development"
     },
     {
