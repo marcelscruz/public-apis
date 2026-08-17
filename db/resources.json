@@ -1,5 +1,5 @@
 {
-"count": 1725,
+"count": 1724,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -10327,14 +10327,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://ce.judge0.com/",
-        "Category": "Programming"
-    },
-    {
-        "API": "Let's Count",
-        "Description": "Create, retrieve, update, increment, and decrement counters identified by namespace and key",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://letscountapi.com",
         "Category": "Programming"
     },
     {
