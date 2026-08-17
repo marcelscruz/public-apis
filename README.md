@@ -1889,7 +1889,6 @@
 | [Analyse Keywords API](https://apyhub.com/utility/analyse-keywords) | This API lets you extract high-frequency keywords, key phrases and latent semantic keywords from any URL | `apiKey` | Yes |
 | [Aylien Text Analysis](https://docs.aylien.com/textapi/#getting-started) | A collection of information retrieval and natural language APIs | `apiKey` | Unknown |
 | [Brainiall Text-to-Speech](https://www.brainiall.com/en/apis/text-to-speech) | Pay-as-you-go multilingual text-to-speech with Portuguese voices and WAV, MP3, and Opus output | `apiKey` | Yes |
-| [Chatpdf](https://chatpdf.so/api) | Chat with pdf using GPT4 and ChatGPT | `apiKey` | Yes |
 | [Cloudmersive Natural Language Processing](https://www.cloudmersive.com/nlp-api) | Natural language processing and text analysis | `apiKey` | Yes |
 | [Code Detection API](https://codedetectionapi.runtime.dev) | Detect, label, format and enrich the code in your app or in your data pipeline | `OAuth` | Unknown |
 | [Convert Text to Speech API](https://apyhub.com/utility/text-to-speech/) | This API converts any text to speech automatically | `apiKey` | Yes |
