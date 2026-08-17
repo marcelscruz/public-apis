@@ -1,5 +1,5 @@
 {
-"count": 1718,
+"count": 1717,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -5135,14 +5135,6 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://pm25.lass-net.org/#apis",
-        "Category": "Environment"
-    },
-    {
-        "API": "PVWatts",
-        "Description": "Energy production photovoltaic (PV) energy systems",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://developer.nrel.gov/docs/solar/pvwatts/v6/",
         "Category": "Environment"
     },
     {
