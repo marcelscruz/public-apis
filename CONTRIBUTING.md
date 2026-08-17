@@ -102,7 +102,7 @@ During the discussion, you may be asked to make some changes to your pull reques
 
 If so, add more commits to your branch and push them – they will automatically go into the existing pull request. But don't forget to squash them.
 
-Opening a pull request will trigger a build to check the validity of all links in the project. After the build completes, **please ensure that the build has passed**. If the build did not pass, please view the build logs and correct any errors that were found in your contribution.
+There is no CI build to wait for: the automated reviewer checks your entry when the pull request is opened (including that the URL is reachable), and every listed API is link-checked continuously after it lands. Please still make sure the URL you submit is live and correct — a dead or redirecting link is the most common reason a submission is sent back.
 
 _Thanks for being a part of this project, and we look forward to hearing from you soon!_
 
