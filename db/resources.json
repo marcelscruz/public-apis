@@ -1,5 +1,5 @@
 {
-"count": 1726,
+"count": 1725,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -9903,14 +9903,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.udemy.com/developers/instructor/",
-        "Category": "Personality"
-    },
-    {
-        "API": "Vadivelu HTTP Codes",
-        "Description": "On demand HTTP Codes with images",
-        "Auth": "",
-        "Cors": "no",
-        "Link": "https://vadivelu.anoram.com/",
         "Category": "Personality"
     },
     {
