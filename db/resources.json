@@ -1,5 +1,5 @@
 {
-"count": 1721,
+"count": 1718,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -1114,14 +1114,6 @@
         "Category": "Blockchain"
     },
     {
-        "API": "A Bíblia Digital",
-        "Description": "Do not worry about managing the multiple versions of the Bible",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://www.abibliadigital.com.br/en",
-        "Category": "Books"
-    },
-    {
         "API": "Bhagavad Gita telugu",
         "Description": "Bhagavad Gita API in telugu and odia languages",
         "Auth": "",
@@ -2151,14 +2143,6 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://www.cryptocompare.com/api#",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "CryptoMarket",
-        "Description": "Cryptocurrencies Trading platform",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://api.exchange.cryptomkt.com/",
         "Category": "Cryptocurrency"
     },
     {
@@ -6479,14 +6463,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://docs.mod.io",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "Mojang",
-        "Description": "Mojang / Minecraft API",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://wiki.vg/Mojang_API",
         "Category": "Games & Comics"
     },
     {
