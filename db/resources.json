@@ -1,5 +1,5 @@
 {
-"count": 1726,
+"count": 1727,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -2847,6 +2847,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://apiflash.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "APILayer",
+        "Description": "APILayer is a unified API marketplace with 40+ production-ready APIs for finance, geolocation, weather, data, and AI. Trusted by 2.2M+ developers",
+        "Auth": "",
+        "Cors": "unknown",
+        "Link": "https://apilayer.com",
         "Category": "Development"
     },
     {
