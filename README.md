@@ -876,7 +876,6 @@
 | [National Grid ESO](https://data.nationalgrideso.com/) | Open data from Great Britain’s Electricity System Operator | No | Unknown |
 | [OpenAQ](https://docs.openaq.org/) | Open air quality data | `apiKey` | Unknown |
 | [PM2.5 Open Data Portal](https://pm25.lass-net.org/#apis) | Open low-cost PM2.5 sensor data | No | Unknown |
-| [PVWatts](https://developer.nrel.gov/docs/solar/pvwatts/v6/) | Energy production photovoltaic (PV) energy systems | `apiKey` | Unknown |
 | [Solematica](https://www.solematica.it/sviluppatori) | Compare Italian solar installer offers, energy prices (PUN/ARERA) and satellite roof data | No | No |
 | [Srp Energy](https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html) | Hourly usage energy report for Srp customers | `apiKey` | No |
 | [Thames Water Open Data](https://data.thameswater.co.uk) | Open Data from the UK's largest water and wastewater services company | `apiKey` | Unknown |
