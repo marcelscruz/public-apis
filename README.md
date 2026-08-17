@@ -1373,6 +1373,7 @@
 | [Jobicy](https://jobicy.com/jobs-rss-feed) | Remote Jobs API Feed | No | Unknown |
 | [JobsPipe](https://jobspipe.dev/docs) | Search live job postings from job boards and company career sites, plus tech stack detection by domain | `apiKey` | Yes |
 | [Jobvetta](https://www.jobvetta.com/api) | Live, vetted job listings from official employer sources across India | `apiKey` | Yes |
+| [JobYap](https://jobyap.com/agents) | Job postings aggregated from companies' careers sites, with community discussion threads | No | Yes |
 | [Jooble](https://jooble.org/api/about) | Job search engine | `apiKey` | Unknown |
 | [Juju](https://www.juju.com/publisher/spec/) | Job search engine | `apiKey` | Unknown |
 | [OkJob](https://okjob.io/api) | 4 day week job board | `apiKey` | Unknown |
