@@ -1,5 +1,5 @@
 {
-"count": 1727,
+"count": 1726,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -1119,14 +1119,6 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://www.abibliadigital.com.br/en",
-        "Category": "Books"
-    },
-    {
-        "API": "Bhagavad Gita",
-        "Description": "Bhagavad Gita text",
-        "Auth": "OAuth",
-        "Cors": "yes",
-        "Link": "https://bhagavadgita.io/api",
         "Category": "Books"
     },
     {
