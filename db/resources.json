@@ -1,5 +1,5 @@
 {
-"count": 1727,
+"count": 1728,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -11791,6 +11791,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://rapidapi.com/heisenbug/api/premier-league-live-scores/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "Racing Alpha",
+        "Description": "AI win-probability scores, fair prices and draw-bias stats for UK & Irish horse racing",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://racingalpha.co.uk/developers",
         "Category": "Sports & Fitness"
     },
     {
