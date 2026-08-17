@@ -1293,7 +1293,6 @@
 | [Open Government, Portugal](https://dados.gov.pt/en/docapi/) | Portugal Government Open Data | `apiKey` | Yes |
 | [Open Government, Queensland Government](https://www.data.qld.gov.au/) | Queensland Government Open Data | No | Unknown |
 | [Open Government, Romania](https://data.gov.ro/) | Romania Government Open Data | No | Unknown |
-| [Open Government, Saudi Arabia](https://data.gov.sa) | Saudi Arabia Government Open Data | No | Unknown |
 | [Open Government, Singapore](https://data.gov.sg/developer) | Singapore Government Open Data | No | Unknown |
 | [Open Government, Slovakia](https://data.gov.sk/en/) | Slovakia Government Open Data | No | Unknown |
 | [Open Government, Slovenia](https://podatki.gov.si/) | Slovenia Government Open Data | No | No |
