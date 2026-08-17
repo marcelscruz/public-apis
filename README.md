@@ -250,7 +250,6 @@
 | [PHP-Noise](https://php-noise.com/) | Noise Background Image Generator | No | Yes |
 | [Picsart](https://picsart.io) | Image & video editing, generative AI, 100+ AI models via unified API | `apiKey` | Yes |
 | [Pika](https://pika.style/image-generation-api) | Image Generation API | `apiKey` | Yes |
-| [Rijksmuseum](https://data.rijksmuseum.nl/object-metadata/api/) | RijksMuseum Data | `apiKey` | Unknown |
 | [The Color](https://www.thecolorapi.com/) | Swiss army knife for color | No | Unknown |
 | [Word Cloud](https://wordcloudapi.com/) | Easily create word clouds | `apiKey` | Unknown |
 | [xColors](https://github.com/cheatsnake/xColors-api) | Generate & convert colors | No | Yes |
