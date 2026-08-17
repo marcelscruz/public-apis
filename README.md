@@ -1067,7 +1067,6 @@
 | [Minecraft ServerHub](https://minecraft-serverhub.com/developers) | Minecraft server status, player counts, MOTD, and live status badges | No | Yes |
 | [MMO Games](https://www.mmobomb.com/api) | MMO Games Database, News and Giveaways | No | No |
 | [mod.io](https://docs.mod.io) | Cross Platform Mod API | `apiKey` | Unknown |
-| [Mojang](https://wiki.vg/Mojang_API) | Mojang / Minecraft API | `apiKey` | Unknown |
 | [Monster Hunter World](https://docs.mhw-db.com/) | Monster Hunter World data | No | Yes |
 | [moogleAPI](https://www.moogleapi.com/) | Final Fantasy franchise data | No | Unknown |
 | [Multilingual Truth or Dare Game ](https://rapidapi.com/vintarok-vintarok-default/api/multilingual-truth-or-dare-party-date-game-api) | Truth or Dare party/date game with multilingual support and random challenges | `apiKey` | Yes |
