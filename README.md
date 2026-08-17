@@ -217,7 +217,7 @@
 | [MalwareBazaar](https://bazaar.abuse.ch/api/) | Collect and share malware samples | `apiKey` | Unknown |
 | [Metacert](https://metacert.com/) | Metacert Link Flagging | `apiKey` | Unknown |
 | [Scanii](https://docs.scanii.com/) | Simple REST API that can scan submitted documents/files for the presence of threats | `apiKey` | Yes |
-| [ScanMalware](https://scanmalware.com) | Scan URLs in a sandboxed browser and search past scans by domain, IP, ASN, JARM or favicon hash | No | No |
+| [ScanMalware](https://scanmalware.com) | Scan URLs in a sandboxed browser and search past scans by domain, IP, ASN, JARM or favicon hash | No | Yes |
 | [URLhaus](https://urlhaus-api.abuse.ch/) | Bulk queries and Download Malware Samples | No | Yes |
 | [URLScan.io](https://urlscan.io/about-api/) | Scan and Analyse URLs | `apiKey` | Unknown |
 | [Verisys Antivirus API](https://www.ionxsolutions.com/products/antivirus-api) | Antivirus as a service - REST API that scans provided files for malware and NSFW content | `apiKey` | Yes |
