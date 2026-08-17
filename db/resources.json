@@ -1,5 +1,5 @@
 {
-"count": 1724,
+"count": 1723,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -1327,14 +1327,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://charityapi.orghunter.com/",
-        "Category": "Business"
-    },
-    {
-        "API": "CompanyData.com",
-        "Description": "Connect your software to real-time company data from official trade registers. Search all active companies worldwide, including directors, owners, executives, enrichment, or KYC directly in your platform",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://companydata.com",
         "Category": "Business"
     },
     {
