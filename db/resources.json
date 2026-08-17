@@ -1,5 +1,5 @@
 {
-"count": 1715,
+"count": 1714,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -895,14 +895,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://pika.style/image-generation-api",
-        "Category": "Art & Design"
-    },
-    {
-        "API": "Rijksmuseum",
-        "Description": "RijksMuseum Data",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://data.rijksmuseum.nl/object-metadata/api/",
         "Category": "Art & Design"
     },
     {
