@@ -1,5 +1,5 @@
 {
-"count": 1714,
+"count": 1712,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -4871,14 +4871,6 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://trueguard.io",
-        "Category": "Email"
-    },
-    {
-        "API": "Verifier",
-        "Description": "Verifies that a given email is real",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://verifier.meetchopra.com/docs#/",
         "Category": "Email"
     },
     {
@@ -12039,14 +12031,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.brainiall.com/en/apis/text-to-speech",
-        "Category": "Text Analysis"
-    },
-    {
-        "API": "Chatpdf",
-        "Description": "Chat with pdf using GPT4 and ChatGPT",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://chatpdf.so/api",
         "Category": "Text Analysis"
     },
     {
