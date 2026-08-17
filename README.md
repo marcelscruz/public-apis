@@ -1232,7 +1232,6 @@
 | [City, Berlin](https://daten.berlin.de/) | Berlin(DE) City Open Data | No | Unknown |
 | [City, Gdańsk](https://ckan.multimediagdansk.pl/en) | Gdańsk (PL) City Open Data | No | Unknown |
 | [City, Gdynia](https://otwartedane.gdynia.pl/en/api_doc.html) | Gdynia (PL) City Open Data | No | Unknown |
-| [City, Helsinki](https://hri.fi/en_gb/) | Helsinki(FI) City Open Data | No | Unknown |
 | [City, Lviv](https://opendata.city-adm.lviv.ua/) | Lviv(UA) City Open Data | No | Unknown |
 | [City, Nantes Open Data](https://data.nantesmetropole.fr/pages/home/) | Nantes(FR) City Open Data | `apiKey` | Unknown |
 | [City, New York Open Data](https://opendata.cityofnewyork.us/) | New York (US) City Open Data | No | Unknown |
