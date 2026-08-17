@@ -560,6 +560,7 @@
 | [API Status Check](https://apistatuscheck.com) | Real-time status and uptime monitoring for 270+ APIs and services | No | Yes |
 | [ApicAgent](https://www.apicagent.com) | Extract device details from user-agent string | No | Yes |
 | [ApiFlash](https://apiflash.com/) | Chrome based screenshot API for developers | `apiKey` | Unknown |
+| [APILayer](https://apilayer.com) | APILayer is a unified API marketplace with 40+ production-ready APIs for finance, geolocation, weather, data, and AI. Trusted by 2.2M+ developers | No | Unknown |
 | [APIs.guru](https://apis.guru/api-doc/) | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | No | Unknown |
 | [ApyHub: A Complete API Catalog](https://apyhub.com/catalog) | Build and ship applications that scale using certified APIs for every use case | `apiKey` | Yes |
 | [ASORadar](https://asoradar.com) | App Store and Google Play reviews, ratings, rankings and app metadata | `apiKey` | Unknown |
