@@ -1,5 +1,5 @@
 {
-"count": 1717,
+"count": 1715,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -7698,14 +7698,6 @@
         "Category": "Government"
     },
     {
-        "API": "City, Helsinki",
-        "Description": "Helsinki(FI) City Open Data",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://hri.fi/en_gb/",
-        "Category": "Government"
-    },
-    {
         "API": "City, Lviv",
         "Description": "Lviv(UA) City Open Data",
         "Auth": "",
@@ -8991,14 +8983,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.theaudiodb.com/api_guide.php",
-        "Category": "Music"
-    },
-    {
-        "API": "Vagalume",
-        "Description": "Crowdsourced lyrics and music knowledge",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://api.vagalume.com.br/docs/",
         "Category": "Music"
     },
     {
