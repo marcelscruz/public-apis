@@ -1,8 +1,8 @@
 <!-- <div align="center">
     <div>
-        <p align="center"><a href="https://publicapis.dev?ref=dr-pa&utm_medium=public-apis-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/public-apis.png" width="130px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="130px"><img alt="Scrapfly logo" src="./assets/public-apis.png" width="130px"></picture></a>
+        <p align="center"><a href="https://publicapis.dev?ref=dr-pa&utm_source=public-apis-repo-readme&utm_medium=referral"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/public-apis.png" width="130px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="130px"><img alt="Scrapfly logo" src="./assets/public-apis.png" width="130px"></picture></a>
         </p>
-        <p align="center"><a href="https://publicapis.dev?ref=dr-pa&utm_medium=public-apis-repo-readme">Public APIs</a> — A collaborative list of public APIs for developers.</p>
+        <p align="center"><a href="https://publicapis.dev?ref=dr-pa&utm_source=public-apis-repo-readme&utm_medium=referral">Public APIs</a> — A collaborative list of public APIs for developers.</p>
     </div>
 </div>
 
