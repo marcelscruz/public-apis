@@ -1,5 +1,5 @@
 {
-"count": 1712,
+"count": 1675,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -167,14 +167,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://irisnet.de/api/",
-        "Category": "AI"
-    },
-    {
-        "API": "jsonAi.cloud",
-        "Description": "Save JSON schemas as api endpoints, feed it with your data and get structured JSON responses with AI",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://jsonai.cloud",
         "Category": "AI"
     },
     {
@@ -663,14 +655,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://bazaar.abuse.ch/api/",
-        "Category": "Anti-Malware"
-    },
-    {
-        "API": "Metacert",
-        "Description": "Metacert Link Flagging",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://metacert.com/",
         "Category": "Anti-Malware"
     },
     {
@@ -1466,46 +1450,6 @@
         "Category": "Business"
     },
     {
-        "API": "Tenders in Hungary",
-        "Description": "Get data for procurements in Hungary in JSON format",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://tenders.guru/hu/api",
-        "Category": "Business"
-    },
-    {
-        "API": "Tenders in Poland",
-        "Description": "Get data for procurements in Poland in JSON format",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://tenders.guru/pl/api",
-        "Category": "Business"
-    },
-    {
-        "API": "Tenders in Romania",
-        "Description": "Get data for procurements in Romania in JSON format",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://tenders.guru/ro/api",
-        "Category": "Business"
-    },
-    {
-        "API": "Tenders in Spain",
-        "Description": "Get data for procurements in Spain in JSON format",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://tenders.guru/es/api",
-        "Category": "Business"
-    },
-    {
-        "API": "Tenders in Ukraine",
-        "Description": "Get data for procurements in Ukraine in JSON format",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://tenders.guru/ua/api",
-        "Category": "Business"
-    },
-    {
         "API": "Tomba email finder",
         "Description": "Email Finder for B2B sales and email marketing and email verifier",
         "Auth": "apiKey",
@@ -1903,14 +1847,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://github.com/binance/binance-spot-api-docs",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "BitcoinAverage",
-        "Description": "Digital Asset Price Data for the blockchain industry",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://apiv2.bitcoinaverage.com/",
         "Category": "Cryptocurrency"
     },
     {
@@ -2330,14 +2266,6 @@
         "Category": "Cryptocurrency"
     },
     {
-        "API": "Technical Analysis",
-        "Description": "Cryptocurrency prices and technical analysis",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://technical-analysis-api.com",
-        "Category": "Cryptocurrency"
-    },
-    {
         "API": "Trading View",
         "Description": "Market price, data, graph for brokers and traders",
         "Auth": "OAuth",
@@ -2530,14 +2458,6 @@
         "Category": "Currency Exchange"
     },
     {
-        "API": "FreeForexAPI",
-        "Description": "Real-time foreign exchange rates for major currency pairs",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://freeforexapi.com/Home/Api",
-        "Category": "Currency Exchange"
-    },
-    {
         "API": "FxFeed.io",
         "Description": "Foreign exchange rates, currency conversion and time series data",
         "Auth": "apiKey",
@@ -2551,14 +2471,6 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://fxratesapi.com/",
-        "Category": "Currency Exchange"
-    },
-    {
-        "API": "FyGraph",
-        "Description": "GraphQL API of latest 1.000+ crypto and 167+ fiat updated every minute",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://fygraph.com",
         "Category": "Currency Exchange"
     },
     {
@@ -2946,27 +2858,11 @@
         "Category": "Development"
     },
     {
-        "API": "Cache Horse",
-        "Description": "Combine/batch & cache multiple HTTP requests to save on API quotas, speed up & simplify your app",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://cache.horse",
-        "Category": "Development"
-    },
-    {
         "API": "CDNJS",
         "Description": "Library info on CDNJS",
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://api.cdnjs.com/libraries/jquery",
-        "Category": "Development"
-    },
-    {
-        "API": "ChatterBox",
-        "Description": "One API for meeting bots on Zoom, Meet & Teams",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://chatter-box.io/",
         "Category": "Development"
     },
     {
@@ -3167,14 +3063,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/generate-webpage-screenshot",
-        "Category": "Development"
-    },
-    {
-        "API": "GETPing",
-        "Description": "Trigger an email notification with a simple GET request",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://www.getping.info",
         "Category": "Development"
     },
     {
@@ -3506,22 +3394,6 @@
         "Category": "Development"
     },
     {
-        "API": "MicroENV",
-        "Description": "Fake Rest API for developers",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://microenv.com/",
-        "Category": "Development"
-    },
-    {
-        "API": "Mocky",
-        "Description": "Mock user defined test JSON for REST API endpoints",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://designer.mocky.io/",
-        "Category": "Development"
-    },
-    {
         "API": "MY IP",
         "Description": "Get IP address information",
         "Auth": "",
@@ -3735,14 +3607,6 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://quickchart.io/",
-        "Category": "Development"
-    },
-    {
-        "API": "Rejax",
-        "Description": "Reverse AJAX service to notify clients",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://rejax.io/",
         "Category": "Development"
     },
     {
@@ -4087,14 +3951,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://webscraping.ai/",
-        "Category": "Development"
-    },
-    {
-        "API": "YADG",
-        "Description": "An API that scrapes music release data and renders it using different templates",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://yadg.cc/api/v2/",
         "Category": "Development"
     },
     {
@@ -4466,14 +4322,6 @@
         "Category": "Documents & Productivity"
     },
     {
-        "API": "OCR AI",
-        "Description": "Document validation API using OCR and AI. Automatically extracts data from documents and compares it with user-provided data to verify consistency",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://ocrai.xyz",
-        "Category": "Documents & Productivity"
-    },
-    {
         "API": "PandaDoc",
         "Description": "DocGen and eSignatures API",
         "Auth": "apiKey",
@@ -4623,14 +4471,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/audio-converter-wav-mp3",
-        "Category": "Documents & Productivity"
-    },
-    {
-        "API": "WebPDF",
-        "Description": "Work with PDF files via API",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://webpdf.xyz/",
         "Category": "Documents & Productivity"
     },
     {
@@ -5026,14 +4866,6 @@
         "Category": "Environment"
     },
     {
-        "API": "Air Quality Index",
-        "Description": "Real-time air quality data including AQI and pollutant concentrations for worldwide locations",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://www.juheapi.com/api-catalog/aqi",
-        "Category": "Environment"
-    },
-    {
         "API": "BreezoMeter Pollen",
         "Description": "Daily Forecast pollen conditions data for a specific location",
         "Auth": "apiKey",
@@ -5423,14 +5255,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://finsignals.ai/docs/",
-        "Category": "Finance"
-    },
-    {
-        "API": "Finturest IBAN",
-        "Description": "Fast, accurate IBAN validation and generation",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://finturest.com/products/iban-api",
         "Category": "Finance"
     },
     {
@@ -6674,14 +6498,6 @@
         "Category": "Games & Comics"
     },
     {
-        "API": "TCGdex",
-        "Description": "Multi languages Pokémon TCG Information",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://www.tcgdex.net/docs",
-        "Category": "Games & Comics"
-    },
-    {
         "API": "Tebex",
         "Description": "Tebex API for information about game purchases",
         "Auth": "X-Mashape-Key",
@@ -6978,14 +6794,6 @@
         "Category": "Geocoding"
     },
     {
-        "API": "Geodata.gov.gr",
-        "Description": "Open geospatial data and API service for Greece",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://geodata.gov.gr/en/",
-        "Category": "Geocoding"
-    },
-    {
         "API": "GeoDataSource",
         "Description": "Geocoding of city name by using latitude and longitude coordinates",
         "Auth": "apiKey",
@@ -7103,14 +6911,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developer.here.com",
-        "Category": "Geocoding"
-    },
-    {
-        "API": "Hong Kong GeoData Store",
-        "Description": "API for accessing geo-data of Hong Kong",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://geodata.gov.hk/gs/",
         "Category": "Geocoding"
     },
     {
@@ -7418,14 +7218,6 @@
         "Category": "Geocoding"
     },
     {
-        "API": "RoadGoat Cities",
-        "Description": "Cities content & photos API",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://www.roadgoat.com/business/cities-api",
-        "Category": "Geocoding"
-    },
-    {
         "API": "Rwanda Locations",
         "Description": "Rwanda Provinces, Districts, Cities, Capital City, Sector, cells, villages and streets",
         "Auth": "",
@@ -7439,14 +7231,6 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://github.com/slftool/slftool.github.io/blob/master/API.md",
-        "Category": "Geocoding"
-    },
-    {
-        "API": "SpotSense",
-        "Description": "Add location based interactions to your mobile app",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://spotsense.io/",
         "Category": "Geocoding"
     },
     {
@@ -10346,14 +10130,6 @@
         "Category": "Science & Math"
     },
     {
-        "API": "ISRO Statistics",
-        "Description": "ISRO Launches and Spacecrafts details",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://isrostats.in/apis",
-        "Category": "Science & Math"
-    },
-    {
         "API": "ITIS",
         "Description": "Integrated Taxonomic Information System",
         "Auth": "",
@@ -10607,14 +10383,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://completecriminalchecks.com/Developers",
-        "Category": "Security"
-    },
-    {
-        "API": "CRXcavator",
-        "Description": "Chrome extension risk scoring",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://crxcavator.io/apidocs",
         "Category": "Security"
     },
     {
@@ -11274,14 +11042,6 @@
         "Category": "Social"
     },
     {
-        "API": "Saidit",
-        "Description": "Open Source Reddit Clone",
-        "Auth": "OAuth",
-        "Cors": "unknown",
-        "Link": "https://www.saidit.net/dev/api",
-        "Category": "Social"
-    },
-    {
         "API": "Slack",
         "Description": "Team Instant Messaging",
         "Auth": "OAuth",
@@ -11602,14 +11362,6 @@
         "Category": "Sports & Fitness"
     },
     {
-        "API": "NBA GraphQL",
-        "Description": "Advanced NBA Player, Team, and Season Statistics and Data",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://nbaapi.com/graphql/",
-        "Category": "Sports & Fitness"
-    },
-    {
         "API": "NBA Stats",
         "Description": "NBA player statistics, season totals, advanced metrics, game data, and shot chart data",
         "Auth": "",
@@ -11762,14 +11514,6 @@
         "Category": "Sports & Fitness"
     },
     {
-        "API": "SuredBits",
-        "Description": "Query sports data, including teams, players, games, scores and statistics",
-        "Auth": "",
-        "Cors": "no",
-        "Link": "https://suredbits.com/api/",
-        "Category": "Sports & Fitness"
-    },
-    {
         "API": "Table Tennis API",
         "Description": "The best table tennis API, including stats, predictions, rankings (also ELO), odds, live scores, point by point. Table Tennis websocket also available",
         "Auth": "apiKey",
@@ -11850,14 +11594,6 @@
         "Category": "Test Data"
     },
     {
-        "API": "FakerAPI",
-        "Description": "APIs collection to get fake data",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://fakerapi.it/en",
-        "Category": "Test Data"
-    },
-    {
         "API": "FakeStoreAPI",
         "Description": "Fake store rest API for your e-commerce or shopping website prototype",
         "Auth": "",
@@ -11919,14 +11655,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.mockaroo.com/docs",
-        "Category": "Test Data"
-    },
-    {
-        "API": "Random Data",
-        "Description": "Random data generator",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://random-data-api.com",
         "Category": "Test Data"
     },
     {
@@ -12015,14 +11743,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/analyse-keywords",
-        "Category": "Text Analysis"
-    },
-    {
-        "API": "Aylien Text Analysis",
-        "Description": "A collection of information retrieval and natural language APIs",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://docs.aylien.com/textapi/#getting-started",
         "Category": "Text Analysis"
     },
     {
@@ -12183,14 +11903,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://cws.correios.com.br/ajuda",
-        "Category": "Tracking"
-    },
-    {
-        "API": "IndianPincodes",
-        "Description": "API for getting Pincode details in India",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://www.indianpincodes.co.in",
         "Category": "Tracking"
     },
     {
@@ -12431,14 +12143,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://openchargemap.org/site/develop/api",
-        "Category": "Transportation"
-    },
-    {
-        "API": "Railway Transport for France",
-        "Description": "SNCF public API",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://www.digital.sncf.com/startup/api",
         "Category": "Transportation"
     },
     {
