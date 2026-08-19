@@ -1,5 +1,5 @@
 {
-"count": 1677,
+"count": 1678,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -9975,6 +9975,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html#//apple_ref/doc/uid/TP40017632-CH3-SW1",
+        "Category": "Podcasts"
+    },
+    {
+        "API": "Particle",
+        "Description": "Podcast intelligence: podcast & episode search, transcripts, speakers, entity mentions, sponsor & advertising data, alerts and embeds",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://particle.pro",
         "Category": "Podcasts"
     },
     {
