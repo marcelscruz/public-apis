@@ -1,5 +1,5 @@
 {
-"count": 1675,
+"count": 1676,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -671,6 +671,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://scanmalware.com",
+        "Category": "Anti-Malware"
+    },
+    {
+        "API": "SniffCat",
+        "Description": "IP abuse lookup, reporting and threat intelligence",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://sniffcat.com/",
         "Category": "Anti-Malware"
     },
     {
