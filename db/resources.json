@@ -1,5 +1,5 @@
 {
-"count": 1676,
+"count": 1677,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -1832,6 +1832,14 @@
         "Cors": "unknown",
         "Link": "https://docs.travis-ci.com/api/",
         "Category": "Continuous Integration"
+    },
+    {
+        "API": "0xArchive",
+        "Description": "Real-time and historical Hyperliquid and Lighter market data",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://0xarchive.io",
+        "Category": "Cryptocurrency"
     },
     {
         "API": "1inch",
