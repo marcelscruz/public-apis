@@ -415,6 +415,7 @@
 ### Cryptocurrency
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [0xArchive](https://0xarchive.io) | Real-time and historical Hyperliquid and Lighter market data | `apiKey` | No |
 | [1inch](https://business.1inch.com/) | API for querying decentralize exchange | `apiKey` | Yes |
 | [Alchemy Ethereum](https://docs.alchemy.com/alchemy/) | Ethereum Node-as-a-Service Provider | `apiKey` | Yes |
 | [Binance](https://github.com/binance/binance-spot-api-docs) | Exchange for Trading Cryptocurrencies based in China | `apiKey` | Unknown |
