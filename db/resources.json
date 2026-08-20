@@ -1,5 +1,5 @@
 {
-"count": 1681,
+"count": 1682,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -271,6 +271,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://unplu.gg/test_api.html",
+        "Category": "AI"
+    },
+    {
+        "API": "WaveSpeedAI",
+        "Description": "Generate images, video and audio from 900+ open and commercial models (FLUX, Seedream, Kling, Wan) through one async REST API",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://wavespeed.ai",
         "Category": "AI"
     },
     {
