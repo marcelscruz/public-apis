@@ -627,6 +627,7 @@
 | [Kroki](https://kroki.io) | Creates diagrams from textual descriptions | No | Yes |
 | [Lua Decompiler](https://lua-decompiler.ferib.dev/) | Online Lua 5.1 Decompiler | No | Yes |
 | [MAC address vendor lookup](https://macaddress.io/api) | Retrieve vendor details and other information regarding a given MAC address or an OUI | `apiKey` | Yes |
+| [Magento Watch](https://magento.watch) | Release dates, end-of-life dates and system requirements for Magento Open Source, Adobe Commerce and Mage-OS versions | No | Yes |
 | [Markdown to HTML API](https://apyhub.com/utility/converter-md-html) | This API lets you upload and transform a Markdown file to HTML | `apiKey` | Yes |
 | [Markdown to JSON API](https://apyhub.com/utility/converter-markdown-json) | Upload Markdown and get JSON with one API call | `apiKey` | Yes |
 | [MetaScrape](https://metascrape.shanecode.org) | Extract metadata, Open Graph tags, and structured data from any URL | `apiKey` | Yes |
