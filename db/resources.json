@@ -1,5 +1,5 @@
 {
-"count": 1679,
+"count": 1680,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -8431,6 +8431,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://jobspipe.dev/docs",
+        "Category": "Jobs"
+    },
+    {
+        "API": "Jobven",
+        "Description": "Job postings collected directly from employer career pages, not job boards. Structured JSON over REST, with webhooks when listings change",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://jobven.com",
         "Category": "Jobs"
     },
     {
