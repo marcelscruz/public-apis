@@ -1,5 +1,5 @@
 {
-"count": 1682,
+"count": 1683,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -783,6 +783,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developer.dribbble.com",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "eeemoji",
+        "Description": "Emoji metadata: names, keywords, categories, shortcodes and skin-tone variants",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://eeemoji.com/api",
         "Category": "Art & Design"
     },
     {
