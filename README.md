@@ -1484,6 +1484,7 @@
 | [GitHub Contribution Chart Generator](https://github-contributions.vercel.app) | Create an image of your GitHub contributions | No | Yes |
 | [GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats) | Add dynamically generated statistics to your GitHub profile ReadMe | No | Yes |
 | [Metabase](https://www.metabase.com/) | An open source Business Intelligence server to share data and analytics inside your company | No | Yes |
+| [OpenSERP Cloud](https://openserp.org/) | Managed SERP API for Google, Bing, Yandex and more. Get live browser-rendered search results through a single API with data extraction | `apiKey` | No |
 | [Shields](https://shields.io/) | Concise, consistent, and legible badges in SVG and raster format | No | Unknown |
 
 **[⬆ Back to Index](#index)**
