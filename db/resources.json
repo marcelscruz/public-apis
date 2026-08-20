@@ -1,5 +1,5 @@
 {
-"count": 1680,
+"count": 1681,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -9423,6 +9423,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://www.metabase.com/",
+        "Category": "Open Source Projects"
+    },
+    {
+        "API": "OpenSERP Cloud",
+        "Description": "Managed SERP API for Google, Bing, Yandex and more. Get live browser-rendered search results through a single API with data extraction",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://openserp.org/",
         "Category": "Open Source Projects"
     },
     {
