@@ -148,6 +148,7 @@
 | [TranscriptFetch](https://transcriptfetch.com) | YouTube transcript API for developers. Fetch captions from any video in production—no proxies, no IP blocks. Built for LLM, RAG, and MCP pipelines | `apiKey` | Yes |
 | [UnoRouter](https://unorouter.com) | OpenAI-compatible gateway routing chat/completions across 500+ models with a free tier | `apiKey` | Yes |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Unknown |
+| [WaveSpeedAI](https://wavespeed.ai) | Generate images, video and audio from 900+ open and commercial models (FLUX, Seedream, Kling, Wan) through one async REST API | `apiKey` | Yes |
 | [WolframAlpha](https://products.wolframalpha.com/api/) | Provides specific answers to questions using data and algorithms | `apiKey` | Unknown |
 
 **[⬆ Back to Index](#index)**
