@@ -236,6 +236,7 @@
 | [Cooper Hewitt](https://collection.cooperhewitt.org/api) | Smithsonian Design Museum | `apiKey` | Unknown |
 | [DiceBear](https://dicebear.com) | Free avatar generation library with multiple styles | No | Yes |
 | [Dribbble](https://developer.dribbble.com) | Discover the world’s top designers & creatives | `OAuth` | Unknown |
+| [eeemoji](https://eeemoji.com/api) | Emoji metadata: names, keywords, categories, shortcodes and skin-tone variants | No | Yes |
 | [EmojiHub](https://github.com/cheatsnake/emojihub) | Get emojis by categories and groups | No | Yes |
 | [Europeana](https://pro.europeana.eu/resources/apis/search) | European Museum and Galleries content | `apiKey` | Unknown |
 | [GetGenAI (Packaging Compliance Review)](https://www.getgen.ai/build) | Compliance review API for product labels and marketing assets — automated checks against regulations, retailer specs, and brand guidelines, always up to date | `apiKey` | No |
