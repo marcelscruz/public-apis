@@ -1,5 +1,5 @@
 {
-"count": 1678,
+"count": 1679,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -3383,6 +3383,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://macaddress.io/api",
+        "Category": "Development"
+    },
+    {
+        "API": "Magento Watch",
+        "Description": "Release dates, end-of-life dates and system requirements for Magento Open Source, Adobe Commerce and Mage-OS versions",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://magento.watch",
         "Category": "Development"
     },
     {
