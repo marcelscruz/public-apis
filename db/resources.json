@@ -1,5 +1,5 @@
 {
-"count": 1683,
+"count": 1684,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -3663,6 +3663,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://reqres.in/",
+        "Category": "Development"
+    },
+    {
+        "API": "Reserp",
+        "Description": "Send a Google Search URL and receive visible result blocks as structured JSON",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://reserp.ai",
         "Category": "Development"
     },
     {
