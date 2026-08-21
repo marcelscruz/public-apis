@@ -23,13 +23,6 @@
 <br/>
 
 <div>
-    <p align="center"><a href="https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=referral&utm_content=sponsored"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/talordata-dark-mode.svg" width="69px"><source media="(prefers-color-scheme: light)" srcset="./assets/talordata-light-mode.svg" width="69px"><img alt="TalorData logo" src="./assets/talordata-dark-mode.svg" width="69px"></picture></a></p>
-    <p align="center"><a href="https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=referral&utm_content=sponsored">TalorData</a>: Get structured results from Google, Bing, Yandex, and DuckDuckGo through one API, with fast, reliable responses.</p>
-</div>
-
-<br/>
-
-<div>
     <p align="center"><a href="https://www.coreclaw.com/?utm_source=github&utm_medium=referral&utm_campaign=dev4&utm_term=&utm_id=dev4&ref=dr-pa&utm_content=sponsored"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/coreclaw-dark-mode.png" width="136px"><source media="(prefers-color-scheme: light)" srcset="./assets/coreclaw-light-mode.svg" width="136px"><img alt="CoreClaw logo" src="./assets/coreclaw-dark-mode.png" width="136px"></picture></a></p>
     <p align="center"><a href="https://www.coreclaw.com/?utm_source=github&utm_medium=referral&utm_campaign=dev4&utm_term=&utm_id=dev4&ref=dr-pa&utm_content=sponsored">CoreClaw</a>: Real-time public data, ready to use. Extract web data from Amazon, TikTok, Google Maps and more with 100+ ready-made tools.</p>
 </div>
