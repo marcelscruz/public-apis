@@ -1,5 +1,5 @@
 {
-"count": 1688,
+"count": 1689,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -5015,6 +5015,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://pm25.lass-net.org/#apis",
+        "Category": "Environment"
+    },
+    {
+        "API": "Smartatest",
+        "Description": "Calculators for home energy cost, lighting, air quality limits and GS1 barcode prefixes, in Swedish",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://smartatest.se/api",
         "Category": "Environment"
     },
     {
