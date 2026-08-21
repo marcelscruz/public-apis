@@ -23,13 +23,6 @@
 <br/>
 
 <div>
-    <p align="center"><a href="https://screenshotscout.com/?ref=dr-pa&utm_source=public-apis-repo-readme&utm_medium=referral&utm_content=sponsored"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/screenshot-scout-dark-mode.svg" width="220px"><source media="(prefers-color-scheme: light)" srcset="./assets/screenshot-scout-light-mode.svg" width="220px"><img alt="Screenshot Scout logo" src="./assets/screenshot-scout-dark-mode.svg" width="220px"></picture></a></p>
-    <p align="center"><a href="https://screenshotscout.com/?ref=dr-pa&utm_source=public-apis-repo-readme&utm_medium=referral&utm_content=sponsored">Screenshot Scout</a>: A screenshot API for developers that delivers clean, production-ready screenshots of any URL with a single HTTP request.</p>
-</div>
-
-<br/>
-
-<div>
     <p align="center"><a href="https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=referral&utm_content=sponsored"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/talordata-dark-mode.svg" width="69px"><source media="(prefers-color-scheme: light)" srcset="./assets/talordata-light-mode.svg" width="69px"><img alt="TalorData logo" src="./assets/talordata-dark-mode.svg" width="69px"></picture></a></p>
     <p align="center"><a href="https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=referral&utm_content=sponsored">TalorData</a>: Get structured results from Google, Bing, Yandex, and DuckDuckGo through one API, with fast, reliable responses.</p>
 </div>
