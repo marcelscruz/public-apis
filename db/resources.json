@@ -1,5 +1,5 @@
 {
-"count": 1686,
+"count": 1687,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -9279,6 +9279,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://ridb.recreation.gov/",
+        "Category": "Open Data"
+    },
+    {
+        "API": "Salary Explorer",
+        "Description": "Wages and employment for every US occupation by state and metro area, from Bureau of Labor Statistics survey data, with cost-of-living adjustment",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://salarywiki.com/api",
         "Category": "Open Data"
     },
     {
