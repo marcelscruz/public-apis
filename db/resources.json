@@ -1,5 +1,5 @@
 {
-"count": 1687,
+"count": 1688,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -215,6 +215,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://perspectiveapi.com",
+        "Category": "AI"
+    },
+    {
+        "API": "Prismix Status API",
+        "Description": "Real-time uptime and incident status for 75+ AI services (OpenAI, Anthropic, Cursor, Gemini)",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://prismix.dev/api-docs",
         "Category": "AI"
     },
     {
