@@ -1,5 +1,5 @@
 {
-"count": 1684,
+"count": 1686,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -4679,6 +4679,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://mailtrap.docs.apiary.io/#",
+        "Category": "Email"
+    },
+    {
+        "API": "MailValid",
+        "Description": "Real-time email verification API with SMTP, MX, disposable, role-based, and catch-all detection. Verify single or bulk emails with confidence scoring",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://mailvalid.io",
         "Category": "Email"
     },
     {
@@ -9687,6 +9695,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.abstractapi.com/phone-validation-api",
+        "Category": "Phone"
+    },
+    {
+        "API": "CheckThatPhone",
+        "Description": "Real-time phone validation API for US & Canada: carrier and line type from live carrier data, portability, deliverability, GeoIP and TCPA litigator scrub",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://checkthatphone.com",
         "Category": "Phone"
     },
     {
