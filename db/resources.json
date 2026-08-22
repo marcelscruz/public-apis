@@ -1,5 +1,5 @@
 {
-"count": 1689,
+"count": 1690,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -1000,6 +1000,14 @@
         "Cors": "yes",
         "Link": "https://docs.warrant.dev/",
         "Category": "Authentication & Authorization"
+    },
+    {
+        "API": "Animica",
+        "Description": "Post-quantum proof-of-work L1 blockchain explorer REST API and node JSON-RPC, with OpenAPI and OpenRPC documents",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://explorer.animica.org",
+        "Category": "Blockchain"
     },
     {
         "API": "Bitquery",
