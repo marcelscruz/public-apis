@@ -261,6 +261,7 @@
 ### Blockchain
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [Animica](https://explorer.animica.org) | Post-quantum proof-of-work L1 blockchain explorer REST API and node JSON-RPC, with OpenAPI and OpenRPC documents | No | Yes |
 | [Bitquery](https://graphql.bitquery.io/ide) | Onchain GraphQL APIs & DEX APIs | `apiKey` | Yes |
 | [Blockscout](https://docs.blockscout.com/devs/apis) | Multi-chain explorer for Ethereum and 100+ EVM chains | `apiKey` | Yes |
 | [Bscscan](https://bscscan.com/apis) | Binance Smart Chain explorer API | `apiKey` | Yes |
