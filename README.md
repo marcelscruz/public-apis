@@ -23,6 +23,13 @@
 <br/>
 
 <div>
+    <p align="center"><a href="https://webz.io/?ref=dr-pa&utm_source=public-apis-repo-readme&utm_medium=referral&utm_content=sponsored"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/webz-io-news-api-dark-mode.svg" width="134px"><source media="(prefers-color-scheme: light)" srcset="./assets/webz-io-news-api-light-mode.svg" width="134px"><img alt="Webz.io News API logo" src="./assets/webz-io-news-api-dark-mode.svg" width="134px"></picture></a></p>
+    <p align="center"><a href="https://webz.io/?ref=dr-pa&utm_source=public-apis-repo-readme&utm_medium=referral&utm_content=sponsored">Webz.io News API</a>: Webz.io News APIs provide global news data for search, monitoring, analytics, and AI applications, with powerful filters and natural-language search.</p>
+</div>
+
+<br/>
+
+<div>
     <p align="center"><a href="https://www.coreclaw.com/?utm_source=github&utm_medium=referral&utm_campaign=dev4&utm_term=&utm_id=dev4&ref=dr-pa&utm_content=sponsored"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/coreclaw-dark-mode.png" width="136px"><source media="(prefers-color-scheme: light)" srcset="./assets/coreclaw-light-mode.svg" width="136px"><img alt="CoreClaw logo" src="./assets/coreclaw-dark-mode.png" width="136px"></picture></a></p>
     <p align="center"><a href="https://www.coreclaw.com/?utm_source=github&utm_medium=referral&utm_campaign=dev4&utm_term=&utm_id=dev4&ref=dr-pa&utm_content=sponsored">CoreClaw</a>: Real-time public data, ready to use. Extract web data from Amazon, TikTok, Google Maps and more with 100+ ready-made tools.</p>
 </div>
