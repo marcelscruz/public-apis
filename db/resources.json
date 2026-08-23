@@ -1,5 +1,5 @@
 {
-"count": 1690,
+"count": 1691,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -10663,6 +10663,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog",
+        "Category": "Security"
+    },
+    {
+        "API": "Offendersearch",
+        "Description": "Search sex-offender records across all 58 US state, territory and tribal registries in one query; REST API plus open data",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://offendersearch.app",
         "Category": "Security"
     },
     {
