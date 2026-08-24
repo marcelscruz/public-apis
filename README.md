@@ -1768,6 +1768,7 @@
 | [Twitch](https://dev.twitch.tv/docs) | Game Streaming API | `OAuth` | Unknown |
 | [Twitter](https://developer.twitter.com/en/docs) | Read and write Twitter data | `OAuth` | No |
 | [TwitterApi.IO](https://twitterapi.io) | Access Twitter's Real-time & Historical Data with Unmatched Simplicity | `apiKey` | No |
+| [TwitterAPIs](https://www.twitterapis.com/) | Twitter/X data API: search, profiles, timelines, followers, threads, DMs, plus write actions | `apiKey` | Unknown |
 | [vk](https://vk.com/dev/sites) | Read and write vk data | `OAuth` | Unknown |
 | [Webex](https://developer.webex.com) | Team collaboration software | `OAuth` | Yes |
 | [WoopSocial](https://docs.woopsocial.com/) | Schedule and publish posts across social media platforms | `apiKey` | No |
