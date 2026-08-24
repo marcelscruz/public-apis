@@ -1,5 +1,5 @@
 {
-"count": 1691,
+"count": 1692,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -9071,6 +9071,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://trove.nla.gov.au/about/create-something/using-api",
+        "Category": "News"
+    },
+    {
+        "API": "Webz.io News API",
+        "Description": "Webz.io News APIs provide global news data for search, monitoring, analytics, and AI applications, with powerful filters and natural-language search",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://webz.io/",
         "Category": "News"
     },
     {
