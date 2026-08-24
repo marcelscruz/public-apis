@@ -1,5 +1,5 @@
 {
-"count": 1693,
+"count": 1694,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -3047,6 +3047,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://extendsclass.com/json-storage.html",
+        "Category": "Development"
+    },
+    {
+        "API": "FluentEDI",
+        "Description": "Deterministic tools for AI agents: X12 EDI, check digits, time, cron, JSON repair",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://fluentedi.com",
         "Category": "Development"
     },
     {
