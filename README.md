@@ -1421,6 +1421,7 @@
 | [The Old Reader](https://github.com/theoldreader/api) | RSS reader | `apiKey` | Unknown |
 | [TheNews](https://www.thenewsapi.com/) | Aggregated headlines, top story and live news JSON API | `apiKey` | Yes |
 | [Trove](https://trove.nla.gov.au/about/create-something/using-api) | Search through the National Library of Australia collection of 1000s of digitised newspapers | `apiKey` | Unknown |
+| [Webz.io News API](https://webz.io/) | Webz.io News APIs provide global news data for search, monitoring, analytics, and AI applications, with powerful filters and natural-language search | `apiKey` | No |
 | [World News](https://worldnewsapi.com) | Search through millions of semantically tagged worldwide news | `apiKey` | Yes |
 
 **[⬆ Back to Index](#index)**
