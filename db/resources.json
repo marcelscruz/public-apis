@@ -563,7 +563,7 @@
     },
     {
         "API": "Nekosia API",
-        "Description": "Anime API with cute random images. Dominated colors & compressed images & avoiding duplicates.",
+        "Description": "Random catgirl images with metadata, dominant colors, compressed versions, duplicate prevention, and its own booru",
         "Auth": "",
         "Cors": "yes",
         "Link": "https://nekosia.cat",
@@ -8851,7 +8851,7 @@
     },
     {
         "API": "APITube News API",
-        "Description": "Monitor news sources from around the world in real-time. Get the latest news articles from more than 500,000 news sources in 60 languages.",
+        "Description": "Real-time and historical news from 300,000+ sources in 177 countries and 59 languages, enriched with sentiment, entities and topics, with 65+ search filters",
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apitube.io/",
