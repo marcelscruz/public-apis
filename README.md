@@ -578,6 +578,7 @@
 | [DomainDb Info](https://api.domainsdb.info/) | Domain name search to find all domains containing particular words/phrases/etc | No | Unknown |
 | [DownStatus](https://isitdownstatus.com) | Real-time status for GitHub, AWS, Discord and 90+ services | No | Yes |
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | A simple JSON store API | No | Yes |
+| [FluentEDI](https://fluentedi.com) | Deterministic tools for AI agents: X12 EDI, check digits, time, cron, JSON repair | No | Yes |
 | [Form Creation API](https://apyhub.com/utility/reformify-form-api) | Create and manage customizable forms within your applications | `apiKey` | Yes |
 | [FormForge](https://formforge-api.vercel.app) | Generate styled, accessible HTML forms from JSON definitions with validation | No | Yes |
 [Format JSON Online Dummy API](https://formatjsononline.com/dummy-api) | A free tool to generate dummy JSON data for testing and prototyping.| No  | Yes | Yes |
