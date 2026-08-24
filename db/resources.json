@@ -1,5 +1,5 @@
 {
-"count": 1692,
+"count": 1693,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -11175,6 +11175,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developers.revolt.chat",
+        "Category": "Social"
+    },
+    {
+        "API": "Signals",
+        "Description": "Marketplace API to quote, place, and track Reddit and Quora promotion orders, with catalog and wallet endpoints",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://signals.sh",
         "Category": "Social"
     },
     {
