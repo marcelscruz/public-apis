@@ -1,5 +1,5 @@
 {
-"count": 1694,
+"count": 1695,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -5607,6 +5607,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://smartapi.angelbroking.com/",
+        "Category": "Finance"
+    },
+    {
+        "API": "StackerScan",
+        "Description": "Live and historical precious-metals spot prices, observed dealer premiums over spot, and the Goldback exchange rate",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://www.stackerscan.com",
         "Category": "Finance"
     },
     {
