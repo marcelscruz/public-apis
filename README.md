@@ -1393,7 +1393,7 @@
 ### News
 | API | Description | Auth | CORS |
 |---|---|---|---|
-| [APITube News API](https://apitube.io/) | Monitor news sources from around the world in real-time. Get the latest news articles from more than 500,000 news sources in 60 languages. | `apiKey` | Yes |
+| [APITube News API](https://apitube.io/) | Real-time and historical news from 300,000+ sources in 177 countries and 59 languages, enriched with sentiment, entities and topics, with 65+ search filters | `apiKey` | Yes |
 | [Associated Press](https://developer.ap.org/) | Search for news and metadata from Associated Press | `apiKey` | Unknown |
 | [Chronicling America](https://chroniclingamerica.loc.gov/about/api/) | Provides access to millions of pages of historic US newspapers from the Library of Congress | No | Unknown |
 | [Currents](https://currentsapi.services/) | Latest news published in various news sources, blogs and forums | `apiKey` | Yes |
