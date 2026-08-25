@@ -1,5 +1,5 @@
 {
-"count": 1700,
+"count": 1701,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -919,6 +919,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://pika.style/image-generation-api",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "Savee",
+        "Description": "Curated visual inspiration library for designers. Read your saves, boards, and home feed",
+        "Auth": "OAuth",
+        "Cors": "yes",
+        "Link": "https://savee.com",
         "Category": "Art & Design"
     },
     {
