@@ -1335,6 +1335,7 @@
 | [Fantastic.jobs](https://fantastic.jobs/api) | Access over 14 million jobs per month directly from company career sites and leading job boards. We refresh jobs every hour with several AI enriched job and company fields. | `apiKey` | Yes |
 | [Findwork](https://findwork.dev/developers/) | Job board | `apiKey` | Unknown |
 | [Himalayas](https://himalayas.app/api) | Remote job listings with salary, timezone, and location data | No | No |
+| [Job Application API](https://boringproject.ai) | API to apply on jobs posted on carrer platform like workday, lever, icims and many more. Handles captcha, fill forms, submit applications, integrate in < 10min | `apiKey` | Unknown |
 | [jobdata API](https://jobdataapi.com/) | Simple Job Data API | `apiKey` | Unknown |
 | [Jobicy](https://jobicy.com/jobs-rss-feed) | Remote Jobs API Feed | No | Unknown |
 | [JobsPipe](https://jobspipe.dev/docs) | Search live job postings from job boards and company career sites, plus tech stack detection by domain | `apiKey` | Yes |
