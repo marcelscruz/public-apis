@@ -1350,7 +1350,7 @@
 | [Upwork](https://developers.upwork.com) | Freelance job board and management system | `OAuth` | Unknown |
 | [USAJOBS](https://developer.usajobs.gov/) | US government job board | `apiKey` | Unknown |
 | [WhatJobs](https://www.whatjobs.com/affiliates) | Job search engine | `apiKey` | Unknown |
-| [Worklittle](https://docs.worklittle.com/jobs/resources/rate-limits) | Job index of 4 million roles with visa, distance, and salary filters | `apiKey` | Unknown |
+| [Worklittle](https://docs.worklittle.com) | Job search, over 4 million jobs | `apiKey` | Yes |
 
 **[⬆ Back to Index](#index)**
 
