@@ -1,5 +1,5 @@
 {
-"count": 1697,
+"count": 1698,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -13391,6 +13391,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://gribstream.com/",
+        "Category": "Weather"
+    },
+    {
+        "API": "Grill Index",
+        "Description": "Scores grilling conditions 0–100 for any location: best cook window, week ahead, charcoal/gas/smoker tuning. No key needed",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://grillindex.cblabs.app/",
         "Category": "Weather"
     },
     {
