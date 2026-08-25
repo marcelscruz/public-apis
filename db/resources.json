@@ -1,5 +1,5 @@
 {
-"count": 1696,
+"count": 1697,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -8479,6 +8479,14 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://himalayas.app/api",
+        "Category": "Jobs"
+    },
+    {
+        "API": "Job Application API",
+        "Description": "API to apply on jobs posted on carrer platform like workday, lever, icims and many more. Handles captcha, fill forms, submit applications, integrate in < 10min",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://boringproject.ai",
         "Category": "Jobs"
     },
     {
