@@ -200,6 +200,7 @@
 ### Anti-Malware
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [54ch10](https://54ch10.uk) | Pre-interact JSON risk briefs for address, token and URL | No | Yes |
 | [AbuseIPDB](https://docs.abuseipdb.com/) | IP/domain/URL reputation | `apiKey` | Unknown |
 | [AlienVault Open Threat Exchange (OTX)](https://otx.alienvault.com/api) | IP/domain/URL reputation | `apiKey` | Unknown |
 | [CAPEsandbox](https://capev2.readthedocs.io/en/latest/usage/api.html) | Malware execution and analysis | `apiKey` | Unknown |
