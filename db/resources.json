@@ -1,5 +1,5 @@
 {
-"count": 1695,
+"count": 1696,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -8599,6 +8599,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.whatjobs.com/affiliates",
+        "Category": "Jobs"
+    },
+    {
+        "API": "Worklittle",
+        "Description": "Job search, over 4 million jobs",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://docs.worklittle.com",
         "Category": "Jobs"
     },
     {
