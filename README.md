@@ -2087,6 +2087,7 @@
 | [Foreca](https://developer.foreca.com) | Weather | `OAuth` | Unknown |
 | [GISTDA](https://disaster.gistda.or.th/services/open-api) | Thailand natural disaster information | `apiKey` | Unknown |
 | [GribStream](https://gribstream.com/) | Global weather forecast API for any use. Leverage the NBM and GFS models. Great for bulk pulls | `apiKey` | Unknown |
+| [Grill Index](https://grillindex.cblabs.app/) | Scores grilling conditions 0–100 for any location: best cook window, week ahead, charcoal/gas/smoker tuning. No key needed | No | No |
 | [HG Weather](https://hgbrasil.com/status/weather) | Provides weather forecast data for cities in Brazil | `apiKey` | Yes |
 | [Hong Kong Obervatory](https://www.hko.gov.hk/en/abouthko/opendata_intro.htm) | Provide weather information, earthquake information, and climate data | No | Unknown |
 | [Korea Meteorological Administration](https://apihub.kma.go.kr/) | Weather and climate data from KMA | `apiKey` | Unknown |
