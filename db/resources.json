@@ -1,5 +1,5 @@
 {
-"count": 1699,
+"count": 1700,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -2599,6 +2599,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://developers.brevo.com/",
+        "Category": "Data Validation"
+    },
+    {
+        "API": "EuroValidate",
+        "Description": "EU VAT (VIES), IBAN and EORI validation with company name & address lookup",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://eurovalidate.com",
         "Category": "Data Validation"
     },
     {
