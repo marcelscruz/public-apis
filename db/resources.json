@@ -1,5 +1,5 @@
 {
-"count": 1698,
+"count": 1699,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -600,6 +600,14 @@
         "Cors": "yes",
         "Link": "https://waifu.im/docs",
         "Category": "Anime"
+    },
+    {
+        "API": "54ch10",
+        "Description": "Pre-interact JSON risk briefs for address, token and URL",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://54ch10.uk",
+        "Category": "Anti-Malware"
     },
     {
         "API": "AbuseIPDB",
