@@ -516,6 +516,7 @@
 |---|---|---|---|
 | [API Adresse](https://adresse.data.gouv.fr/api-doc/adresse) | Official French address validation service | No | Unknown |
 | [Brevo Suit](https://developers.brevo.com/) | Connection for brevo CRM suite | `apiKey` | Yes |
+| [EuroValidate](https://eurovalidate.com) | EU VAT (VIES), IBAN and EORI validation with company name & address lookup | `apiKey` | Yes |
 | [Lob.com](https://lob.com/) | US Address Verification | `apiKey` | Unknown |
 | [Nonprofit Check Plus](https://pactman.org/nonprofitcheckplus-api/landing) | Verify charities via EIN using IRS, PUB78, BMF & OFAC data for compliance and legitimacy | `apiKey` | Unknown |
 | [Postman Echo](https://www.postman-echo.com) | Test api server to receive and return value from HTTP method | No | Unknown |
