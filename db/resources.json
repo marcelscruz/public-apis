@@ -1,5 +1,5 @@
 {
-"count": 1702,
+"count": 1703,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -5511,6 +5511,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://docs.moov.io/api/",
+        "Category": "Finance"
+    },
+    {
+        "API": "OilPriceAPI",
+        "Description": "Crude oil, natural gas, refined product and marine fuel prices, each with its source timestamp",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.oilpriceapi.com",
         "Category": "Finance"
     },
     {
