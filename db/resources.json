@@ -1,5 +1,5 @@
 {
-"count": 1701,
+"count": 1702,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -5303,6 +5303,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://www.econdb.com/api/",
+        "Category": "Finance"
+    },
+    {
+        "API": "eunormia E-Invoice API",
+        "Description": "eunormia turns your invoice data into a ZUGFeRD/Factur-X PDF/A-3 per EN 16931 — and validates every result before it is delivered",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://eunormia.com",
         "Category": "Finance"
     },
     {
