@@ -1223,6 +1223,7 @@
 | [Data USA](https://datausa.io/about/api/) | US Public Data | No | Unknown |
 | [Data.gov](https://api.data.gov/) | US Government Data | `apiKey` | Unknown |
 | [Data.parliament.uk](https://explore.data.parliament.uk/) | Contains live datasets including information about petitions, bills, MP votes, attendance and more | No | Unknown |
+| [DAWUM](https://dawum.de) | German political poll datasets with parliament, party and polling institute raw data | No | Yes |
 | [Dedline.io API](https://github.com/dedline-io/dedline-api) | Data for US state voter registration deadlines and details, for primaries and general elections | No | Yes |
 | [Deutscher Bundestag DIP](https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf) | This API provides read access to DIP entities (e.g. activities, persons, printed material) | `apiKey` | Unknown |
 | [District of Columbia Open Data](https://opendata.dc.gov/pages/using-apis) | Contains D.C. government public datasets, including crime, GIS, financial data, and so on | No | Unknown |
