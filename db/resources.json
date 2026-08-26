@@ -1,5 +1,5 @@
 {
-"count": 1703,
+"count": 1704,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -3695,6 +3695,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://quickchart.io/",
+        "Category": "Development"
+    },
+    {
+        "API": "ReefAPI",
+        "Description": "One API for 185+ live web data sources including search, social, e-commerce, real estate, jobs and finance, returning clean JSON",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://reefapi.com/",
         "Category": "Development"
     },
     {
