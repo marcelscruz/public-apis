@@ -635,6 +635,7 @@
 | [MY IP](https://www.myip.com/api-docs/) | Get IP address information | No | Unknown |
 | [MySQL Visual EXPLAIN](https://api.mysqlexplain.com/) | Transform MySQL EXPLAIN output to interactive graphs | No | Yes |
 | [Nationalize.io](https://nationalize.io) | Estimate the nationality of a first name | No | Yes |
+| [Neon](https://neon.com) | Serverless PostgreSQL with a REST API to manage projects, branches and run SQL over HTTP | `apiKey` | Yes |
 | [Netlify](https://docs.netlify.com/api/get-started/) | Netlify is a hosting service for the programmable web | `OAuth` | Unknown |
 | [NetworkCalc](https://networkcalc.com/api/docs) | Network calculators, including subnets, DNS, binary, and security tools | No | Yes |
 | [npm Registry](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md) | Query information about your favorite Node.js libraries programmatically | No | Unknown |
