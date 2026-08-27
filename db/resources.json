@@ -1,5 +1,5 @@
 {
-"count": 1701,
+"count": 1704,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -3698,6 +3698,14 @@
         "Category": "Development"
     },
     {
+        "API": "ReefAPI",
+        "Description": "One API for 185+ live web data sources including search, social, e-commerce, real estate, jobs and finance, returning clean JSON",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://reefapi.com/",
+        "Category": "Development"
+    },
+    {
         "API": "Render API",
         "Description": "Lets you programmatically manage your Render services (web apps, APIs, and static sites) including deployments, scaling, and configuration",
         "Auth": "apiKey",
@@ -5306,6 +5314,14 @@
         "Category": "Finance"
     },
     {
+        "API": "eunormia E-Invoice API",
+        "Description": "eunormia turns your invoice data into a ZUGFeRD/Factur-X PDF/A-3 per EN 16931 — and validates every result before it is delivered",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://eunormia.com",
+        "Category": "Finance"
+    },
+    {
         "API": "Fed Treasury",
         "Description": "U.S. Department of the Treasury Data",
         "Auth": "",
@@ -5503,6 +5519,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://docs.moov.io/api/",
+        "Category": "Finance"
+    },
+    {
+        "API": "OilPriceAPI",
+        "Description": "Crude oil, natural gas, refined product and marine fuel prices, each with its source timestamp",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.oilpriceapi.com",
         "Category": "Finance"
     },
     {
