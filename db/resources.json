@@ -1,5 +1,5 @@
 {
-"count": 1704,
+"count": 1705,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -5807,6 +5807,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://coffee.alexflipnote.dev/",
+        "Category": "Food & Drink"
+    },
+    {
+        "API": "DietlyAPI",
+        "Description": "Food & nutrition API with 4.2M+ foods (Open Food Facts + community, normalized and confidence-ranked): calories, macros, micronutrients, barcode lookup, ~40ms s",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.getdietly.com/api",
         "Category": "Food & Drink"
     },
     {
