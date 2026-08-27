@@ -1,5 +1,5 @@
 {
-"count": 1705,
+"count": 1706,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -8447,6 +8447,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://psychologieetserenite.com/api",
+        "Category": "Health"
+    },
+    {
+        "API": "Urgences Québec",
+        "Description": "Hourly crowding for the 120 emergency rooms of Quebec, with walk-in clinics and surgery delays",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://sante.handled.tools",
         "Category": "Health"
     },
     {
