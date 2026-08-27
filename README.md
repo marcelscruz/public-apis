@@ -1324,6 +1324,7 @@
 | [Open Disease](https://disease.sh/) | API for Current cases and more stuff about COVID-19 and Influenza | No | Yes |
 | [openFDA](https://open.fda.gov) | Public FDA data about drugs, devices and foods | `apiKey` | Unknown |
 | [Psychologie et Sérénité](https://psychologieetserenite.com/api) | French psychology articles metadata and validated psychological tests catalog | No | Yes |
+| [Urgences Québec](https://sante.handled.tools) | Hourly crowding for the 120 emergency rooms of Quebec, with walk-in clinics and surgery delays | No | Yes |
 | [Verified Supplement Data](https://verifiedsupplementdata.com/api/v1/recommend/index.json) | Supplement dosing, form comparisons and drug-nutrient interactions with PubMed citations | No | Yes |
 
 **[⬆ Back to Index](#index)**
