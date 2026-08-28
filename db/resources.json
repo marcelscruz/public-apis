@@ -1,5 +1,5 @@
 {
-"count": 1706,
+"count": 1707,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -295,6 +295,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://products.wolframalpha.com/api/",
+        "Category": "AI"
+    },
+    {
+        "API": "XiuRouter",
+        "Description": "Route requests to leading AI models through one API with native OpenAI, Anthropic, and Gemini protocols",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://router.xiu.ai/",
         "Category": "AI"
     },
     {
