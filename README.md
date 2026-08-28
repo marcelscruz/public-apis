@@ -144,6 +144,7 @@
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Unknown |
 | [WaveSpeedAI](https://wavespeed.ai) | Generate images, video and audio from 900+ open and commercial models (FLUX, Seedream, Kling, Wan) through one async REST API | `apiKey` | Yes |
 | [WolframAlpha](https://products.wolframalpha.com/api/) | Provides specific answers to questions using data and algorithms | `apiKey` | Unknown |
+| [XiuRouter](https://router.xiu.ai/) | Route requests to leading AI models through one API with native OpenAI, Anthropic, and Gemini protocols | `apiKey` | Yes |
 
 **[⬆ Back to Index](#index)**
 
