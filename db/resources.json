@@ -1,5 +1,5 @@
 {
-"count": 1708,
+"count": 1709,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -3791,6 +3791,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.scrapingdog.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "Scrax",
+        "Description": "Success-only web scraping API — credits are only charged when a scrape actually succeeds, no charge on failed requests",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://rapidapi.com/mtaahoperators/api/scrax",
         "Category": "Development"
     },
     {
