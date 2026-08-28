@@ -1,5 +1,5 @@
 {
-"count": 1707,
+"count": 1708,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -8199,6 +8199,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://procuredata.ca",
+        "Category": "Government"
+    },
+    {
+        "API": "PublicDataHub",
+        "Description": "US public schools, hospitals and federal agency budgets as JSON/CSV, with provenance on every record",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://publicdatahub.org",
         "Category": "Government"
     },
     {
