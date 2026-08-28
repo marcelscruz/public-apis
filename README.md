@@ -1288,6 +1288,7 @@
 | [PolitiData](https://politidata.ca) | Canadian political financing, lobbying registrations and communications | `apiKey` | Unknown |
 | [PRC Exam Schedule](https://api.whenisthenextboardexam.com/docs/) | Unofficial Philippine Professional Regulation Commission's examination schedule | No | Yes |
 | [ProcureData](https://procuredata.ca) | Canadian federal procurement contracts, tenders and awards | `apiKey` | Unknown |
+| [PublicDataHub](https://publicdatahub.org) | US public schools, hospitals and federal agency budgets as JSON/CSV, with provenance on every record | No | Yes |
 | [Represent by Open North](https://represent.opennorth.ca/) | Find Canadian Government Representatives | No | Unknown |
 | [UK Companies House](https://developer.company-information.service.gov.uk/) | UK Companies House Data from the UK government | `OAuth` | Unknown |
 | [USAspending.gov](https://api.usaspending.gov/) | US federal spending data | No | Unknown |
