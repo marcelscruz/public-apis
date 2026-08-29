@@ -516,6 +516,7 @@
 ### Data Validation
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [ApexVerify](https://apexverify.com) | Verify emails, phone numbers, and addresses with real-time accuracy. Keep your contact data clean, compliant, and reliable with our all-in-one suite | `X-Mashape-Key` | No |
 | [API Adresse](https://adresse.data.gouv.fr/api-doc/adresse) | Official French address validation service | No | Unknown |
 | [Brevo Suit](https://developers.brevo.com/) | Connection for brevo CRM suite | `apiKey` | Yes |
 | [EuroValidate](https://eurovalidate.com) | EU VAT (VIES), IBAN and EORI validation with company name & address lookup | `apiKey` | Yes |
