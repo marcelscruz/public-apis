@@ -1,5 +1,5 @@
 {
-"count": 1710,
+"count": 1711,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -11367,6 +11367,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.tiktok.com/doc/login-kit-web",
+        "Category": "Social"
+    },
+    {
+        "API": "TikTok LIVE",
+        "Description": "TikTok LIVE creator data: recruitable creators, league boards, rankings and top gifters",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://rngrow.com/api-docs",
         "Category": "Social"
     },
     {
