@@ -1,5 +1,5 @@
 {
-"count": 1709,
+"count": 1710,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -2600,6 +2600,14 @@
         "Cors": "yes",
         "Link": "https://www.vatcomply.com/documentation",
         "Category": "Currency Exchange"
+    },
+    {
+        "API": "ApexVerify",
+        "Description": "Verify emails, phone numbers, and addresses with real-time accuracy. Keep your contact data clean, compliant, and reliable with our all-in-one suite",
+        "Auth": "X-Mashape-Key",
+        "Cors": "no",
+        "Link": "https://apexverify.com",
+        "Category": "Data Validation"
     },
     {
         "API": "API Adresse",
