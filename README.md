@@ -1780,6 +1780,7 @@
 | [Telegram Bot](https://core.telegram.org/bots/api) | Simplified HTTP version of the MTProto API for bots | `apiKey` | Unknown |
 | [Telegram MTProto](https://core.telegram.org/api#getting-started) | Read and write Telegram data | `OAuth` | Unknown |
 | [TikTok](https://developers.tiktok.com/doc/login-kit-web) | Fetches user info and user's video posts on TikTok platform | `OAuth` | Unknown |
+| [TikTok LIVE](https://rngrow.com/api-docs) | TikTok LIVE creator data: recruitable creators, league boards, rankings and top gifters | `apiKey` | Yes |
 | [Trash Nothing](https://trashnothing.com/developer) | A freecycling community with thousands of free items posted every day | `OAuth` | Yes |
 | [Tumblr](https://www.tumblr.com/docs/en/api/v2) | Read and write Tumblr Data | `OAuth` | Unknown |
 | [Twitch](https://dev.twitch.tv/docs) | Game Streaming API | `OAuth` | Unknown |
