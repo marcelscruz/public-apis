@@ -1039,6 +1039,7 @@
 | [Humor](https://humorapi.com) | Humor, Jokes, and Memes | `apiKey` | Unknown |
 | [Hypixel](https://api.hypixel.net/) | Hypixel player stats | `apiKey` | Unknown |
 | [Hyrule Compendium](https://github.com/gadhagod/Hyrule-Compendium-API) | Data on all interactive items from The Legend of Zelda: BOTW | No | Unknown |
+| [iGaming Tools](https://i-gaming.tools/) | Slot data: RTP, volatility, max win, mechanics, plus provider catalogues, news and demand | `apiKey` | Unknown |
 | [IGDB.com](https://api-docs.igdb.com) | Video Game Database | `apiKey` | Unknown |
 | [Italian Jokes](https://italian-jokes.vercel.app/) | JSON API for getting jokes about Italians | No | Unknown |
 | [JokeAPI](https://sv443.net/jokeapi/v2/) | Programming, Miscellaneous and Dark Jokes | No | Yes |
