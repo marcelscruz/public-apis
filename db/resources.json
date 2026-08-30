@@ -1,5 +1,5 @@
 {
-"count": 1711,
+"count": 1712,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -3111,6 +3111,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://formforge-api.vercel.app",
+        "Category": "Development"
+    },
+    {
+        "API": "Netbait IP Scorer",
+        "Description": "Netbait is a free IP reputation API designed to help users determine whether an IP address has been involved in attacks, scanning attempts, or other malicious a",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://netbait.org",
         "Category": "Development"
     },
     {
