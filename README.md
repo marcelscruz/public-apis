@@ -1235,6 +1235,7 @@
 | [District of Columbia Open Data](https://opendata.dc.gov/pages/using-apis) | Contains D.C. government public datasets, including crime, GIS, financial data, and so on | No | Unknown |
 | [EPA](https://www.epa.gov/developers/data-data-products#apis) | Web services and data sets from the US Environmental Protection Agency | No | Unknown |
 | [FBI Wanted](https://www.fbi.gov/wanted/api) | Access information on the FBI Wanted program | No | Unknown |
+| [FCC ULS Daily Change Archive](https://rapidapi.com/marlinloots3r/api/fcc-uls-daily-change-archive) | Day-resolution archive of FCC ULS license change events, including days the FCC's own seven-day feed has overwritten. Coverage from 2026-08-18 | `apiKey` | Unknown |
 | [FEC](https://api.open.fec.gov/developers/) | Information on campaign donations in federal elections | `apiKey` | Unknown |
 | [Federal Register](https://www.federalregister.gov/reader-aids/developer-resources/rest-api) | The Daily Journal of the United States Government | No | Unknown |
 | [Gazette Data, UK](https://www.thegazette.co.uk/data) | UK official public record API | `OAuth` | Unknown |
