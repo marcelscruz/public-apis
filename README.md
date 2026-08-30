@@ -348,6 +348,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [Abstract Public Holidays](https://www.abstractapi.com/holidays-api) | Data on national, regional, and religious holidays via API | `apiKey` | Yes |
+| [BankHolidayCheck](https://bankholidaycheck.com/holiday-api) | Bank and public holidays for 246 countries, in five languages | No | Yes |
 | [Calendarific](https://calendarific.com/) | Worldwide Holidays | `apiKey` | Unknown |
 | [Czech Namedays Calendar](https://svatky.adresa.info) | Lookup for a name and returns nameday date | No | Unknown |
 | [DigiDates](https://digidates.de/en/) | Various date and time calculations | No | Yes |
