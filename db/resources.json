@@ -1,5 +1,5 @@
 {
-"count": 1713,
+"count": 1714,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -12279,6 +12279,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.amadeus.com/self-service",
+        "Category": "Transportation"
+    },
+    {
+        "API": "Aviation Safety Data",
+        "Description": "164,068 aircraft accident narratives from 128 official investigation authorities, plus FAA data",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://himaxym.com/developers",
         "Category": "Transportation"
     },
     {
