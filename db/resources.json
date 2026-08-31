@@ -1,5 +1,5 @@
 {
-"count": 1712,
+"count": 1713,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -9039,6 +9039,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://gnews.io/",
+        "Category": "News"
+    },
+    {
+        "API": "GridNews",
+        "Description": "Market news, press releases, and sentiment analysis tagged by ticker symbol",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://gridnews.io",
         "Category": "News"
     },
     {
