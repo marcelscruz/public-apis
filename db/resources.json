@@ -1,5 +1,5 @@
 {
-"count": 1714,
+"count": 1715,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -11575,6 +11575,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://www.scorebat.com/video-api/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "Football Charts",
+        "Description": "Results, standings, fixtures, goal timing and model probabilities for 93 football leagues",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.football-charts.com/developers",
         "Category": "Sports & Fitness"
     },
     {
