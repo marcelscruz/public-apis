@@ -1,5 +1,5 @@
 {
-"count": 1715,
+"count": 1716,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -9447,6 +9447,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://www.opensanctions.org/docs/api/",
+        "Category": "Open Data"
+    },
+    {
+        "API": "PayCrunch",
+        "Description": "US wages for 1,008 occupations and by state, from BLS OEWS May 2025, static JSON, CC BY 4.0",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://paycrunch.co/api.html",
         "Category": "Open Data"
     },
     {
