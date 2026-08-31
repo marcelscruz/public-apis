@@ -1805,6 +1805,7 @@
 | [Fitbit](https://dev.fitbit.com/) | Fitbit Information | `OAuth` | Unknown |
 | [Football](https://rapidapi.com/GiulianoCrescimbeni/api/football98/) | A simple Open Source Football API to get squads’ stats, best scorers and more | `X-Mashape-Key` | Unknown |
 | [Football (Soccer) Videos](https://www.scorebat.com/video-api/) | Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more | No | Yes |
+| [Football Charts](https://www.football-charts.com/developers) | Results, standings, fixtures, goal timing and model probabilities for 93 football leagues | `apiKey` | Yes |
 | [Football Highlights](https://highlightly.net/documentation/football/) | Real time football (soccer) highlights from over +950 leagues | `apiKey` | Unknown |
 | [Football Standings](https://github.com/azharimm/football-standings-api) | Display football standings e.g epl, la liga, serie a etc. The data is based on espn site | No | Yes |
 | [Football-Data](https://www.football-data.org) | Football data with matches info, players, teams, and competitions | `X-Mashape-Key` | Unknown |
