@@ -1676,6 +1676,7 @@
 | [DomScan](https://domscan.net/docs) | Domain, DNS, WHOIS/RDAP, TLS, email, brand and web intelligence | `apiKey` | Yes |
 | [EmailRep](https://docs.emailrep.io/) | Email address threat and risk prediction | No | Unknown |
 | [Escape](https://github.com/polarspetroll/EscapeAPI) | An API for escaping different kind of queries | No | No |
+| [Fidro](https://fidro.io) | Fraud detection API returning a weighted risk score from VPN, proxy, Tor and datacenter IP detection, email validation and Stripe payment signals | `apiKey` | Yes |
 | [FilterLists](https://api.filterlists.com) | Lists of filters for adblockers and firewalls | No | Unknown |
 | [FingerprintJS Pro](https://dev.fingerprintjs.com/docs) | Fraud detection API offering highly accurate browser fingerprinting | `apiKey` | Yes |
 | [FraudLabs Pro](https://www.fraudlabspro.com/developer/api/screen-order) | Screen order information using AI to detect frauds | `apiKey` | Unknown |
