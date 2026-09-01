@@ -123,6 +123,7 @@
 | [Irisnet](https://irisnet.de/api/) | Realtime content moderation API that blocks or blurs unwanted images in real-time | `apiKey` | Yes |
 | [Keen IO](https://keen.io/) | Data Analytics | `apiKey` | Unknown |
 | [Machinetutors](https://machinetutors.com/api/) | AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP | `apiKey` | Yes |
+| [Magic Hour](https://magichour.ai/api) | Generate and edit AI videos, images, and audio through a self-serve REST API | `apiKey` | Yes |
 | [MessengerX.io](https://messengerx.rtfd.io) | A FREE API for developers to build and monetize personalized ML based chat apps | `apiKey` | Yes |
 | [NLP Cloud](https://nlpcloud.io) | NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more | `apiKey` | Unknown |
 | [OpenAI](https://openai.com/index/openai-api) | Use AI models such as ChatGPT or DALL-E to experience the capabilities of AI | `apiKey` | Yes |
