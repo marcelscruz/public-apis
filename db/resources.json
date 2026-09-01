@@ -1,5 +1,5 @@
 {
-"count": 1716,
+"count": 1717,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -3119,6 +3119,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://netbait.org",
+        "Category": "Development"
+    },
+    {
+        "API": "OpenWeb Ninja",
+        "Description": "The web data & SERP API stack for AI engineers, app developers, and GTM teams. 40+ fast and reliable APIs for accurate, real-time public data from across the we",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.openwebninja.com",
         "Category": "Development"
     },
     {
