@@ -2326,7 +2326,7 @@
         "Description": "Crypto market data for funding, futures, options, arbitrage, narratives, and news",
         "Auth": "",
         "Cors": "no",
-        "Link": "https://www.sharpe.ai/docs/free-api",
+        "Link": "https://sharpe.ai",
         "Category": "Cryptocurrency"
     },
     {
