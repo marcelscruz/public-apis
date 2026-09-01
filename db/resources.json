@@ -9566,7 +9566,7 @@
         "Description": "Composite travel-safety scores for 180 countries (FCDO + US State + GPI + WGI + live wire)",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://warnely.com/developers",
+        "Link": "https://warnely.com",
         "Category": "Open Data"
     },
     {
