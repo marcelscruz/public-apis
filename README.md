@@ -585,6 +585,7 @@
 | [Gcore CDN](https://docs.gcore.com/cdn) | Make your app fast and responsive for a global audience with Gcore CDN. | `apiKey` | Yes |
 | [Gcore Cloud](https://docs.gcore.com/cloud) | Scalable, secure, and reliable hybrid cloud services anywhere in the world. | `apiKey` | Yes |
 | [Gcore DNS](https://docs.gcore.com/dns) | Fast and resilient DNS hosting service by Gcore. Improve the performance and availability of your online business. | `apiKey` | Yes |
+| [GcrawlAI](https://gcrawlai.com) | Open-source web scraping API with SERP, screenshots, URL-to-Markdown and prebuilt extractors | `apiKey` | Yes |
 | [Genderize.io](https://genderize.io) | Estimates a gender from a first name | No | Yes |
 | [Generate Full Webpage Screenshot](https://apyhub.com/utility/generate-webpage-screenshot) | Dynamically capture full page screenshots of websites. | `apiKey` | Yes |
 | [Ghost](https://ghost.org/) | Get Published content into your Website, App or other embedded media | `apiKey` | Yes |
