@@ -12166,7 +12166,7 @@
         "Description": "The Proofreading and Grammar Check API ensures the provided text is grammatically correct and polished by automatically proofreading and checking for errors",
         "Auth": "apiKey",
         "Cors": "yes",
-        "Link": "https://apyhub.com/utility/sharpapi-proofread-grammer-check",
+        "Link": "https://apyhub.com/utility/sharpapi-proofread-grammar-check",
         "Category": "Text Analysis"
     },
     {
