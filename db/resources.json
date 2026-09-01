@@ -1,5 +1,5 @@
 {
-"count": 1718,
+"count": 1719,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -2319,6 +2319,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://docs.ophis.fi",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "Paycoin Index",
+        "Description": "Hourly index of stablecoin transfer costs across 9 chains, with daily history and per-source provenance",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://paycoin.com",
         "Category": "Cryptocurrency"
     },
     {
