@@ -1481,7 +1481,7 @@
 | [University of Oslo](https://data.uio.no/) | Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway) | No | Unknown |
 | [UPC database](https://upcdatabase.org/api) | More than 1.5 million barcode numbers from all around the world | `apiKey` | Unknown |
 | [Urban Observatory](https://urbanobservatory.ac.uk) | The largest set of publicly available real time urban data in the UK | No | No |
-| [Warnely](https://warnely.com/developers) | Composite travel-safety scores for 180 countries (FCDO + US State + GPI + WGI + live wire) | No | Yes |
+| [Warnely](https://warnely.com) | Composite travel-safety scores for 180 countries (FCDO + US State + GPI + WGI + live wire) | No | Yes |
 | [Wikidata](https://www.wikidata.org/w/api.php) | Collaboratively edited knowledge base operated by the Wikimedia Foundation | `OAuth` | Unknown |
 | [Wikipedia](https://www.mediawiki.org/wiki/API:Main_page) | Mediawiki Encyclopedia | No | Unknown |
 | [Yelp](https://www.yelp.com/developers) | Find Local Business | `OAuth` | Unknown |
