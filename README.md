@@ -378,6 +378,7 @@
 | [ddownload](https://ddownload.com/api) | File Sharing and Storage | `apiKey` | Unknown |
 | [Delta Lake](https://docs.delta.io/latest/delta-apidoc.html) | Open-source storage framework enabling Lakehouse architecture with Spark, PrestoDB, Flink, Trino, Hive, and APIs | No | Unknown |
 | [Dropbox](https://www.dropbox.com/developers) | File Sharing and Storage | `OAuth` | Unknown |
+| [Fil One](https://docs.fil.one/) | S3-compatible object storage API (formerly Web3 Storage) | `apiKey` | Yes |
 | [File.io](https://www.file.io) | Super simple file sharing, convenient, anonymous and secure | No | Unknown |
 | [Gcore Storage](https://docs.gcore.com/storage) | S3-Compatible Object Storage is a fast and scalable cloud storage system by Gcore that gives you an opportunity to store and retrieve any amount of data at any time. High-performance storage for use as a CDN origin. | `apiKey` | Yes |
 | [GoFile](https://gofile.io/api) | Unlimited size file uploads for free | `apiKey` | Unknown |
@@ -391,7 +392,6 @@
 | [Smash](https://api.fromsmash.com/) | Upload large files on websites, mobile apps, SaaS solutions and custom workflows | `apiKey` | Yes |
 | [Storj](https://docs.storj.io/dcs/) | Decentralized Open-Source Cloud Storage | `apiKey` | Unknown |
 | [The Null Pointer](https://0x0.st) | No-bullshit file hosting and URL shortening service | No | Unknown |
-| [Web3 Storage](https://web3.storage/) | File Sharing and Storage for Free with 1TB Space | `apiKey` | Yes |
 
 **[⬆ Back to Index](#index)**
 
