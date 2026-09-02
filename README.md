@@ -1381,6 +1381,7 @@
 | [Jamendo](https://developer.jamendo.com/v3.0/docs) | Music | `OAuth` | Unknown |
 | [JioSaavn](https://github.com/cyberboysumanjay/JioSaavnAPI) | API to retrieve song information, album meta data and many more from JioSaavn | No | Unknown |
 | [KKBOX](https://developer.kkbox.com) | Get music libraries, playlists, charts, and perform out of KKBOX's platform | `OAuth` | Unknown |
+| [Lacuna](https://lacuna.fm) | AI music generation: full songs with vocals and lyrics, or instrumentals | `apiKey` | Unknown |
 | [LastFm](https://www.last.fm/api) | Music | `apiKey` | Unknown |
 | [LRCLIB](https://lrclib.net/docs) | Crowdsourced lyrics | No | Yes |
 | [Mixcloud](https://www.mixcloud.com/developers/) | Music | `OAuth` | Yes |
