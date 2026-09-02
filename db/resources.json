@@ -5030,7 +5030,7 @@
         "Description": "Environmental impact API for tree planting, carbon offsetting and ocean cleanup",
         "Auth": "apiKey",
         "Cors": "yes",
-        "Link": "https://docs.1clickimpact.com/",
+        "Link": "https://1clickimpact.com",
         "Category": "Environment"
     },
     {
