@@ -1,5 +1,5 @@
 {
-"count": 1710,
+"count": 1711,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -2263,6 +2263,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://docs.kucoin.com/",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "MadeOnSol",
+        "Description": "Real-time Solana and Robinhood Chain data - KOL trades, deployer reputation, token risk, DEX streams",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://madeonsol.com",
         "Category": "Cryptocurrency"
     },
     {
