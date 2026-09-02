@@ -866,14 +866,6 @@
         "Category": "Art & Design"
     },
     {
-        "API": "Iconfinder",
-        "Description": "Icons",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://developer.iconfinder.com",
-        "Category": "Art & Design"
-    },
-    {
         "API": "Icons8",
         "Description": "Icons (find \"search icon\" hyperlink in page)",
         "Auth": "",
@@ -895,6 +887,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://lordicon.com/",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "Magnific Icons API",
+        "Description": "Icon search and download API by Freepik (formerly Iconfinder)",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://docs.magnific.com/api-reference/icons/icons-api",
         "Category": "Art & Design"
     },
     {
@@ -1746,6 +1746,14 @@
         "Category": "Cloud Storage & File Sharing"
     },
     {
+        "API": "Fil One",
+        "Description": "S3-compatible object storage API (formerly Web3 Storage)",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://docs.fil.one/",
+        "Category": "Cloud Storage & File Sharing"
+    },
+    {
         "API": "File.io",
         "Description": "Super simple file sharing, convenient, anonymous and secure",
         "Auth": "",
@@ -1847,14 +1855,6 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://0x0.st",
-        "Category": "Cloud Storage & File Sharing"
-    },
-    {
-        "API": "Web3 Storage",
-        "Description": "File Sharing and Storage for Free with 1TB Space",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://web3.storage/",
         "Category": "Cloud Storage & File Sharing"
     },
     {
@@ -8982,7 +8982,7 @@
         "Description": "Music",
         "Auth": "apiKey",
         "Cors": "unknown",
-        "Link": "https://www.theaudiodb.com/api_guide.php",
+        "Link": "https://www.theaudiodb.com/free_music_api",
         "Category": "Music"
     },
     {
