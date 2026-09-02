@@ -1,5 +1,5 @@
 {
-"count": 1722,
+"count": 1723,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -1375,6 +1375,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://companyenrich.com",
+        "Category": "Business"
+    },
+    {
+        "API": "Crustdata",
+        "Description": "People and company data covering profiles, headcount, funding and contacts",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://docs.crustdata.com",
         "Category": "Business"
     },
     {
