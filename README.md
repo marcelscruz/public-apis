@@ -1349,6 +1349,7 @@
 | [JobsPipe](https://jobspipe.dev/docs) | Search live job postings from job boards and company career sites, plus tech stack detection by domain | `apiKey` | Yes |
 | [Jobven](https://jobven.com) | Job postings collected directly from employer career pages, not job boards. Structured JSON over REST, with webhooks when listings change | `apiKey` | Yes |
 | [Jobvetta](https://www.jobvetta.com/api) | Live, vetted job listings from official employer sources across India | `apiKey` | Yes |
+| [JobYap](https://jobyap.com/agents) | Job postings aggregated from companies' careers sites, with community discussion threads | No | Yes |
 | [Jooble](https://jooble.org/api/about) | Job search engine | `apiKey` | Unknown |
 | [Juju](https://www.juju.com/publisher/spec/) | Job search engine | `apiKey` | Unknown |
 | [Reed](https://www.reed.co.uk/developers) | Job board aggregator | `apiKey` | Unknown |
