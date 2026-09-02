@@ -1,5 +1,5 @@
 {
-"count": 1712,
+"count": 1711,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -5578,6 +5578,14 @@
         "Category": "Finance"
     },
     {
+        "API": "Nasdaq Data Link",
+        "Description": "Stock market data",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://docs.data.nasdaq.com/",
+        "Category": "Finance"
+    },
+    {
         "API": "OilPriceAPI",
         "Description": "Crude oil, natural gas, refined product and marine fuel prices, each with its source timestamp",
         "Auth": "apiKey",
@@ -8955,7 +8963,7 @@
     },
     {
         "API": "Spotify",
-        "Description": "View Spotify music catalog, manage users' libraries, get recommendations and more",
+        "Description": "View Spotify music catalog and manage users' libraries and playlists",
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://beta.developer.spotify.com/documentation/web-api/",
@@ -9391,14 +9399,6 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://microlink.io",
-        "Category": "Open Data"
-    },
-    {
-        "API": "Nasdaq Data Link",
-        "Description": "Stock market data",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://docs.data.nasdaq.com/",
         "Category": "Open Data"
     },
     {
@@ -11639,14 +11639,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://rapidapi.com/api-sports/api/api-nba/",
-        "Category": "Sports & Fitness"
-    },
-    {
-        "API": "NBA Stats",
-        "Description": "NBA player statistics, season totals, advanced metrics, game data, and shot chart data",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://api.server.nbaapi.com/",
         "Category": "Sports & Fitness"
     },
     {
