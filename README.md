@@ -848,7 +848,7 @@
 ### Environment
 | API | Description | Auth | CORS |
 |---|---|---|---|
-| [1ClickImpact](https://docs.1clickimpact.com/) | Environmental impact API for tree planting, carbon offsetting and ocean cleanup | `apiKey` | Yes |
+| [1ClickImpact](https://1clickimpact.com) | Environmental impact API for tree planting, carbon offsetting and ocean cleanup | `apiKey` | Yes |
 | [BreezoMeter Pollen](https://docs.breezometer.com/api-documentation/pollen-api/v2/) | Daily Forecast pollen conditions data for a specific location | `apiKey` | Unknown |
 | [Carbon Interface](https://docs.carboninterface.com/) | API to calculate carbon (C02) emissions estimates for common C02 emitting activities | `apiKey` | Yes |
 | [Climatiq](https://docs.climatiq.io) | Calculate the environmental footprint created by a broad range of emission-generating activities | `apiKey` | Yes |
