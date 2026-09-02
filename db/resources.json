@@ -1,5 +1,5 @@
 {
-"count": 1723,
+"count": 1724,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -2415,6 +2415,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.worldcoinindex.com/apiservice",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "x402-list",
+        "Description": "Directory of paid x402 APIs with per-endpoint USD pricing and live uptime, vetted before an agent pays, backed by on-chain settlement volume",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://x402-list.com",
         "Category": "Cryptocurrency"
     },
     {
