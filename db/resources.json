@@ -1,5 +1,5 @@
 {
-"count": 1710,
+"count": 1711,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8647,6 +8647,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.jobvetta.com/api",
+        "Category": "Jobs"
+    },
+    {
+        "API": "JobYap",
+        "Description": "Job postings aggregated from companies' careers sites, with community discussion threads",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://jobyap.com/agents",
         "Category": "Jobs"
     },
     {
