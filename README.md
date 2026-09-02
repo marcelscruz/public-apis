@@ -232,10 +232,10 @@
 | [GetGenAI (Packaging Compliance Review)](https://www.getgen.ai/build) | Compliance review API for product labels and marketing assets — automated checks against regulations, retailer specs, and brand guidelines, always up to date | `apiKey` | No |
 | [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) | Art | `apiKey` | Unknown |
 | [Icon Horse](https://icon.horse/usage) | Favicons for any website, with fallbacks | No | Yes |
-| [Iconfinder](https://developer.iconfinder.com) | Icons | `apiKey` | Unknown |
 | [Icons8](https://img.icons8.com/) | Icons (find "search icon" hyperlink in page) | No | Unknown |
 | [Logotypes](https://logotypes.dev/) | Logotypes of the world in multiples format | No | Yes |
 | [Lordicon](https://lordicon.com/) | Icons with predone Animations | No | Yes |
+| [Magnific Icons API](https://docs.magnific.com/api-reference/icons/icons-api) | Icon search and download API by Freepik (formerly Iconfinder) | `apiKey` | Unknown |
 | [Metropolitan Museum of Art](https://metmuseum.github.io/) | Met Museum of Art | No | No |
 | [Noun Project](https://api.thenounproject.com/index.html) | Icons | `OAuth` | Unknown |
 | [PHP-Noise](https://php-noise.com/) | Noise Background Image Generator | No | Yes |
