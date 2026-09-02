@@ -783,6 +783,7 @@
 | [Vertopal](https://www.vertopal.com/en/developer/api/introduction) | Convert your files to a variety of formats using Vertopal API | `apiKey` | No |
 | [WakaTime](https://wakatime.com/developers) | Automated time tracking leaderboards for programmers | No | Unknown |
 | [WAV to MP3 API](https://apyhub.com/utility/audio-converter-wav-mp3) | This API lets you convert wav files to mp3 | `apiKey` | Yes |
+| [XLSX Inspector](https://api.lifestep.io) | Inspect spreadsheet structure, formulas, macros, hidden sheets, and external links | No | Yes |
 | [Zube](https://zube.io/docs/api) | Full stack project management | `OAuth` | Unknown |
 
 **[⬆ Back to Index](#index)**
