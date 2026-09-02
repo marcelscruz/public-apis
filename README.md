@@ -953,6 +953,7 @@
 | [Stripe](https://stripe.com/docs/api) | Payment processing, subscriptions, and financial management | `apiKey` | Unknown |
 | [Sugra API](https://sugra.ai) | One API across markets, economics, commodities, climate, government, and global news. 1,400+ endpoints, 146 primary sources, LLM-ready JSON | `apiKey` | Yes |
 | [Svensk Skatte-API](https://skatteapi.gracestack.se) | Swedish tax calculations: ISK, VAT, income tax, employer contributions | `apiKey` | Unknown |
+| [Tradestie](https://tradestie.com) | Reddit community data: posts, comments and stock sentiment analysis | No | Yes |
 | [TradeWatch](https://tradewatch.io/) | Real time financial market data | `apiKey` | Yes |
 | [Tradier](https://developer.tradier.com) | US equity/option market data (delayed, intraday, historical) | `OAuth` | Yes |
 | [Twelve Data](https://twelvedata.com/) | Stock market data (real-time & historical) | `apiKey` | Unknown |
