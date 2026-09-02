@@ -1,5 +1,5 @@
 {
-"count": 1724,
+"count": 1712,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -2450,14 +2450,6 @@
         "Category": "Currency Exchange"
     },
     {
-        "API": "Amdoren",
-        "Description": "Free currency API with over 150 currencies",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://www.amdoren.com/currency-api/",
-        "Category": "Currency Exchange"
-    },
-    {
         "API": "ApogeoAPI",
         "Description": "Live exchange rates for 161 currencies bundled with country reference data and IP geolocation",
         "Auth": "apiKey",
@@ -2946,14 +2938,6 @@
         "Category": "Development"
     },
     {
-        "API": "Brainshop.ai",
-        "Description": "Make A Free A.I Brain",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://brainshop.ai/",
-        "Category": "Development"
-    },
-    {
         "API": "Brand.dev",
         "Description": "API to personalize your product with logos, colors, and company info from any domain",
         "Auth": "apiKey",
@@ -3023,14 +3007,6 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://github.com/fawazahmed0/cloudflare-trace-api",
-        "Category": "Development"
-    },
-    {
-        "API": "Codex",
-        "Description": "Online Compiler for Various Languages",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://github.com/Jaagrav/CodeX",
         "Category": "Development"
     },
     {
@@ -3511,14 +3487,6 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://kroki.io",
-        "Category": "Development"
-    },
-    {
-        "API": "Lua Decompiler",
-        "Description": "Online Lua 5.1 Decompiler",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://lua-decompiler.ferib.dev/",
         "Category": "Development"
     },
     {
@@ -4735,14 +4703,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://emailvalidation.io/email-validation-api/",
-        "Category": "Email"
-    },
-    {
-        "API": "Enveloop",
-        "Description": "Design, host, and send emails and texts. All from one place - with a simple API",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://enveloop.com",
         "Category": "Email"
     },
     {
@@ -6383,14 +6343,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://wiki.guildwars2.com/wiki/API:Main",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "GW2Spidy",
-        "Description": "GW2Spidy API, Items data on the Guild Wars 2 Trade Market",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://github.com/rubensayshi/gw2spidy/wiki",
         "Category": "Games & Comics"
     },
     {
@@ -8714,14 +8666,6 @@
         "Category": "Jobs"
     },
     {
-        "API": "OkJob",
-        "Description": "4 day week job board",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://okjob.io/api",
-        "Category": "Jobs"
-    },
-    {
         "API": "Reed",
         "Description": "Job board aggregator",
         "Auth": "apiKey",
@@ -8959,14 +8903,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.musixmatch.com/pro/api/",
-        "Category": "Music"
-    },
-    {
-        "API": "Napster",
-        "Description": "Music",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://developer.napster.com/api/v2.2",
         "Category": "Music"
     },
     {
@@ -9215,14 +9151,6 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://noozra.com/api",
-        "Category": "News"
-    },
-    {
-        "API": "RiskSentinel",
-        "Description": "AI-powered news intelligence API delivering structured events with risk assessment, sentiment analysis, company impacts, geo tagging, ai generated summary and more",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://risksentinel.ai",
         "Category": "News"
     },
     {
@@ -9847,30 +9775,6 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://github.com/Medium/medium-api-docs",
-        "Category": "Personality"
-    },
-    {
-        "API": "Programming Quotes",
-        "Description": "Programming Quotes API for open source projects",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://github.com/skolakoda/programming-quotes-api",
-        "Category": "Personality"
-    },
-    {
-        "API": "Quotable Quotes",
-        "Description": "Quotable is a free, open source quotations API",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://github.com/lukePeavey/quotable",
-        "Category": "Personality"
-    },
-    {
-        "API": "Quote Garden",
-        "Description": "REST API for more than 5000 famous quotes",
-        "Auth": "",
-        "Cors": "unknown",
-        "Link": "https://pprathameshmore.github.io/QuoteGarden/",
         "Category": "Personality"
     },
     {
