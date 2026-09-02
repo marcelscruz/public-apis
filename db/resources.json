@@ -1,14 +1,6 @@
 {
-"count": 1711,
+"count": 1710,
 "entries": [
-    {
-        "API": "1ClickImpact (AI Energy)",
-        "Description": "Track and offset the energy and carbon footprint of your AI/LLM usage via a simple API",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://docs.1clickimpact.com/ai-energy",
-        "Category": "AI"
-    },
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
         "Description": "AI-powered translator supporting multiple languages with fast, context-aware responses",
