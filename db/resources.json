@@ -1,5 +1,5 @@
 {
-"count": 1719,
+"count": 1720,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -4583,6 +4583,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://restpack.io/",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Stellary",
+        "Description": "Project management for teams and AI agents via hosted MCP (boards, cards, missions, approvals)",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://stellary.co",
         "Category": "Documents & Productivity"
     },
     {
