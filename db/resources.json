@@ -1,5 +1,5 @@
 {
-"count": 1711,
+"count": 1710,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -5167,14 +5167,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://wattbuy.readme.io/reference/getting-started-with-your-api",
-        "Category": "Environment"
-    },
-    {
-        "API": "Website Carbon",
-        "Description": "API to estimate the carbon footprint of loading web pages",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://docs.1clickimpact.com/website-carbon",
         "Category": "Environment"
     },
     {
