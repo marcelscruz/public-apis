@@ -1,5 +1,5 @@
 {
-"count": 1711,
+"count": 1712,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8855,6 +8855,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developer.kkbox.com",
+        "Category": "Music"
+    },
+    {
+        "API": "Lacuna",
+        "Description": "AI music generation: full songs with vocals and lyrics, or instrumentals",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://lacuna.fm",
         "Category": "Music"
     },
     {
