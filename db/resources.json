@@ -1,5 +1,5 @@
 {
-"count": 1721,
+"count": 1722,
 "entries": [
     {
         "API": "1ClickImpact (AI Energy)",
@@ -167,6 +167,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://irisnet.de/api/",
+        "Category": "AI"
+    },
+    {
+        "API": "ISMS Copilot",
+        "Description": "OpenAI-compatible text-only compliance completions: curated framework knowledge (100+ modules) injected before generation and disclosed on success",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.ismscopilot.com/products/api",
         "Category": "AI"
     },
     {
