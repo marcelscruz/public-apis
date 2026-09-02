@@ -319,6 +319,7 @@
 | [ArvanCloud](https://www.arvancloud.ir/en/dev/sdk) | Enables you to use ArvanCloud services | `apiKey` | No |
 | [Charity Search](https://charityapi.orghunter.com/) | Non-profit charity data | `apiKey` | Unknown |
 | [CompanyEnrich](https://companyenrich.com) | API for B2B company data enrichment, domain enrichment, and website enrichment | `apiKey` | Yes |
+| [Crustdata](https://docs.crustdata.com) | People and company data covering profiles, headcount, funding and contacts | `apiKey` | Yes |
 | [Domainsdb.info](https://domainsdb.info/) | Registered Domain Names Search | No | No |
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | `OAuth` | Unknown |
 | [Gmail](https://developers.google.com/gmail/api/) | Flexible, RESTful access to the user's inbox | `OAuth` | Unknown |
