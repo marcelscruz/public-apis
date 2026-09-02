@@ -1,5 +1,5 @@
 {
-"count": 1712,
+"count": 1713,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1487,6 +1487,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://nioleads.com/apidoc",
+        "Category": "Business"
+    },
+    {
+        "API": "Project Cost Estimator",
+        "Description": "Cost, timeline and complexity estimates for website, ecommerce and app projects",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://projectcostestimator.com/api-docs",
         "Category": "Business"
     },
     {
