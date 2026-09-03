@@ -1,5 +1,5 @@
 {
-"count": 1714,
+"count": 1715,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -191,6 +191,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://machinetutors.com/api/",
+        "Category": "AI"
+    },
+    {
+        "API": "Magic Hour",
+        "Description": "Generate and edit AI videos, images, and audio through a self-serve REST API",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://magichour.ai/api",
         "Category": "AI"
     },
     {
