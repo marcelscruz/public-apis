@@ -1,5 +1,5 @@
 {
-"count": 1716,
+"count": 1717,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11239,6 +11239,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://instagram-posts-generator.vercel.app/",
+        "Category": "Social"
+    },
+    {
+        "API": "InstagramAPI",
+        "Description": "Public Instagram data (profiles, posts, reels, hashtags, locations) via a fast, well-documented API. No approvals needed.",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://instagramapi.dev",
         "Category": "Social"
     },
     {
