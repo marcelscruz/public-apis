@@ -1,5 +1,5 @@
 {
-"count": 1715,
+"count": 1716,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9943,6 +9943,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://proweblook.com/whatsapp-number-checker",
+        "Category": "Phone"
+    },
+    {
+        "API": "USA Caller Lookup",
+        "Description": "US reverse phone lookup: carrier, location and FTC robocall complaint data, no key needed",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://www.usacallerlookup.com/api/",
         "Category": "Phone"
     },
     {
