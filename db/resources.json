@@ -1,5 +1,5 @@
 {
-"count": 1717,
+"count": 1718,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9735,6 +9735,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://akshaykumar-rest.vercel.app/",
+        "Category": "Personality"
+    },
+    {
+        "API": "CosmyDay",
+        "Description": "Natal charts, horoscopes, retrogrades, moon phases and eclipses computed from the Swiss Ephemeris",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://cosmyday.com",
         "Category": "Personality"
     },
     {
