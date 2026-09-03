@@ -1757,6 +1757,7 @@
 | [Hashtag](https://mukeshsolanki.gitbook.io/hashtag-api/) | Generate Hashtags using a keyword or an Image | `apiKey` | Unknown |
 | [Instagram](https://www.instagram.com/developer/) | Instagram Login, Share on Instagram, Social Plugins and more | `OAuth` | Unknown |
 | [Instagram Posts Generator](https://instagram-posts-generator.vercel.app/) | Generate posts with templates from popular instagram pages. | No | Yes |
+| [InstagramAPI](https://instagramapi.dev) | Public Instagram data (profiles, posts, reels, hashtags, locations) via a fast, well-documented API. No approvals needed. | `apiKey` | Unknown |
 | [Kakao](https://developers.kakao.com/) | Kakao Login, Share on KakaoTalk, Social Plugins and more | `OAuth` | Unknown |
 | [Lanyard](https://github.com/Phineas/lanyard) | Retrieve your presence on Discord through an HTTP REST API or WebSocket | No | Yes |
 | [Line](https://developers.line.biz/) | Line Login, Share on Line, Social Plugins and more | `OAuth` | Unknown |
