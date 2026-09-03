@@ -1,5 +1,5 @@
 {
-"count": 1713,
+"count": 1714,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -111,6 +111,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://gandr.ai",
+        "Category": "AI"
+    },
+    {
+        "API": "Geekflare",
+        "Description": "Geekflare is for web scraping, search, and data extraction, letting developers pull  structured data from any website for AI agents and automation workflows",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://geekflare.com",
         "Category": "AI"
     },
     {
