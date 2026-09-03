@@ -1521,6 +1521,7 @@
 |---|---|---|---|
 | [Advice Slip](https://api.adviceslip.com/) | Generate random advice slips | No | Unknown |
 | [akshaykumar-rest](https://akshaykumar-rest.vercel.app/) | Akshay Kumar for every HTTP status code | No | Yes |
+| [CosmyDay](https://cosmyday.com) | Natal charts, horoscopes, retrogrades, moon phases and eclipses computed from the Swiss Ephemeris | No | Yes |
 | [Dev.to](https://developers.forem.com/api) | Access Forem articles, users and other resources via API | `apiKey` | Unknown |
 | [FavQs.com](https://favqs.com/api) | FavQs allows you to collect, discover and share your favorite quotes | `apiKey` | Unknown |
 | [Human Design Hub](https://humandesignhub.app/en/docs) | Human Design bodygraph, transit, compatibility, and penta calculations | `apiKey` | No |
