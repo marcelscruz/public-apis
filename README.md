@@ -1354,8 +1354,7 @@
 | [Job Application API](https://boringproject.ai) | API to apply on jobs posted on carrer platform like workday, lever, icims and many more. Handles captcha, fill forms, submit applications, integrate in < 10min | `apiKey` | Unknown |
 | [jobdata API](https://jobdataapi.com/) | Simple Job Data API | `apiKey` | Unknown |
 | [Jobicy](https://jobicy.com/jobs-rss-feed) | Remote Jobs API Feed | No | Unknown |
-| [JobsPipe](https://jobspipe.dev/docs) | Search live job postings from job boards and company career sites, plus tech stack detection by domain | `apiKey` | Yes |
-| [Jobspipe](https://jobspipe.dev/) | Jobspipe a unified jobs data API powering access to over 300 million public job postings worldwide. We aggregate, normalize, and enrich job data | `apiKey` | Unknown |
+| [JobsPipe](https://jobspipe.dev) | Job postings from 30+ ATS and job boards deduplicated into one schema, plus tech stack detection by domain | `apiKey` | Yes |
 | [Jobven](https://jobven.com) | Job postings collected directly from employer career pages, not job boards. Structured JSON over REST, with webhooks when listings change | `apiKey` | Yes |
 | [Jobvetta](https://www.jobvetta.com/api) | Live, vetted job listings from official employer sources across India | `apiKey` | Yes |
 | [JobYap](https://jobyap.com/agents) | Job postings aggregated from companies' careers sites, with community discussion threads | No | Yes |
