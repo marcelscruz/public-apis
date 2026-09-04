@@ -1,5 +1,5 @@
 {
-"count": 1723,
+"count": 1724,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4103,6 +4103,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://tolgee.io",
+        "Category": "Development"
+    },
+    {
+        "API": "ToolForte",
+        "Description": "Deterministic utilities: IBAN/VAT validation, cron parsing, regex, diffs, Dutch holidays and test data",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://toolforte.com/developers",
         "Category": "Development"
     },
     {
