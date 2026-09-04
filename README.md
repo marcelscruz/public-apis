@@ -576,6 +576,7 @@
 | [CoreClaw](https://coreclaw.com) | Real-time public data, ready to use. Extract web data from Amazon, TikTok, Google Maps and more with 100+ ready-made tools | `apiKey` | Unknown |
 | [CORS Proxy](https://github.com/burhanuday/cors-proxy) | Get around the dreaded CORS error by using this proxy as a middle man | No | Yes |
 | [Corsfix](https://corsfix.com/docs/cors-proxy/api) | Corsfix lets you fetch any resource and bypass CORS errors, free for development environment | No | Yes |
+| [CrustAPI](https://crustapi.com) | Live public Google and LinkedIn data as clean JSON | `apiKey` | Yes |
 | [CSV to JSON API](https://apyhub.com/utility/converter-csv-json) | Convert CSV files to JSON with this API. Ideal for developers who want to automate data workflows and integrate structured data | `apiKey` | Yes |
 | [Databricks](https://docs.databricks.com/dev-tools/api/latest/index.html) | Service to manage your databricks account,clusters, notebooks, jobs and workspaces | `apiKey` | Yes |
 | [DATPAQ](https://datpaq.com) | Developer-first APIs. Enterprise-ready infrastructure. Sampla data, avatars, image processing and a lot more. | `apiKey` | Yes |
