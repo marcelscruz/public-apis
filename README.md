@@ -544,6 +544,7 @@
 | [AgentDeals](https://agentdeals.dev/api) | Search and compare developer free tiers, startup credits, and pricing changes | No | Yes |
 | [Agify.io](https://agify.io) | Estimates the age from a first name | No | Yes |
 | [Amazonscraperapi](https://amazonscraperapi.com) | Amazon product, search & batch scraping API with residential proxies (1000 free) | `apiKey` | No |
+| [AnyAPI](https://getanyapi.com) | Hundreds of scraping and data APIs behind one key and one normalized JSON schema, priced per request in USD | `apiKey` | No |
 | [API Grátis](https://apigratis.com.br/) | Multiples services and public APIs | No | Unknown |
 | [API League](https://apileague.com) | World-class APIs in a single hub | `apiKey` | Yes |
 | [API Status Check](https://apistatuscheck.com) | Real-time status and uptime monitoring for 270+ APIs and services | No | Yes |
