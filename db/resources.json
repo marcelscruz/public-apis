@@ -1,5 +1,5 @@
 {
-"count": 1718,
+"count": 1719,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2831,6 +2831,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://amazonscraperapi.com",
+        "Category": "Development"
+    },
+    {
+        "API": "AnyAPI",
+        "Description": "Hundreds of scraping and data APIs behind one key and one normalized JSON schema, priced per request in USD",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://getanyapi.com",
         "Category": "Development"
     },
     {
