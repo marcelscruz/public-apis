@@ -1,5 +1,5 @@
 {
-"count": 1719,
+"count": 1722,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1519,6 +1519,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://redash.io/help/user-guide/integrations-and-api/api",
+        "Category": "Business"
+    },
+    {
+        "API": "Renidly",
+        "Description": "Resolve any B2B identityin milliseconds",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://renidly.com",
         "Category": "Business"
     },
     {
@@ -5274,6 +5282,14 @@
         "Category": "Finance"
     },
     {
+        "API": "AlphaSMO",
+        "Description": "SEC 13F institutional holdings, Form 4 insider trading, and smart money convergence signals. Free anonymous tier, no signup required",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://alphasmo.com",
+        "Category": "Finance"
+    },
+    {
         "API": "AlQANAAS Gold Data",
         "Description": "Live XAUUSD, country gold prices, and weekly gold research in JSON and CSV",
         "Auth": "",
@@ -8663,6 +8679,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://jobspipe.dev/docs",
+        "Category": "Jobs"
+    },
+    {
+        "API": "Jobspipe",
+        "Description": "Jobspipe a unified jobs data API powering access to over 300 million public job postings worldwide. We aggregate, normalize, and enrich job data",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://jobspipe.dev/",
         "Category": "Jobs"
     },
     {
