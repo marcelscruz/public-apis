@@ -891,6 +891,7 @@
 | [Aletheia](https://aletheiaapi.com/) | Insider trading data, earnings call analysis, financial statements, and more | `apiKey` | Yes |
 | [Alpha Vantage](https://www.alphavantage.co/) | Realtime and historical stock data | `apiKey` | Unknown |
 | [AlphaAI](https://alphai.io/developers) | AI-enriched financial & insider-trading news, scored for relevance | `apiKey` | Unknown |
+| [AlphaSMO](https://alphasmo.com) | SEC 13F institutional holdings, Form 4 insider trading, and smart money convergence signals. Free anonymous tier, no signup required | No | Yes |
 | [AlQANAAS Gold Data](https://alqanaas.com/en/developers/gold-data-api) | Live XAUUSD, country gold prices, and weekly gold research in JSON and CSV | No | Yes |
 | [APIllow](https://apillow.co) | Zillow property data with 50+ fields per listing | `apiKey` | Yes |
 | [ArgentoFX](https://fastapiproject-1-eziw.onrender.com/docs) | Real-time foreign exchange rates for Argentina | No | Yes |
