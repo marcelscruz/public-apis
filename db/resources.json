@@ -1,5 +1,5 @@
 {
-"count": 1722,
+"count": 1723,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7615,6 +7615,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apiverket.se/docs",
+        "Category": "Government"
+    },
+    {
+        "API": "Ayes and Noes",
+        "Description": "UK House of Commons MPs, parties and recorded votes",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://ayesandnoes.co.uk/developers",
         "Category": "Government"
     },
     {
