@@ -1035,6 +1035,7 @@
 | [Eight Ball](https://eightballapi.com/) | Fortune-telling API with random, sentiment-biased, and multi-language responses | No | Yes |
 | [FFXIV Collect](https://ffxivcollect.com/) | Final Fantasy XIV data on collectables | No | Yes |
 | [Final Fantasy XIV](https://xivapi.com/) | Final Fantasy XIV Game data API | No | Yes |
+| [Foilio Open Price Index](https://foilio.net/market/open-index) | Daily price-movement index for trading cards, CC BY 4.0 open data | No | Yes |
 | [FreeToGame](https://www.freetogame.com/api-doc) | Free-To-Play Games Database | No | Yes |
 | [FunTranslations](https://api.funtranslations.com/) | Translate Text into funny languages | No | Yes |
 | [Game Brain](https://gamebrain.co/api) | Search and discover video games with AI | `apiKey` | Yes |
