@@ -64,7 +64,6 @@ The response will be an object with the following structure:
             "Category": string,
             "Cors": string,
             "Description": string,
-            "HTTPS": boolean,
             "Link": string,
         }
     ]
