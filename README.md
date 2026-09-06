@@ -421,6 +421,7 @@
 | [Binance](https://github.com/binance/binance-spot-api-docs) | Exchange for Trading Cryptocurrencies based in China | `apiKey` | Unknown |
 | [Bitfinex](https://docs.bitfinex.com/docs) | Cryptocurrency Trading Platform | `apiKey` | Unknown |
 | [Bitmex](https://www.bitmex.com/app/apiOverview) | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong | `apiKey` | Unknown |
+| [BlackForge](https://blackforge.so) | Order book depth, resting-liquidity lifetimes and taker buy/sell flow across 9 spot venues, per pair per 5-minute window | `apiKey` | No |
 | [Block](https://block.io/docs/basic) | Bitcoin Payment, Wallet & Transaction Data | `apiKey` | Unknown |
 | [BlockBee](https://docs.blockbee.io/) | Cryptocurrency Payment Processor | `apiKey` | Unknown |
 | [Blockchain](https://www.blockchain.com/api) | Bitcoin Payment, Wallet & Transaction Data | `apiKey` | Unknown |
