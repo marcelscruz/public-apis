@@ -862,6 +862,7 @@
 | [Smartatest](https://smartatest.se/api) | Calculators for home energy cost, lighting, air quality limits and GS1 barcode prefixes, in Swedish | No | Yes |
 | [Solematica](https://www.solematica.it/sviluppatori) | Compare Italian solar installer offers, energy prices (PUN/ARERA) and satellite roof data | No | No |
 | [Srp Energy](https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html) | Hourly usage energy report for Srp customers | `apiKey` | No |
+| [Strømpriser i dag](https://strompriseridag.no/api/) | Norwegian electricity prices including VAT and the state subsidy, plus grid tariffs for all 73 grid companies | No | Yes |
 | [Thames Water Open Data](https://data.thameswater.co.uk) | Open Data from the UK's largest water and wastewater services company | `apiKey` | Unknown |
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | The Official Carbon Intensity API for Great Britain developed by National Grid | No | Unknown |
 | [WattBuy](https://wattbuy.readme.io/reference/getting-started-with-your-api) | Electricity usage estimations, carbon footprint estimations, and utility data | `apiKey` | Yes |
