@@ -1,5 +1,5 @@
 {
-"count": 1727,
+"count": 1728,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7887,6 +7887,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://www.fbi.gov/wanted/api",
+        "Category": "Government"
+    },
+    {
+        "API": "FCC ULS Daily Change Archive",
+        "Description": "Day-resolution archive of FCC ULS license change events, including days the FCC's own seven-day feed has overwritten. Coverage from 2026-08-18",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://rapidapi.com/marlinloots3r/api/fcc-uls-daily-change-archive",
         "Category": "Government"
     },
     {
