@@ -1806,6 +1806,7 @@
 ### Sports & Fitness
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [5DollarFootballAPI](https://5dollarfootballapi.com) | Football fixtures, live scores, standings and tick-by-tick bet365 odds (+18 more bookmakers) with corner and card lines | `apiKey` | Yes |
 | [American Football Highlights API](https://highlightly.net/documentation/american-football/) | Real time American Football (NFL/NCAA) highlights | `apiKey` | Unknown |
 | [API-FOOTBALL](https://www.api-football.com/documentation-v3) | Get information about Football Leagues & Cups | `apiKey` | Yes |
 | [balldontlie](https://www.balldontlie.io) | Balldontlie provides access to stats data from the NBA | No | Yes |
