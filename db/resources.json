@@ -1,5 +1,5 @@
 {
-"count": 1728,
+"count": 1729,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5287,6 +5287,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.agenttoolbelt.live",
+        "Category": "Finance"
+    },
+    {
+        "API": "aikstockdata",
+        "Description": "KOSPI/KOSDAQ/KONEX daily settled closes, DART filings with receipt times, quarterly earnings",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://aikstockdata.com",
         "Category": "Finance"
     },
     {
