@@ -1,5 +1,5 @@
 {
-"count": 1729,
+"count": 1730,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13079,6 +13079,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://developer.mercedes-benz.com/apis",
+        "Category": "Vehicle"
+    },
+    {
+        "API": "Motomarks",
+        "Description": "Manufacturer marks for automotive apps. Badge, wordmark, and full logo from one image CDN, so listings do not keep a local dump.",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://motomarks.io/",
         "Category": "Vehicle"
     },
     {
