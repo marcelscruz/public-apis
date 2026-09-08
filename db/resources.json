@@ -1,5 +1,5 @@
 {
-"count": 1730,
+"count": 1731,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12911,6 +12911,14 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole",
+        "Category": "Transportation"
+    },
+    {
+        "API": "Wander Atlas",
+        "Description": "Hourly quiet and busy windows for 671 tourist attractions in 20 countries",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://wanderatlasguides.com/api/",
         "Category": "Transportation"
     },
     {
