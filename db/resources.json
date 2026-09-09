@@ -1,5 +1,5 @@
 {
-"count": 1736,
+"count": 1737,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5871,6 +5871,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://skatteapi.gracestack.se",
+        "Category": "Finance"
+    },
+    {
+        "API": "Tradestie",
+        "Description": "Reddit community data: posts, comments and stock sentiment analysis",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://tradestie.com",
         "Category": "Finance"
     },
     {
