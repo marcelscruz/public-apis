@@ -1,5 +1,5 @@
 {
-"count": 1735,
+"count": 1736,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3615,6 +3615,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://nationalize.io",
+        "Category": "Development"
+    },
+    {
+        "API": "Neon",
+        "Description": "Serverless PostgreSQL with a REST API to manage projects, branches and run SQL over HTTP",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://neon.com",
         "Category": "Development"
     },
     {
