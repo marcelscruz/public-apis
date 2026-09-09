@@ -1,5 +1,5 @@
 {
-"count": 1732,
+"count": 1733,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3159,6 +3159,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://isitdownstatus.com",
+        "Category": "Development"
+    },
+    {
+        "API": "EveryInfra",
+        "Description": "Structured public data, web research, CAPTCHA solving, and source-bound data cleanup",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://everyinfra.com",
         "Category": "Development"
     },
     {
