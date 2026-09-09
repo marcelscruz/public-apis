@@ -1,5 +1,5 @@
 {
-"count": 1737,
+"count": 1738,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4151,6 +4151,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://tyk.io/open-source/",
+        "Category": "Development"
+    },
+    {
+        "API": "Upstash",
+        "Description": "Serverless Redis, Kafka and vector database with REST APIs",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://upstash.com",
         "Category": "Development"
     },
     {
