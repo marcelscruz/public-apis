@@ -1,5 +1,5 @@
 {
-"count": 1733,
+"count": 1734,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10471,6 +10471,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://bootprint.space/",
+        "Category": "Science & Math"
+    },
+    {
+        "API": "CelesTrak",
+        "Description": "Satellite orbital TLE catalog, collision forecasts and space environment datasets",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://celestrak.org/",
         "Category": "Science & Math"
     },
     {
