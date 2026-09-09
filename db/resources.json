@@ -1,5 +1,5 @@
 {
-"count": 1741,
+"count": 1742,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8831,6 +8831,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.juju.com/publisher/spec/",
+        "Category": "Jobs"
+    },
+    {
+        "API": "Parlel",
+        "Description": "Open jobs, hiring companies and public profiles from an AI-native professional network",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://parlel.com/search.md",
         "Category": "Jobs"
     },
     {
