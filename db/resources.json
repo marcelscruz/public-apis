@@ -1,5 +1,5 @@
 {
-"count": 1740,
+"count": 1741,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13183,6 +13183,14 @@
         "Auth": "OAuth",
         "Cors": "yes",
         "Link": "https://smartcar.com/docs/",
+        "Category": "Vehicle"
+    },
+    {
+        "API": "Window Sticker",
+        "Description": "Original factory Monroney label PDF and full spec decode by VIN",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://windowsticker.org/api-docs",
         "Category": "Vehicle"
     },
     {
