@@ -1,5 +1,5 @@
 {
-"count": 1739,
+"count": 1740,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11648,6 +11648,14 @@
         "Cors": "unknown",
         "Link": "https://developers.zoom.us/docs/api",
         "Category": "Social"
+    },
+    {
+        "API": "5DollarFootballAPI",
+        "Description": "Football fixtures, live scores, standings and tick-by-tick bet365 odds (+18 more bookmakers) with corner and card lines",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://5dollarfootballapi.com",
+        "Category": "Sports & Fitness"
     },
     {
         "API": "American Football Highlights API",
