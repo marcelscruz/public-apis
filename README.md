@@ -2042,6 +2042,7 @@
 | [Motomarks](https://motomarks.io/) | Manufacturer marks for automotive apps. Badge, wordmark, and full logo from one image CDN, so listings do not keep a local dump. | `apiKey` | Unknown |
 | [NHTSA](https://vpic.nhtsa.dot.gov/api/) | NHTSA Product Information Catalog and Vehicle Listing | No | Unknown |
 | [Smartcar](https://smartcar.com/docs/) | Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars | `OAuth` | Yes |
+| [Window Sticker](https://windowsticker.org/api-docs) | Original factory Monroney label PDF and full spec decode by VIN | No | Yes |
 
 **[⬆ Back to Index](#index)**
 
