@@ -1,5 +1,5 @@
 {
-"count": 1738,
+"count": 1739,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8927,6 +8927,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://www.audiomack.com/data-api/docs",
+        "Category": "Music"
+    },
+    {
+        "API": "audiometa.io",
+        "Description": "Aggregated live web signals and multiple APIs into one catalog. artists, tracks, playcounts, social reach, and more",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.audiometa.io",
         "Category": "Music"
     },
     {
