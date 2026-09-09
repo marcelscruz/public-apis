@@ -1,5 +1,5 @@
 {
-"count": 1734,
+"count": 1735,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7871,6 +7871,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://explore.data.parliament.uk/",
+        "Category": "Government"
+    },
+    {
+        "API": "DAWUM",
+        "Description": "German political poll datasets with parliament, party and polling institute raw data",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://dawum.de",
         "Category": "Government"
     },
     {
