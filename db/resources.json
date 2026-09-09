@@ -1,5 +1,5 @@
 {
-"count": 1731,
+"count": 1732,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -695,6 +695,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://malshare.com/doc.php",
+        "Category": "Anti-Malware"
+    },
+    {
+        "API": "Malwagon",
+        "Description": "Detonate a file, URL or hash in a sandbox and read the verdict, behaviour and indicators",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://malwagon.com/docs/api",
         "Category": "Anti-Malware"
     },
     {
