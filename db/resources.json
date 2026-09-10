@@ -1,5 +1,5 @@
 {
-"count": 1743,
+"count": 1744,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -839,6 +839,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developer.dribbble.com",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "DummyImage",
+        "Description": "Generate placeholder images with custom size, colors and text",
+        "Auth": "",
+        "Cors": "unknown",
+        "Link": "https://dummyimage.com/",
         "Category": "Art & Design"
     },
     {
