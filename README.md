@@ -384,6 +384,7 @@
 | [Dropbox](https://www.dropbox.com/developers) | File Sharing and Storage | `OAuth` | Unknown |
 | [Fil One](https://docs.fil.one/) | S3-compatible object storage API (formerly Web3 Storage) | `apiKey` | Yes |
 | [File.io](https://www.file.io) | Super simple file sharing, convenient, anonymous and secure | No | Unknown |
+| [Filestack](https://www.filestack.com) | Filestack File Uploader & File Upload API | `apiKey` | Unknown |
 | [Gcore Storage](https://docs.gcore.com/storage) | S3-Compatible Object Storage is a fast and scalable cloud storage system by Gcore that gives you an opportunity to store and retrieve any amount of data at any time. High-performance storage for use as a CDN origin. | `apiKey` | Yes |
 | [GoFile](https://gofile.io/api) | Unlimited size file uploads for free | `apiKey` | Unknown |
 | [Google Drive](https://developers.google.com/drive/) | File Sharing and Storage | `OAuth` | Unknown |
