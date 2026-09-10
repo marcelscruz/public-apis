@@ -1,5 +1,5 @@
 {
-"count": 1744,
+"count": 1745,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3223,6 +3223,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://netbait.org",
+        "Category": "Development"
+    },
+    {
+        "API": "NiuProxy",
+        "Description": "Residential proxies for web scraping, AI agents and automation, with flexible IP rotation, 190+ countries, and HTTP(S)/SOCKS5 support",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://niuproxy.com/",
         "Category": "Development"
     },
     {
