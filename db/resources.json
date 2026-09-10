@@ -1,5 +1,5 @@
 {
-"count": 1742,
+"count": 1743,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -320,6 +320,14 @@
         "Cors": "yes",
         "Link": "https://router.xiu.ai/",
         "Category": "AI"
+    },
+    {
+        "API": "Cat Facts",
+        "Description": "Random cat facts",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://catfact.ninja/",
+        "Category": "Animals"
     },
     {
         "API": "Cataas",
