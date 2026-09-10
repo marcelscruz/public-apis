@@ -146,6 +146,7 @@
 ### Animals
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [Cat Facts](https://catfact.ninja/) | Random cat facts | No | Yes |
 | [Cataas](https://cataas.com/) | Cat as a service (cats pictures and gifs) | No | No |
 | [Cats](https://developers.thecatapi.com/) | Pictures of cats from Tumblr | `apiKey` | No |
 | [Dog Pics](https://dog.ceo/dog-api/) | Pictures of dogs based on the Stanford Dogs Dataset | No | Yes |
