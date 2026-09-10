@@ -390,6 +390,7 @@
 | [Gyazo](https://gyazo.com/api/docs) | Save & Share screen captures instantly | `apiKey` | Unknown |
 | [Imgbb](https://api.imgbb.com/) | Simple and quick private image sharing | `apiKey` | Unknown |
 | [OneDrive](https://developer.microsoft.com/onedrive) | File Sharing and Storage | `OAuth` | Unknown |
+| [Pantry](https://getpantry.cloud/) | Free JSON storage for small projects | No | Yes |
 | [Pastebin](https://pastebin.com/doc_api) | Plain Text Storage | `apiKey` | Unknown |
 | [Pinata](https://docs.pinata.cloud/) | IPFS Pinning Services API | `apiKey` | Unknown |
 | [Quip](https://quip.com/dev/automation/documentation) | File Sharing and Storage for groups | `apiKey` | Yes |
