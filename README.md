@@ -151,6 +151,7 @@
 | [Dog Pics](https://dog.ceo/dog-api/) | Pictures of dogs based on the Stanford Dogs Dataset | No | Yes |
 | [Dogs](https://dogapi.dog/docs/api-v2) | Random facts and breed information about dogs | No | Yes |
 | [eBird](https://documenter.getpostman.com/view/664302/S1ENwy59) | Retrieve recent or notable birding observations within a region | `apiKey` | No |
+| [FishWatch](https://www.fishwatch.gov/developers) | Information and pictures about individual fish species | No | Yes |
 | [HTTP Cat](https://http.cat/) | Cat for every HTTP Status | No | Yes |
 | [HTTP Dog](https://http.dog/) | Dogs for every HTTP response status code | No | Yes |
 | [MeowFacts](https://github.com/wh-iterabb-it/meowfacts) | Get random cat facts | No | No |
