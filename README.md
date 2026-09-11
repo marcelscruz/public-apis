@@ -590,6 +590,7 @@
 | [DownStatus](https://isitdownstatus.com) | Real-time status for GitHub, AWS, Discord and 90+ services | No | Yes |
 | [EveryInfra](https://everyinfra.com) | Structured public data, web research, CAPTCHA solving, and source-bound data cleanup | `apiKey` | No |
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | A simple JSON store API | No | Yes |
+| [Fair Draw](https://bettip.co.za/fair-draw/api/) | Verifiable random draws bound to the drand public randomness beacon | No | Yes |
 | [FluentEDI](https://fluentedi.com) | Deterministic tools for AI agents: X12 EDI, check digits, time, cron, JSON repair | No | Yes |
 | [Form Creation API](https://apyhub.com/utility/reformify-form-api) | Create and manage customizable forms within your applications | `apiKey` | Yes |
 | [FormForge](https://formforge-api.vercel.app) | Generate styled, accessible HTML forms from JSON definitions with validation | No | Yes |
