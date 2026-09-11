@@ -1,5 +1,5 @@
 {
-"count": 1747,
+"count": 1748,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1439,6 +1439,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.freelancer.com",
+        "Category": "Business"
+    },
+    {
+        "API": "GlobalEntity",
+        "Description": "Official company data from 56 European business registers as normalized JSON",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.globalentityapi.com",
         "Category": "Business"
     },
     {
