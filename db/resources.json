@@ -1,5 +1,5 @@
 {
-"count": 1746,
+"count": 1747,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8783,6 +8783,14 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://himalayas.app/api",
+        "Category": "Jobs"
+    },
+    {
+        "API": "Hiring Index",
+        "Description": "Live job postings read from ten employer applicant tracking systems, with market aggregates",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://hiringindex.org",
         "Category": "Jobs"
     },
     {
