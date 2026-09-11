@@ -1,5 +1,5 @@
 {
-"count": 1745,
+"count": 1746,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -39,6 +39,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://chatwith.tools",
+        "Category": "AI"
+    },
+    {
+        "API": "CitedSpy",
+        "Description": "Track brand visibility, share of voice, and citations across AI engines like ChatGPT, Gemini, and Claude",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://www.citedspy.com/",
         "Category": "AI"
     },
     {
