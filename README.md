@@ -2014,6 +2014,7 @@
 | [Uber](https://developer.uber.com/products) | Uber ride requests and price estimation | `OAuth` | Yes |
 | [Velib metropolis, Paris, France](https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole) | Velib Open Data API | No | No |
 | [Wander Atlas](https://wanderatlasguides.com/api/) | Hourly quiet and busy windows for 671 tourist attractions in 20 countries | No | Yes |
+| [Windsock](https://windsock.ai) | Aircraft valuations, FAA registry lookups, cost of ownership and general-aviation market data | `apiKey` | Unknown |
 
 **[⬆ Back to Index](#index)**
 
