@@ -1640,6 +1640,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [Codeforces](https://codeforces.com/apiHelp) | Get access to Codeforces data | `apiKey` | Unknown |
+| [Expired Domains API \| Karma.Domains](https://karma.domains/en/expired-domains-api/) | Expired Domains API for SEO Experts and Agencies | `OAuth` | Unknown |
 | [Hackerearth](https://www.hackerearth.com/docs/wiki/developers/v4) | For compiling and running code in several languages | `apiKey` | Unknown |
 | [JMESPath](https://noteapiconnector.com/jmespath-free-api) | Run JMESPath queries on JSON data for filtering, transforming, and extracting results | No | Yes |
 | [Judge0 CE](https://ce.judge0.com/) | Online code execution system | `apiKey` | Unknown |
