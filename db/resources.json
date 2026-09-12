@@ -1,5 +1,5 @@
 {
-"count": 1748,
+"count": 1749,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10495,6 +10495,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://codeforces.com/apiHelp",
+        "Category": "Programming"
+    },
+    {
+        "API": "Expired Domains API | Karma.Domains",
+        "Description": "Expired Domains API for SEO Experts and Agencies",
+        "Auth": "OAuth",
+        "Cors": "unknown",
+        "Link": "https://karma.domains/en/expired-domains-api/",
         "Category": "Programming"
     },
     {
