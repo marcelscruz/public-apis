@@ -1,5 +1,5 @@
 {
-"count": 1750,
+"count": 1751,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1607,6 +1607,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://tomba.io/api",
+        "Category": "Business"
+    },
+    {
+        "API": "ToolCompare",
+        "Description": "Software pricing for 512 tools with the source URL and the date each price was read",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://toolcompare.net/data",
         "Category": "Business"
     },
     {
