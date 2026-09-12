@@ -1,5 +1,5 @@
 {
-"count": 1749,
+"count": 1750,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13055,6 +13055,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://wanderatlasguides.com/api/",
+        "Category": "Transportation"
+    },
+    {
+        "API": "Windsock",
+        "Description": "Aircraft valuations, FAA registry lookups, cost of ownership and general-aviation market data",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://windsock.ai",
         "Category": "Transportation"
     },
     {
