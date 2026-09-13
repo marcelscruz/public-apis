@@ -921,6 +921,7 @@
 | [Citi](https://sandbox.developerhub.citi.com/api-catalog-list) | All Citigroup account and statement data APIs | `apiKey` | Unknown |
 | [ComplianceWatch](https://compliancewatch.stackmint.cloud/) | AML/KYC sanctions screening against OFAC, EU, UN, UK, INTERPOL and FBI watchlists | `apiKey` | Unknown |
 | [DolarAPI](https://dolarapi.com/docs/) | Real-time exchange rates for Latin American currencies | No | Yes |
+| [Drillr](https://drillr.ai) | Fundamentals, filings, filing full-text search, earnings, ownership, events and analyst data for US, China and Japan equities, linked to source filings | `apiKey` | No |
 | [Earnings Feed](https://earningsfeed.com/api/docs) | SEC filings, insider transactions, institutional holdings | `apiKey` | No |
 | [Econdb](https://www.econdb.com/api/) | Global macroeconomic data | No | Yes |
 | [eunormia E-Invoice API](https://eunormia.com) | eunormia turns your invoice data into a ZUGFeRD/Factur-X PDF/A-3 per EN 16931 — and validates every result before it is delivered | `apiKey` | Unknown |
