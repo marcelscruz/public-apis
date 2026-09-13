@@ -817,6 +817,7 @@
 | [Guerrilla Mail](https://www.guerrillamail.com/GuerrillaMailAPI.html) | Disposable temporary Email addresses | No | Unknown |
 | [Heybounce](https://www.heybounce.io/#email-verification-api) | Email Verification API | No | Yes |
 | [ImprovMX](https://improvmx.com/api) | API for free email forwarding service | `apiKey` | Unknown |
+| [inboxsink](https://inboxsink.com) | Disposable inboxes for end-to-end tests that wait for the email and extract OTP codes and links | `apiKey` | No |
 | [IndiePitcher](https://docs.indiepitcher.com/api-reference) | Everything email for your startup with markdown support | `apiKey` | Yes |
 | [Kickbox](https://open.kickbox.com/) | Email verification API | No | Yes |
 | [mail.gw](https://docs.mail.gw) | 10 Minute Mail | No | Yes |
