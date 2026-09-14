@@ -1491,6 +1491,7 @@
 | [Kaggle](https://www.kaggle.com/docs/api) | Create and interact with Datasets, Notebooks, and connect with Kaggle | `apiKey` | Unknown |
 | [LinkPreview](https://www.linkpreview.net) | Get JSON formatted summary with title, description and preview image for any requested URL | `apiKey` | Yes |
 | [Lowy Asia Power Index](https://github.com/0x0is1/lowy-index-api-docs) | Get measure resources and influence to rank the relative power of states in Asia | No | Unknown |
+| [Microburbs](https://www.microburbs.com.au/api-access) | Australian property and suburb data: valuations, sale and rent history, comparables, schools, demographics, crime, risk overlays, zoning and development | `apiKey` | No |
 | [Microlink.io](https://microlink.io) | Extract structured data from any website | No | Yes |
 | [Nobel Prize](https://www.nobelprize.org/about/developer-zone-2/) | Open data about nobel prizes and events | No | Yes |
 | [Open Data Minneapolis](https://opendata.minneapolismn.gov/) | Spatial (GIS) and non-spatial city data for Minneapolis | No | No |
