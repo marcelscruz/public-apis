@@ -1,5 +1,5 @@
 {
-"count": 1752,
+"count": 1753,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9639,6 +9639,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://github.com/0x0is1/lowy-index-api-docs",
+        "Category": "Open Data"
+    },
+    {
+        "API": "Microburbs",
+        "Description": "Australian property and suburb data: valuations, sale and rent history, comparables, schools, demographics, crime, risk overlays, zoning and development",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.microburbs.com.au/api-access",
         "Category": "Open Data"
     },
     {
