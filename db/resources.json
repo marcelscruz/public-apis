@@ -1,5 +1,5 @@
 {
-"count": 1751,
+"count": 1752,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5511,6 +5511,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://dolarapi.com/docs/",
+        "Category": "Finance"
+    },
+    {
+        "API": "Drillr",
+        "Description": "Fundamentals, filings, filing full-text search, earnings, ownership, events and analyst data for US, China and Japan equities, linked to source filings",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://drillr.ai",
         "Category": "Finance"
     },
     {
