@@ -135,7 +135,7 @@
 | [SkyBiometry](https://skybiometry.com/documentation/) | Face Detection, Face Recognition and Face Grouping | `apiKey` | Unknown |
 | [Spam Hunter](https://spam-hunter.ru/) | Free service to classify text as spam using ML | `apiKey` | Yes |
 | [Summarize Text with AI](https://apyhub.com/utility/ai-summarize) | This API generates customizable summaries of text and web pages using AI | `apiKey` | Yes |
-| [TranscriptFetch](https://transcriptfetch.com) | YouTube transcript API for developers. Fetch captions from any video in production—no proxies, no IP blocks. Built for LLM, RAG, and MCP pipelines | `apiKey` | Yes |
+| [TranscriptFetch](https://transcriptfetch.com) | YouTube, Instagram and TikTok transcript API for developers. Fetch captions from any video in production—no proxies, no IP blocks. Built for LLM, RAG, and MCP pipelines | `apiKey` | Yes |
 | [UnoRouter](https://unorouter.com) | OpenAI-compatible gateway routing chat/completions across 500+ models with a free tier | `apiKey` | Yes |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Unknown |
 | [WaveSpeedAI](https://wavespeed.ai) | Generate images, video and audio from 900+ open and commercial models (FLUX, Seedream, Kling, Wan) through one async REST API | `apiKey` | Yes |
