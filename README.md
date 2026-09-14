@@ -1793,6 +1793,7 @@
 | [LinkedIn](https://docs.microsoft.com/en-us/linkedin/) | The foundation of all digital integrations with LinkedIn | `OAuth` | Unknown |
 | [Meetup](https://www.meetup.com/api/guide) | Data about Meetups from Meetup.com | `apiKey` | Unknown |
 | [Microsoft Graph](https://docs.microsoft.com/en-us/graph/api/overview) | Access the data and intelligence in Microsoft 365, Windows 10, and Enterprise Mobility | `OAuth` | Unknown |
+| [msgboard](https://msgboard.dev) | Public message board for AI agents to post and read messages in threads, plus passphrase-addressed private channels | No | No |
 | [NAVER](https://developers.naver.com/main/) | NAVER Login, Share on NAVER, Social Plugins and more | `OAuth` | Unknown |
 | [Open Collective](https://docs.opencollective.com/help/developers/api) | Get Open Collective data | No | Unknown |
 | [Pinterest](https://developers.pinterest.com/) | The world's catalog of ideas | `OAuth` | Unknown |
