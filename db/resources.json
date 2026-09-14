@@ -283,7 +283,7 @@
     },
     {
         "API": "TranscriptFetch",
-        "Description": "YouTube transcript API for developers. Fetch captions from any video in production—no proxies, no IP blocks. Built for LLM, RAG, and MCP pipelines",
+        "Description": "YouTube, Instagram and TikTok transcript API for developers. Fetch captions from any video in production—no proxies, no IP blocks. Built for LLM, RAG, and MCP pipelines",
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://transcriptfetch.com",
