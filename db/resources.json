@@ -9414,7 +9414,7 @@
         "Description": "Free news headlines from 200+ curated RSS sources",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://noozra.com/api",
+        "Link": "https://noozra.com",
         "Category": "News"
     },
     {
