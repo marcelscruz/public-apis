@@ -1,5 +1,5 @@
 {
-"count": 1754,
+"count": 1755,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5935,6 +5935,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://skatteapi.gracestack.se",
+        "Category": "Finance"
+    },
+    {
+        "API": "The Gold Barometer",
+        "Description": "Daily gold buying-conditions score (0-100), its history and a record back to 1971, as JSON and CSV",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://thegoldbarometer.com",
         "Category": "Finance"
     },
     {
