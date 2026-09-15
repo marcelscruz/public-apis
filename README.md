@@ -684,6 +684,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [iLovePDF](https://developer.ilovepdf.com/) | Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month | `apiKey` | Yes | Yes |
 | [Invoice Parsing API](https://apyhub.com/utility/sharpapi-ai-invoice-parser) | Extract structured invoice data using AI with this API. Multiple formats supported | `apiKey` | Yes | Yes |
 | [JIRA](https://developer.atlassian.com/server/jira/platform/rest-apis/) | JIRA is a proprietary issue tracking product that allows bug tracking and agile project management | `OAuth`| Yes | Unknown |
+| [Kiprio Contract Extract](https://kiprio.com/v1/contract-extract/) | Extract parties, dates, payment terms, governing law, and dispute resolution clauses from raw contract text as structured JSON (BYOK — bring your own Anthropic key) | `apiKey` | Yes | Yes |
 | [Mattermost](https://api.mattermost.com/) | An open source platform for developer collaboration | `OAuth`| Yes | Unknown |
 | [MConverter](https://dev.mconverter.eu/) | File converter and PDF compressor. Extract images from video, convert documents, Markdown and more | `apiKey` | Yes | Unknown |
 | [Monday](https://developer.monday.com/) | Programmatically access and update data inside a monday.com account | `apiKey` | Yes | Unknown |
