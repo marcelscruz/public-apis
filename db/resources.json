@@ -7235,10 +7235,10 @@
     },
     {
         "API": "Geomelon",
-        "Description": "Multilingual City autocomplete",
+        "Description": "A read-only geographic data API covering cities, countries, regions, and languages with multilingual name support",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://geomelon.dev/free-city-autocomplete-api/",
+        "Link": "https://geomelon.dev",
         "Category": "Geocoding"
     },
     {
@@ -7934,7 +7934,7 @@
         "Description": "Spanish IAE/CNAE tax activity codes, 2009→2025 crosswalk and AEAT obligations",
         "Auth": "apiKey",
         "Cors": "no",
-        "Link": "https://www.conversoriaecnae.es/api/v1/docs",
+        "Link": "https://conversoriaecnae.es",
         "Category": "Government"
     },
     {
