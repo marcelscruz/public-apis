@@ -1154,7 +1154,7 @@
 | [GeoJS](https://www.geojs.io/) | IP geolocation with ChatOps integration | No | Yes |
 | [Geokeo](https://geokeo.com) | Geokeo geocoding service- with 2500 free api requests daily | No | Yes |
 | [Geolocated](https://geolocated.io) | Free IP Geolocation API with multi-continent servers, and 60000 free requests/month | `apiKey` | Yes |
-| [Geomelon](https://geomelon.dev/free-city-autocomplete-api/) | Multilingual City autocomplete | No | Yes |
+| [Geomelon](https://geomelon.dev) | A read-only geographic data API covering cities, countries, regions, and languages with multilingual name support | No | Yes |
 | [GeoNames](https://www.geonames.org/export/web-services.html) | Place names and other geographical data | No | Unknown |
 | [geoPlugin](https://www.geoplugin.com) | IP geolocation and currency conversion | No | Yes |
 | [Google Earth Engine](https://developers.google.com/earth-engine/) | A cloud-based platform for planetary-scale environmental data analysis | `apiKey` | Unknown |
