@@ -11574,7 +11574,7 @@
         "Description": "Schedule and publish posts across social media platforms",
         "Auth": "apiKey",
         "Cors": "no",
-        "Link": "https://docs.woopsocial.com/",
+        "Link": "https://woopsocial.com",
         "Category": "Social"
     },
     {
