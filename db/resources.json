@@ -1,5 +1,5 @@
 {
-"count": 1753,
+"count": 1754,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10951,6 +10951,14 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://github.com/polarspetroll/EscapeAPI",
+        "Category": "Security"
+    },
+    {
+        "API": "Fidro",
+        "Description": "Fraud detection API returning a weighted risk score from VPN, proxy, Tor and datacenter IP detection, email validation and Stripe payment signals",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://fidro.io",
         "Category": "Security"
     },
     {
