@@ -28,6 +28,13 @@
 </div>
 
 <br/>
+
+<div>
+    <p align="center"><a href="https://transcriptfetch.com?ref=dr-pa&utm_source=public-apis-repo-readme&utm_medium=referral&utm_content=sponsored"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/transcriptfetch-dark-mode.png" width="28px"><source media="(prefers-color-scheme: light)" srcset="./assets/transcriptfetch-light-mode.png" width="28px"><img alt="TranscriptFetch logo" src="./assets/transcriptfetch-dark-mode.png" width="28px" align="middle" hspace="4"></picture> <b>TranscriptFetch</b></a></p>
+    <p align="center"><a href="https://transcriptfetch.com?ref=dr-pa&utm_source=public-apis-repo-readme&utm_medium=referral&utm_content=sponsored">TranscriptFetch</a>: Transcript data from any YouTube, TikTok or Instagram video, or a whole channel or playlist, inside your assistant. Analyze a video, a creator, or a whole topic.</p>
+</div>
+
+<br/>
 <!-- SPONSORS:END -->
 <br/>
 <hr/>
