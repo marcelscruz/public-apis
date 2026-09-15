@@ -283,7 +283,7 @@
     },
     {
         "API": "TranscriptFetch",
-        "Description": "YouTube, Instagram and TikTok transcript API for developers. Fetch captions from any video in production—no proxies, no IP blocks. Built for LLM, RAG, and MCP pipelines.",
+        "Description": "Transcript data from any YouTube, TikTok or Instagram video, or a whole channel or playlist, inside your assistant. Analyze a video, a creator, or a whole topic.",
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://transcriptfetch.com",
