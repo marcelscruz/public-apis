@@ -10934,7 +10934,7 @@
         "Description": "Free no-auth JSON feed of exploited CVEs with CVSS, EPSS and CISA KEV status",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://defend.network/api/",
+        "Link": "https://defend.network",
         "Category": "Security"
     },
     {
