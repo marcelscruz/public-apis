@@ -1706,7 +1706,7 @@
 | [Classify](https://github.com/cheatsnake/classify) | Encrypting & decrypting text messages | No | Yes |
 | [ClawSearch](https://api.clawsearch.cc) | Security-first search engine API for AI agent skills with Trust Score | No | Yes |
 | [Complete Criminal Checks](https://completecriminalchecks.com/Developers) | Provides data of offenders from all U.S. States and Puerto Rico | `apiKey` | Yes |
-| [Defend Network](https://defend.network/api/) | Free no-auth JSON feed of exploited CVEs with CVSS, EPSS and CISA KEV status | No | Yes |
+| [Defend Network](https://defend.network) | Free no-auth JSON feed of exploited CVEs with CVSS, EPSS and CISA KEV status | No | Yes |
 | [DomScan](https://domscan.net/docs) | Domain, DNS, WHOIS/RDAP, TLS, email, brand and web intelligence | `apiKey` | Yes |
 | [EmailRep](https://docs.emailrep.io/) | Email address threat and risk prediction | No | Unknown |
 | [Escape](https://github.com/polarspetroll/EscapeAPI) | An API for escaping different kind of queries | No | No |
