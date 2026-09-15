@@ -1352,6 +1352,7 @@
 | [Open Disease](https://disease.sh/) | API for Current cases and more stuff about COVID-19 and Influenza | No | Yes |
 | [openFDA](https://open.fda.gov) | Public FDA data about drugs, devices and foods | `apiKey` | Unknown |
 | [Psychologie et Sérénité](https://psychologieetserenite.com/api) | French psychology articles metadata and validated psychological tests catalog | No | Yes |
+| [Real Dental Costs](https://realdentalcosts.com/en/api/) | U.S. dental procedure prices, Medicaid dental fee schedules and coverage by state and CDT code (open data, CC BY 4.0) | No | Yes |
 | [Urgences Québec](https://sante.handled.tools) | Hourly crowding for the 120 emergency rooms of Quebec, with walk-in clinics and surgery delays | No | Yes |
 | [Verified Supplement Data](https://verifiedsupplementdata.com/api/v1/recommend/index.json) | Supplement dosing, form comparisons and drug-nutrient interactions with PubMed citations | No | Yes |
 
