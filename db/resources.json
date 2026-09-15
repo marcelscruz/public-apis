@@ -11462,7 +11462,7 @@
         "Description": "Twitter scraping and posting — 44 endpoints from $0.001 per call",
         "Auth": "apiKey",
         "Cors": "no",
-        "Link": "https://docs.getxapi.com",
+        "Link": "https://getxapi.com",
         "Category": "Social"
     },
     {
