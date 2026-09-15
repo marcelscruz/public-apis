@@ -2542,7 +2542,7 @@
         "Description": "Live exchange rates for 161 currencies bundled with country reference data and IP geolocation",
         "Auth": "apiKey",
         "Cors": "yes",
-        "Link": "https://apogeoapi.com/exchange-rates-api",
+        "Link": "https://apogeoapi.com",
         "Category": "Currency Exchange"
     },
     {
