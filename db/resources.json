@@ -1,5 +1,5 @@
 {
-"count": 1734,
+"count": 1729,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5498,14 +5498,6 @@
         "Category": "Finance"
     },
     {
-        "API": "ComplianceWatch",
-        "Description": "AML/KYC sanctions screening against OFAC, EU, UN, UK, INTERPOL and FBI watchlists",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://compliancewatch.stackmint.cloud/",
-        "Category": "Finance"
-    },
-    {
         "API": "DolarAPI",
         "Description": "Real-time exchange rates for Latin American currencies",
         "Auth": "",
@@ -7018,14 +7010,6 @@
         "Category": "Geocoding"
     },
     {
-        "API": "ApogeoAPI",
-        "Description": "IP geolocation (IPv4 + IPv6) with country, city, timezone and 150k cities database",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://apogeoapi.com/ip-geolocation-api",
-        "Category": "Geocoding"
-    },
-    {
         "API": "BigDataCloud's Free API",
         "Description": "Get free client-side reverse geocoding API and Client Info API. No account creation and API key required.",
         "Auth": "",
@@ -7135,14 +7119,6 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://freegeoip.app/",
-        "Category": "Geocoding"
-    },
-    {
-        "API": "Geo Toolkit",
-        "Description": "Plus Codes, geohash and Maidenhead encode/decode plus distance, bearing and bounding box math",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://abundanceapis.com/apis/geo-toolkit",
         "Category": "Geocoding"
     },
     {
@@ -9106,14 +9082,6 @@
         "Category": "Music"
     },
     {
-        "API": "Lacuna",
-        "Description": "AI music generation: full songs with vocals and lyrics, or instrumentals",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://lacuna.fm",
-        "Category": "Music"
-    },
-    {
         "API": "LastFm",
         "Description": "Music",
         "Auth": "apiKey",
@@ -9407,14 +9375,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/",
-        "Category": "News"
-    },
-    {
-        "API": "Noozra",
-        "Description": "Free news headlines from 200+ curated RSS sources",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://noozra.com",
         "Category": "News"
     },
     {
