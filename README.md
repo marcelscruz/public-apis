@@ -495,7 +495,7 @@
 |---|---|---|---|
 | [1Forge](https://1forge.com/forex-data-api/api-documentation) | Forex currency market data | `apiKey` | Unknown |
 | [AllRatesToday](https://allratestoday.com) | Real-time exchange rates for 160+ currencies with historical data | `apiKey` | Yes |
-| [ApogeoAPI](https://apogeoapi.com/exchange-rates-api) | Live exchange rates for 161 currencies bundled with country reference data and IP geolocation | `apiKey` | Yes |
+| [ApogeoAPI](https://apogeoapi.com) | Live exchange rates for 161 currencies bundled with country reference data and IP geolocation | `apiKey` | Yes |
 | [Bank of Russia](https://www.cbr.ru/development/SXML/) | Exchange rates and currency conversion | No | Unknown |
 | [Cambio Uruguay](https://cambio-uruguay.com) | Real-time buy/sell rates from every Uruguayan exchange house, with conversion and history | No | Yes |
 | [Convert Currency to Multiple Currencies](https://apyhub.com/utility/currency-conversion-multiple) | Convert currencies from a source currency to multiple target currencies. | `apiKey` | Yes |
