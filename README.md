@@ -1784,7 +1784,7 @@
 | [Feedframer](https://feedframer.com/docs) | Instagram feed posts as JSON, GraphQL or RSS with automatic token refresh | `apiKey` | Yes |
 | [Foursquare](https://developer.foursquare.com/) | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) | `OAuth` | Unknown |
 | [Full Contact](https://docs.fullcontact.com/) | Get Social Media profiles and contact Information | `OAuth` | Unknown |
-| [GetXAPI](https://docs.getxapi.com) | Twitter scraping and posting — 44 endpoints from $0.001 per call | `apiKey` | No |
+| [GetXAPI](https://getxapi.com) | Twitter scraping and posting — 44 endpoints from $0.001 per call | `apiKey` | No |
 | [HackerNews](https://github.com/HackerNews/API) | Social news for CS and entrepreneurship | No | Unknown |
 | [Hashnode](https://hashnode.com) | A blogging platform built for developers | No | Unknown |
 | [Hashtag](https://mukeshsolanki.gitbook.io/hashtag-api/) | Generate Hashtags using a keyword or an Image | `apiKey` | Unknown |
