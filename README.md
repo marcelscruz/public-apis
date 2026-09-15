@@ -1247,7 +1247,7 @@
 | [CNPJ Aberto](https://cnpjaberto.com.br) | Search Brazilian companies by CNPJ | No | Unknown |
 | [Code.gov](https://code.gov) | The primary platform for Open Source and code sharing for the U.S. Federal Government | `apiKey` | Unknown |
 | [Colorado Information Marketplace](https://data.colorado.gov/) | Colorado State Government Open Data | No | Unknown |
-| [Conversor IAE CNAE](https://www.conversoriaecnae.es/api/v1/docs) | Spanish IAE/CNAE tax activity codes, 2009→2025 crosswalk and AEAT obligations | `apiKey` | No |
+| [Conversor IAE CNAE](https://conversoriaecnae.es) | Spanish IAE/CNAE tax activity codes, 2009→2025 crosswalk and AEAT obligations | `apiKey` | No |
 | [Data USA](https://datausa.io/about/api/) | US Public Data | No | Unknown |
 | [Data.gov](https://api.data.gov/) | US Government Data | `apiKey` | Unknown |
 | [Data.parliament.uk](https://explore.data.parliament.uk/) | Contains live datasets including information about petitions, bills, MP votes, attendance and more | No | Unknown |
