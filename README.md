@@ -939,6 +939,7 @@
 | [FinFeedAPI](https://finfeedapi.com) | Developer-first market data API | `apiKey` | Unknown |
 | [Finnhub](https://finnhub.io/docs/api) | Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto | `apiKey` | Unknown |
 | [FinSignals](https://finsignals.ai/docs/) | Sentiment, direction & quality classification for Reddit financial social posts | `apiKey` | Yes |
+| [flatin.pt](https://flatin.pt/en/) | Portuguese property taxes: IMI rates for all 308 municipalities and IMT and stamp duty on a home purchase | No | Yes |
 | [FRED](https://fred.stlouisfed.org/docs/api/fred/) | Economic data from the Federal Reserve Bank of St. Louis | `apiKey` | Yes |
 | [Front Accounting APIs](https://frontaccounting.com/fawiki/index.php) | Front accounting is multilingual and multicurrency software for small businesses | `OAuth` | Yes |
 | [FXMacroData](https://fxmacrodata.com/) | Real-time forex macroeconomic API for all major currency pairs sourced from central bank announcements | `apiKey` | Yes |
