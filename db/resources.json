@@ -1,5 +1,5 @@
 {
-"count": 1729,
+"count": 1730,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4319,6 +4319,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://developer.oxforddictionaries.com/",
+        "Category": "Dictionaries"
+    },
+    {
+        "API": "SayItVid",
+        "Description": "English video pronunciation search with timestamps, IPA phonetics and subtitle context",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://sayitvid.com",
         "Category": "Dictionaries"
     },
     {
