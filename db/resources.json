@@ -1,5 +1,5 @@
 {
-"count": 1731,
+"count": 1732,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4679,6 +4679,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://pdfgate.com/html-to-pdf-api",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "PDFMint",
+        "Description": "HTML, Markdown or a URL to PDF, PNG or JPEG, plus PDF merging. The file comes back in the same response. Free for 10 documents/month",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://pdf.mintapis.com",
         "Category": "Documents & Productivity"
     },
     {
