@@ -1,5 +1,5 @@
 {
-"count": 1730,
+"count": 1731,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10895,6 +10895,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://completecriminalchecks.com/Developers",
+        "Category": "Security"
+    },
+    {
+        "API": "CompliAPI",
+        "Description": "Sanctions screening: crypto addresses, emails, websites, IDs and countries against OFAC, EU, UK and 10+ lists",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://compliapi.com",
         "Category": "Security"
     },
     {
