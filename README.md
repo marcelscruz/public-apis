@@ -1109,6 +1109,7 @@
 | [Scryfall](https://scryfall.com/docs/api) | Magic: The Gathering database | No | Yes |
 | [slot.report](https://slot.report/api/) | Online slot machine data: RTP, volatility, max win and features for 6,000+ games | No | Yes |
 | [SpaceTradersAPI](https://spacetraders.io) | A playable inter-galactic space trading MMOAPI | `OAuth` | Yes |
+| [Stardew Valley Wiki](https://www.stardewvalleywiki.net/developers) | Stardew Valley game data: fish, crops, villagers, gifts, bundles | No | Yes |
 | [Steam](https://steamapi.xpaw.me/) | Steam Web API documentation | `apiKey` | No |
 | [Steam](https://github.com/Revadike/InternalSteamWebAPI/wiki) | Internal Steam Web API documentation | No | No |
 | [TCGApi](https://tcgapi.dev) | Trading card game prices and historical data across 89+ games | `apiKey` | No |
