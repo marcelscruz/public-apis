@@ -794,6 +794,7 @@
 | [PDFBolt](https://pdfbolt.com/docs) | High-quality HTML to PDF conversion with templates and AI generation | `apiKey` | Yes |
 | [PDFEndpoint](https://pdfendpoint.com) | HTML and URL to PDF API | `apiKey` | No |
 | [PDFGate](https://pdfgate.com/html-to-pdf-api) | HTML to PDF API with support for custom headers, footers, fillable form fields, and encryption | `apiKey` | Yes |
+| [PDFMint](https://pdf.mintapis.com) | HTML, Markdown or a URL to PDF, PNG or JPEG, plus PDF merging. The file comes back in the same response. Free for 10 documents/month | `apiKey` | No |
 | [Pocket](https://getpocket.com/developer/) | Bookmarking service | `OAuth` | Unknown |
 | [Podio](https://developers.podio.com) | File sharing and productivity | `OAuth` | Unknown |
 | [PrexView](https://prexview.com) | Data from XML or JSON to PDF, HTML or Image | `apiKey` | Unknown |
