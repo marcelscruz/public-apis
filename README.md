@@ -2078,6 +2078,7 @@
 | [Compress Video API](https://apyhub.com/utility/job-compress-video) | Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks | `apiKey` | Yes |
 | [Czech Television](https://www.ceskatelevize.cz/xml/tv-program/) | TV programme of Czech TV | No | Unknown |
 | [Dailymotion](https://developer.dailymotion.com/) | Dailymotion Developer API | `OAuth` | Unknown |
+| [Easydown](https://easydown.org/) | Parse public video and image post URLs from 11 social platforms via a documented, self-serve REST API | `apiKey` | Yes |
 | [Eurovision Song Contest](https://eurovisionapi.runasp.net/) | Unofficial Eurovision Song Contest API | No | Unknown |
 | [Extract Audio from Video API](https://apyhub.com/utility/job-extract-video-audio) | This API helps you extract audio from any video at scale | `apiKey` | Yes |
 | [Final Space](https://finalspaceapi.com/docs/) | Final Space API | No | Yes |
