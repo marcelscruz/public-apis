@@ -1,5 +1,5 @@
 {
-"count": 1732,
+"count": 1733,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13183,6 +13183,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developer.dailymotion.com/",
+        "Category": "Video"
+    },
+    {
+        "API": "Easydown",
+        "Description": "Parse public video and image post URLs from 11 social platforms via a documented, self-serve REST API",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://easydown.org/",
         "Category": "Video"
     },
     {
