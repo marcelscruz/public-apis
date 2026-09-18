@@ -1,5 +1,5 @@
 {
-"count": 1733,
+"count": 1734,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2871,6 +2871,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://agent-gateway-kappa.vercel.app",
+        "Category": "Development"
+    },
+    {
+        "API": "Agent Nexus",
+        "Description": "Continuously probed registry of APIs, MCP servers and CLIs callable by agents",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://agentnexus.app",
         "Category": "Development"
     },
     {
