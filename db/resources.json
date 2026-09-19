@@ -1,5 +1,5 @@
 {
-"count": 1735,
+"count": 1736,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4719,6 +4719,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://prexview.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "PrintSocket",
+        "Description": "Send PDFs, ZPL labels and ESC/POS receipts to printers you control, from any language",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.printsocket.com",
         "Category": "Documents & Productivity"
     },
     {
