@@ -1,5 +1,5 @@
 {
-"count": 1734,
+"count": 1735,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11751,6 +11751,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developer.jcdecaux.com/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "KashRock",
+        "Description": "Esports data: player props, odds, live scores, and player stats across CS2, Valorant, LoL, Dota 2, CoD, R6, Mobile Legends, and Apex Legends",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.kashrock.com",
         "Category": "Sports & Fitness"
     },
     {
