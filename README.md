@@ -799,6 +799,7 @@
 | [Pocket](https://getpocket.com/developer/) | Bookmarking service | `OAuth` | Unknown |
 | [Podio](https://developers.podio.com) | File sharing and productivity | `OAuth` | Unknown |
 | [PrexView](https://prexview.com) | Data from XML or JSON to PDF, HTML or Image | `apiKey` | Unknown |
+| [PrintSocket](https://www.printsocket.com) | Send PDFs, ZPL labels and ESC/POS receipts to printers you control, from any language | `apiKey` | No |
 | [RenderPDF.io](https://renderpdf.io) | HTML to PDF crazy fast, 500 pdfs/month + CDN-ready | `apiKey` | Yes |
 | [ReportForge](https://reportforge-api.vercel.app) | Generate styled HTML reports from CSV or JSON data with built-in templates | No | Yes |
 | [Restpack](https://restpack.io/) | Provides screenshot, HTML to PDF and content extraction APIs | `apiKey` | Unknown |
