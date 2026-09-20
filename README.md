@@ -346,6 +346,7 @@
 | [Mailchimp](https://mailchimp.com/developer/) | Send marketing campaigns and transactional mails | `apiKey` | Unknown |
 | [mailjet](https://www.mailjet.com/) | Marketing email can be sent and mail templates made in MJML or HTML can be sent using API | `apiKey` | Unknown |
 | [markerapi](https://markerapi.com) | Trademark Search | No | Unknown |
+| [Minds](https://getminds.ai) | Synthetic market research: create AI audiences and run studies, interviews and surveys | `apiKey` | No |
 | [Mydentify](https://mydentify.com/openapi.json) | Startup-directory research and weekly product leaderboard data | No | Yes |
 | [NioLeads](https://nioleads.com/apidoc) | LinkedIn Email Finder and Email Verifier | `apiKey` | Yes |
 | [Project Cost Estimator](https://projectcostestimator.com/api-docs) | Cost, timeline and complexity estimates for website, ecommerce and app projects | `apiKey` | Yes |
