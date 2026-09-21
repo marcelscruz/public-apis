@@ -1,5 +1,5 @@
 {
-"count": 1738,
+"count": 1739,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9559,6 +9559,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://collegescorecard.ed.gov/data/",
+        "Category": "Open Data"
+    },
+    {
+        "API": "CoworkingView",
+        "Description": "Coworking spaces and flexible offices in European and UAE cities, with operator-listed prices and a per-city price index under CC BY 4.0",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://coworkingview.com",
         "Category": "Open Data"
     },
     {
