@@ -1742,6 +1742,7 @@
 | [Offendersearch](https://offendersearch.app) | Search sex-offender records across all 58 US state, territory and tribal registries in one query; REST API plus open data | `apiKey` | Yes |
 | [OWASP ZAP](https://www.zaproxy.org/docs/api/) | Automated security testing API for web apps | No | Unknown |
 | [Passwordinator](https://github.com/fawazsullia/password-generator/) | Generate random passwords of varying complexities | No | Yes |
+| [Patronus Protect](https://api.patronus.studio/) | Detect prompt injection in text, public webpages and documents for AI agents and RAG pipelines | `apiKey` | No |
 | [PhishStats](https://phishstats.info/) | Phishing database | No | Unknown |
 | [Portscan](https://portscan.com) | Scans the requesting client's IP for open TCP ports with fast or deep modes on IPv4/IPv6 | No | Yes |
 | [Privacy.com](https://privacy.com/developer/docs) | Generate merchant-specific and one-time use credit card numbers that link back to your bank | `apiKey` | Unknown |
