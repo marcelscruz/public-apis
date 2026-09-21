@@ -1,5 +1,5 @@
 {
-"count": 1737,
+"count": 1738,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8007,6 +8007,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://opendata.dc.gov/pages/using-apis",
+        "Category": "Government"
+    },
+    {
+        "API": "Edgrapi",
+        "Description": "US government data as JSON: SAM.gov contract opportunities, USAspending awards, Grants.gov grants, congressional trades and SEC filings",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://edgrapi.com",
         "Category": "Government"
     },
     {
