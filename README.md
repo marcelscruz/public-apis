@@ -1264,6 +1264,7 @@
 | [Dedline.io API](https://github.com/dedline-io/dedline-api) | Data for US state voter registration deadlines and details, for primaries and general elections | No | Yes |
 | [Deutscher Bundestag DIP](https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf) | This API provides read access to DIP entities (e.g. activities, persons, printed material) | `apiKey` | Unknown |
 | [District of Columbia Open Data](https://opendata.dc.gov/pages/using-apis) | Contains D.C. government public datasets, including crime, GIS, financial data, and so on | No | Unknown |
+| [Edgrapi](https://edgrapi.com) | US government data as JSON: SAM.gov contract opportunities, USAspending awards, Grants.gov grants, congressional trades and SEC filings | `apiKey` | Yes |
 | [EPA](https://www.epa.gov/developers/data-data-products#apis) | Web services and data sets from the US Environmental Protection Agency | No | Unknown |
 | [FBI Wanted](https://www.fbi.gov/wanted/api) | Access information on the FBI Wanted program | No | Unknown |
 | [FCC ULS Daily Change Archive](https://rapidapi.com/marlinloots3r/api/fcc-uls-daily-change-archive) | Day-resolution archive of FCC ULS license change events, including days the FCC's own seven-day feed has overwritten. Coverage from 2026-08-18 | `apiKey` | Unknown |
