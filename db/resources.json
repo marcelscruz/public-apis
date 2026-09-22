@@ -1,5 +1,5 @@
 {
-"count": 1739,
+"count": 1740,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6895,6 +6895,14 @@
         "Auth": "OAuth",
         "Cors": "yes",
         "Link": "https://spacetraders.io",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "Stardew Valley Wiki",
+        "Description": "Stardew Valley game data: fish, crops, villagers, gifts, bundles",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://www.stardewvalleywiki.net/developers",
         "Category": "Games & Comics"
     },
     {
