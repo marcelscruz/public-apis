@@ -113,6 +113,7 @@
 | [CustomGPT.ai](https://docs.customgpt.ai/reference/i-api-homepage) | RAG API with RESTful endpoints, comprehensive SDKs, and enterprise-grade reliability. | `apiKey` | Yes |
 | [Dialogflow](https://cloud.google.com/dialogflow/docs/) | Natural Language Processing | `apiKey` | Unknown |
 | [Eden](https://www.edenai.co/) | Get all AI models in one place, e.g. OpenAI, Google and lots more! | `apiKey` | Yes |
+| [Engagemii Citation Watch](https://engagemii.com/live) | Which brands ChatGPT names for real buyer questions, updated every 30 minutes, with each brand's AI visibility score | No | Yes |
 | [Face-api.js](https://github.com/justadudewhohacks/face-api.js) | JavaScript API for face detection, recognition, and emotion analysis using TensorFlow.js | No | Unknown |
 | [Gandr](https://gandr.ai) | Text to speech API for voice agents. One voice in 23 languages, every render watermarked | `apiKey` | Yes |
 | [Geekflare](https://geekflare.com) | Geekflare is for web scraping, search, and data extraction, letting developers pull  structured data from any website for AI agents and automation workflows | `apiKey` | Yes |
