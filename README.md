@@ -23,13 +23,6 @@
 <br/>
 
 <div>
-    <p align="center"><a href="https://webz.io/?ref=dr-pa&utm_source=public-apis-repo-readme&utm_medium=referral&utm_content=sponsored"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/webz-io-news-api-dark-mode.svg" width="134px"><source media="(prefers-color-scheme: light)" srcset="./assets/webz-io-news-api-light-mode.svg" width="134px"><img alt="Webz.io News API logo" src="./assets/webz-io-news-api-dark-mode.svg" width="134px"></picture></a></p>
-    <p align="center"><a href="https://webz.io/?ref=dr-pa&utm_source=public-apis-repo-readme&utm_medium=referral&utm_content=sponsored">Webz.io News API</a>: Webz.io News APIs provide global news data for search, monitoring, analytics, and AI applications, with powerful filters and natural-language search.</p>
-</div>
-
-<br/>
-
-<div>
     <p align="center"><a href="https://transcriptfetch.com?ref=dr-pa&utm_source=public-apis-repo-readme&utm_medium=referral&utm_content=sponsored"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/transcriptfetch-dark-mode.png" width="28px"><source media="(prefers-color-scheme: light)" srcset="./assets/transcriptfetch-light-mode.png" width="28px"><img alt="TranscriptFetch logo" src="./assets/transcriptfetch-dark-mode.png" width="28px" align="absmiddle" hspace="8"></picture></a><b>TranscriptFetch</b></p>
     <p align="center"><a href="https://transcriptfetch.com?ref=dr-pa&utm_source=public-apis-repo-readme&utm_medium=referral&utm_content=sponsored">TranscriptFetch</a>: Transcript data from any YouTube, TikTok or Instagram video, or a whole channel or playlist, inside your assistant. Analyze a video, a creator, or a whole topic.</p>
 </div>
