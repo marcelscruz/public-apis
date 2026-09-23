@@ -1148,6 +1148,7 @@
 | [bng2latlong](https://www.getthedata.com/bng2latlong) | Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude | No | Yes |
 | [Cartes.io](https://github.com/M-Media-Group/Cartes.io/wiki/API) | Create maps and markers for anything | No | Unknown |
 | [Cep.la](https://cep.la/) | Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states | No | Unknown |
+| [CheckIP](https://checkip.me) | IP geolocation, ISP, ASN and VPN/proxy/Tor detection for any IP, with plain-text output for curl | No | Yes |
 | [CitySDK](https://www.citysdk.eu/citysdk-toolkit/) | Open APIs for select European cities | No | Unknown |
 | [Country](https://country.is/) | Get your visitor's country from their IP | No | Yes |
 | [CountryStateCity](https://countrystatecity.in/) | World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format | `apiKey` | Yes |
