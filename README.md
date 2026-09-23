@@ -1095,11 +1095,11 @@
 | [PandaScore](https://developers.pandascore.co/) | E-sports games and results | `apiKey` | Unknown |
 | [Path of Exile](https://www.pathofexile.com/developer/docs) | Path of Exile Game Information | `OAuth` | Unknown |
 | [PlayerDB](https://playerdb.co/) | Query Minecraft, Steam and XBox Accounts | No | Unknown |
+| [pokemontcgapi.com](https://pokemontcgapi.com) | Pokémon TCG cards, sets and sealed products; names in eight locales and daily Cardmarket and TCGplayer prices | `apiKey` | Yes |
 | [Poker Odds Equity EV Calculator & Advice](https://rapidapi.com/vintarok-vintarok-default/api/poker-odds-equity-ev-calculator-advice-api) | Poker odds, equity & EV calculator with hand/decision advice | `apiKey` | Yes |
 | [Pokéapi](https://pokeapi.co) | Pokémon Information | No | Unknown |
 | [PokéAPI (GraphQL)](https://github.com/mazipan/graphql-pokeapi) | The Unofficial GraphQL for PokeAPI | No | Yes |
 | [Pokémon TCG](https://pokemontcg.io) | Pokémon TCG Information | No | Unknown |
-| [pokemontcgapi.com](https://pokemontcgapi.com) | Pokémon TCG cards, sets and sealed products; names in eight locales and daily Cardmarket and TCGplayer prices | `apiKey` | Yes |
 | [Psychonauts](https://psychonauts-api.netlify.app/) | Psychonauts World Characters Information and PSI Powers | No | Yes |
 | [PUBG](https://developer.pubg.com/) | Access in-game PUBG data | `apiKey` | Yes |
 | [Puyo Nexus](https://github.com/deltadex7/puyodb-api-deno) | Puyo Puyo information from Puyo Nexus Wiki | No | Yes |
