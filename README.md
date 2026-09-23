@@ -665,6 +665,7 @@
 | [Posthook](https://docs.posthook.io) | Schedule webhooks for future delivery with retries and delivery tracking | `apiKey` | No |
 | [Postman](https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a) | Tool for testing APIs | `apiKey` | Unknown |
 | [Proxed AI](https://proxed.ai/) | Secure AI APIs in iOS - No SDK, Just Change Your API URL | `apiKey` | Yes |
+| [Proxmint Free Proxies](https://proxmint.com/free-proxies) | Free live-tested proxy list (HTTP/HTTPS/SOCKS4/SOCKS5), revalidated every 30 min, filterable by country, protocol and anonymity, JSON or txt | No | Yes |
 | [Proxmox VE API](https://pve.proxmox.com/pve-docs/api-viewer/) | API of self-hosted Proxmox VE. Address: https://your.server:8006/api2/json/ (configuring in installation process) | `apiKey` | Unknown |
 | [ProxyCrawl](https://proxycrawl.com) | Scraping and crawling anticaptcha service | `apiKey` | Unknown |
 | [ProxyKingdom](https://proxykingdom.com) | Rotating Proxy API that produces a working proxy on every request | `apiKey` | Yes |
