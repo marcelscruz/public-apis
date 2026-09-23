@@ -1,5 +1,5 @@
 {
-"count": 1740,
+"count": 1741,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11095,6 +11095,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://comparefairly.com/llms.txt",
+        "Category": "Shopping"
+    },
+    {
+        "API": "DeX",
+        "Description": "Syrian online store builder: manage products, variants, stock, categories and orders of a DeX store via REST API and webhooks",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://dex.sy",
         "Category": "Shopping"
     },
     {
