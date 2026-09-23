@@ -1099,6 +1099,7 @@
 | [Pokéapi](https://pokeapi.co) | Pokémon Information | No | Unknown |
 | [PokéAPI (GraphQL)](https://github.com/mazipan/graphql-pokeapi) | The Unofficial GraphQL for PokeAPI | No | Yes |
 | [Pokémon TCG](https://pokemontcg.io) | Pokémon TCG Information | No | Unknown |
+| [pokemontcgapi.com](https://pokemontcgapi.com) | Pokémon TCG cards, sets and sealed products; names in eight locales and daily Cardmarket and TCGplayer prices | `apiKey` | Yes |
 | [Psychonauts](https://psychonauts-api.netlify.app/) | Psychonauts World Characters Information and PSI Powers | No | Yes |
 | [PUBG](https://developer.pubg.com/) | Access in-game PUBG data | `apiKey` | Yes |
 | [Puyo Nexus](https://github.com/deltadex7/puyodb-api-deno) | Puyo Puyo information from Puyo Nexus Wiki | No | Yes |
