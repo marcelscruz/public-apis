@@ -298,6 +298,7 @@
 | [Crossref Metadata Search](https://github.com/CrossRef/rest-api-doc) | Books & Articles Metadata | No | Unknown |
 | [Ganjoor](https://api.ganjoor.net) | Classic Persian poetry works including access to related manuscripts, recitations and music tracks | `OAuth` | Yes |
 | [Google Books](https://developers.google.com/books/) | Books | `OAuth` | Unknown |
+| [Greenlit Books](https://greenlitbooks.com/developers) | Read-only JSON API and remote MCP server over a catalog of practical AI books, with a claim ledger behind every page | No | Yes |
 | [Gutendex](https://gutendex.com/) | Web-API for fetching data from Project Gutenberg Books Library | No | Unknown |
 | [Harry Potter](https://github.com/fedeperin/potterapi) | API to get data from Harry Potter books, movies and characters | No | Yes |
 | [Holy Bible API](https://holy-bible-api.com/docs) | Free Bible API serving 800+ text translations and 40+ audio translations | No | No |
