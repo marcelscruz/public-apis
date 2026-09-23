@@ -1,5 +1,5 @@
 {
-"count": 1741,
+"count": 1742,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -103,6 +103,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.edenai.co/",
+        "Category": "AI"
+    },
+    {
+        "API": "Engagemii Citation Watch",
+        "Description": "Which brands ChatGPT names for real buyer questions, updated every 30 minutes, with each brand's AI visibility score",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://engagemii.com/live",
         "Category": "AI"
     },
     {
