@@ -1,5 +1,5 @@
 {
-"count": 1745,
+"count": 1746,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -255,6 +255,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://prismix.dev/api-docs",
+        "Category": "AI"
+    },
+    {
+        "API": "Requesty",
+        "Description": "OpenAI-compatible gateway that routes requests to 600+ models from 30+ providers, with fallbacks, caching and spend tracking",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.requesty.ai",
         "Category": "AI"
     },
     {
