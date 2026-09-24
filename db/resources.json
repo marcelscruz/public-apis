@@ -1,5 +1,5 @@
 {
-"count": 1742,
+"count": 1743,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1431,6 +1431,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://docs.crustdata.com",
+        "Category": "Business"
+    },
+    {
+        "API": "Derrick",
+        "Description": "B2B contact and company enrichment: verified work emails, mobile numbers, firmographics, technologies in use and hiring signals",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://derrick-app.com",
         "Category": "Business"
     },
     {
