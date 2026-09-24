@@ -1,5 +1,5 @@
 {
-"count": 1746,
+"count": 1747,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3183,6 +3183,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://corsfix.com/docs/cors-proxy/api",
+        "Category": "Development"
+    },
+    {
+        "API": "CrustAPI",
+        "Description": "Live public Google and LinkedIn data as clean JSON",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://crustapi.com",
         "Category": "Development"
     },
     {
