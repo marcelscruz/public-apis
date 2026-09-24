@@ -1,5 +1,5 @@
 {
-"count": 1744,
+"count": 1745,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4263,6 +4263,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://utilorax.com/api",
+        "Category": "Development"
+    },
+    {
+        "API": "Vend",
+        "Description": "Pay-per-call web-data API for AI agents: any URL to clean text/markdown, plus web search, link check, geoip and PDF-to-text; settled on-chain in XNO per call.",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://extract.paypercall.dev",
         "Category": "Development"
     },
     {
