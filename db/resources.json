@@ -1,5 +1,5 @@
 {
-"count": 1743,
+"count": 1744,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3815,6 +3815,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://proxed.ai/",
+        "Category": "Development"
+    },
+    {
+        "API": "Proxmint Free Proxies",
+        "Description": "Free live-tested proxy list (HTTP/HTTPS/SOCKS4/SOCKS5), revalidated every 30 min, filterable by country, protocol and anonymity, JSON or txt",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://proxmint.com/free-proxies",
         "Category": "Development"
     },
     {
