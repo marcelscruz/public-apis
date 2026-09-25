@@ -1,5 +1,5 @@
 {
-"count": 1750,
+"count": 1751,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4623,6 +4623,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://docs.flowdash.com/docs/api-introduction",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Formfeed",
+        "Description": "Render PDFs and images from HTML templates (Jinja2, Liquid, Handlebars) or Word files with one API call. EU-hosted, free tier",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://formfeed.dev",
         "Category": "Documents & Productivity"
     },
     {
