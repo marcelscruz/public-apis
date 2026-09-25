@@ -1,5 +1,5 @@
 {
-"count": 1747,
+"count": 1748,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4575,6 +4575,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/sharpapi-ai-resume-parser",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "doc.cheap",
+        "Description": "Passport, ID card and MRZ recognition - send a photo, get the printed fields as structured JSON. 10 free recognitions, then $0.01 per document",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://doc.cheap",
         "Category": "Documents & Productivity"
     },
     {
