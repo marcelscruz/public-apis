@@ -1,5 +1,5 @@
 {
-"count": 1748,
+"count": 1749,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5623,6 +5623,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://www.econdb.com/api/",
+        "Category": "Finance"
+    },
+    {
+        "API": "Eulerpool",
+        "Description": "Global stock, ETF, macro, crypto and FX data with fundamentals and history",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://eulerpool.com/financial-data-api",
         "Category": "Finance"
     },
     {
