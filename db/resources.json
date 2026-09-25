@@ -1,5 +1,5 @@
 {
-"count": 1749,
+"count": 1750,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1647,6 +1647,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://toolcompare.net/data",
+        "Category": "Business"
+    },
+    {
+        "API": "TradeData",
+        "Description": "Global customs manifest and bill of lading APIs across 10 sovereign nations",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://tradedata.io",
         "Category": "Business"
     },
     {
