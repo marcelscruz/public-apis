@@ -1,5 +1,5 @@
 {
-"count": 1751,
+"count": 1752,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10624,6 +10624,14 @@
         "Cors": "yes",
         "Link": "https://taddy.org/developers/podcast-api",
         "Category": "Podcasts"
+    },
+    {
+        "API": "CatchDoms Expired Domains API",
+        "Description": "Expired domains API for SEOs, domain investors and drop-catchers: live auctions from 22 platforms - 183k+ deleted ccTLDs aged domains - weekly pending delete",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://catchdoms.com/api",
+        "Category": "Programming"
     },
     {
         "API": "Codeforces",
