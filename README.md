@@ -2134,6 +2134,7 @@
 | [TMDb](https://www.themoviedb.org/documentation/api) | Community-based movie data | `apiKey` | Unknown |
 | [Trakt](https://trakt.docs.apiary.io/) | Movie and TV Data | `apiKey` | Yes |
 | [TranscriptAPI](https://transcriptapi.com) | YouTube video transcripts as JSON with timestamps, search and playlist endpoints | `apiKey` | Unknown |
+| [getyoutubetranscript.com](https://getyoutubetranscript.com) | YouTube video transcripts, search, channel browsing, and playlist extraction, free tier with no card required | `apiKey` | No |
 | [TVDB](https://thetvdb.com/api-information) | Television data | `apiKey` | Unknown |
 | [TVMaze](https://www.tvmaze.com/api) | TV Show Data | No | Unknown |
 | [uNoGS](https://rapidapi.com/unogs/api/unogsng) | Unofficial Netflix Online Global Search, Search all netflix regions in one place | `apiKey` | Yes |
