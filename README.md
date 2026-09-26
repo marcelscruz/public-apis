@@ -1656,6 +1656,7 @@
 ### Programming
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [CatchDoms Expired Domains API](https://catchdoms.com/api) | Expired domains API for SEOs, domain investors and drop-catchers: live auctions from 22 platforms - 183k+ deleted ccTLDs aged domains - weekly pending delete | `apiKey` | Yes |
 | [Codeforces](https://codeforces.com/apiHelp) | Get access to Codeforces data | `apiKey` | Unknown |
 | [Expired Domains API \| Karma.Domains](https://karma.domains/en/expired-domains-api/) | Expired Domains API for SEO Experts and Agencies | `OAuth` | Unknown |
 | [Hackerearth](https://www.hackerearth.com/docs/wiki/developers/v4) | For compiling and running code in several languages | `apiKey` | Unknown |
