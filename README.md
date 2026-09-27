@@ -140,6 +140,7 @@
 | [TranscriptFetch](https://transcriptfetch.com) | Transcript data from any YouTube, TikTok or Instagram video, or a whole channel or playlist, inside your assistant. Analyze a video, a creator, or a whole topic. | `apiKey` | Yes |
 | [UnoRouter](https://unorouter.com) | OpenAI-compatible gateway routing chat/completions across 500+ models with a free tier | `apiKey` | Yes |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Unknown |
+| [Voxell Forge](https://voxell.ai/forge) | OpenAI-compatible text embeddings API. The turbo model is free forever with no credit card; pro and ultra are paid | `apiKey` | No |
 | [WaveSpeedAI](https://wavespeed.ai) | Generate images, video and audio from 900+ open and commercial models (FLUX, Seedream, Kling, Wan) through one async REST API | `apiKey` | Yes |
 | [WolframAlpha](https://products.wolframalpha.com/api/) | Provides specific answers to questions using data and algorithms | `apiKey` | Unknown |
 | [XiuRouter](https://router.xiu.ai/) | Route requests to leading AI models through one API with native OpenAI, Anthropic, and Gemini protocols | `apiKey` | Yes |
