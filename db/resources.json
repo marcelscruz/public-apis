@@ -1,5 +1,5 @@
 {
-"count": 1752,
+"count": 1753,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -319,6 +319,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://unplu.gg/test_api.html",
+        "Category": "AI"
+    },
+    {
+        "API": "Voxell Forge",
+        "Description": "OpenAI-compatible text embeddings API. The turbo model is free forever with no credit card; pro and ultra are paid",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://voxell.ai/forge",
         "Category": "AI"
     },
     {
