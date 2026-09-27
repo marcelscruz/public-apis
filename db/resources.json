@@ -1,5 +1,5 @@
 {
-"count": 1754,
+"count": 1755,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5103,6 +5103,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developers.sendinblue.com/docs",
+        "Category": "Email"
+    },
+    {
+        "API": "SendRaven",
+        "Description": "Email API for AI agents: send from your own domain, receive replies as threads, and cap or hold sends for approval per API key",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://sendraven.ai",
         "Category": "Email"
     },
     {
