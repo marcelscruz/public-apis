@@ -1,5 +1,5 @@
 {
-"count": 1753,
+"count": 1754,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13487,6 +13487,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://github.com/F4R4N/movie-quote/",
+        "Category": "Video"
+    },
+    {
+        "API": "Mutator",
+        "Description": "Make short vertical videos, photo slideshows and product photos for TikTok and Instagram from a product photo or website",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://mutator.app",
         "Category": "Video"
     },
     {
