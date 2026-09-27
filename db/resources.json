@@ -1,5 +1,5 @@
 {
-"count": 1757,
+"count": 1758,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5503,6 +5503,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.agenttoolbelt.live",
+        "Category": "Finance"
+    },
+    {
+        "API": "Aikount",
+        "Description": "Spanish accounting for freelancers and SMEs: invoices, expense receipts with OCR, bank reconciliation, ledger and VAT returns",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://aikount.com",
         "Category": "Finance"
     },
     {
