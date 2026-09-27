@@ -1,5 +1,5 @@
 {
-"count": 1756,
+"count": 1757,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -319,6 +319,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://unplu.gg/test_api.html",
+        "Category": "AI"
+    },
+    {
+        "API": "UpRes",
+        "Description": "Image, video and speech restoration up to 8K through a self-serve REST API",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://upres.ai",
         "Category": "AI"
     },
     {
