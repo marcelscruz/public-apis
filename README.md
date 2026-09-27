@@ -920,6 +920,7 @@
 | [Abstract VAT Validation](https://www.abstractapi.com/vat-validation-rates-api) | Validate VAT numbers and calculate VAT rates | `apiKey` | Yes |
 | [Adanos](https://adanos.org/) | Stock and crypto sentiment from Reddit, X, financial news, and Polymarket | `apiKey` | Yes |
 | [Agent Toolbelt](https://www.agenttoolbelt.live) | AI-generated stock analysis (investment thesis, valuation, insider signal, earnings) from live fundamentals, as structured JSON | `apiKey` | Unknown |
+| [Aikount](https://aikount.com) | Spanish accounting for freelancers and SMEs: invoices, expense receipts with OCR, bank reconciliation, ledger and VAT returns | `apiKey` | No |
 | [aikstockdata](https://aikstockdata.com) | KOSPI/KOSDAQ/KONEX daily settled closes, DART filings with receipt times, quarterly earnings | No | Yes |
 | [Aletheia](https://aletheiaapi.com/) | Insider trading data, earnings call analysis, financial statements, and more | `apiKey` | Yes |
 | [Alpha Vantage](https://www.alphavantage.co/) | Realtime and historical stock data | `apiKey` | Unknown |
