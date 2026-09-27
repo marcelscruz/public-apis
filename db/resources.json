@@ -1,5 +1,5 @@
 {
-"count": 1755,
+"count": 1756,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11695,6 +11695,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://twitterapi.io",
+        "Category": "Social"
+    },
+    {
+        "API": "Upload-Post",
+        "Description": "Post and schedule videos, photos, text and documents to TikTok, Instagram, YouTube, LinkedIn, X, Threads and more with one API key",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.upload-post.com",
         "Category": "Social"
     },
     {
