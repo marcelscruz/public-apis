@@ -1457,6 +1457,7 @@
 | [Associated Press](https://developer.ap.org/) | Search for news and metadata from Associated Press | `apiKey` | Unknown |
 | [Chronicling America](https://chroniclingamerica.loc.gov/about/api/) | Provides access to millions of pages of historic US newspapers from the Library of Congress | No | Unknown |
 | [Currents](https://currentsapi.services/) | Latest news published in various news sources, blogs and forums | `apiKey` | Yes |
+| [daily.dev](https://daily.dev) | Developer news feeds, posts, bookmarks, tags and search from daily.dev | `apiKey` | No |
 | [Feedbin](https://github.com/feedbin/feedbin-api) | RSS reader | `OAuth` | Unknown |
 | [Finlight](https://finlight.me) | Realtime financial news with sentiment and article content | `apiKey` | Unknown |
 | [Free News API](https://freenewsapi.io) | Search and retrieve news articles with full-text search, filters and cursor pagination | `apiKey` | No |
