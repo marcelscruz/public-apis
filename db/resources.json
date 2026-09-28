@@ -5654,7 +5654,7 @@
         "Description": "Financial data for Argentina, Spain and Mexico: USD rates, inflation, Euribor, ICL",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://casheva.com/api",
+        "Link": "https://casheva.com",
         "Category": "Finance"
     },
     {
@@ -7454,7 +7454,7 @@
         "Description": "IP geolocation and ASN lookup with privacy/VPN scoring, no API key required",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://hackmyip.com/api-docs",
+        "Link": "https://hackmyip.com",
         "Category": "Geocoding"
     },
     {
@@ -9174,7 +9174,7 @@
         "Description": "Music recognition from audio files, URLs, and live streams",
         "Auth": "apiKey",
         "Cors": "unknown",
-        "Link": "https://docs.audd.io",
+        "Link": "https://audd.io",
         "Category": "Music"
     },
     {
