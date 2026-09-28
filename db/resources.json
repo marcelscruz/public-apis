@@ -8910,7 +8910,7 @@
         "Description": "Supplement dosing, form comparisons and drug-nutrient interactions with PubMed citations",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://verifiedsupplementdata.com/api/v1/recommend/index.json",
+        "Link": "https://verifiedsupplementdata.com",
         "Category": "Health"
     },
     {
@@ -9734,7 +9734,7 @@
         "Description": "Backlink and domain-link data from Common Crawl's open web graph",
         "Auth": "apiKey",
         "Cors": "no",
-        "Link": "https://crawlgraph.com/docs/api",
+        "Link": "https://crawlgraph.com",
         "Category": "Open Data"
     },
     {
