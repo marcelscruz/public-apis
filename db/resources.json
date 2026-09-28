@@ -1,5 +1,5 @@
 {
-"count": 1761,
+"count": 1762,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -983,6 +983,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://api.thenounproject.com/index.html",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "OG Stamp",
+        "Description": "Open Graph and social card PNGs from a title or a page URL. One-time credits, no subscription",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://ogstamp.com",
         "Category": "Art & Design"
     },
     {
