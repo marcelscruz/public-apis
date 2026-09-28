@@ -299,7 +299,7 @@
     },
     {
         "API": "TranscriptFetch",
-        "Description": "Transcript data from any YouTube, TikTok or Instagram video, or a whole channel or playlist, inside your assistant. Analyze a video, a creator, or a whole topic.",
+        "Description": "The transcript API for social media video. Get transcripts at scale from YouTube, TikTok or Instagram.",
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://transcriptfetch.com",
