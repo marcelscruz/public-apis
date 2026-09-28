@@ -1,5 +1,5 @@
 {
-"count": 1762,
+"count": 1763,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1287,6 +1287,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.google.com/books/",
+        "Category": "Books"
+    },
+    {
+        "API": "Greenlit Books",
+        "Description": "Read-only JSON API and remote MCP server over a catalog of practical AI books, with a claim ledger behind every page",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://greenlitbooks.com/developers",
         "Category": "Books"
     },
     {
