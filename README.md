@@ -352,6 +352,7 @@
 | [Project Cost Estimator](https://projectcostestimator.com/api-docs) | Cost, timeline and complexity estimates for website, ecommerce and app projects | `apiKey` | Yes |
 | [Redash](https://redash.io/help/user-guide/integrations-and-api/api) | Access your queries and dashboards on Redash | `apiKey` | Yes |
 | [Renidly](https://renidly.com) | Resolve any B2B identityin milliseconds | `apiKey` | Yes |
+| [SanctionsKit](https://www.sanctionskit.com/) | Sanctions screening for people and organizations, with review evidence; free synthetic sandbox and paid production | `apiKey` | No |
 | [Smartsheet](https://smartsheet.redoc.ly/) | Allows you to programmatically access and Smartsheet data and account information | `OAuth` | No |
 | [Square](https://developer.squareup.com/reference/square) | Easy way to take payments, manage refunds, and help customers checkout online | `OAuth` | Unknown |
 | [StackScan](https://www.stackscan.com) | Technology stack of any website, and every site running a given technology, across 399M+ sites | `apiKey` | Yes |
