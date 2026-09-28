@@ -1632,7 +1632,7 @@
 | [Pexels](https://www.pexels.com/api) | Free Stock Photos and Videos | `apiKey` | Yes |
 | [PhotoRoom](https://www.photoroom.com/api/) | Remove background from images | `apiKey` | Unknown |
 | [Pixabay](https://pixabay.com/sk/service/about/api/) | Photography | `apiKey` | Unknown |
-| [PixelVault](https://pixelvault.dev/docs) | Agent-first image hosting with instant CDN URLs | `apiKey` | No |
+| [PixelVault](https://pixelvault.dev) | Agent-first image hosting with instant CDN URLs | `apiKey` | No |
 | [PlaceKeanu](https://placekeanu.com/) | Resizable Keanu Reeves placeholder images with grayscale and young Keanu options | No | Unknown |
 | [Poof](https://poof.bg) | Image & video background removal API | `apiKey` | Yes |
 | [Readme typing SVG](https://github.com/DenverCoder1/readme-typing-svg) | Customizable typing and deleting text SVG | No | Unknown |
