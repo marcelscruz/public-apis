@@ -1,5 +1,5 @@
 {
-"count": 1763,
+"count": 1761,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2487,14 +2487,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://okx.com/okx-api",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "OpenChainBench",
-        "Description": "Open dataset of crypto infrastructure benchmarks: RPC latency, oracles, bridges, prediction markets",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://openchainbench.com",
         "Category": "Cryptocurrency"
     },
     {
@@ -11079,14 +11071,6 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://search.censys.io/api",
-        "Category": "Security"
-    },
-    {
-        "API": "ChronoVerify",
-        "Description": "Image capture time and provenance verification: C2PA Content Credentials, EXIF, pixel forensics",
-        "Auth": "",
-        "Cors": "no",
-        "Link": "https://chronoverify.com/method",
         "Category": "Security"
     },
     {
