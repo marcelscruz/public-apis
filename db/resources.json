@@ -1,5 +1,5 @@
 {
-"count": 1758,
+"count": 1759,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6263,6 +6263,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://lcbo.dev/",
+        "Category": "Food & Drink"
+    },
+    {
+        "API": "Noms",
+        "Description": "Nutrition data for 3.7M foods and 298K brands across 230 countries, with barcodes and images",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://noms.sh",
         "Category": "Food & Drink"
     },
     {
