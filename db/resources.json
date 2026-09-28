@@ -1,5 +1,5 @@
 {
-"count": 1759,
+"count": 1760,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1631,6 +1631,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developer.squareup.com/reference/square",
+        "Category": "Business"
+    },
+    {
+        "API": "StackScan",
+        "Description": "Technology stack of any website, and every site running a given technology, across 399M+ sites",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.stackscan.com",
         "Category": "Business"
     },
     {
