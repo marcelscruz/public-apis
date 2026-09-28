@@ -1420,7 +1420,7 @@
 |---|---|---|---|
 | [7digital](https://docs.7digital.com/reference) | Api of Music store 7digital | `OAuth` | Unknown |
 | [AI Mastering](https://aimastering.com/api_docs/) | Automated Music Mastering | `apiKey` | Yes |
-| [AudD](https://docs.audd.io) | Music recognition from audio files, URLs, and live streams | `apiKey` | Unknown |
+| [AudD](https://audd.io) | Music recognition from audio files, URLs, and live streams | `apiKey` | Unknown |
 | [Audiomack](https://www.audiomack.com/data-api/docs) | Api of the streaming music hub Audiomack | `OAuth` | Unknown |
 | [audiometa.io](https://www.audiometa.io) | Aggregated live web signals and multiple APIs into one catalog. artists, tracks, playcounts, social reach, and more | `apiKey` | No |
 | [Bandcamp](https://bandcamp.com/developer) | API of Music store Bandcamp | `OAuth` | Unknown |
