@@ -1,5 +1,5 @@
 {
-"count": 1761,
+"count": 1762,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8599,6 +8599,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://openregistry.sophymarine.com",
+        "Category": "Government"
+    },
+    {
+        "API": "OpenSwissData",
+        "Description": "Swiss customs tariff (TARES), FINMA register and warning list, NOGA/NACE/ISIC codes over JSON-RPC (MCP)",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://www.openswissdata.com",
         "Category": "Government"
     },
     {
