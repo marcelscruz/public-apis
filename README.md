@@ -352,6 +352,7 @@
 | [Renidly](https://renidly.com) | Resolve any B2B identityin milliseconds | `apiKey` | Yes |
 | [Smartsheet](https://smartsheet.redoc.ly/) | Allows you to programmatically access and Smartsheet data and account information | `OAuth` | No |
 | [Square](https://developer.squareup.com/reference/square) | Easy way to take payments, manage refunds, and help customers checkout online | `OAuth` | Unknown |
+| [StackScan](https://www.stackscan.com) | Technology stack of any website, and every site running a given technology, across 399M+ sites | `apiKey` | Yes |
 | [Statable](https://statable.com) | Query cookieless, EU-hosted web analytics: visitors, traffic sources, campaigns, goals and funnels | `apiKey` | No |
 | [SwiftKanban](https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi) | Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity | `apiKey` | Unknown |
 | [Tomba email finder](https://tomba.io/api) | Email Finder for B2B sales and email marketing and email verifier | `apiKey` | Yes |
