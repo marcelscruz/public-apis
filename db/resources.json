@@ -1,5 +1,5 @@
 {
-"count": 1760,
+"count": 1761,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9423,6 +9423,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://currentsapi.services/",
+        "Category": "News"
+    },
+    {
+        "API": "daily.dev",
+        "Description": "Developer news feeds, posts, bookmarks, tags and search from daily.dev",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://daily.dev",
         "Category": "News"
     },
     {
