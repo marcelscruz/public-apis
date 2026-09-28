@@ -1343,6 +1343,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [CMS.gov](https://data.cms.gov/provider-data/) | Access to the data from the CMS - medicare.gov | `apiKey` | Unknown |
+
 | [Coronavirus in the UK](https://coronavirus.data.gov.uk/details/developers-guide) | UK Government coronavirus data, including deaths and cases by region | No | Unknown |
 | [Covid Tracking Project](https://covidtracking.com/data/api/version-2) | Covid-19 data for the US | No | No |
 | [Covid-19](https://github.com/M-Media-Group/Covid-19-API) | Covid 19 cases, deaths and recovery per country | No | Yes |
@@ -1353,6 +1354,7 @@
 | [Covid-19 Live Data](https://github.com/mathdroid/covid-19-api) | Global and countrywise data of Covid 19 daily Summary, confirmed cases, recovered and deaths | No | Yes |
 | [Covid-19 Philippines](https://github.com/Simperfy/Covid-19-API-Philippines-DOH) | Unofficial Covid-19 Web API for Philippines from data collected by DOH | No | Yes |
 | [COVID-19 Tracker Canada](https://api.covid19tracker.ca/docs/1.0/overview) | Details on Covid-19 cases across Canada | No | Unknown |
+| [THC Open Mindfulness Resources](https://api.theholisticcare.com) | Free mindfulness resources and research metadata | No | Yes |
 | [COVID-19 Tracker Sri Lanka](https://www.hpb.health.gov.lk/en/api-documentation) | Provides situation of the COVID-19 patients reported in Sri Lanka | No | Unknown |
 | [Dataflow Kit COVID-19](https://covid-19.dataflowkit.com) | COVID-19 live statistics into sites per hour | No | Unknown |
 | [ERstat](https://erstat.ca/developers) | Live Canadian emergency room closures and service disruptions, by province | `apiKey` | Yes |
