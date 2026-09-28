@@ -247,6 +247,7 @@
 | [Magnific Icons API](https://docs.magnific.com/api-reference/icons/icons-api) | Icon search and download API by Freepik (formerly Iconfinder) | `apiKey` | Unknown |
 | [Metropolitan Museum of Art](https://metmuseum.github.io/) | Met Museum of Art | No | No |
 | [Noun Project](https://api.thenounproject.com/index.html) | Icons | `OAuth` | Unknown |
+| [OG Stamp](https://ogstamp.com) | Open Graph and social card PNGs from a title or a page URL. One-time credits, no subscription | `apiKey` | Yes |
 | [PHP-Noise](https://php-noise.com/) | Noise Background Image Generator | No | Yes |
 | [Picsart](https://picsart.io) | Image & video editing, generative AI, 100+ AI models via unified API | `apiKey` | Yes |
 | [Pika](https://pika.style/image-generation-api) | Image Generation API | `apiKey` | Yes |
