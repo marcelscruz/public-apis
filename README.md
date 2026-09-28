@@ -483,7 +483,7 @@
 | [Nexchange](https://nexchange2.docs.apiary.io/) | Automated cryptocurrency exchange service | No | Yes |
 | [NovaDax](https://doc.novadax.com/en-US/#introduction) | NovaDAX API to access all market data, trading management endpoints | `apiKey` | Unknown |
 | [OKEx](https://okx.com/okx-api) | Cryptocurrency exchange based in Seychelles | `apiKey` | Unknown |
-| [OpenChainBench](https://openchainbench.com/api/openapi.json) | Open dataset of crypto infrastructure benchmarks: RPC latency, oracles, bridges, prediction markets | No | Yes |
+| [OpenChainBench](https://openchainbench.com) | Open dataset of crypto infrastructure benchmarks: RPC latency, oracles, bridges, prediction markets | No | Yes |
 | [OpenSea](https://docs.opensea.io/reference/api-overview) | The Largest NFT Marketplace | `apiKey` | No |
 | [Ophis](https://ophis.fi) | Natural-language intent parser for DEX swaps across 11 EVM chains | No | Unknown |
 | [Paycoin Index](https://paycoin.com) | Hourly index of stablecoin transfer costs across 9 chains, with daily history and per-source provenance | No | Yes |
