@@ -410,6 +410,7 @@
 | [Smash](https://api.fromsmash.com/) | Upload large files on websites, mobile apps, SaaS solutions and custom workflows | `apiKey` | Yes |
 | [Storj](https://docs.storj.io/dcs/) | Decentralized Open-Source Cloud Storage | `apiKey` | Unknown |
 | [The Null Pointer](https://0x0.st) | No-bullshit file hosting and URL shortening service | No | Unknown |
+| [Yungle](https://yungle.co) | EU-hosted file transfer: create transfers, upload files with tus and read per-recipient download receipts. Up to 10 GB free per transfer | `apiKey` | No |
 
 **[⬆ Back to Index](#index)**
 
