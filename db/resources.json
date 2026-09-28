@@ -1,5 +1,5 @@
 {
-"count": 1762,
+"count": 1763,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1999,6 +1999,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://0x0.st",
+        "Category": "Cloud Storage & File Sharing"
+    },
+    {
+        "API": "Yungle",
+        "Description": "EU-hosted file transfer: create transfers, upload files with tus and read per-recipient download receipts. Up to 10 GB free per transfer",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://yungle.co",
         "Category": "Cloud Storage & File Sharing"
     },
     {
