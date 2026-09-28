@@ -9590,7 +9590,7 @@
         "Description": "Tech and AI news as JSON or RSS, with translated feeds in EN, DE, ES, FR, JA",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://sonto.tech/api/",
+        "Link": "https://sonto.tech",
         "Category": "News"
     },
     {
@@ -10534,7 +10534,7 @@
         "Description": "Agent-first image hosting with instant CDN URLs",
         "Auth": "apiKey",
         "Cors": "no",
-        "Link": "https://pixelvault.dev/docs",
+        "Link": "https://pixelvault.dev",
         "Category": "Photography"
     },
     {
