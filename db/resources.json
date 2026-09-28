@@ -2494,7 +2494,7 @@
         "Description": "Open dataset of crypto infrastructure benchmarks: RPC latency, oracles, bridges, prediction markets",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://openchainbench.com/api/openapi.json",
+        "Link": "https://openchainbench.com",
         "Category": "Cryptocurrency"
     },
     {
