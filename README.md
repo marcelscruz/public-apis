@@ -938,7 +938,7 @@
 | [Binlist](https://binlist.net/) | Public access to a database of IIN/BIN information | No | Unknown |
 | [Boleto.Cloud](https://boleto.cloud/) | A api to generate boletos in Brazil | `apiKey` | Unknown |
 | [Bullbear Advisors](https://rapidapi.com/otha1920/api/bullbear-advisor) | See strong buy and sell signals the day they occur. Get today's stocks that closed with a strong Bullish or Bearish candlestick. | No | No |
-| [Casheva](https://casheva.com/api) | Financial data for Argentina, Spain and Mexico: USD rates, inflation, Euribor, ICL | No | Yes |
+| [Casheva](https://casheva.com) | Financial data for Argentina, Spain and Mexico: USD rates, inflation, Euribor, ICL | No | Yes |
 | [Citi](https://sandbox.developerhub.citi.com/api-catalog-list) | All Citigroup account and statement data APIs | `apiKey` | Unknown |
 | [DolarAPI](https://dolarapi.com/docs/) | Real-time exchange rates for Latin American currencies | No | Yes |
 | [Drillr](https://drillr.ai) | Fundamentals, filings, filing full-text search, earnings, ownership, events and analyst data for US, China and Japan equities, linked to source filings | `apiKey` | No |
