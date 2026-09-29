@@ -1,5 +1,5 @@
 {
-"count": 1766,
+"count": 1767,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2847,6 +2847,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://eurovalidate.com",
+        "Category": "Data Validation"
+    },
+    {
+        "API": "invowerk",
+        "Description": "Validate e-invoices (ZUGFeRD, Factur-X, XRechnung, Peppol BIS) and get a validation report",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://invowerk.dev",
         "Category": "Data Validation"
     },
     {
