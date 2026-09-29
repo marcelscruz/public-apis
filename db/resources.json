@@ -1,5 +1,5 @@
 {
-"count": 1763,
+"count": 1764,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6343,6 +6343,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://status.pizza",
+        "Category": "Food & Drink"
+    },
+    {
+        "API": "TableJourney",
+        "Description": "Food travel data for 214 cities: restaurants, markets, street food, food festivals and food tours",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://tablejourney.com",
         "Category": "Food & Drink"
     },
     {
