@@ -1,5 +1,5 @@
 {
-"count": 1767,
+"count": 1768,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4839,6 +4839,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://pdf.mintapis.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "pdfrender",
+        "Description": "HTML and CSS to PDF with page headers, footers and page numbers, no headless browser",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://pdfrender.dev",
         "Category": "Documents & Productivity"
     },
     {
