@@ -1,5 +1,5 @@
 {
-"count": 1768,
+"count": 1769,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1631,6 +1631,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://renidly.com",
+        "Category": "Business"
+    },
+    {
+        "API": "SanctionsKit",
+        "Description": "Sanctions screening for people and organizations, with review evidence; free synthetic sandbox and paid production",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.sanctionskit.com/",
         "Category": "Business"
     },
     {
