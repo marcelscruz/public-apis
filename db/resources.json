@@ -1,5 +1,5 @@
 {
-"count": 1772,
+"count": 1773,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11679,6 +11679,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.pinterest.com/",
+        "Category": "Social"
+    },
+    {
+        "API": "PostEverywhere",
+        "Description": "Schedule and publish posts to 12 social networks via one API",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://posteverywhere.ai",
         "Category": "Social"
     },
     {
