@@ -1,5 +1,5 @@
 {
-"count": 1771,
+"count": 1772,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -727,6 +727,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developers.google.com/safe-browsing/",
+        "Category": "Anti-Malware"
+    },
+    {
+        "API": "isMalicious",
+        "Description": "Reputation verdicts for IP addresses, domains, URLs and file hashes, plus CVE lookups with CVSS, EPSS and CISA KEV",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://ismalicious.com",
         "Category": "Anti-Malware"
     },
     {
