@@ -411,6 +411,7 @@
 | [Pinata](https://docs.pinata.cloud/) | IPFS Pinning Services API | `apiKey` | Unknown |
 | [Quip](https://quip.com/dev/automation/documentation) | File Sharing and Storage for groups | `apiKey` | Yes |
 | [Smash](https://api.fromsmash.com/) | Upload large files on websites, mobile apps, SaaS solutions and custom workflows | `apiKey` | Yes |
+| [Stocare](https://sto.care) | Upload a file with a single curl command and get a download link back, no account or API key | No | Yes |
 | [Storj](https://docs.storj.io/dcs/) | Decentralized Open-Source Cloud Storage | `apiKey` | Unknown |
 | [The Null Pointer](https://0x0.st) | No-bullshit file hosting and URL shortening service | No | Unknown |
 | [Yungle](https://yungle.co) | EU-hosted file transfer: create transfers, upload files with tus and read per-recipient download receipts. Up to 10 GB free per transfer | `apiKey` | No |
