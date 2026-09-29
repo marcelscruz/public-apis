@@ -488,6 +488,7 @@
 | [Ophis](https://ophis.fi) | Natural-language intent parser for DEX swaps across 11 EVM chains | No | Unknown |
 | [Paycoin Index](https://paycoin.com) | Hourly index of stablecoin transfer costs across 9 chains, with daily history and per-source provenance | No | Yes |
 | [Poloniex](https://docs.poloniex.com) | US based digital asset exchange | `apiKey` | Unknown |
+| [RealCryptoCap](https://realcryptocap.com/api) | Real crypto market cap without stables, wrapped or tokenized assets: native Top 500, coin lookup and market briefs (paid Pro/Ultra) | `apiKey` | Yes |
 | [Sharpe](https://sharpe.ai) | Crypto market data for funding, futures, options, arbitrage, narratives, and news | No | No |
 | [Solana JSON RPC](https://docs.solana.com/developing/clients/jsonrpc-api) | Provides various endpoints to interact with the Solana Blockchain | No | Unknown |
 | [Trading View](https://www.tradingview.com/rest-api-spec/) | Market price, data, graph for brokers and traders | `OAuth` | Unknown |
