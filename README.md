@@ -729,6 +729,7 @@
 | [ToolForte](https://toolforte.com/developers) | Deterministic utilities: IBAN/VAT validation, cron parsing, regex, diffs, Dutch holidays and test data | `apiKey` | Unknown |
 | [Tyk](https://tyk.io/open-source/) | Api and service management platform | `apiKey` | Yes |
 | [Upstash](https://upstash.com) | Serverless Redis, Kafka and vector database with REST APIs | `apiKey` | Yes |
+| [URLpipe](https://urlpipe.dev) | Markdown, rendered HTML, screenshots, metadata, console errors and Lighthouse audits for any URL, rendered in real Chrome | `apiKey` | No |
 | [UserAgent](https://useragent.app) | User agent parsing API is designed to help you better understand and interact with your users. By identifying browser, device, and OS data from user agent strings, this API empowers you with accurate, real-time insights into your audience. | `apiKey` | Yes |
 | [Utilorax](https://utilorax.com/api) | 203 JSON endpoints: hashing, encoding, unit conversion, text, dates and file conversion | `apiKey` | Yes |
 | [Vend](https://extract.paypercall.dev) | Pay-per-call web-data API for AI agents: any URL to clean text/markdown, plus web search, link check, geoip and PDF-to-text; settled on-chain in XNO per call. | No | No |
