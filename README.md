@@ -784,6 +784,7 @@
 | [DocForge](https://docforge-api.vercel.app) | Convert between Markdown, HTML, CSV, JSON, and YAML formats | No | Yes |
 | [FastApi Simple Calculator](https://fastapi-calculadora.onrender.com/) | Math, Stadistics, Conversions, Currency and more | No | Unknown |
 | [File Conversions API](https://apyhub.com/catalog/file-conversion) | APIs to handle all your file transformations. Word to PDF, Markdown to HTML, CSV to JSON, audio and many more | `apiKey` | Yes |
+| [flatmark](https://flatmark.dev) | Convert PDF, Word, PowerPoint, Excel and HTML documents to Markdown for RAG and agents | `apiKey` | Unknown |
 | [Flowdash](https://docs.flowdash.com/docs/api-introduction) | Automate business workflows | `apiKey` | Unknown |
 | [Formfeed](https://formfeed.dev) | Render PDFs and images from HTML templates (Jinja2, Liquid, Handlebars) or Word files with one API call. EU-hosted, free tier | `apiKey` | No |
 | [fynk](https://fynk.com) | Generate, update, and manage contracts from your own systems with a secure and scalable REST API | `apiKey` | Yes |
