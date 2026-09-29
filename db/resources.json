@@ -1,5 +1,5 @@
 {
-"count": 1765,
+"count": 1766,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4663,6 +4663,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apyhub.com/catalog/file-conversion",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "flatmark",
+        "Description": "Convert PDF, Word, PowerPoint, Excel and HTML documents to Markdown for RAG and agents",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://flatmark.dev",
         "Category": "Documents & Productivity"
     },
     {
