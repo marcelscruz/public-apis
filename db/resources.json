@@ -1,5 +1,5 @@
 {
-"count": 1770,
+"count": 1771,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13847,6 +13847,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/job-video-thumbnail",
+        "Category": "Video"
+    },
+    {
+        "API": "VideoGen",
+        "Description": "Generate videos from scripts, voiceovers, or slideshows with visuals, narration, and captions",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://videogen.io/",
         "Category": "Video"
     },
     {
