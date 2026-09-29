@@ -1,5 +1,5 @@
 {
-"count": 1764,
+"count": 1765,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2527,6 +2527,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://docs.poloniex.com",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "RealCryptoCap",
+        "Description": "Real crypto market cap without stables, wrapped or tokenized assets: native Top 500, coin lookup and market briefs (paid Pro/Ultra)",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://realcryptocap.com/api",
         "Category": "Cryptocurrency"
     },
     {
