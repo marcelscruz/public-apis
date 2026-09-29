@@ -1031,6 +1031,7 @@
 | [RecipeAPI](https://recipeapi.io) | Recipes, ingredients, nutrition data and cooking instructions | `apiKey` | Yes |
 | [Spoonacular](https://spoonacular.com/food-api) | Recipes, Food Products, and Meal Planning | `apiKey` | Unknown |
 | [Status Pizza](https://status.pizza) | Pizza for every HTTP Status | No | Unknown |
+| [TableJourney](https://tablejourney.com) | Food travel data for 214 cities: restaurants, markets, street food, food festivals and food tours | No | Yes |
 | [TacoFancy](https://github.com/evz/tacofancy-api) | Community-driven taco database | No | Unknown |
 | [Tasty](https://rapidapi.com/apidojo/api/tasty/) | API to query data about recipe, plan, ingredients | `apiKey` | Unknown |
 | [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) | Food & Drink Reviews | No | Unknown |
