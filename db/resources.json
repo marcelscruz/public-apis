@@ -1,5 +1,5 @@
 {
-"count": 1769,
+"count": 1770,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4335,6 +4335,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://upstash.com",
+        "Category": "Development"
+    },
+    {
+        "API": "URLpipe",
+        "Description": "Markdown, rendered HTML, screenshots, metadata, console errors and Lighthouse audits for any URL, rendered in real Chrome",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://urlpipe.dev",
         "Category": "Development"
     },
     {
