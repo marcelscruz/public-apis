@@ -209,6 +209,7 @@
 | [Dymo API](https://dymo.tpeoficial.com/products/dymo-api) | Fraud & reputation detection | `apiKey` | Yes |
 | [FishFish](https://fishfish.gg/) | A volunteer cybersecurity project focused on providing resources and services that improve safety across Discord | No | Unknown |
 | [Google Safe Browsing](https://developers.google.com/safe-browsing/) | Google Link/Domain Flagging | `apiKey` | Unknown |
+| [isMalicious](https://ismalicious.com) | Reputation verdicts for IP addresses, domains, URLs and file hashes, plus CVE lookups with CVSS, EPSS and CISA KEV | `apiKey` | No |
 | [MalDatabase](https://maldatabase.com/api-doc.html) | Provide malware datasets and threat intelligence feeds | `apiKey` | Unknown |
 | [MalShare](https://malshare.com/doc.php) | Malware Archive / file sourcing | `apiKey` | No |
 | [Malwagon](https://malwagon.com/docs/api) | Detonate a file, URL or hash in a sandbox and read the verdict, behaviour and indicators | `apiKey` | Unknown |
