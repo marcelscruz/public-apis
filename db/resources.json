@@ -1,5 +1,5 @@
 {
-"count": 1774,
+"count": 1775,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1743,6 +1743,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.abstractapi.com/holidays-api",
+        "Category": "Calendar"
+    },
+    {
+        "API": "Business Box",
+        "Description": "Booking API for small businesses in Japan: event types, open slots, bookings, invite links and webhooks, with API keys on the free plan",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://marubox.jp",
         "Category": "Calendar"
     },
     {
