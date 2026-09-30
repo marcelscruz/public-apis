@@ -1,5 +1,5 @@
 {
-"count": 1773,
+"count": 1774,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8167,6 +8167,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://conversoriaecnae.es",
+        "Category": "Government"
+    },
+    {
+        "API": "Court Rules",
+        "Description": "Free reference for U.S. federal court rules, local rules, judge standing orders and court holidays, with a deadline calculator, a public API and an MCP server.",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.courtrules.app/api",
         "Category": "Government"
     },
     {
