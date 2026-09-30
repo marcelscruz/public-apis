@@ -1,5 +1,5 @@
 {
-"count": 1776,
+"count": 1777,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10751,6 +10751,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html#//apple_ref/doc/uid/TP40017632-CH3-SW1",
+        "Category": "Podcasts"
+    },
+    {
+        "API": "Listen Notes Podcast API",
+        "Description": "Search podcasts and episodes, fetch metadata, get recommendations, and access audience insights. REST API with a free plan and official SDKs",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.podcastapi.com/",
         "Category": "Podcasts"
     },
     {
