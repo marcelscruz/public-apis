@@ -1,5 +1,5 @@
 {
-"count": 1775,
+"count": 1776,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6231,6 +6231,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://www.valueray.com/api",
+        "Category": "Finance"
+    },
+    {
+        "API": "VoxOdds",
+        "Description": "Polymarket and Kalshi odds for the same contract, all-in executable quotes with fees, trending markets and an audited forecast track record",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://voxodds.com",
         "Category": "Finance"
     },
     {
