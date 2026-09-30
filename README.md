@@ -1010,6 +1010,7 @@
 | [Validate IBAN API ](https://apyhub.com/utility/finance-validator-iban) | This API lets you quickly validate IBAN bank codes | `apiKey` | Yes |
 | [Validate Swift/BIC ](https://apyhub.com/utility/finance-validator-bic) | Validates BIC/SWIFT code | `apiKey` | Yes |
 | [ValueRay](https://www.valueray.com/api) | Technical, quantitative and sentiment data for stocks and ETFs, optimized for AI/LLM | No | Yes |
+| [VoxOdds](https://voxodds.com) | Polymarket and Kalshi odds for the same contract, all-in executable quotes with fees, trending markets and an audited forecast track record | No | Yes |
 | [WallstreetBets](https://dashboard.nbshare.io/apps/reddit/api/) | WallstreetBets Stock Comments Sentiment Analysis | No | Unknown |
 | [xChangeApi](https://xchangeapi.com/) | Exchange rates & real time market data | `apiKey` | Yes |
 | [YNAB](https://api.youneedabudget.com/) | Budgeting & Planning | `OAuth` | Yes |
