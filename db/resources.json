@@ -1,5 +1,5 @@
 {
-"count": 1777,
+"count": 1778,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1495,6 +1495,14 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://domainsdb.info/",
+        "Category": "Business"
+    },
+    {
+        "API": "FalcoScan",
+        "Description": "Data on 7,000+ AI products across 29 markets, with market scores and shut-down and acquisition records",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://falcoscan.com",
         "Category": "Business"
     },
     {
