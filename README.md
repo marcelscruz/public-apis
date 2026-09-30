@@ -1666,6 +1666,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [iTunes](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html#//apple_ref/doc/uid/TP40017632-CH3-SW1) | Apple Podcasts Directory | No | Unknown |
+| [Listen Notes Podcast API](https://www.podcastapi.com/) | Search podcasts and episodes, fetch metadata, get recommendations, and access audience insights. REST API with a free plan and official SDKs | `apiKey` | Yes |
 | [Particle](https://particle.pro) | Podcast intelligence: podcast & episode search, transcripts, speakers, entity mentions, sponsor & advertising data, alerts and embeds | `apiKey` | No |
 | [PodcastIndex](https://podcastindex-org.github.io/docs-api/) | Get details on podcasts & episodes, Podcast Search | `apiKey` | Unknown |
 | [Podchaser \| Podcast Data API](https://www.podchaser.com/api) | The podcast API for discovery and insights. Access 6M+ podcasts with audience demographics, transcripts, Apple/Spotify charts. For media monitoring and intel | `apiKey` | Unknown |
