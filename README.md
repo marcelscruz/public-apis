@@ -372,6 +372,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [Abstract Public Holidays](https://www.abstractapi.com/holidays-api) | Data on national, regional, and religious holidays via API | `apiKey` | Yes |
+| [Business Box](https://marubox.jp) | Booking API for small businesses in Japan: event types, open slots, bookings, invite links and webhooks, with API keys on the free plan | `apiKey` | Yes |
 | [Calendarific](https://calendarific.com/) | Worldwide Holidays | `apiKey` | Unknown |
 | [Czech Namedays Calendar](https://svatky.adresa.info) | Lookup for a name and returns nameday date | No | Unknown |
 | [DigiDates](https://digidates.de/en/) | Various date and time calculations | No | Yes |
