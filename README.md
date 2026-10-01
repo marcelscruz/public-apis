@@ -439,6 +439,7 @@
 | [1inch](https://business.1inch.com/) | API for querying decentralize exchange | `apiKey` | Yes |
 | [AI DECISIONS](https://aidecisions.ai) | Crypto address risk screening: sanctions hits, mixer exposure, AI-agent detection and a calibrated risk tier across six chains | `apiKey` | No |
 | [Alchemy Ethereum](https://docs.alchemy.com/alchemy/) | Ethereum Node-as-a-Service Provider | `apiKey` | Yes |
+| [Aperiodic](https://aperiodic.io) | Crypto perp microstructure, liquidity and order-flow metrics plus raw trades and quotes as parquet (Binance, OKX, Hyperliquid) | `apiKey` | Yes |
 | [Binance](https://github.com/binance/binance-spot-api-docs) | Exchange for Trading Cryptocurrencies based in China | `apiKey` | Unknown |
 | [Bitfinex](https://docs.bitfinex.com/docs) | Cryptocurrency Trading Platform | `apiKey` | Unknown |
 | [Bitmex](https://www.bitmex.com/app/apiOverview) | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong | `apiKey` | Unknown |
