@@ -1,5 +1,5 @@
 {
-"count": 1780,
+"count": 1781,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9863,6 +9863,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://github.com/datastreamapp/api-docs",
+        "Category": "Open Data"
+    },
+    {
+        "API": "DevLifeCheck",
+        "Description": "Security-update end dates, recalls and evidence for 1,300+ phones, tablets, Chromebooks and routers",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://devlifecheck.com",
         "Category": "Open Data"
     },
     {
