@@ -1,5 +1,5 @@
 {
-"count": 1778,
+"count": 1779,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9111,6 +9111,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://boringproject.ai",
+        "Category": "Jobs"
+    },
+    {
+        "API": "Job Opportunities",
+        "Description": "Employer-direct job postings with per-field provenance and retained closures, 248 countries; 2.3M+ live rows, keyless statistics endpoints.",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://jobopportunitiesapi.org",
         "Category": "Jobs"
     },
     {
