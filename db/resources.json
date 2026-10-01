@@ -1,5 +1,5 @@
 {
-"count": 1779,
+"count": 1780,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2135,6 +2135,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://docs.alchemy.com/alchemy/",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "Aperiodic",
+        "Description": "Crypto perp microstructure, liquidity and order-flow metrics plus raw trades and quotes as parquet (Binance, OKX, Hyperliquid)",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://aperiodic.io",
         "Category": "Cryptocurrency"
     },
     {
