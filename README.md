@@ -1517,6 +1517,7 @@
 | [CoworkingView](https://coworkingview.com) | Coworking spaces and flexible offices in European and UAE cities, with operator-listed prices and a per-city price index under CC BY 4.0 | No | No |
 | [CrawlGraph](https://crawlgraph.com) | Backlink and domain-link data from Common Crawl's open web graph | `apiKey` | No |
 | [DataStream](https://github.com/datastreamapp/api-docs) | An open access platform for sharing Canadian water quality data | `apiKey` | Yes |
+| [DevLifeCheck](https://devlifecheck.com) | Security-update end dates, recalls and evidence for 1,300+ phones, tablets, Chromebooks and routers | No | No |
 | [Dimdom](https://api.dimdom.pl/api/public/docs) | Polish real estate listings, agency profiles and TERYT geographic data | No | No |
 | [Enigma Public](https://developers.enigma.com/docs) | Broadest collection of public data | `apiKey` | Yes |
 | [French Address Search](https://geo.api.gouv.fr/adresse) | Address search via the French Government | No | Unknown |
