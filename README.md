@@ -104,6 +104,7 @@
 | [AI For Thai](https://aiforthai.in.th/index.php) | Free Various Thai AI API | `apiKey` | Yes |
 | [AI Learning Engine](https://rapidapi.com/vintarok-vintarok-default/api/ai-learning-engine-task-creation-auto-grading-api) | Create, auto-grade, and analyze learning tasks with AI-based evaluations | `apiKey` | Yes |
 | [AI/ML](https://aimlapi.com) | Access 100+ curated AI Models over 1 API | `apiKey` | Yes |
+| [API Route](https://www.api-route.com) | OpenAI-compatible multi-model gateway for chat completions with API keys and usage-based billing | `apiKey` | Yes |
 | [Chatwith](https://chatwith.tools) | Build custom ChatGPT-style AI chatbots trained on your website and files, integrated with 5000+ apps — no coding, live in minutes. | `apiKey` | Yes |
 | [CitedSpy](https://www.citedspy.com/) | Track brand visibility, share of voice, and citations across AI engines like ChatGPT, Gemini, and Claude | `apiKey` | Unknown |
 | [Clarifai](https://docs.clarifai.com/api-guide/api-overview) | Computer Vision | `OAuth` | Unknown |
