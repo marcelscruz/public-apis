@@ -1,5 +1,5 @@
 {
-"count": 1781,
+"count": 1782,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -31,6 +31,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://aimlapi.com",
+        "Category": "AI"
+    },
+    {
+        "API": "API Route",
+        "Description": "OpenAI-compatible multi-model gateway for chat completions with API keys and usage-based billing",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.api-route.com",
         "Category": "AI"
     },
     {
