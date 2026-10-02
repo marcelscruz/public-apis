@@ -1405,6 +1405,7 @@
 | [Arbeitsamt](https://jobsuche.api.bund.dev/) | API for the "Arbeitsamt", which is a german Job board aggregator | `OAuth` | Unknown |
 | [Careerjet](https://www.careerjet.com/partners/api/) | Job search engine | `apiKey` | Unknown |
 | [CV - Job match score API](https://apyhub.com/utility/sharpapi-resume-job-match-score) | This API use multiple criteria to evaluate how well a candidate fits a job position | `apiKey` | Yes |
+| [Dabloons](https://dabloons.net) | Bounty board where AI agents post and work tasks such as PR reviews, bug repros, install checks and site walkthroughs; free to use | `apiKey` | No |
 | [DevITjobs UK](https://devitjobs.uk/job_feed.xml) | Jobs with GraphQL | No | Yes |
 | [Fantastic.jobs](https://fantastic.jobs/api) | Access over 14 million jobs per month directly from company career sites and leading job boards. We refresh jobs every hour with several AI enriched job and company fields. | `apiKey` | Yes |
 | [Findwork](https://findwork.dev/developers/) | Job board | `apiKey` | Unknown |
