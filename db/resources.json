@@ -1,5 +1,5 @@
 {
-"count": 1782,
+"count": 1783,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4343,6 +4343,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://talordata.com",
+        "Category": "Development"
+    },
+    {
+        "API": "TidyTools",
+        "Description": "Web page or PDF to clean Markdown for LLMs, and which AI crawlers a site's robots.txt allows; free without a key, rate limited",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://tools.yukai.uk",
         "Category": "Development"
     },
     {
