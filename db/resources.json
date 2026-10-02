@@ -1,5 +1,5 @@
 {
-"count": 1783,
+"count": 1784,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -39,6 +39,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.api-route.com",
+        "Category": "AI"
+    },
+    {
+        "API": "Azurade",
+        "Description": "Image and video generation with 30+ models (Veo, Seedance, Nano Banana) over one REST API, paid per generation from credits that never expire",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://azurade.com",
         "Category": "AI"
     },
     {
