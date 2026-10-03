@@ -143,6 +143,7 @@
 | [UnoRouter](https://unorouter.com) | OpenAI-compatible gateway routing chat/completions across 500+ models with a free tier | `apiKey` | Yes |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Unknown |
 | [UpRes](https://upres.ai) | Image, video and speech restoration up to 8K through a self-serve REST API | `apiKey` | No |
+| [varg](https://varg.ai) | Generate AI video, images, speech and music with Kling, Seedance, Veo, Sora, Flux and ElevenLabs through one REST API, paid per generation from credits | `apiKey` | Unknown |
 | [Voxell Forge](https://voxell.ai/forge) | OpenAI-compatible text embeddings API. The turbo model is free forever with no credit card; pro and ultra are paid | `apiKey` | No |
 | [WaveSpeedAI](https://wavespeed.ai) | Generate images, video and audio from 900+ open and commercial models (FLUX, Seedream, Kling, Wan) through one async REST API | `apiKey` | Yes |
 | [WolframAlpha](https://products.wolframalpha.com/api/) | Provides specific answers to questions using data and algorithms | `apiKey` | Unknown |
