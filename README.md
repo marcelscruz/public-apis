@@ -2029,6 +2029,7 @@
 | [MTA](https://api.mta.info/#/subwayRealTimeFeeds) | MTA Subway Realtime Feeds | No | No |
 | [Navitia](https://doc.navitia.io/) | The open API for building cool stuff with transport data | `apiKey` | Unknown |
 | [Open Charge Map](https://openchargemap.org/site/develop/api) | Global public registry of electric vehicle charging locations | `apiKey` | Yes |
+| [OpenVan](https://openvan.camp) | Road-trip data for 160+ countries: fuel prices, toll roads, visa rules, holidays, travel hazards, weather scores | No | Yes |
 | [REFUGE Restrooms](https://www.refugerestrooms.org/api/docs/#!/restrooms) | Provides safe restroom access for transgender, intersex and gender nonconforming individuals | No | Unknown |
 | [Road511](https://road511.com) | Unified traffic data from 65 US/CA jurisdictions: events, cameras, signs, bridges, truck routes | `apiKey` | Yes |
 | [Sabre for Developers](https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel) | Travel Search - Limited usage | `apiKey` | Unknown |
