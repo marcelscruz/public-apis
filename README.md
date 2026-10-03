@@ -1072,6 +1072,7 @@
 | [Call of Duty](https://codapi.dev/) | Unofficial wrapper for the Call of Duty API with multi-language support. | No | Unknown |
 | [CheapShark](https://www.cheapshark.com/api) | Steam/PC Game Prices and Deals | No | Yes |
 | [Chess.com](https://www.chess.com/news/view/published-data-api) | Chess.com read-only REST API | No | Unknown |
+| [Chessigma](https://www.chessigma.com) | Free chess API for game review, Elo calculations and daily puzzles, with public OpenAPI documentation | No | No |
 | [Clash of Clans](https://developer.clashofclans.com) | Clash of Clans Game Information | `apiKey` | Unknown |
 | [Clash Royale](https://developer.clashroyale.com) | Clash Royale Game Information | `apiKey` | Unknown |
 | [Comic Vine](https://comicvine.gamespot.com/api/documentation) | Comics | No | Unknown |
