@@ -1,5 +1,5 @@
 {
-"count": 1787,
+"count": 1788,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12975,6 +12975,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://openchargemap.org/site/develop/api",
+        "Category": "Transportation"
+    },
+    {
+        "API": "OpenVan",
+        "Description": "Road-trip data for 160+ countries: fuel prices, toll roads, visa rules, holidays, travel hazards, weather scores",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://openvan.camp",
         "Category": "Transportation"
     },
     {
