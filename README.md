@@ -334,6 +334,7 @@
 | [ArvanCloud](https://www.arvancloud.ir/en/dev/sdk) | Enables you to use ArvanCloud services | `apiKey` | No |
 | [Charity Search](https://charityapi.orghunter.com/) | Non-profit charity data | `apiKey` | Unknown |
 | [CompanyEnrich](https://companyenrich.com) | API for B2B company data enrichment, domain enrichment, and website enrichment | `apiKey` | Yes |
+| [Comunicate.top](https://comunicate.top/en/documentatie-api) | Catalogue of 3800+ news sites for press releases and advertorials: niches, authority, prices | No | Yes |
 | [Crustdata](https://docs.crustdata.com) | People and company data covering profiles, headcount, funding and contacts | `apiKey` | Yes |
 | [Derrick](https://derrick-app.com) | B2B contact and company enrichment: verified work emails, mobile numbers, firmographics, technologies in use and hiring signals | `apiKey` | No |
 | [Domainsdb.info](https://domainsdb.info/) | Registered Domain Names Search | No | No |
