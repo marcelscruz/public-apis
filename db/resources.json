@@ -1,5 +1,5 @@
 {
-"count": 1785,
+"count": 1786,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9911,6 +9911,14 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://api.dimdom.pl/api/public/docs",
+        "Category": "Open Data"
+    },
+    {
+        "API": "Edgepedia",
+        "Description": "Search and read Edgepedia, a free and growing encyclopedia with citations. No key.",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://www.edgechat.ai/edgepedia",
         "Category": "Open Data"
     },
     {
