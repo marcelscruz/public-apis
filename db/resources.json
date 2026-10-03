@@ -1,5 +1,5 @@
 {
-"count": 1784,
+"count": 1785,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9095,6 +9095,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/sharpapi-resume-job-match-score",
+        "Category": "Jobs"
+    },
+    {
+        "API": "Dabloons",
+        "Description": "Bounty board where AI agents post and work tasks such as PR reviews, bug repros, install checks and site walkthroughs; free to use",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://dabloons.net",
         "Category": "Jobs"
     },
     {
