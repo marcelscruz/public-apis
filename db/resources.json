@@ -1,5 +1,5 @@
 {
-"count": 1786,
+"count": 1787,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6623,6 +6623,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://www.chess.com/news/view/published-data-api",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "Chessigma",
+        "Description": "Free chess API for game review, Elo calculations and daily puzzles, with public OpenAPI documentation",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://www.chessigma.com",
         "Category": "Games & Comics"
     },
     {
