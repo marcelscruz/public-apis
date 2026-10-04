@@ -1,5 +1,5 @@
 {
-"count": 1788,
+"count": 1789,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6503,6 +6503,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.themealdb.com/api.php",
+        "Category": "Food & Drink"
+    },
+    {
+        "API": "Tiny Plates",
+        "Description": "Structured recipes, semantic search, ingredient substitutions, serving adjustments and shopping lists",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.tinyplates.dev/",
         "Category": "Food & Drink"
     },
     {
