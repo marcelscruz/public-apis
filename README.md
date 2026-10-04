@@ -2119,7 +2119,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [An API of Ice And Fire](https://anapioficeandfire.com/) | Game Of Thrones API | No | Unknown |
-| [Arcmira](https://arcmira.com) | Search YouTube transcripts for timestamped quotes and speaker appearances | apiKey | Yes |
+| [Arcmira](https://arcmira.com) | Search YouTube transcripts for timestamped quotes and speaker appearances | `apiKey` | Yes |
 | [Bob's Burgers API](https://bobsburgersapi.com/) | The Bob's Burgers API contains data for hundreds of characters, episodes, running gags, and images from the show | No | Yes |
 | [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) | Some Breaking Bad quotes | No | Unknown |
 | [Buffy the Vampire Slayer and Angel](https://github.com/Thatskat/btvs-angel-api) | Get episode, cast and crew data from Buffy the Vampire Slayer and Angel | No | Yes |
