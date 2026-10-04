@@ -1,5 +1,5 @@
 {
-"count": 1789,
+"count": 1790,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6207,6 +6207,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://skatteapi.gracestack.se",
+        "Category": "Finance"
+    },
+    {
+        "API": "TerraScoutX",
+        "Description": "Free US property records by address from county sources: parcel, owner, appraised value and history, tax, FEMA flood zone, nearby schools and risk",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://terrascoutx.com",
         "Category": "Finance"
     },
     {
