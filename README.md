@@ -1051,6 +1051,7 @@
 | [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) | Food & Drink Reviews | No | Unknown |
 | [TheCocktailDB](https://www.thecocktaildb.com/api.php) | Cocktail Recipes | `apiKey` | Yes |
 | [TheMealDB](https://www.themealdb.com/api.php) | Meal Recipes | `apiKey` | Yes |
+| [Tiny Plates](https://www.tinyplates.dev/) | Structured recipes, semantic search, ingredient substitutions, serving adjustments and shopping lists | `apiKey` | Yes |
 | [Untappd](https://untappd.com/api/docs) | Social beer sharing | `OAuth` | Unknown |
 | [What's on the menu?](https://nypl.github.io/menus-api/) | NYPL human-transcribed historical menu collection | `apiKey` | Unknown |
 | [WhiskyHunter](https://whiskyhunter.net/api/) | Past online whisky auctions statistical data | No | Unknown |
