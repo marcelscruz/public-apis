@@ -1,5 +1,5 @@
 {
-"count": 1790,
+"count": 1791,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11439,6 +11439,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.canopyapi.co/",
+        "Category": "Shopping"
+    },
+    {
+        "API": "Clickwise",
+        "Description": "Affiliate product search by GTIN with tracked links, affiliate programs and deals; free sandbox key",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://partners.clickwise.net/",
         "Category": "Shopping"
     },
     {
