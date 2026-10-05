@@ -1,5 +1,5 @@
 {
-"count": 1792,
+"count": 1793,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5167,6 +5167,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.mailboxvalidator.com/api-email-free",
+        "Category": "Email"
+    },
+    {
+        "API": "MailChannels",
+        "Description": "Send transactional email over HTTPS with official JavaScript, Python and PHP SDKs",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.mailchannels.com/email-api/",
         "Category": "Email"
     },
     {
