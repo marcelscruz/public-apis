@@ -1,5 +1,5 @@
 {
-"count": 1791,
+"count": 1792,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13039,6 +13039,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developer.schiphol.nl/",
+        "Category": "Transportation"
+    },
+    {
+        "API": "SkyAccess",
+        "Description": "Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key.",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://skyaccess.com",
         "Category": "Transportation"
     },
     {
