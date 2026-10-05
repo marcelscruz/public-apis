@@ -1005,6 +1005,7 @@
 | [StackerScan](https://www.stackerscan.com) | Live and historical precious-metals spot prices, observed dealer premiums over spot, and the Goldback exchange rate | No | Yes |
 | [Statistics of the World](https://statisticsoftheworld.com/api-docs) | GDP, population, inflation & 440+ indicators for 218 countries | No | Yes |
 | [StockData](https://www.StockData.org) | Real-Time, Intraday & Historical Market Data, News and Sentiment API | `apiKey` | Yes |
+| [StockDrifts](https://www.stockdrifts.io) | Rated US 13F fund holdings, company KPIs, Korean insider trades and Japanese large-shareholder filings | `apiKey` | No |
 | [Stripe](https://stripe.com/docs/api) | Payment processing, subscriptions, and financial management | `apiKey` | Unknown |
 | [Sugra API](https://sugra.ai) | One API across markets, economics, commodities, climate, government, and global news. 1,400+ endpoints, 146 primary sources, LLM-ready JSON | `apiKey` | Yes |
 | [Svensk Skatte-API](https://skatteapi.gracestack.se) | Swedish tax calculations: ISK, VAT, income tax, employer contributions | `apiKey` | Unknown |
