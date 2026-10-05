@@ -1909,6 +1909,7 @@
 | [Live Tennis API](https://docs.livetennisapi.com) | Live tennis scores, historical results, market odds and AI win-probability for ATP, WTA, Challenger and ITF | `apiKey` | Yes |
 | [Lumify](https://lumify.ai/docs) | Real-time sports intelligence: scores, odds, betting splits & AI bet analysis across 8 sports | `apiKey` | No |
 | [MLB Records and Stats](https://appac.github.io/mlb-data-api-docs/) | Current and historical MLB statistics | No | Unknown |
+| [MoviOdds](https://moviodds.com) | Free real-time bet365 soccer odds: every market bet365 prices, pre-match and in-play, over REST and WebSocket, plus Bet Builder pricing | No | Yes |
 | [NBA Data](https://rapidapi.com/api-sports/api/api-nba/) | All NBA Stats DATA, Games, Livescore, Standings, Statistics | `apiKey` | Unknown |
 | [NBA Stats](https://documenter.getpostman.com/view/25652688/2sB34Zs4xZ) | Postman docs for comprehensive NBA player statistics, advanced metrics, and detailed shot chart data | No | Yes |
 | [NegativeEV](https://negativeev.com) | Grades a sports bet against thousands of play-by-play game simulations and returns the win probability and the edge at the quoted price | No | No |
