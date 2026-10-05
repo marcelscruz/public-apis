@@ -1915,7 +1915,7 @@
 | [NHL Records and Stats](https://gitlab.com/dword4/nhlapi) | NHL historical data and statistics | No | Unknown |
 | [Oddsmagnet](https://oddsmagnet.com/oddsdata) | Odds history from multiple UK bookmakers | No | Yes |
 | [OpenLigaDB](https://www.openligadb.de) | Crowd sourced sports league results | No | Yes |
-| [Parlay](https://parlay-api.com/docs) | Real-time sports betting odds from 21+ sportsbooks across 38+ sports with free tier (1K req/month) | `apiKey` | No |
+| [Parlay](https://parlay-api.com) | Sports odds and player props with your own key, free monthly credits and paid plans; coverage varies by sport, bookmaker, market and date | `apiKey` | No |
 | [Premier League Standings ](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | All Current Premier League Standings and Statistics | `apiKey` | Unknown |
 | [Racing Alpha](https://racingalpha.co.uk/developers) | AI win-probability scores, fair prices and draw-bias stats for UK & Irish horse racing | No | Yes |
 | [SkipOdds](https://skipodds.com/docs) | De-vigged fair win probabilities across 13 sports, averaged from 69+ bookmakers | `apiKey` | Yes |
