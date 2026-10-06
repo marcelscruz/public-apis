@@ -140,6 +140,7 @@
 | [Spam Hunter](https://spam-hunter.ru/) | Free service to classify text as spam using ML | `apiKey` | Yes |
 | [Summarize Text with AI](https://apyhub.com/utility/ai-summarize) | This API generates customizable summaries of text and web pages using AI | `apiKey` | Yes |
 | [TranscriptFetch](https://transcriptfetch.com) | The transcript API for social media video. Get transcripts at scale from YouTube, TikTok or Instagram. | `apiKey` | Yes |
+| [TranslateMyImage](https://translatemyimage.com) | Translate the text inside JPG, PNG or WEBP images into 9 languages and get the translated image back | `apiKey` | No |
 | [UnoRouter](https://unorouter.com) | OpenAI-compatible gateway routing chat/completions across 500+ models with a free tier | `apiKey` | Yes |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Unknown |
 | [UpRes](https://upres.ai) | Image, video and speech restoration up to 8K through a self-serve REST API | `apiKey` | No |
@@ -854,6 +855,7 @@
 | [mail.gw](https://docs.mail.gw) | 10 Minute Mail | No | Yes |
 | [mail.tm](https://docs.mail.tm) | Temporary Email Service | No | Yes |
 | [MailboxValidator](https://www.mailboxvalidator.com/api-email-free) | Validate email address to improve deliverability | `apiKey` | Unknown |
+| [MailChannels](https://www.mailchannels.com/email-api/) | Send transactional email over HTTPS with official JavaScript, Python and PHP SDKs | `apiKey` | No |
 | [MailCheck.ai](https://www.mailcheck.ai/#documentation) | Prevent users to sign up with temporary email addresses | No | Unknown |
 | [Mailtrap](https://mailtrap.docs.apiary.io/#) | A service for the safe testing of emails sent from the development and staging environments | `apiKey` | Unknown |
 | [MailValid](https://mailvalid.io) | Real-time email verification API with SMTP, MX, disposable, role-based, and catch-all detection. Verify single or bulk emails with confidence scoring | `apiKey` | Yes |
@@ -1008,6 +1010,7 @@
 | [Stripe](https://stripe.com/docs/api) | Payment processing, subscriptions, and financial management | `apiKey` | Unknown |
 | [Sugra API](https://sugra.ai) | One API across markets, economics, commodities, climate, government, and global news. 1,400+ endpoints, 146 primary sources, LLM-ready JSON | `apiKey` | Yes |
 | [Svensk Skatte-API](https://skatteapi.gracestack.se) | Swedish tax calculations: ISK, VAT, income tax, employer contributions | `apiKey` | Unknown |
+| [TerraScoutX](https://terrascoutx.com) | Free US property records by address from county sources: parcel, owner, appraised value and history, tax, FEMA flood zone, nearby schools and risk | `apiKey` | Yes |
 | [The Gold Barometer](https://thegoldbarometer.com) | Daily gold buying-conditions score (0-100), its history and a record back to 1971, as JSON and CSV | No | Yes |
 | [Tradestie](https://tradestie.com) | Reddit community data: posts, comments and stock sentiment analysis | No | Yes |
 | [TradeWatch](https://tradewatch.io/) | Real time financial market data | `apiKey` | Yes |
@@ -1051,6 +1054,7 @@
 | [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) | Food & Drink Reviews | No | Unknown |
 | [TheCocktailDB](https://www.thecocktaildb.com/api.php) | Cocktail Recipes | `apiKey` | Yes |
 | [TheMealDB](https://www.themealdb.com/api.php) | Meal Recipes | `apiKey` | Yes |
+| [Tiny Plates](https://www.tinyplates.dev/) | Structured recipes, semantic search, ingredient substitutions, serving adjustments and shopping lists | `apiKey` | Yes |
 | [Untappd](https://untappd.com/api/docs) | Social beer sharing | `OAuth` | Unknown |
 | [What's on the menu?](https://nypl.github.io/menus-api/) | NYPL human-transcribed historical menu collection | `apiKey` | Unknown |
 | [WhiskyHunter](https://whiskyhunter.net/api/) | Past online whisky auctions statistical data | No | Unknown |
@@ -1072,6 +1076,7 @@
 | [Call of Duty](https://codapi.dev/) | Unofficial wrapper for the Call of Duty API with multi-language support. | No | Unknown |
 | [CheapShark](https://www.cheapshark.com/api) | Steam/PC Game Prices and Deals | No | Yes |
 | [Chess.com](https://www.chess.com/news/view/published-data-api) | Chess.com read-only REST API | No | Unknown |
+| [Chessigma](https://www.chessigma.com) | Free chess API for game review, Elo calculations and daily puzzles, with public OpenAPI documentation | No | No |
 | [Clash of Clans](https://developer.clashofclans.com) | Clash of Clans Game Information | `apiKey` | Unknown |
 | [Clash Royale](https://developer.clashroyale.com) | Clash Royale Game Information | `apiKey` | Unknown |
 | [Comic Vine](https://comicvine.gamespot.com/api/documentation) | Comics | No | Unknown |
@@ -1410,6 +1415,7 @@
 | [Fantastic.jobs](https://fantastic.jobs/api) | Access over 14 million jobs per month directly from company career sites and leading job boards. We refresh jobs every hour with several AI enriched job and company fields. | `apiKey` | Yes |
 | [Findwork](https://findwork.dev/developers/) | Job board | `apiKey` | Unknown |
 | [Himalayas](https://himalayas.app/api) | Remote job listings with salary, timezone, and location data | No | No |
+| [HireLayer](https://hirelayer.co) | Parse resumes and job descriptions into structured JSON, normalize skills, and match and rank candidates against a job | `apiKey` | Yes |
 | [Hiring Index](https://hiringindex.org) | Live job postings read from ten employer applicant tracking systems, with market aggregates | `apiKey` | Yes |
 | [Job Application API](https://boringproject.ai) | API to apply on jobs posted on carrer platform like workday, lever, icims and many more. Handles captcha, fill forms, submit applications, integrate in < 10min | `apiKey` | Unknown |
 | [Job Opportunities](https://jobopportunitiesapi.org) | Employer-direct job postings with per-field provenance and retained closures, 248 countries; 2.3M+ live rows, keyless statistics endpoints. | `apiKey` | Yes |
@@ -1798,6 +1804,7 @@
 |---|---|---|---|
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce | `apiKey` | Unknown |
 | [Canopy](https://www.canopyapi.co/) | A modern API for Amazon Data | `apiKey` | Unknown |
+| [Clickwise](https://partners.clickwise.net/) | Affiliate product search by GTIN with tracked links, affiliate programs and deals; free sandbox key | `apiKey` | No |
 | [CompareFairly](https://comparefairly.com/llms.txt) | Neutral, sourced comparisons of products and services across any category, localized by language and country; per-criterion values, sub-scores and the source link behind each value | No | Yes |
 | [DeX](https://dex.sy) | Syrian online store builder: manage products, variants, stock, categories and orders of a DeX store via REST API and webhooks | `apiKey` | No |
 | [Digi-Key](https://www.digikey.com/en/resources/api-solutions) | Retrieve price and inventory of electronic components as well as place orders | `OAuth` | Unknown |
@@ -2029,10 +2036,12 @@
 | [MTA](https://api.mta.info/#/subwayRealTimeFeeds) | MTA Subway Realtime Feeds | No | No |
 | [Navitia](https://doc.navitia.io/) | The open API for building cool stuff with transport data | `apiKey` | Unknown |
 | [Open Charge Map](https://openchargemap.org/site/develop/api) | Global public registry of electric vehicle charging locations | `apiKey` | Yes |
+| [OpenVan](https://openvan.camp) | Road-trip data for 160+ countries: fuel prices, toll roads, visa rules, holidays, travel hazards, weather scores | No | Yes |
 | [REFUGE Restrooms](https://www.refugerestrooms.org/api/docs/#!/restrooms) | Provides safe restroom access for transgender, intersex and gender nonconforming individuals | No | Unknown |
 | [Road511](https://road511.com) | Unified traffic data from 65 US/CA jurisdictions: events, cameras, signs, bridges, truck routes | `apiKey` | Yes |
 | [Sabre for Developers](https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel) | Travel Search - Limited usage | `apiKey` | Unknown |
 | [Schiphol Airport](https://developer.schiphol.nl/) | Schiphol | `apiKey` | Unknown |
+| [SkyAccess](https://skyaccess.com) | Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. | No | Yes |
 | [Strait of Hormuz Ship Monitor](https://hormuz.data-tracking.net/llms.txt) | Live AIS vessel traffic, crossings and oil flow through the Strait of Hormuz | No | No |
 | [Swedavia Airports](https://apideveloper.swedavia.se/) | Airport and flight information of Swedish Airports operated by Swedavia | `apiKey` | No |
 | [Tankerkoenig](https://creativecommons.tankerkoenig.de/swagger/) | German realtime gas/diesel prices | `apiKey` | Yes |
