@@ -1,5 +1,5 @@
 {
-"count": 1794,
+"count": 1795,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -319,6 +319,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://transcriptfetch.com",
+        "Category": "AI"
+    },
+    {
+        "API": "TranslateMyImage",
+        "Description": "Translate the text inside JPG, PNG or WEBP images into 9 languages and get the translated image back",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://translatemyimage.com",
         "Category": "AI"
     },
     {
