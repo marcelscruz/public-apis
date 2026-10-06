@@ -1,5 +1,5 @@
 {
-"count": 1795,
+"count": 1796,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6063,6 +6063,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.openfigi.com/api",
+        "Category": "Finance"
+    },
+    {
+        "API": "outcometick",
+        "Description": "Historical tick data for Polymarket and Predict.fun crypto Up/Down markets: Chainlink settlement feeds, order books, strikes and outcomes",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://outcometick.com",
         "Category": "Finance"
     },
     {
