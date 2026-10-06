@@ -1,5 +1,5 @@
 {
-"count": 1793,
+"count": 1794,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9167,6 +9167,14 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://himalayas.app/api",
+        "Category": "Jobs"
+    },
+    {
+        "API": "HireLayer",
+        "Description": "Parse resumes and job descriptions into structured JSON, normalize skills, and match and rank candidates against a job",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://hirelayer.co",
         "Category": "Jobs"
     },
     {
