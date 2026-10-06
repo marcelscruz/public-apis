@@ -140,6 +140,7 @@
 | [Spam Hunter](https://spam-hunter.ru/) | Free service to classify text as spam using ML | `apiKey` | Yes |
 | [Summarize Text with AI](https://apyhub.com/utility/ai-summarize) | This API generates customizable summaries of text and web pages using AI | `apiKey` | Yes |
 | [TranscriptFetch](https://transcriptfetch.com) | The transcript API for social media video. Get transcripts at scale from YouTube, TikTok or Instagram. | `apiKey` | Yes |
+| [TranslateMyImage](https://translatemyimage.com) | Translate the text inside JPG, PNG or WEBP images into 9 languages and get the translated image back | `apiKey` | No |
 | [UnoRouter](https://unorouter.com) | OpenAI-compatible gateway routing chat/completions across 500+ models with a free tier | `apiKey` | Yes |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Unknown |
 | [UpRes](https://upres.ai) | Image, video and speech restoration up to 8K through a self-serve REST API | `apiKey` | No |
