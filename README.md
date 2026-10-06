@@ -990,6 +990,7 @@
 | [OilPriceAPI](https://www.oilpriceapi.com) | Crude oil, natural gas, refined product and marine fuel prices, each with its source timestamp | `apiKey` | Yes |
 | [Open Bank Project](https://www.openbankproject.com) | Enable account holders to interact with their banks using a wider range of applications and services | `apiKey` | Yes |
 | [OpenFIGI](https://www.openfigi.com/api) | Equity, index, futures, options symbology from Bloomberg LP | `apiKey` | Yes |
+| [outcometick](https://outcometick.com) | Historical tick data for Polymarket and Predict.fun crypto Up/Down markets: Chainlink settlement feeds, order books, strikes and outcomes | `apiKey` | No |
 | [ParityVend](https://www.ambeteco.com/ParityVend/) | Globalize your business by auto-adapting pricing for each visitor with Purchasing Power Parity | `apiKey` | Yes |
 | [Plaid](https://plaid.com/) | Connect with user's bank accounts and access transaction data | `apiKey` | Unknown |
 | [Polygon](https://polygon.io/) | Historical stock market data | `apiKey` | Unknown |
