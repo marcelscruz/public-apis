@@ -9242,8 +9242,8 @@
         "Category": "Jobs"
     },
     {
-        "API": "Job Opportunities",
-        "Description": "Employer-direct job postings with per-field provenance and retained closures, 248 countries; 2.3M+ live rows, keyless statistics endpoints.",
+        "API": "Job Opportunities API (JOA)",
+        "Description": "Employer-direct job postings from company career sites and ATSs, with per-field provenance and closure dates. Free key, no card.",
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://jobopportunitiesapi.org",
