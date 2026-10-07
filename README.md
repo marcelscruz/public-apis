@@ -1423,7 +1423,7 @@
 | [HireLayer](https://hirelayer.co) | Parse resumes and job descriptions into structured JSON, normalize skills, and match and rank candidates against a job | `apiKey` | Yes |
 | [Hiring Index](https://hiringindex.org) | Live job postings read from ten employer applicant tracking systems, with market aggregates | `apiKey` | Yes |
 | [Job Application API](https://boringproject.ai) | API to apply on jobs posted on carrer platform like workday, lever, icims and many more. Handles captcha, fill forms, submit applications, integrate in < 10min | `apiKey` | Unknown |
-| [Job Opportunities](https://jobopportunitiesapi.org) | Employer-direct job postings with per-field provenance and retained closures, 248 countries; 2.3M+ live rows, keyless statistics endpoints. | `apiKey` | Yes |
+| [Job Opportunities API (JOA)](https://jobopportunitiesapi.org) | Employer-direct job postings from company career sites and ATSs, with per-field provenance and closure dates. Free key, no card. | `apiKey` | Yes |
 | [jobdata API](https://jobdataapi.com/) | Simple Job Data API | `apiKey` | Unknown |
 | [Jobicy](https://jobicy.com/jobs-rss-feed) | Remote Jobs API Feed | No | Unknown |
 | [JobsPipe](https://jobspipe.dev/docs) | Search live job postings from job boards and company career sites, plus tech stack detection by domain | `apiKey` | Yes |
