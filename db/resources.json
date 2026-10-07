@@ -1,5 +1,5 @@
 {
-"count": 1801,
+"count": 1802,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11071,6 +11071,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://celestrak.org/",
+        "Category": "Science & Math"
+    },
+    {
+        "API": "Chempirical",
+        "Description": "Data for 48,000 chemical compounds: physical properties, Antoine constants, azeotropes, reactions, substructure and similarity search",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://chempirical.com",
         "Category": "Science & Math"
     },
     {
