@@ -1,5 +1,5 @@
 {
-"count": 1802,
+"count": 1801,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9263,14 +9263,6 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://jobicy.com/jobs-rss-feed",
-        "Category": "Jobs"
-    },
-    {
-        "API": "JobsPipe",
-        "Description": "Search live job postings from job boards and company career sites, plus tech stack detection by domain",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://jobspipe.dev/docs",
         "Category": "Jobs"
     },
     {
