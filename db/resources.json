@@ -1,5 +1,5 @@
 {
-"count": 1800,
+"count": 1801,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6223,6 +6223,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.StockData.org",
+        "Category": "Finance"
+    },
+    {
+        "API": "StockDrifts",
+        "Description": "Rated US 13F fund holdings, company KPIs, Korean insider trades and Japanese large-shareholder filings",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.stockdrifts.io",
         "Category": "Finance"
     },
     {
