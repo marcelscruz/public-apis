@@ -1,5 +1,5 @@
 {
-"count": 1801,
+"count": 1802,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13839,6 +13839,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://github.com/shadowoff09/lucifer-quotes",
+        "Category": "Video"
+    },
+    {
+        "API": "MakeAIVideo",
+        "Description": "Turn a prompt or script into a finished short-form video with AI voiceover, scenes, captions and music through a REST API",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://makeaivideo.ai",
         "Category": "Video"
     },
     {
