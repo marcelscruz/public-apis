@@ -1529,7 +1529,7 @@
 | [BotsArchive](https://botsarchive.com/docs.html) | JSON formatted details about Telegram Bots available in database | No | Unknown |
 | [Callook.info](https://callook.info) | United States ham radio callsigns | No | Unknown |
 | [CARTO](https://carto.com/) | Location Information Prediction | `apiKey` | Unknown |
-| [College ROI](https://le-teen.com/api) | Lifetime ROI of US colleges and majors, static JSON, CC BY 4.0 | No | Yes |
+| [College ROI](https://le-teen.com) | Lifetime ROI of US colleges and majors, static JSON, CC BY 4.0 | No | Yes |
 | [CollegeScoreCard.ed.gov](https://collegescorecard.ed.gov/data/) | Data on higher education institutions in the United States | No | Unknown |
 | [CoworkingView](https://coworkingview.com) | Coworking spaces and flexible offices in European and UAE cities, with operator-listed prices and a per-city price index under CC BY 4.0 | No | No |
 | [CrawlGraph](https://crawlgraph.com) | Backlink and domain-link data from Common Crawl's open web graph | `apiKey` | No |
