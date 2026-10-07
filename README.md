@@ -2155,6 +2155,7 @@
 | [IMDbOT](https://github.com/SpEcHiDe/IMDbOT) | Unofficial IMDb Movie / Series Information | No | Yes |
 | [JSON2Video](https://json2video.com) | Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations | `apiKey` | No |
 | [Lucifer Quotes](https://github.com/shadowoff09/lucifer-quotes) | Returns Lucifer quotes | No | Unknown |
+| [MakeAIVideo](https://makeaivideo.ai) | Turn a prompt or script into a finished short-form video with AI voiceover, scenes, captions and music through a REST API | `apiKey` | No |
 | [MCU Countdown](https://github.com/DiljotSG/MCU-Countdown) | A Countdown to the next MCU Film | No | Yes |
 | [Movie Quote](https://github.com/F4R4N/movie-quote/) | Random Movie and Series Quotes | No | Yes |
 | [Mutator](https://mutator.app) | Make short vertical videos, photo slideshows and product photos for TikTok and Instagram from a product photo or website | `apiKey` | No |
