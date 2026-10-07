@@ -1017,6 +1017,7 @@
 | [TradeWatch](https://tradewatch.io/) | Real time financial market data | `apiKey` | Yes |
 | [Tradier](https://developer.tradier.com) | US equity/option market data (delayed, intraday, historical) | `OAuth` | Yes |
 | [Twelve Data](https://twelvedata.com/) | Stock market data (real-time & historical) | `apiKey` | Unknown |
+| [Undertow](https://liquilens-undertow.com) | Public market-depth and sized exit estimates, not executable quotes | No | Yes |
 | [Validate IBAN API ](https://apyhub.com/utility/finance-validator-iban) | This API lets you quickly validate IBAN bank codes | `apiKey` | Yes |
 | [Validate Swift/BIC ](https://apyhub.com/utility/finance-validator-bic) | Validates BIC/SWIFT code | `apiKey` | Yes |
 | [ValueRay](https://www.valueray.com/api) | Technical, quantitative and sentiment data for stocks and ETFs, optimized for AI/LLM | No | Yes |
