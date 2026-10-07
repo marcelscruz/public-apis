@@ -1,5 +1,5 @@
 {
-"count": 1798,
+"count": 1799,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6295,6 +6295,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://twelvedata.com/",
+        "Category": "Finance"
+    },
+    {
+        "API": "Undertow",
+        "Description": "Public market-depth and sized exit estimates, not executable quotes",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://liquilens-undertow.com",
         "Category": "Finance"
     },
     {
