@@ -1003,6 +1003,7 @@
 | [returnsview](https://returnsview.com) | Historical returns, seasonality and daily closes for crypto, stocks and ETFs | No | Yes |
 | [Salary API](https://jobicy.com/salary-api) | The REST API returns structured JSON responses containing salary ranges, hourly rates, compensation benchmarks, required skills, market demand, and regional employment insights | `apiKey` | Yes |
 | [SEC EDGAR Data](https://www.sec.gov/search-filings/edgar-application-programming-interfaces) | API to access annual reports of public US companies | No | Yes |
+| [Seiche](https://seiche.info) | Free public funding, FX and capital-market evidence with source clocks | No | Yes |
 | [SiftingIO](https://sifting.io/) | Market data for stocks, forex, crypto, commodities and DEX | `apiKey` | Yes |
 | [SmartAPI](https://smartapi.angelbroking.com/) | Gain access to set of <SmartAPI> and create end-to-end broking services | `apiKey` | Unknown |
 | [StackerScan](https://www.stackerscan.com) | Live and historical precious-metals spot prices, observed dealer premiums over spot, and the Goldback exchange rate | No | Yes |
