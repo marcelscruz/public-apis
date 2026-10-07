@@ -9950,7 +9950,7 @@
         "Description": "Lifetime ROI of US colleges and majors, static JSON, CC BY 4.0",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://le-teen.com/api",
+        "Link": "https://le-teen.com",
         "Category": "Open Data"
     },
     {
