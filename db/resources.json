@@ -1,5 +1,5 @@
 {
-"count": 1799,
+"count": 1800,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10175,6 +10175,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://sofiaplan.bg/api/",
+        "Category": "Open Data"
+    },
+    {
+        "API": "StatOrigin",
+        "Description": "Sourced industry statistics as JSON, with every data point linked to its original source; CC BY 4.0 compilation",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://statorigin.org",
         "Category": "Open Data"
     },
     {
