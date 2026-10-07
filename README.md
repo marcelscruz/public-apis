@@ -1558,6 +1558,7 @@
 | [Scoop.it](https://www.scoop.it/dev) | Content Curation Service | `apiKey` | Unknown |
 | [Socrata](https://dev.socrata.com/) | Access to Open Data from Governments, Non-profits and NGOs around the world | `OAuth` | Yes |
 | [Sofiaplan](https://sofiaplan.bg/api/) | Access to urban research data for the Bulgarian capital Sofia | No | Yes |
+| [StatOrigin](https://statorigin.org) | Sourced industry statistics as JSON, with every data point linked to its original source; CC BY 4.0 compilation | No | Yes |
 | [Udemy Coupons, Courses & Instructors Data](https://rapidapi.com/vintarok-vintarok-default/api/udemy-coupons-courses-instructors-data-api) | Retrieve Udemy courses, coupons, instructors, and metadata | `apiKey` | Yes |
 | [Umeå Open Data](https://opendata.umea.se/api/) | Open data of the city Umeå in northern Sweden | No | Yes |
 | [UniDb](https://unidbapi.com) | Data that helps people gain useful insight into universities in the United Kingdom | `apiKey` | Yes |
