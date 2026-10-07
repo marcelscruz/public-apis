@@ -1,5 +1,5 @@
 {
-"count": 1797,
+"count": 1798,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5999,6 +5999,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://docs.klarna.com/klarna-payments/api/payments-api/",
+        "Category": "Finance"
+    },
+    {
+        "API": "LiquiLens",
+        "Description": "Public-record bank and lender failure-risk evidence",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://liquilens.in",
         "Category": "Finance"
     },
     {
