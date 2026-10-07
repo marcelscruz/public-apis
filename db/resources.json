@@ -12278,7 +12278,7 @@
         "Description": "Real-time sports intelligence: scores, odds, betting splits & AI bet analysis across 8 sports",
         "Auth": "apiKey",
         "Cors": "no",
-        "Link": "https://lumify.ai/docs",
+        "Link": "https://lumify.ai",
         "Category": "Sports & Fitness"
     },
     {
