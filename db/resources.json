@@ -1,5 +1,5 @@
 {
-"count": 1796,
+"count": 1797,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6167,6 +6167,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces",
+        "Category": "Finance"
+    },
+    {
+        "API": "Seiche",
+        "Description": "Free public funding, FX and capital-market evidence with source clocks",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://seiche.info",
         "Category": "Finance"
     },
     {
