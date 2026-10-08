@@ -1,5 +1,5 @@
 {
-"count": 1802,
+"count": 1803,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11679,6 +11679,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://woocommerce.github.io/woocommerce-rest-api-docs/",
+        "Category": "Shopping"
+    },
+    {
+        "API": "Zinc",
+        "Description": "Place, track and return orders at Amazon, Walmart, Target and other online retailers",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.zinc.com",
         "Category": "Shopping"
     },
     {
