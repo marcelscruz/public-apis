@@ -871,6 +871,7 @@
 | [Sweep Emails](https://sweepemails.com/) | Reliable email validation API with Free tier | `apiKey` | No |
 | [Temporary and Disposable emails API](https://apyhub.com/utility/boomlify-temp-mail) | This API provides temporary & disposable email addresses | `apiKey` | Yes |
 | [Trueguard](https://trueguard.io) | Trueguard offers API for detecting temporary emails, free-tier abusers and automated bots | `apiKey` | No |
+| [Voidmail](https://voidly.ai/agent-email) | Email inboxes for AI agents: read and search incoming mail, send only to recipients the owner approved | `apiKey` | Yes |
 | [Zyntra](https://docs.zyntra.app/) | Unlimited e-mail inboxes with API access. Catch OTPs, reset links, and sign-up emails in test flows | `apiKey` | Unknown |
 
 **[⬆ Back to Index](#index)**
