@@ -1,5 +1,5 @@
 {
-"count": 1807,
+"count": 1808,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11735,6 +11735,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.google.com/blogger/",
+        "Category": "Social"
+    },
+    {
+        "API": "Breakreach",
+        "Description": "Schedule and publish posts to 19 social networks with one REST API, SDKs and a hosted MCP server",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.breakreach.com",
         "Category": "Social"
     },
     {
