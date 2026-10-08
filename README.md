@@ -1841,6 +1841,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [4chan](https://github.com/4chan/4chan-API) | Simple image-based bulletin board dedicated to a variety of topics | No | Yes |
+| [Adeli](https://www.tryadeli.com) | Unified API to publish to Instagram, TikTok, X, YouTube, and Facebook | `apiKey` | No |
 | [Ayrshare](https://www.ayrshare.com) | Social media APIs to post, get analytics, and manage multiple users social media accounts | `apiKey` | Yes |
 | [Blogger](https://developers.google.com/blogger/) | The Blogger APIs allows client applications to view and update Blogger content | `OAuth` | Unknown |
 | [BulkPublish](https://www.bulkpublish.com) | Schedule and publish posts to 14 social networks | `apiKey` | Yes |
