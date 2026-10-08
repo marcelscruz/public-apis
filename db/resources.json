@@ -1,5 +1,5 @@
 {
-"count": 1806,
+"count": 1807,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11711,6 +11711,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://github.com/4chan/4chan-API",
+        "Category": "Social"
+    },
+    {
+        "API": "Adeli",
+        "Description": "Unified API to publish to Instagram, TikTok, X, YouTube, and Facebook",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.tryadeli.com",
         "Category": "Social"
     },
     {
