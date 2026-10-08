@@ -1844,6 +1844,7 @@
 | [Adeli](https://www.tryadeli.com) | Unified API to publish to Instagram, TikTok, X, YouTube, and Facebook | `apiKey` | No |
 | [Ayrshare](https://www.ayrshare.com) | Social media APIs to post, get analytics, and manage multiple users social media accounts | `apiKey` | Yes |
 | [Blogger](https://developers.google.com/blogger/) | The Blogger APIs allows client applications to view and update Blogger content | `OAuth` | Unknown |
+| [Breakreach](https://www.breakreach.com) | Schedule and publish posts to 19 social networks with one REST API, SDKs and a hosted MCP server | `apiKey` | No |
 | [BulkPublish](https://www.bulkpublish.com) | Schedule and publish posts to 14 social networks | `apiKey` | Yes |
 | [Discord](https://discord.com/developers/docs/intro) | Make bots for Discord, integrate Discord onto an external platform | `OAuth` | Unknown |
 | [Disqus](https://disqus.com/api/docs/auth/) | Communicate with Disqus data | `OAuth` | Unknown |
