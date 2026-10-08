@@ -751,6 +751,7 @@
 | [YAMLine](https://yamline.com/json/) | Convert YAML to JSON (on-the-fly) | No | Yes |
 | [ZenRows](https://www.zenrows.com/) | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies | `apiKey` | Unknown |
 | [Zuplo](https://zuplo.com/) | API platform for Development, Deployment, and Docs - add auth, rate-limiting, and monetization fast | `apiKey` | Unknown |
+| [Zyte API](https://www.zyte.com/zyte-api/) | Web scraping API with built-in proxies, browser rendering and automatic data extraction | `apiKey` | Yes |
 
 **[⬆ Back to Index](#index)**
 
