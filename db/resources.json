@@ -1,5 +1,5 @@
 {
-"count": 1804,
+"count": 1805,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14079,6 +14079,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://transcriptapi.com",
+        "Category": "Video"
+    },
+    {
+        "API": "TranscriptYT",
+        "Description": "YouTube transcripts as JSON, text, SRT or VTT, with playlist, channel, search and translation endpoints, plus an MCP server",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://transcript-yt.com",
         "Category": "Video"
     },
     {
