@@ -105,6 +105,7 @@
 | [AI Learning Engine](https://rapidapi.com/vintarok-vintarok-default/api/ai-learning-engine-task-creation-auto-grading-api) | Create, auto-grade, and analyze learning tasks with AI-based evaluations | `apiKey` | Yes |
 | [AI/ML](https://aimlapi.com) | Access 100+ curated AI Models over 1 API | `apiKey` | Yes |
 | [API Route](https://www.api-route.com) | OpenAI-compatible multi-model gateway for chat completions with API keys and usage-based billing | `apiKey` | Yes |
+| [APIClaw](https://apiclaw.biz) | Flat-rate OpenAI-compatible gateway for Claude, GPT, DeepSeek, Qwen, Kimi and GLM models | `apiKey` | Yes |
 | [Azurade](https://azurade.com) | Image and video generation with 30+ models (Veo, Seedance, Nano Banana) over one REST API, paid per generation from credits that never expire | `apiKey` | Yes |
 | [Chatwith](https://chatwith.tools) | Build custom ChatGPT-style AI chatbots trained on your website and files, integrated with 5000+ apps — no coding, live in minutes. | `apiKey` | Yes |
 | [CitedSpy](https://www.citedspy.com/) | Track brand visibility, share of voice, and citations across AI engines like ChatGPT, Gemini, and Claude | `apiKey` | Unknown |
