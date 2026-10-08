@@ -1,5 +1,5 @@
 {
-"count": 1803,
+"count": 1804,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -39,6 +39,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.api-route.com",
+        "Category": "AI"
+    },
+    {
+        "API": "APIClaw",
+        "Description": "Flat-rate OpenAI-compatible gateway for Claude, GPT, DeepSeek, Qwen, Kimi and GLM models",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://apiclaw.biz",
         "Category": "AI"
     },
     {
