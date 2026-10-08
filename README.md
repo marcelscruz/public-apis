@@ -959,6 +959,7 @@
 | [Drillr](https://drillr.ai) | Fundamentals, filings, filing full-text search, earnings, ownership, events and analyst data for US, China and Japan equities, linked to source filings | `apiKey` | No |
 | [Earnings Feed](https://earningsfeed.com/api/docs) | SEC filings, insider transactions, institutional holdings | `apiKey` | No |
 | [Econdb](https://www.econdb.com/api/) | Global macroeconomic data | No | Yes |
+| [Equibles](https://equibles.com) | US stock fundamentals from SEC filings, filing documents, earnings-call transcripts, 13F holdings and insider trades | `apiKey` | Yes |
 | [Eulerpool](https://eulerpool.com/financial-data-api) | Global stock, ETF, macro, crypto and FX data with fundamentals and history | `apiKey` | Yes |
 | [eunormia E-Invoice API](https://eunormia.com) | eunormia turns your invoice data into a ZUGFeRD/Factur-X PDF/A-3 per EN 16931 — and validates every result before it is delivered | `apiKey` | Unknown |
 | [Fed Treasury](https://fiscaldata.treasury.gov/api-documentation/) | U.S. Department of the Treasury Data | No | Unknown |
