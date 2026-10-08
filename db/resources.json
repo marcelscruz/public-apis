@@ -1,5 +1,5 @@
 {
-"count": 1805,
+"count": 1806,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9151,6 +9151,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://aidevboard.com",
+        "Category": "Jobs"
+    },
+    {
+        "API": "AI Trainer Jobs",
+        "Description": "Remote, paid AI trainer jobs in coding, STEM, medicine, law, finance and languages, from each company's own job board, updated every 5 minutes",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://aitrainerjobs.co",
         "Category": "Jobs"
     },
     {
