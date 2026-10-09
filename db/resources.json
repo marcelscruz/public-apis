@@ -1,5 +1,5 @@
 {
-"count": 1811,
+"count": 1812,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5767,6 +5767,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://binlist.net/",
+        "Category": "Finance"
+    },
+    {
+        "API": "biquote",
+        "Description": "Real-time and historical forex, metals, crypto and stock prices, with a WebSocket stream and an economic calendar",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://biquote.io",
         "Category": "Finance"
     },
     {
