@@ -1,5 +1,5 @@
 {
-"count": 1812,
+"count": 1813,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5895,6 +5895,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://site.financialmodelingprep.com/developer/docs",
+        "Category": "Finance"
+    },
+    {
+        "API": "FinancialFilings",
+        "Description": "Annual and interim reports, ad-hoc disclosures and ESEF/XBRL filings from securities regulators in about 60 markets, plus XBRL financials",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://financialfilings.com",
         "Category": "Finance"
     },
     {
