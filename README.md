@@ -953,6 +953,7 @@
 | [Bargo Congress Trades](https://www.bargo.ai/free-apis/congress) | U.S. Congress STOCK Act stock trades with per-trade performance | No | Yes |
 | [Billplz](https://www.billplz.com/api) | Payment platform | `apiKey` | Unknown |
 | [Binlist](https://binlist.net/) | Public access to a database of IIN/BIN information | No | Unknown |
+| [biquote](https://biquote.io) | Real-time and historical forex, metals, crypto and stock prices, with a WebSocket stream and an economic calendar | No | Yes |
 | [Boleto.Cloud](https://boleto.cloud/) | A api to generate boletos in Brazil | `apiKey` | Unknown |
 | [Bullbear Advisors](https://rapidapi.com/otha1920/api/bullbear-advisor) | See strong buy and sell signals the day they occur. Get today's stocks that closed with a strong Bullish or Bearish candlestick. | No | No |
 | [Casheva](https://casheva.com) | Financial data for Argentina, Spain and Mexico: USD rates, inflation, Euribor, ICL | No | Yes |
