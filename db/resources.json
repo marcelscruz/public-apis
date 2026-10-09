@@ -1,5 +1,5 @@
 {
-"count": 1813,
+"count": 1814,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11999,6 +11999,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developers.revolt.chat",
+        "Category": "Social"
+    },
+    {
+        "API": "Rumoro",
+        "Description": "Social listening API: brand, competitor and topic mentions from 16 sources, scored for relevance, sentiment and intent",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://rumoro.dev",
         "Category": "Social"
     },
     {
