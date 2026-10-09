@@ -1,5 +1,5 @@
 {
-"count": 1809,
+"count": 1810,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7743,6 +7743,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.ip2location.com/web-service/ip2proxy",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "IP99",
+        "Description": "IP geolocation with proxy, VPN and datacenter risk, each verdict carrying the age of the evidence behind it",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://ip99.com/",
         "Category": "Geocoding"
     },
     {
