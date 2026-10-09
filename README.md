@@ -969,6 +969,7 @@
 | [Finage](https://finage.co.uk) | Finage is a stock, currency, cryptocurrency, indices, and ETFs real-time & historical data provider | `apiKey` | Unknown |
 | [Financial Data](https://financialdata.net/documentation) | Stock market and financial data | `apiKey` | Unknown |
 | [Financial Modeling Prep](https://site.financialmodelingprep.com/developer/docs) | Realtime and historical stock data | `apiKey` | Unknown |
+| [FinancialFilings](https://financialfilings.com) | Annual and interim reports, ad-hoc disclosures and ESEF/XBRL filings from securities regulators in about 60 markets, plus XBRL financials | `apiKey` | No |
 | [FinFeedAPI](https://finfeedapi.com) | Developer-first market data API | `apiKey` | Unknown |
 | [Finnhub](https://finnhub.io/docs/api) | Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto | `apiKey` | Unknown |
 | [FinSignals](https://finsignals.ai/docs/) | Sentiment, direction & quality classification for Reddit financial social posts | `apiKey` | Yes |
