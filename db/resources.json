@@ -1,5 +1,5 @@
 {
-"count": 1810,
+"count": 1811,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1511,6 +1511,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://docs.crustdata.com",
+        "Category": "Business"
+    },
+    {
+        "API": "Datacircle",
+        "Description": "One API key and one prepaid balance for B2B data providers: LinkedIn profile enrichment at each provider's own price, no markup",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://datacircle.dev",
         "Category": "Business"
     },
     {
