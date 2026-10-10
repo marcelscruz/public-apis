@@ -1,5 +1,5 @@
 {
-"count": 1814,
+"count": 1815,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2207,6 +2207,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.bitmex.com/app/apiOverview",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "BlackForge",
+        "Description": "Order book depth, resting-liquidity lifetimes and taker buy/sell flow for ~11,800 pairs on 9 spot exchanges, per 5-minute window",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://blackforge.so",
         "Category": "Cryptocurrency"
     },
     {
