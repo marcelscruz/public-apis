@@ -337,7 +337,7 @@
 | [Charity Search](https://charityapi.orghunter.com/) | Non-profit charity data | `apiKey` | Unknown |
 | [CompanyEnrich](https://companyenrich.com) | API for B2B company data enrichment, domain enrichment, and website enrichment | `apiKey` | Yes |
 | [Crustdata](https://docs.crustdata.com) | People and company data covering profiles, headcount, funding and contacts | `apiKey` | Yes |
-| [Datacircle](https://datacircle.dev) | One API key and one prepaid balance for B2B data providers: LinkedIn profile enrichment at each provider's own price, no markup | `apiKey` | No |
+| [Datacircle](https://datacircle.dev) | Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup | `apiKey` | No |
 | [Derrick](https://derrick-app.com) | B2B contact and company enrichment: verified work emails, mobile numbers, firmographics, technologies in use and hiring signals | `apiKey` | No |
 | [Domainsdb.info](https://domainsdb.info/) | Registered Domain Names Search | No | No |
 | [FalcoScan](https://falcoscan.com) | Data on 7,000+ AI products across 29 markets, with market scores and shut-down and acquisition records | `apiKey` | No |
