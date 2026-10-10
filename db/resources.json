@@ -1,5 +1,5 @@
 {
-"count": 1816,
+"count": 1817,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2559,6 +2559,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://mobula.io",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "NakamotoNotes",
+        "Description": "Bitcoin market-cycle Heat Score (0-100) from 8 indicators, on-chain inputs from own node, plus widget",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://nakamotonotes.com",
         "Category": "Cryptocurrency"
     },
     {
