@@ -1,5 +1,5 @@
 {
-"count": 1815,
+"count": 1816,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4063,6 +4063,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://www.qrcode-monkey.com/qr-code-api-with-logo/",
+        "Category": "Development"
+    },
+    {
+        "API": "QRX",
+        "Description": "Turn a text prompt and a link into an artistic, branded QR code, checked to scan before it is returned",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://qrx.codes",
         "Category": "Development"
     },
     {
