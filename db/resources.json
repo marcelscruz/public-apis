@@ -1,5 +1,5 @@
 {
-"count": 1817,
+"count": 1818,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3087,6 +3087,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://agify.io",
+        "Category": "Development"
+    },
+    {
+        "API": "Allscreenshots",
+        "Description": "Website screenshots and PDFs with full-page capture, dark mode, ad blocking and bulk requests",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://allscreenshots.com",
         "Category": "Development"
     },
     {
