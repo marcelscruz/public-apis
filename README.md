@@ -576,6 +576,7 @@
 | [Agent Nexus](https://agentnexus.app) | Continuously probed registry of APIs, MCP servers and CLIs callable by agents | No | Yes |
 | [AgentDeals](https://agentdeals.dev/api) | Search and compare developer free tiers, startup credits, and pricing changes | No | Yes |
 | [Agify.io](https://agify.io) | Estimates the age from a first name | No | Yes |
+| [Allscreenshots](https://allscreenshots.com) | Website screenshots and PDFs with full-page capture, dark mode, ad blocking and bulk requests | `apiKey` | No |
 | [Amazonscraperapi](https://amazonscraperapi.com) | Amazon product, search & batch scraping API with residential proxies (1000 free) | `apiKey` | No |
 | [AnyAPI](https://getanyapi.com) | Hundreds of scraping and data APIs behind one key and one normalized JSON schema, priced per request in USD | `apiKey` | No |
 | [API Grátis](https://apigratis.com.br/) | Multiples services and public APIs | No | Unknown |
