@@ -1,5 +1,5 @@
 {
-"count": 1820,
+"count": 1821,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12183,6 +12183,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://vk.com/dev/sites",
+        "Category": "Social"
+    },
+    {
+        "API": "Wapio",
+        "Description": "WhatsApp messaging with text, media, QR-code connection and incoming-message webhooks",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.wapio.io",
         "Category": "Social"
     },
     {
