@@ -1,5 +1,5 @@
 {
-"count": 1819,
+"count": 1820,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9423,6 +9423,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.reed.co.uk/developers",
+        "Category": "Jobs"
+    },
+    {
+        "API": "Reqbeat",
+        "Description": "Hiring signals: search job postings by role and geo, subscribe to companies, and receive new reqs via webhook",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://reqbeat.com",
         "Category": "Jobs"
     },
     {
