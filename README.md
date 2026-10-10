@@ -1898,6 +1898,7 @@
 | [TwitterApi.IO](https://twitterapi.io) | Access Twitter's Real-time & Historical Data with Unmatched Simplicity | `apiKey` | No |
 | [Upload-Post](https://www.upload-post.com) | Post and schedule videos, photos, text and documents to TikTok, Instagram, YouTube, LinkedIn, X, Threads and more with one API key | `apiKey` | Yes |
 | [vk](https://vk.com/dev/sites) | Read and write vk data | `OAuth` | Unknown |
+| [Wapio](https://www.wapio.io) | WhatsApp messaging with text, media, QR-code connection and incoming-message webhooks | `apiKey` | No |
 | [Webex](https://developer.webex.com) | Team collaboration software | `OAuth` | Yes |
 | [WoopSocial](https://woopsocial.com) | Schedule and publish posts across social media platforms | `apiKey` | No |
 | [Zoom](https://developers.zoom.us/docs/api) | Video communication, web conferencing, chat, and webinars | `OAuth` | Unknown |
