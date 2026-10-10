@@ -1,5 +1,5 @@
 {
-"count": 1818,
+"count": 1819,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5623,6 +5623,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://strompriseridag.no/api/",
+        "Category": "Environment"
+    },
+    {
+        "API": "ThaiFloodRisk",
+        "Description": "Flood risk scores for Bangkok districts and Thai cities, with elevation, canal distance and satellite flood history since 2011",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://thaifloodrisk.com",
         "Category": "Environment"
     },
     {
