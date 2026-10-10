@@ -492,6 +492,7 @@
 | [MercadoBitcoin](https://api.mercadobitcoin.net/api/v4/docs) | Brazilian Cryptocurrency Information | No | Unknown |
 | [Messari](https://messari.io/api) | Provides API endpoints for thousands of crypto assets | No | Unknown |
 | [Mobula](https://mobula.io) | Real-time onchain market data, wallet portfolios, and trading streams across multiple chains | `apiKey` | Yes |
+| [NakamotoNotes](https://nakamotonotes.com) | Bitcoin market-cycle Heat Score (0-100) from 8 indicators, on-chain inputs from own node, plus widget | No | Yes |
 | [Nexchange](https://nexchange2.docs.apiary.io/) | Automated cryptocurrency exchange service | No | Yes |
 | [NovaDax](https://doc.novadax.com/en-US/#introduction) | NovaDAX API to access all market data, trading management endpoints | `apiKey` | Unknown |
 | [OKEx](https://okx.com/okx-api) | Cryptocurrency exchange based in Seychelles | `apiKey` | Unknown |
