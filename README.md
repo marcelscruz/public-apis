@@ -2048,6 +2048,7 @@
 | [CTS](https://api.cts-strasbourg.eu/) | CTS Realtime API | `apiKey` | Yes |
 | [facha](https://docs.api.facha.dev/) | Aircraft Tracking, AIS Ship Tracking, Temporary Email Detection, IP GeoLocation, Package Tracking | No | Unknown |
 | [Flight Fare Search](https://rapidapi.com/farish978/api/flight-fare-search) | Search for realtime flight fares across destinations | `apiKey` | Yes |
+| [FlightPortrait](https://docs.flightportrait.com/build/api) | Live and historical aircraft positions, flights, airlines and airframes from a community ADS-B receiver network, open data under ODbL | No | Yes |
 | [Fuel Prices at Spanish Gas Stations](https://datos.gob.es/en/apidata) | Provides information about fuel prices at gas stations in Spain | No | No |
 | [Grab](https://developer.grab.com/docs/) | Track deliveries, ride fares, payments and loyalty points | `OAuth` | Unknown |
 | [GraphHopper](https://docs.graphhopper.com/) | A-to-B routing with turn-by-turn instructions | `apiKey` | Unknown |
