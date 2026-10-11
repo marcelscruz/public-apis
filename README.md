@@ -125,9 +125,9 @@
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Discovery API for AI agents & MCP servers (search, verify, UAID, chat) | `apiKey` | Yes |
 | [Imagga](https://imagga.com/) | Image Recognition Solutions like Tagging, Visual Search, NSFW moderation | `apiKey` | Unknown |
 | [Inferdo](https://rapidapi.com/user/inferdo) | Computer Vision services like Facial detection, Image labeling, NSFW classification | `apiKey` | Unknown |
+| [Invokely](https://invokely.ai) | Query official statistics by place and period through REST or MCP; figures include unit and source citation. | `apiKey` | Yes |
 | [Irisnet](https://irisnet.de/api/) | Realtime content moderation API that blocks or blurs unwanted images in real-time | `apiKey` | Yes |
 | [ISMS Copilot](https://www.ismscopilot.com/products/api) | OpenAI-compatible text-only compliance completions: curated framework knowledge (100+ modules) injected before generation and disclosed on success | `apiKey` | No |
-| [Invokely](https://invokely.ai) | Query official statistics by place and period through REST or MCP; figures include unit and source citation. | `apiKey` | Yes |
 | [Keen IO](https://keen.io/) | Data Analytics | `apiKey` | Unknown |
 | [Machinetutors](https://machinetutors.com/api/) | AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP | `apiKey` | Yes |
 | [Magic Hour](https://magichour.ai/api) | Generate and edit AI videos, images, and audio through a self-serve REST API | `apiKey` | Yes |
