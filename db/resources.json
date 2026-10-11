@@ -1,5 +1,5 @@
 {
-"count": 1821,
+"count": 1822,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13127,6 +13127,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://rapidapi.com/farish978/api/flight-fare-search",
+        "Category": "Transportation"
+    },
+    {
+        "API": "FlightPortrait",
+        "Description": "Live and historical aircraft positions, flights, airlines and airframes from a community ADS-B receiver network, open data under ODbL",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://docs.flightportrait.com/build/api",
         "Category": "Transportation"
     },
     {
