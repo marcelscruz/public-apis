@@ -1,5 +1,5 @@
 {
-"count": 1823,
+"count": 1824,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1472,6 +1472,14 @@
         "Cors": "unknown",
         "Link": "https://wolnelektury.pl/api/",
         "Category": "Books"
+    },
+    {
+        "API": "Ads Lighthouse",
+        "Description": "Read saved Google and Bing ad observations, advertiser reports, affiliate findings, alerts and monitoring usage",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://adslighthouse.com",
+        "Category": "Business"
     },
     {
         "API": "Apache Superset",
