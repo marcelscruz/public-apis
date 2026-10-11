@@ -1942,6 +1942,7 @@
 | [NegativeEV](https://negativeev.com) | Grades a sports bet against thousands of play-by-play game simulations and returns the win probability and the edge at the quoted price | No | No |
 | [NHL Records and Stats](https://gitlab.com/dword4/nhlapi) | NHL historical data and statistics | No | Unknown |
 | [Oddsmagnet](https://oddsmagnet.com/oddsdata) | Odds history from multiple UK bookmakers | No | Yes |
+| [OddsRelay](https://oddsrelay.io) | Pre-match odds from UK and Irish bookmakers, bet365 included, with Betfair, Smarkets, Matchbook and BETDAQ lay prices | `apiKey` | No |
 | [OpenLigaDB](https://www.openligadb.de) | Crowd sourced sports league results | No | Yes |
 | [Parlay](https://parlay-api.com/docs) | Real-time sports betting odds from 21+ sportsbooks across 38+ sports with free tier (1K req/month) | `apiKey` | No |
 | [Premier League Standings ](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | All Current Premier League Standings and Statistics | `apiKey` | Unknown |
