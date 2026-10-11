@@ -1869,6 +1869,7 @@
 | [HackerNews](https://github.com/HackerNews/API) | Social news for CS and entrepreneurship | No | Unknown |
 | [Hashnode](https://hashnode.com) | A blogging platform built for developers | No | Unknown |
 | [Hashtag](https://mukeshsolanki.gitbook.io/hashtag-api/) | Generate Hashtags using a keyword or an Image | `apiKey` | Unknown |
+| [HeyReagent](https://heyreagent.com) | Independent API for your own LinkedIn account: read your inbox, send messages and invitations, search people, and work with posts, over REST or MCP | `apiKey` | No |
 | [Instagram](https://www.instagram.com/developer/) | Instagram Login, Share on Instagram, Social Plugins and more | `OAuth` | Unknown |
 | [Instagram Posts Generator](https://instagram-posts-generator.vercel.app/) | Generate posts with templates from popular instagram pages. | No | Yes |
 | [InstagramAPI](https://instagramapi.dev) | Public Instagram data (profiles, posts, reels, hashtags, locations) via a fast, well-documented API. No approvals needed. | `apiKey` | Unknown |
