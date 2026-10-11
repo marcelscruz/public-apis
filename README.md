@@ -100,6 +100,7 @@
 ### AI
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [AdsTurbo](https://adsturbo.ai/open-api) | Video ad generation API: AI actors with lip sync, ad cloning from a reference video, video translation and product images | `apiKey` | No |
 | [Advanced Multilanguage AI Translator (RapidAPI)](https://rapidapi.com/vintarok-vintarok-default/api/advanced-multilanguage-ai-translator-api-with-fast-responses) | AI-powered translator supporting multiple languages with fast, context-aware responses | `apiKey` | Yes |
 | [AI For Thai](https://aiforthai.in.th/index.php) | Free Various Thai AI API | `apiKey` | Yes |
 | [AI Learning Engine](https://rapidapi.com/vintarok-vintarok-default/api/ai-learning-engine-task-creation-auto-grading-api) | Create, auto-grade, and analyze learning tasks with AI-based evaluations | `apiKey` | Yes |
