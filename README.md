@@ -332,6 +332,7 @@
 ### Business
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [Ads Lighthouse](https://adslighthouse.com) | Read saved Google and Bing ad observations, advertiser reports, affiliate findings, alerts and monitoring usage | `apiKey` | No |
 | [Apache Superset](https://superset.apache.org/docs/api) | API to manage your BI dashboards and data sources on Superset | `apiKey` | Yes |
 | [ArvanCloud](https://www.arvancloud.ir/en/dev/sdk) | Enables you to use ArvanCloud services | `apiKey` | No |
 | [Charity Search](https://charityapi.orghunter.com/) | Non-profit charity data | `apiKey` | Unknown |
