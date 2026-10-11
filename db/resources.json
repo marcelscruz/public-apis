@@ -1,5 +1,5 @@
 {
-"count": 1822,
+"count": 1823,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2191,6 +2191,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://github.com/binance/binance-spot-api-docs",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "Bitculator",
+        "Description": "Crypto prices, OHLCV history, sentiment, technical indicators, exchanges and liquidations",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://bitculator.com/en/crypto-api",
         "Category": "Cryptocurrency"
     },
     {
