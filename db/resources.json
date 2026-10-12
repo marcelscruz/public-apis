@@ -1,5 +1,5 @@
 {
-"count": 1830,
+"count": 1831,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10895,6 +10895,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://apidocs.imgur.com/",
+        "Category": "Photography"
+    },
+    {
+        "API": "localscreenshot",
+        "Description": "Screenshot or PDF rendering of any public page, from 227 countries",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://localscreenshot.com",
         "Category": "Photography"
     },
     {
