@@ -1935,6 +1935,7 @@
 | [Football Highlights](https://highlightly.net/documentation/football/) | Real time football (soccer) highlights from over +950 leagues | `apiKey` | Unknown |
 | [Football Standings](https://github.com/azharimm/football-standings-api) | Display football standings e.g epl, la liga, serie a etc. The data is based on espn site | No | Yes |
 | [Football-Data](https://www.football-data.org) | Football data with matches info, players, teams, and competitions | `X-Mashape-Key` | Unknown |
+| [HaterPicks](https://www.haterpicks.app/api) | Australian sports odds and player props from every major Australian bookmaker, with a free tier | `apiKey` | No |
 | [Hockey Highlights](https://highlightly.net/documentation/hockey/) | Real time hockey highlights | `apiKey` | Unknown |
 | [iSports API](https://isportsapi.com/) | Provide live and historical sports data of global competitions, like live score, fixtures, player & match stats, database etc. | `apiKey` | Yes |
 | [JCDecaux Bike](https://developer.jcdecaux.com/) | JCDecaux's self-service bicycles | `apiKey` | Unknown |
