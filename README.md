@@ -1798,9 +1798,9 @@
 | [HackerOne](https://api.hackerone.com/) | The industry’s first hacker API that helps increase productivity towards creative bug bounty hunting | `apiKey` | Unknown |
 | [HaveIBeenPwned](https://haveibeenpwned.com/API/v3) | Passwords which have previously been exposed in data breaches | `apiKey` | Unknown |
 | [HostDeFi](https://hostdefi.com) | Token-safety grades (A+–F) for Solana and EVM tokens; keyless REST API, 100 checks/day/IP | No | Yes |
-
 | [Intelligence X](https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf) | Perform OSINT via Intelligence X | `apiKey` | Unknown |
 | [IPASIS](https://ipasis.com) | Bot detection and fraud prevention API with IP reputation and email validation | `apiKey` | Yes |
+| [IPScanner](https://ipscanner.io) | IP network class (residential, mobile, hosting, VPN, residential proxy, Tor) with a confidence score, plus AI crawler and bot detection | `apiKey` | Yes |
 | [LeakInsight](https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api/) | Find leaked or exposed credentials by email, username, phone, domain, hash, or breach origin | `apiKey` | Unknown |
 | [LoginRadius](https://www.loginradius.com/docs/) | Managed User Authentication Service | `apiKey` | Yes |
 | [Microsoft Security Response Center (MSRC)](https://msrc.microsoft.com/report/developer) | Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC) | No | Unknown |
