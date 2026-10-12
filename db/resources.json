@@ -1,5 +1,5 @@
 {
-"count": 1856,
+"count": 1857,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1647,6 +1647,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://docs.logokit.com",
+        "Category": "Business"
+    },
+    {
+        "API": "looot",
+        "Description": "One API key and prepaid balance for about 2,500 data endpoints: work emails, phones, company enrichment, Google SERP, web pages",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://looot.ai",
         "Category": "Business"
     },
     {
