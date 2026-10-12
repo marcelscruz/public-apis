@@ -1,5 +1,5 @@
 {
-"count": 1828,
+"count": 1829,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12415,6 +12415,14 @@
         "Auth": "X-Mashape-Key",
         "Cors": "unknown",
         "Link": "https://www.football-data.org",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "HaterPicks",
+        "Description": "Australian sports odds and player props from every major Australian bookmaker, with a free tier",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.haterpicks.app/api",
         "Category": "Sports & Fitness"
     },
     {
