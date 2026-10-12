@@ -340,6 +340,7 @@
 | [ArvanCloud](https://www.arvancloud.ir/en/dev/sdk) | Enables you to use ArvanCloud services | `apiKey` | No |
 | [Charity Search](https://charityapi.orghunter.com/) | Non-profit charity data | `apiKey` | Unknown |
 | [CompanyEnrich](https://companyenrich.com) | API for B2B company data enrichment, domain enrichment, and website enrichment | `apiKey` | Yes |
+| [CompanyStack](https://companystack.co.uk) | UK company data built on the Companies House register: profiles, officers, owners, filings and filed accounts as figures | `apiKey` | No |
 | [Crustdata](https://docs.crustdata.com) | People and company data covering profiles, headcount, funding and contacts | `apiKey` | Yes |
 | [Datacircle](https://datacircle.dev) | One API key and one prepaid balance for B2B data providers: LinkedIn profile enrichment at each provider's own price, no markup | `apiKey` | No |
 | [Derrick](https://derrick-app.com) | B2B contact and company enrichment: verified work emails, mobile numbers, firmographics, technologies in use and hiring signals | `apiKey` | No |
