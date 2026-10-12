@@ -2134,6 +2134,7 @@
 ### Vehicle
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [ANKUSI Wheel Fitment](https://ankusiwheels.com/wheel-fitment-dataset/) | Free JSON/CSV data on bolt pattern, center bore, lug count and OE wheel size for 10,000+ vehicle variants | No | Yes |
 | [Auto.dev](https://docs.auto.dev/v2/cli-mcp-sdk) | Automotive data APIs for VIN decoding, vehicle listings, payments, recalls, and specs | `apiKey` | Unknown |
 | [Brazilian Vehicles and Prices](https://deividfortuna.github.io/fipe/) | Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe | No | No |
 | [CarAPI](https://carapi.app) | The developer friendly vehicle API. Make, model, trims and more via a RESTFul API | `apiKey` | No |
