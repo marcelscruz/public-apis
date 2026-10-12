@@ -1,5 +1,5 @@
 {
-"count": 1826,
+"count": 1827,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -247,6 +247,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://messengerx.rtfd.io",
+        "Category": "AI"
+    },
+    {
+        "API": "Neuronto",
+        "Description": "Free search over MCP servers, A2A agents, skills and APIs across Agentic Resource Discovery registries",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://neuronto.com",
         "Category": "AI"
     },
     {
