@@ -1,5 +1,5 @@
 {
-"count": 1827,
+"count": 1828,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -327,6 +327,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/ai-summarize",
+        "Category": "AI"
+    },
+    {
+        "API": "Suprsonic",
+        "Description": "One API key for AI agents: web search, scraping, company and people data, speech, images and research. 200 free credits, no card needed",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://suprsonic.ai",
         "Category": "AI"
     },
     {
