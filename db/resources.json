@@ -1,5 +1,5 @@
 {
-"count": 1824,
+"count": 1825,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -951,6 +951,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://pro.europeana.eu/resources/apis/search",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "Favicondl",
+        "Description": "Get any website's favicon by URL (SVG/PNG/ICO), with JSON metadata and fallbacks",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://favicondl.com",
         "Category": "Art & Design"
     },
     {
