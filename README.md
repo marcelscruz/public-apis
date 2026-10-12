@@ -1021,6 +1021,7 @@
 | [SEC EDGAR Data](https://www.sec.gov/search-filings/edgar-application-programming-interfaces) | API to access annual reports of public US companies | No | Yes |
 | [Seiche](https://seiche.info) | Free public funding, FX and capital-market evidence with source clocks | No | Yes |
 | [SiftingIO](https://sifting.io/) | Market data for stocks, forex, crypto, commodities and DEX | `apiKey` | Yes |
+| [Silicon Floor](https://siliconfloor.com) | Ownership, insider trades and filed fundamentals of listed AI and semiconductor companies, sourced from SEC and FINRA filings | No | No |
 | [SmartAPI](https://smartapi.angelbroking.com/) | Gain access to set of <SmartAPI> and create end-to-end broking services | `apiKey` | Unknown |
 | [StackerScan](https://www.stackerscan.com) | Live and historical precious-metals spot prices, observed dealer premiums over spot, and the Goldback exchange rate | No | Yes |
 | [Statistics of the World](https://statisticsoftheworld.com/api-docs) | GDP, population, inflation & 440+ indicators for 218 countries | No | Yes |
