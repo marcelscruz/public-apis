@@ -1678,6 +1678,7 @@
 | [Giphy](https://developers.giphy.com/docs/) | Get all your gifs | `apiKey` | Unknown |
 | [Google Photos](https://developers.google.com/photos) | Integrate Google Photos with your apps or devices | `OAuth` | Unknown |
 | [Imgur](https://apidocs.imgur.com/) | Images | `OAuth` | Unknown |
+| [localscreenshot](https://localscreenshot.com) | Screenshot or PDF rendering of any public page, from 227 countries | `apiKey` | Yes |
 | [Lorem Picsum](https://picsum.photos/) | Images from Unsplash | No | Unknown |
 | [ObjectCut](https://objectcut.com/) | Image Background removal | `apiKey` | Yes |
 | [Pexafy](https://docs.pexafy.com) | Semantic image search across 9+ free stock photo sources (Unsplash, Pexels, Pixabay & more), one unified JSON schema, plain-language and reverse image search | `apiKey` | Yes |
