@@ -1,5 +1,5 @@
 {
-"count": 1829,
+"count": 1830,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6311,6 +6311,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://sifting.io/",
+        "Category": "Finance"
+    },
+    {
+        "API": "Silicon Floor",
+        "Description": "Ownership, insider trades and filed fundamentals of listed AI and semiconductor companies, sourced from SEC and FINRA filings",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://siliconfloor.com",
         "Category": "Finance"
     },
     {
