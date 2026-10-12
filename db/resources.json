@@ -1,5 +1,5 @@
 {
-"count": 1825,
+"count": 1826,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5335,6 +5335,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://sendraven.ai",
+        "Category": "Email"
+    },
+    {
+        "API": "SMTP Senpai",
+        "Description": "EU-hosted transactional email API and SMTP relay: DKIM on your domain, signed webhooks, delivery events",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://en.mailsenpai.com/smtp-senpai/",
         "Category": "Email"
     },
     {
