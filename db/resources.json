@@ -1,5 +1,5 @@
 {
-"count": 1817,
+"count": 1818,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7791,6 +7791,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://github.com/IcaliaLabs/sepomex",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "Network Data Labs",
+        "Description": "IP geolocation with ASN, timezone and risk flags",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.networkdatalabs.com/",
         "Category": "Geocoding"
     },
     {
