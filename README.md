@@ -1209,6 +1209,7 @@
 | [IP2Proxy](https://www.ip2location.com/web-service/ip2proxy) | Detect proxy and VPN using IP address | `apiKey` | Unknown |
 | [IP99](https://ip99.com/) | IP geolocation with proxy, VPN and datacenter risk, each verdict carrying the age of the evidence behind it | No | Yes |
 | [ipapi.co](https://ipapi.co/api/#introduction) | Find IP address location information | No | Yes |
+| [ipatlas](https://ipatlas.dev) | IP geolocation for IPv4 and IPv6: country, region, city, timezone and ASN. Works without a key (1,000 requests/day) | No | Yes |
 | [IPGEO](https://api.techniknews.net/ipgeo/) | Unlimited free IP Address API with useful information | No | Unknown |
 | [ipgeolocation](https://ipgeolocation.io/) | IP Geolocation AP with free plan 30k requests per month | `apiKey` | Yes |
 | [IPInfoDB](https://www.ipinfodb.com/api) | Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address | `apiKey` | Unknown |
