@@ -1,5 +1,5 @@
 {
-"count": 1820,
+"count": 1821,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -191,6 +191,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://rapidapi.com/user/inferdo",
+        "Category": "AI"
+    },
+    {
+        "API": "Invokely",
+        "Description": "Query official statistics by place and period through REST or MCP; figures include unit and source citation.",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://invokely.ai",
         "Category": "AI"
     },
     {
