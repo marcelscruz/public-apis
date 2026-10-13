@@ -1,5 +1,5 @@
 {
-"count": 1819,
+"count": 1820,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3263,6 +3263,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://codex-reset.com/llms.txt",
+        "Category": "Development"
+    },
+    {
+        "API": "Cohesivity",
+        "Description": "Headless infra for agents: Postgres, hosting, email, storage, LLMs and third-party APIs through one API, with no signup to start",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://cohesivity.ai",
         "Category": "Development"
     },
     {
