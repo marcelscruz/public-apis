@@ -1751,7 +1751,7 @@
 | [Complete Criminal Checks](https://completecriminalchecks.com/Developers) | Provides data of offenders from all U.S. States and Puerto Rico | `apiKey` | Yes |
 | [CompliAPI](https://compliapi.com) | Sanctions screening: crypto addresses, emails, websites, IDs and countries against OFAC, EU, UK and 10+ lists | `apiKey` | Yes |
 | [Defend Network](https://defend.network) | Free no-auth JSON feed of exploited CVEs with CVSS, EPSS and CISA KEV status | No | Yes |
-| [DomScan](https://domscan.net/docs) | Domain, DNS, WHOIS/RDAP, TLS, email, brand and web intelligence | `apiKey` | Yes |
+| [DomScan](https://domscan.net) | Domain, DNS, WHOIS/RDAP, TLS, email, brand and web intelligence | `apiKey` | Yes |
 | [EmailRep](https://docs.emailrep.io/) | Email address threat and risk prediction | No | Unknown |
 | [Escape](https://github.com/polarspetroll/EscapeAPI) | An API for escaping different kind of queries | No | No |
 | [Fidro](https://fidro.io) | Fraud detection API returning a weighted risk score from VPN, proxy, Tor and datacenter IP detection, email validation and Stripe payment signals | `apiKey` | Yes |
