@@ -1,5 +1,5 @@
 {
-"count": 1818,
+"count": 1819,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3311,6 +3311,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/converter-csv-json",
+        "Category": "Development"
+    },
+    {
+        "API": "CurlShot",
+        "Description": "Screenshot API: any URL, HTML or Markdown to PNG, JPEG, WebP, PDF or scrolling video, with full page, devices, dark mode and ad blocking",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://curlshot.com",
         "Category": "Development"
     },
     {
