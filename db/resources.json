@@ -1,5 +1,5 @@
 {
-"count": 1821,
+"count": 1816,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1570,14 +1570,6 @@
         "Category": "Business"
     },
     {
-        "API": "Indexed",
-        "Description": "Startup funding rounds, investors, and company tech stacks for founders, sales, and GTM engineers",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://indexed.vc",
-        "Category": "Business"
-    },
-    {
         "API": "Instatus",
         "Description": "Post to and update maintenance and incidents on your status page through an HTTP REST API",
         "Auth": "apiKey",
@@ -1695,14 +1687,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.stackscan.com",
-        "Category": "Business"
-    },
-    {
-        "API": "Statable",
-        "Description": "Query cookieless, EU-hosted web analytics: visitors, traffic sources, campaigns, goals and funnels",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://statable.com",
         "Category": "Business"
     },
     {
@@ -7938,14 +7922,6 @@
         "Category": "Geocoding"
     },
     {
-        "API": "SpryTools IP Geolocation",
-        "Description": "Resolve IPv4/IPv6 to country, region, city, ISP, ASN and timezone via MaxMind GeoLite2",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://sprytools.com",
-        "Category": "Geocoding"
-    },
-    {
         "API": "Telize",
         "Description": "Telize offers location information from any IP address",
         "Auth": "apiKey",
@@ -12418,14 +12394,6 @@
         "Category": "Sports & Fitness"
     },
     {
-        "API": "Live Tennis API",
-        "Description": "Live tennis scores, historical results, market odds and AI win-probability for ATP, WTA, Challenger and ITF",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://livetennisapi.com",
-        "Category": "Sports & Fitness"
-    },
-    {
         "API": "Lumify",
         "Description": "Real-time sports intelligence: scores, odds, betting splits & AI bet analysis across 8 sports",
         "Auth": "apiKey",
@@ -12935,14 +12903,6 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://semantria.readme.io/docs",
-        "Category": "Text Analysis"
-    },
-    {
-        "API": "SpryTools AI Text Analysis",
-        "Description": "Sentiment, summarization, NER, zero-shot classification and keyword extraction via Gemini",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://sprytools.com/apis/ai/",
         "Category": "Text Analysis"
     },
     {
