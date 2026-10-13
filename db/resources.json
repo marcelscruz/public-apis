@@ -1,5 +1,5 @@
 {
-"count": 1820,
+"count": 1821,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13791,6 +13791,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://anapioficeandfire.com/",
+        "Category": "Video"
+    },
+    {
+        "API": "Arcmira",
+        "Description": "Search YouTube transcripts for timestamped quotes and speaker appearances",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://arcmira.com",
         "Category": "Video"
     },
     {
