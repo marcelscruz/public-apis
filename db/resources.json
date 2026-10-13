@@ -1,5 +1,5 @@
 {
-"count": 1858,
+"count": 1859,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7119,6 +7119,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://jokes.one/api/joke/",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "L2 Calendar",
+        "Description": "Lineage 2 private servers list with names, websites, chronicles, rates and opening dates",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://l2calendar.com/api/servers",
         "Category": "Games & Comics"
     },
     {
