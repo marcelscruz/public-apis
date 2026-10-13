@@ -1286,7 +1286,7 @@
         "Description": "Liquidity pool scores and Enter/Hold/Exit verdicts for Solana and EVM chains",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://wealthville.net/developers",
+        "Link": "https://wealthville.net",
         "Category": "Blockchain"
     },
     {
@@ -1574,7 +1574,7 @@
         "Description": "Startup funding rounds, investors, and company tech stacks for founders, sales, and GTM engineers",
         "Auth": "apiKey",
         "Cors": "no",
-        "Link": "https://indexed.vc/docs/api",
+        "Link": "https://indexed.vc",
         "Category": "Business"
     },
     {
