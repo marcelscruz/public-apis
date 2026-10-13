@@ -344,7 +344,6 @@
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | `OAuth` | Unknown |
 | [Gmail](https://developers.google.com/gmail/api/) | Flexible, RESTful access to the user's inbox | `OAuth` | Unknown |
 | [Google Analytics](https://developers.google.com/analytics/) | Collect, configure and analyze your data to reach the right audience | `OAuth` | Unknown |
-| [Indexed](https://indexed.vc) | Startup funding rounds, investors, and company tech stacks for founders, sales, and GTM engineers | `apiKey` | No |
 | [Instatus](https://instatus.com/help/api) | Post to and update maintenance and incidents on your status page through an HTTP REST API | `apiKey` | Unknown |
 | [Listings API](https://listingsapi.com) | Manage business locations, sync listings across publishers, respond to reviews, publish posts, and pull local search analytics | `apiKey` | Unknown |
 | [Logo.dev](https://www.logo.dev) | Automated company logo API that updates daily. Transform any domain or company name into verified logos. | `apiKey` | Yes |
@@ -360,7 +359,6 @@
 | [Smartsheet](https://smartsheet.redoc.ly/) | Allows you to programmatically access and Smartsheet data and account information | `OAuth` | No |
 | [Square](https://developer.squareup.com/reference/square) | Easy way to take payments, manage refunds, and help customers checkout online | `OAuth` | Unknown |
 | [StackScan](https://www.stackscan.com) | Technology stack of any website, and every site running a given technology, across 399M+ sites | `apiKey` | Yes |
-| [Statable](https://statable.com) | Query cookieless, EU-hosted web analytics: visitors, traffic sources, campaigns, goals and funnels | `apiKey` | No |
 | [SwiftKanban](https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi) | Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity | `apiKey` | Unknown |
 | [Tomba email finder](https://tomba.io/api) | Email Finder for B2B sales and email marketing and email verifier | `apiKey` | Yes |
 | [ToolCompare](https://toolcompare.net/data) | Software pricing for 512 tools with the source URL and the date each price was read | No | Yes |
@@ -1242,7 +1240,6 @@
 | [REST Countries](https://restcountries.com) | Get information about countries via a RESTful API | No | Yes |
 | [Rwanda Locations](https://rapidapi.com/victorkarangwa4/api/rwanda) | Rwanda Provinces, Districts, Cities, Capital City, Sector, cells, villages and streets | No | Unknown |
 | [SLF](https://github.com/slftool/slftool.github.io/blob/master/API.md) | German city, country, river, database | No | Yes |
-| [SpryTools IP Geolocation](https://sprytools.com) | Resolve IPv4/IPv6 to country, region, city, ISP, ASN and timezone via MaxMind GeoLite2 | `apiKey` | Unknown |
 | [Telize](https://rapidapi.com/fcambus/api/telize/) | Telize offers location information from any IP address | `apiKey` | Yes |
 | [The IP API](https://theipapi.com) | IP to Location API, with data about country, region, city etc, with free plan allowing 1000 req/day | `apiKey` | Unknown |
 | [Timezones Dictionary API](https://apyhub.com/utility/data-lists-timezone) | This API returns a list of all available timezones for your application | `apiKey` | Yes |
@@ -1910,7 +1907,6 @@
 | [iSports API](https://isportsapi.com/) | Provide live and historical sports data of global competitions, like live score, fixtures, player & match stats, database etc. | `apiKey` | Yes |
 | [JCDecaux Bike](https://developer.jcdecaux.com/) | JCDecaux's self-service bicycles | `apiKey` | Unknown |
 | [KashRock](https://www.kashrock.com) | Esports data: player props, odds, live scores, and player stats across CS2, Valorant, LoL, Dota 2, CoD, R6, Mobile Legends, and Apex Legends | `apiKey` | No |
-| [Live Tennis API](https://livetennisapi.com) | Live tennis scores, historical results, market odds and AI win-probability for ATP, WTA, Challenger and ITF | `apiKey` | Yes |
 | [Lumify](https://lumify.ai) | Real-time sports intelligence: scores, odds, betting splits & AI bet analysis across 8 sports | `apiKey` | No |
 | [MLB Records and Stats](https://appac.github.io/mlb-data-api-docs/) | Current and historical MLB statistics | No | Unknown |
 | [NBA Data](https://rapidapi.com/api-sports/api/api-nba/) | All NBA Stats DATA, Games, Livescore, Standings, Statistics | `apiKey` | Unknown |
@@ -1987,7 +1983,6 @@
 | [Proofread and Grammar Check API](https://apyhub.com/utility/sharpapi-proofread-grammar-check) | The Proofreading and Grammar Check API ensures the provided text is grammatically correct and polished by automatically proofreading and checking for errors | `apiKey` | Yes |
 | [Safe text](https://rapidapi.com/bacloud14/api/safe-text) | Clean short and long texts. It is probably world most complete text-cleaner API! Providing very fast and accurate results. | `apiKey` | Yes |
 | [Semantria](https://semantria.readme.io/docs) | Text Analytics with sentiment analysis, categorization & named entity extraction | `OAuth` | Unknown |
-| [SpryTools AI Text Analysis](https://sprytools.com/apis/ai/) | Sentiment, summarization, NER, zero-shot classification and keyword extraction via Gemini | `apiKey` | Unknown |
 | [Tisane](https://tisane.ai/) | Text Analytics with focus on detection of abusive content and law enforcement applications | `OAuth` | Yes |
 | [Watson Natural Language Understanding](https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding) | Natural language processing for advanced text analysis | `OAuth` | Unknown |
 
