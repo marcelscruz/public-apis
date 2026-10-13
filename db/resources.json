@@ -1,5 +1,5 @@
 {
-"count": 1815,
+"count": 1816,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12407,6 +12407,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://appac.github.io/mlb-data-api-docs/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "MoviOdds",
+        "Description": "Free real-time bet365 soccer odds: every market bet365 prices, pre-match and in-play, over REST and WebSocket, plus Bet Builder pricing",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://moviodds.com",
         "Category": "Sports & Fitness"
     },
     {
