@@ -14030,7 +14030,7 @@
         "Description": "Serverless FFmpeg in the cloud for video and audio transcoding, trimming and conversion",
         "Auth": "apiKey",
         "Cors": "no",
-        "Link": "https://rendobar.com/docs",
+        "Link": "https://rendobar.com",
         "Category": "Video"
     },
     {
