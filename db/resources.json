@@ -11294,7 +11294,7 @@
         "Description": "Domain, DNS, WHOIS/RDAP, TLS, email, brand and web intelligence",
         "Auth": "apiKey",
         "Cors": "yes",
-        "Link": "https://domscan.net/docs",
+        "Link": "https://domscan.net",
         "Category": "Security"
     },
     {
