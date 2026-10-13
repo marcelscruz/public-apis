@@ -1,5 +1,5 @@
 {
-"count": 1816,
+"count": 1817,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3847,6 +3847,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://networkcalc.com/api/docs",
+        "Category": "Development"
+    },
+    {
+        "API": "NoneCap",
+        "Description": "hCaptcha solver API: submit a sitekey and page URL, get back a valid hCaptcha token. Supports regular, invisible and enterprise sitekeys",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://nonecap.com",
         "Category": "Development"
     },
     {
