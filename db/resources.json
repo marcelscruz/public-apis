@@ -1,5 +1,5 @@
 {
-"count": 1819,
+"count": 1820,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5103,6 +5103,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://improvmx.com/api",
+        "Category": "Email"
+    },
+    {
+        "API": "inboxsink",
+        "Description": "Disposable inboxes for end-to-end tests that wait for the email and extract OTP codes and links",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://inboxsink.com",
         "Category": "Email"
     },
     {
