@@ -7934,7 +7934,7 @@
         "Description": "Resolve IPv4/IPv6 to country, region, city, ISP, ASN and timezone via MaxMind GeoLite2",
         "Auth": "apiKey",
         "Cors": "unknown",
-        "Link": "https://sprytools.com/apis/geo/",
+        "Link": "https://sprytools.com",
         "Category": "Geocoding"
     },
     {
@@ -12414,7 +12414,7 @@
         "Description": "Live tennis scores, historical results, market odds and AI win-probability for ATP, WTA, Challenger and ITF",
         "Auth": "apiKey",
         "Cors": "yes",
-        "Link": "https://docs.livetennisapi.com",
+        "Link": "https://livetennisapi.com",
         "Category": "Sports & Fitness"
     },
     {
