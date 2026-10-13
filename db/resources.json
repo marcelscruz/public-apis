@@ -1,5 +1,5 @@
 {
-"count": 1821,
+"count": 1822,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11935,6 +11935,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://mukeshsolanki.gitbook.io/hashtag-api/",
+        "Category": "Social"
+    },
+    {
+        "API": "HeyReagent",
+        "Description": "Independent API for your own LinkedIn account: read your inbox, send messages and invitations, search people, and work with posts, over REST or MCP",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://heyreagent.com",
         "Category": "Social"
     },
     {
