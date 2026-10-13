@@ -604,6 +604,7 @@
 | [Corsfix](https://corsfix.com/docs/cors-proxy/api) | Corsfix lets you fetch any resource and bypass CORS errors, free for development environment | No | Yes |
 | [CrustAPI](https://crustapi.com) | Live public Google and LinkedIn data as clean JSON | `apiKey` | Yes |
 | [CSV to JSON API](https://apyhub.com/utility/converter-csv-json) | Convert CSV files to JSON with this API. Ideal for developers who want to automate data workflows and integrate structured data | `apiKey` | Yes |
+| [CurlShot](https://curlshot.com) | Screenshot API: any URL, HTML or Markdown to PNG, JPEG, WebP, PDF or scrolling video, with full page, devices, dark mode and ad blocking | `apiKey` | Yes |
 | [Databricks](https://docs.databricks.com/dev-tools/api/latest/index.html) | Service to manage your databricks account,clusters, notebooks, jobs and workspaces | `apiKey` | Yes |
 | [DATPAQ](https://datpaq.com) | Developer-first APIs. Enterprise-ready infrastructure. Sampla data, avatars, image processing and a lot more. | `apiKey` | Yes |
 | [DigitalOcean Status](https://status.digitalocean.com/api) | Status of all DigitalOcean services | No | Unknown |
