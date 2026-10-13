@@ -1,5 +1,5 @@
 {
-"count": 1822,
+"count": 1823,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7703,6 +7703,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://ipapi.co/api/#introduction",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "ipapi.is",
+        "Description": "IP geolocation, ASN and company data with VPN, proxy, Tor and datacenter detection",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://ipapi.is",
         "Category": "Geocoding"
     },
     {
