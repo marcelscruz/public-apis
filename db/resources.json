@@ -1,5 +1,5 @@
 {
-"count": 1857,
+"count": 1858,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12327,6 +12327,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://rumoro.dev",
+        "Category": "Social"
+    },
+    {
+        "API": "ShapelessAI",
+        "Description": "Schedule and publish posts to LinkedIn, X, Instagram, TikTok, YouTube, Facebook, Threads and Bluesky, plus AI images and video",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://shapelessai.com",
         "Category": "Social"
     },
     {
