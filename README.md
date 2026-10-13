@@ -791,7 +791,7 @@
 | [Api2Convert](https://www.api2convert.com/) | Online File Conversion API | `apiKey` | Unknown |
 | [Asana](https://developers.asana.com/docs) | Programmatic access to all data in your asana system | `apiKey` | Yes |
 | [ClickUp](https://clickup.com/api) | ClickUp is a robust, cloud-based project management tool for boosting productivity | `OAuth` | Unknown |
-| [Clipform](https://clipform.io/docs) | Create and manage interactive video-style forms, quizzes, and surveys | `apiKey` | No |
+| [Clipform](https://clipform.io) | Create and manage interactive video-style forms, quizzes, and surveys | `apiKey` | No |
 | [Clockify](https://clockify.me/developers-api) | Clockify's REST-based API can be used to push/pull data to/from it & integrate it with other systems | `apiKey` | Unknown |
 | [CloudConvert](https://cloudconvert.com/api/v2) | Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation | `apiKey` | Unknown |
 | [Cloudmersive Document and Data Conversion](https://cloudmersive.com/convert-api) | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | `apiKey` | Yes |
