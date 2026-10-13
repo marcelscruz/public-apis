@@ -4718,7 +4718,7 @@
         "Description": "Create and manage interactive video-style forms, quizzes, and surveys",
         "Auth": "apiKey",
         "Cors": "no",
-        "Link": "https://clipform.io/docs",
+        "Link": "https://clipform.io",
         "Category": "Documents & Productivity"
     },
     {
@@ -5518,7 +5518,7 @@
         "Description": "Live Disney and Universal theme park wait times, ride reliability, crowds, and Lightning Lane prices",
         "Auth": "",
         "Cors": "no",
-        "Link": "https://ropedropnews.com/developers",
+        "Link": "https://ropedropnews.com",
         "Category": "Entertainment"
     },
     {
@@ -12150,7 +12150,7 @@
         "Description": "Instagram feed posts as JSON, GraphQL or RSS with automatic token refresh",
         "Auth": "apiKey",
         "Cors": "yes",
-        "Link": "https://feedframer.com/docs",
+        "Link": "https://feedframer.com",
         "Category": "Social"
     },
     {
