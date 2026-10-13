@@ -1870,7 +1870,7 @@
 | [Discord](https://discord.com/developers/docs/intro) | Make bots for Discord, integrate Discord onto an external platform | `OAuth` | Unknown |
 | [Disqus](https://disqus.com/api/docs/auth/) | Communicate with Disqus data | `OAuth` | Unknown |
 | [Facebook](https://developers.facebook.com/) | Facebook Login, Share on FB, Social Plugins, Analytics and more | `OAuth` | Unknown |
-| [Feedframer](https://feedframer.com/docs) | Instagram feed posts as JSON, GraphQL or RSS with automatic token refresh | `apiKey` | Yes |
+| [Feedframer](https://feedframer.com) | Instagram feed posts as JSON, GraphQL or RSS with automatic token refresh | `apiKey` | Yes |
 | [Foursquare](https://developer.foursquare.com/) | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) | `OAuth` | Unknown |
 | [Full Contact](https://docs.fullcontact.com/) | Get Social Media profiles and contact Information | `OAuth` | Unknown |
 | [GetXAPI](https://getxapi.com) | Twitter scraping and posting — 44 endpoints from $0.001 per call | `apiKey` | No |
