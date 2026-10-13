@@ -2153,7 +2153,7 @@
 | [Mux](https://www.mux.com/) | Mux Video is an API that enables developers to build unique live and on-demand video experiences | `apiKey` | Unknown |
 | [Open Movie Database](https://www.omdbapi.com/) | Movie information | `apiKey` | Unknown |
 | [Rendi](https://rendi.dev) | FFmpeg API | `apiKey` | No |
-| [Rendobar](https://rendobar.com/docs) | Serverless FFmpeg in the cloud for video and audio transcoding, trimming and conversion | `apiKey` | No |
+| [Rendobar](https://rendobar.com) | Serverless FFmpeg in the cloud for video and audio transcoding, trimming and conversion | `apiKey` | No |
 | [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television | No | Unknown |
 | [Rules of Acquisition](https://rulesofacquisition.herokuapp.com/) | Ferengi Rules of Acquisition from Star Trek with episode references | No | Unknown |
 | [Shoof Aflam](https://shoofaflam.tv/api-docs/) | Arabic streaming guide — search 14,000+ movies/series, platform availability across 18 services | No | Yes |
