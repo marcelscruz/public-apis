@@ -1,5 +1,5 @@
 {
-"count": 1823,
+"count": 1824,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9855,6 +9855,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://argentinadatos.com/",
+        "Category": "Open Data"
+    },
+    {
+        "API": "baseray",
+        "Description": "Building data: address, use, size, height, age, roof, solar panels and registered businesses",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://baseray.ai",
         "Category": "Open Data"
     },
     {
