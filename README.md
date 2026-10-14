@@ -1518,6 +1518,7 @@
 |---|---|---|---|
 | [Archive.org](https://archive.readme.io/docs) | The Internet Archive | No | No |
 | [ArgentinaDatos](https://argentinadatos.com/) | Unofficial Argentinian data API | No | Yes |
+| [baseray](https://baseray.ai) | Building data: address, use, size, height, age, roof, solar panels and registered businesses | `apiKey` | Yes |
 | [Black History Facts](https://www.blackhistoryapi.io/docs) | Contribute or search one of the largest black history fact databases on the web | `apiKey` | Yes |
 | [BotsArchive](https://botsarchive.com/docs.html) | JSON formatted details about Telegram Bots available in database | No | Unknown |
 | [Callook.info](https://callook.info) | United States ham radio callsigns | No | Unknown |
