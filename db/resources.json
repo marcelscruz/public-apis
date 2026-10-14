@@ -2243,8 +2243,8 @@
     },
     {
         "API": "ByKaranteli",
-        "Description": "Cross-exchange crypto derivatives data: funding rates, open interest, liquidation maps, options flow, ETF flows and Fear & Greed. JSON and CSV, no key",
-        "Auth": "",
+        "Description": "Cross-exchange crypto derivatives data: funding rates, open interest, liquidation maps, options flow, ETF flows and Fear & Greed. JSON and CSV, free key with a verified account",
+        "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://bykaranteli.com",
         "Category": "Cryptocurrency"
@@ -10019,7 +10019,7 @@
     },
     {
         "API": "Microburbs",
-        "Description": "Australian property and suburb data: valuations, sale and rent history, comparables, schools, demographics, crime, risk overlays, zoning and development",
+        "Description": "Australian property data at street and mesh-block level: street price forecasts, crime below the suburb, sales, rents, schools, zoning and hazard risk",
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://www.microburbs.com.au/api-access",
@@ -12380,7 +12380,7 @@
     {
         "API": "Football Charts",
         "Description": "Results, standings, fixtures, goal timing and model probabilities for 93 football leagues",
-        "Auth": "apiKey",
+        "Auth": "",
         "Cors": "yes",
         "Link": "https://www.football-charts.com/developers",
         "Category": "Sports & Fitness"
