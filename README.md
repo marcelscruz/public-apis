@@ -1002,6 +1002,7 @@
 | [Real Time Finance](https://github.com/Real-time-finance/finance-websocket-API/) | Websocket API to access realtime stock data | `apiKey` | Unknown |
 | [Realie Property Data API](https://www.realie.ai/real-estate-data-api) | Realie's property data is directly sourced from local municipalities and contains over 100 data fields. Realie covers the entire USA with 180 million parcels. | `apiKey` | No |
 | [RentCast](https://developers.rentcast.io) | Retrieve real-time property and rental data for real estate in the United States | `apiKey` | Yes |
+| [Roic AI](https://www.roic.ai/) | Fundamentals, financial ratios and earnings call transcripts for 68k+ companies | `apiKey` | Unknown |
 | [Salary API](https://jobicy.com/salary-api) | The REST API returns structured JSON responses containing salary ranges, hourly rates, compensation benchmarks, required skills, market demand, and regional employment insights | `apiKey` | Yes |
 | [SEC EDGAR Data](https://www.sec.gov/search-filings/edgar-application-programming-interfaces) | API to access annual reports of public US companies | No | Yes |
 | [Seiche](https://seiche.info) | Free public funding, FX and capital-market evidence with source clocks | No | Yes |
