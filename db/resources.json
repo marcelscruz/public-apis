@@ -1,5 +1,5 @@
 {
-"count": 1822,
+"count": 1823,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1767,6 +1767,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://calendarific.com/",
+        "Category": "Calendar"
+    },
+    {
+        "API": "CountdownsHQ",
+        "Description": "Dates and timezone-correct live countdowns for 150+ holidays and observances in 18 countries",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://countdownshq.com",
         "Category": "Calendar"
     },
     {
