@@ -1,5 +1,5 @@
 {
-"count": 1824,
+"count": 1825,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6159,6 +6159,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://developers.rentcast.io",
+        "Category": "Finance"
+    },
+    {
+        "API": "Roic AI",
+        "Description": "Fundamentals, financial ratios and earnings call transcripts for 68k+ companies",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://www.roic.ai/",
         "Category": "Finance"
     },
     {
