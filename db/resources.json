@@ -1,5 +1,5 @@
 {
-"count": 1825,
+"count": 1826,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12519,6 +12519,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://oddsmagnet.com/oddsdata",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "OddsRelay",
+        "Description": "Pre-match odds from UK and Irish bookmakers, bet365 included, with Betfair, Smarkets, Matchbook and BETDAQ lay prices",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://oddsrelay.io",
         "Category": "Sports & Fitness"
     },
     {
