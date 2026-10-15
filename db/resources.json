@@ -1,5 +1,5 @@
 {
-"count": 1825,
+"count": 1826,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9255,6 +9255,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.juju.com/publisher/spec/",
+        "Category": "Jobs"
+    },
+    {
+        "API": "Openpath",
+        "Description": "Live jobs from employers' own job boards in Austin, TX and remote, with pay and Apply links",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://openpath.sh",
         "Category": "Jobs"
     },
     {
