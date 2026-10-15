@@ -1,5 +1,5 @@
 {
-"count": 1826,
+"count": 1825,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4495,14 +4495,6 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://dictionaryapi.dev/",
-        "Category": "Dictionaries"
-    },
-    {
-        "API": "Lingua Robot",
-        "Description": "Word definitions, pronunciations, synonyms, antonyms and others",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://www.linguarobot.io",
         "Category": "Dictionaries"
     },
     {
