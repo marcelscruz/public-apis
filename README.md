@@ -1425,6 +1425,7 @@
 | [JobYap](https://jobyap.com/agents) | Job postings aggregated from companies' careers sites, with community discussion threads | No | Yes |
 | [Jooble](https://jooble.org/api/about) | Job search engine | `apiKey` | Unknown |
 | [Juju](https://www.juju.com/publisher/spec/) | Job search engine | `apiKey` | Unknown |
+| [Openpath](https://openpath.sh) | Live jobs from employers' own job boards in Austin, TX and remote, with pay and Apply links | `apiKey` | No |
 | [Parlel](https://parlel.com/search.md) | Open jobs, hiring companies and public profiles from an AI-native professional network | No | Yes |
 | [Reed](https://www.reed.co.uk/developers) | Job board aggregator | `apiKey` | Unknown |
 | [Reqbeat](https://reqbeat.com) | Hiring signals: search job postings by role and geo, subscribe to companies, and receive new reqs via webhook | `apiKey` | Unknown |
