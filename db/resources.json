@@ -1,5 +1,5 @@
 {
-"count": 1827,
+"count": 1828,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2255,6 +2255,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://bykaranteli.com",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "Chord",
+        "Description": "DEX aggregator API with best-route quotes split across DEXs and unsigned swap transactions on Base, Arbitrum, BNB Chain, Avalanche, Monad and more",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://getchord.xyz",
         "Category": "Cryptocurrency"
     },
     {
