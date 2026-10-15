@@ -1,5 +1,5 @@
 {
-"count": 1826,
+"count": 1827,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1247,6 +1247,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.layer4.app/api-docs",
+        "Category": "Blockchain"
+    },
+    {
+        "API": "MoltNode",
+        "Description": "Free JSON-RPC gateway for 31 blockchains, including Ethereum, Base, Arbitrum, Solana and Sui, with one URL per chain and no sign-up",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://moltnode.ag",
         "Category": "Blockchain"
     },
     {
