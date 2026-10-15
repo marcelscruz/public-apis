@@ -12531,10 +12531,10 @@
     },
     {
         "API": "Parlay",
-        "Description": "Real-time sports betting odds from 21+ sportsbooks across 38+ sports with free tier (1K req/month)",
+        "Description": "Sports odds and player props with your own key, free monthly credits and paid plans; coverage varies by sport, bookmaker, market and date",
         "Auth": "apiKey",
         "Cors": "no",
-        "Link": "https://parlay-api.com/docs",
+        "Link": "https://parlay-api.com",
         "Category": "Sports & Fitness"
     },
     {
