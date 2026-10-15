@@ -1,5 +1,5 @@
 {
-"count": 1825,
+"count": 1826,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12039,6 +12039,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://docs.microsoft.com/en-us/graph/api/overview",
+        "Category": "Social"
+    },
+    {
+        "API": "Multi Upload Tool",
+        "Description": "Schedule and publish videos to TikTok, YouTube Shorts, Instagram, Facebook, LinkedIn, Pinterest, Bluesky, Threads and X with one API key and SDKs",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://multi-upload-tool.com",
         "Category": "Social"
     },
     {
