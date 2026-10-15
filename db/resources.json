@@ -1,5 +1,5 @@
 {
-"count": 1826,
+"count": 1825,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12535,14 +12535,6 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://www.openligadb.de",
-        "Category": "Sports & Fitness"
-    },
-    {
-        "API": "Parlay",
-        "Description": "Sports odds and player props with your own key, free monthly credits and paid plans; coverage varies by sport, bookmaker, market and date",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://parlay-api.com",
         "Category": "Sports & Fitness"
     },
     {
