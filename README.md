@@ -1614,6 +1614,7 @@
 | [kanye.rest](https://kanye.rest) | REST API for random Kanye West quotes | No | Yes |
 | [kimiquotes](https://kimiquotes.pages.dev/docs) | Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen | No | Yes |
 | [Medium](https://github.com/Medium/medium-api-docs) | Community of readers and writers offering unique perspectives on ideas | `OAuth` | Unknown |
+| [NatalChart](https://www.natalchart.ai/astrology-api) | Swiss Ephemeris astrology as JSON: natal charts, transits, synastry, solar returns, best days and city rankings, with a free tier of 10 requests a day | `apiKey` | Yes |
 | [Quoterism](https://www.quoterism.com/developer) | The Web's Largest Collection of Human Inspiration | No | Unknown |
 | [Quotes on Design](https://quotesondesign.com/api/) | Inspirational Quotes | No | Unknown |
 | [Sentino Personality API](https://sentino.org/api/) | AI-powered personality profiling and psychology analysis using NLP and Big 5, NEO, HEXACO, DISC inventories | `apiKey` | No |
