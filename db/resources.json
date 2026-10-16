@@ -1,5 +1,5 @@
 {
-"count": 1828,
+"count": 1829,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3935,6 +3935,14 @@
         "Auth": "X-Mashape-Key",
         "Cors": "unknown",
         "Link": "https://hub.openapihub.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "Openhook",
+        "Description": "Capture HTTP, email and DNS callbacks in private inboxes for integration testing, with REST access and cursor-based waiting",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://openhook.dev",
         "Category": "Development"
     },
     {
