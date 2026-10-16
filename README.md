@@ -141,6 +141,7 @@
 | [Spam Hunter](https://spam-hunter.ru/) | Free service to classify text as spam using ML | `apiKey` | Yes |
 | [Summarize Text with AI](https://apyhub.com/utility/ai-summarize) | This API generates customizable summaries of text and web pages using AI | `apiKey` | Yes |
 | [Suprsonic](https://suprsonic.ai) | One API key for AI agents: web search, scraping, company and people data, speech, images and research. 200 free credits, no card needed | `apiKey` | No |
+| [Synap](https://synap.linkrra.com) | OpenAI-compatible API for open-weight models: chat completions, streaming, tool calling and JSON-schema output, billed per token | `apiKey` | No |
 | [TranscriptFetch](https://transcriptfetch.com) | The transcript API for social media video. Get transcripts at scale from YouTube, TikTok or Instagram. | `apiKey` | Yes |
 | [TranslateMyImage](https://translatemyimage.com) | Translate the text inside JPG, PNG or WEBP images into 9 languages and get the translated image back | `apiKey` | No |
 | [UnoRouter](https://unorouter.com) | OpenAI-compatible gateway routing chat/completions across 500+ models with a free tier | `apiKey` | Yes |
