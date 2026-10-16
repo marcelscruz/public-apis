@@ -1002,6 +1002,7 @@
 | [Polygon](https://polygon.io/) | Historical stock market data | `apiKey` | Unknown |
 | [Polymarket](https://docs.polymarket.com) | Prediction market data including markets, prices, and order book | `apiKey` | Yes |
 | [Portfolio Optimizer](https://portfoliooptimizer.io/) | Portfolio analysis and optimization | No | Yes |
+| [Raspberry Trades](https://raspberrytrades.com) | US stock breakout setups, X and news sentiment, SEC insider trades, financials and guidance. Free plan: 1,000 requests/month | `apiKey` | No |
 | [Razorpay IFSC](https://razorpay.com/docs/) | Indian Financial Systems Code (Bank Branch Codes) | No | Unknown |
 | [Real Time Finance](https://github.com/Real-time-finance/finance-websocket-API/) | Websocket API to access realtime stock data | `apiKey` | Unknown |
 | [Realie Property Data API](https://www.realie.ai/real-estate-data-api) | Realie's property data is directly sourced from local municipalities and contains over 100 data fields. Realie covers the entire USA with 180 million parcels. | `apiKey` | No |
