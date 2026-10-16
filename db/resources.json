@@ -1,5 +1,5 @@
 {
-"count": 1832,
+"count": 1833,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11559,6 +11559,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog",
+        "Category": "Security"
+    },
+    {
+        "API": "NetAPI",
+        "Description": "Domain data API: compromised domain/IP checks, TLD stats, Top 1M ranks, new-domain search and domain lists for 1,500+ TLDs",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://netapi.com/",
         "Category": "Security"
     },
     {
