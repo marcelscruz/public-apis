@@ -292,6 +292,7 @@
 | [Etherscan](https://etherscan.io/apis) | Ethereum explorer API | `apiKey` | Yes |
 | [GetBlock](https://getblock.io/) | Blockchain RPC Node provider that supports over 50 multiple blockchains | `apiKey` | Unknown |
 | [Layer4](https://www.layer4.app/api-docs) | Layer4 is a blockchain integration platform that supports no-code and API use | `apiKey` | Yes |
+| [MoltNode](https://moltnode.ag) | Free JSON-RPC gateway for 31 blockchains, including Ethereum, Base, Arbitrum, Solana and Sui, with one URL per chain and no sign-up | No | Yes |
 | [Nownodes](https://nownodes.io/) | Blockchain-as-a-service solution that provides high-quality connection via API | `apiKey` | Unknown |
 | [Steem](https://developers.steem.io/) | Blockchain-based blogging and social media website | No | No |
 | [The Graph](https://thegraph.com) | Indexing protocol for querying networks like Ethereum with GraphQL | `apiKey` | Unknown |
@@ -454,6 +455,7 @@
 | [BtcTurk](https://docs.btcturk.com/) | Real-time cryptocurrency data, graphs and API that allows buy&sell | `apiKey` | Yes |
 | [Bybit](https://bybit-exchange.github.io/docs) | Cryptocurrency data feed and algorithmic trading | `apiKey` | Unknown |
 | [ByKaranteli](https://bykaranteli.com) | Cross-exchange crypto derivatives data: funding rates, open interest, liquidation maps, options flow, ETF flows and Fear & Greed. JSON and CSV, free key with a verified account | `apiKey` | Yes |
+| [Chord](https://getchord.xyz) | DEX aggregator API with best-route quotes split across DEXs and unsigned swap transactions on Base, Arbitrum, BNB Chain, Avalanche, Monad and more | No | Yes |
 | [Codex Data](https://www.codex.io) | Real-time and historical token prices, charts and wallet data across 80+ blockchain networks | `apiKey` | Yes |
 | [CoinAPI](https://docs.coinapi.io/) | All Currency Exchanges integrate under a single api | `apiKey` | No |
 | [Coinbase](https://developers.coinbase.com) | Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices | `apiKey` | Unknown |
@@ -614,7 +616,7 @@
 | [Docker Hub](https://docs.docker.com/docker-hub/api/latest/) | Interact with Docker Hub | `apiKey` | Yes |
 | [DomainDb Info](https://api.domainsdb.info/) | Domain name search to find all domains containing particular words/phrases/etc | No | Unknown |
 | [DownStatus](https://isitdownstatus.com) | Real-time status for GitHub, AWS, Discord and 90+ services | No | Yes |
-| [EveryInfra](https://everyinfra.com) | Structured public data, web research, CAPTCHA solving, and source-bound data cleanup | `apiKey` | No |
+| [EveryInfra](https://everyinfra.com) | Structured data from 90 platforms (RedNote, Douyin, TikTok, Amazon and more), web search and CAPTCHA solving via REST or MCP | `apiKey` | No |
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | A simple JSON store API | No | Yes |
 | [FluentEDI](https://fluentedi.com) | Deterministic tools for AI agents: X12 EDI, check digits, time, cron, JSON repair | No | Yes |
 | [Form Creation API](https://apyhub.com/utility/reformify-form-api) | Create and manage customizable forms within your applications | `apiKey` | Yes |
@@ -665,7 +667,7 @@
 | [JSONsilo.com](https://jsonsilo.com) | Hassle-free JSON hosting. Convert your JSON file to an API in minutes at no cost. | `apiKey` | Yes |
 | [Kroki](https://kroki.io) | Creates diagrams from textual descriptions | No | Yes |
 | [MAC address vendor lookup](https://macaddress.io/api) | Retrieve vendor details and other information regarding a given MAC address or an OUI | `apiKey` | Yes |
-| [Magento Watch](https://magento.watch) | Release dates, end-of-life dates and system requirements for Magento Open Source, Adobe Commerce and Mage-OS versions | No | Yes |
+| [Magento Watch](https://magento.watch) | Release dates, end-of-life dates, system requirements, security bulletins and patches for Magento Open Source, Adobe Commerce and Mage-OS versions | No | Yes |
 | [Markdown to HTML API](https://apyhub.com/utility/converter-md-html) | This API lets you upload and transform a Markdown file to HTML | `apiKey` | Yes |
 | [Markdown to JSON API](https://apyhub.com/utility/converter-markdown-json) | Upload Markdown and get JSON with one API call | `apiKey` | Yes |
 | [MetaScrape](https://metascrape.shanecode.org) | Extract metadata, Open Graph tags, and structured data from any URL | `apiKey` | Yes |
@@ -759,7 +761,6 @@
 | [Chinese Text Project](https://ctext.org/tools/api) | Online open-access digital library for pre-modern Chinese texts | No | Unknown |
 | [Collins](https://api.collinsdictionary.com/api/v1/documentation/html/) | Bilingual Dictionary and Thesaurus Data | `apiKey` | Unknown |
 | [Free Dictionary](https://dictionaryapi.dev/) | Definitions, phonetics, pronounciations, parts of speech, examples, synonyms | No | Unknown |
-| [Lingua Robot](https://www.linguarobot.io) | Word definitions, pronunciations, synonyms, antonyms and others | `apiKey` | Yes |
 | [Merriam-Webster](https://dictionaryapi.com/) | Dictionary and Thesaurus Data | `apiKey` | Unknown |
 | [Oxford](https://developer.oxforddictionaries.com/) | Dictionary Data | `apiKey` | No |
 | [Synonyms](https://www.synonyms.com/synonyms_api.php) | Synonyms, thesaurus and antonyms information for any given word | `apiKey` | Unknown |
@@ -1427,6 +1428,7 @@
 | [JobYap](https://jobyap.com/agents) | Job postings aggregated from companies' careers sites, with community discussion threads | No | Yes |
 | [Jooble](https://jooble.org/api/about) | Job search engine | `apiKey` | Unknown |
 | [Juju](https://www.juju.com/publisher/spec/) | Job search engine | `apiKey` | Unknown |
+| [Openpath](https://openpath.sh) | Live jobs from employers' own job boards in Austin, TX and remote, with pay and Apply links | `apiKey` | No |
 | [Parlel](https://parlel.com/search.md) | Open jobs, hiring companies and public profiles from an AI-native professional network | No | Yes |
 | [Reed](https://www.reed.co.uk/developers) | Job board aggregator | `apiKey` | Unknown |
 | [Reqbeat](https://reqbeat.com) | Hiring signals: search job postings by role and geo, subscribe to companies, and receive new reqs via webhook | `apiKey` | Unknown |
@@ -1858,6 +1860,7 @@
 | [LinkedIn](https://docs.microsoft.com/en-us/linkedin/) | The foundation of all digital integrations with LinkedIn | `OAuth` | Unknown |
 | [Meetup](https://www.meetup.com/api/guide) | Data about Meetups from Meetup.com | `apiKey` | Unknown |
 | [Microsoft Graph](https://docs.microsoft.com/en-us/graph/api/overview) | Access the data and intelligence in Microsoft 365, Windows 10, and Enterprise Mobility | `OAuth` | Unknown |
+| [Multi Upload Tool](https://multi-upload-tool.com) | Schedule and publish videos to TikTok, YouTube Shorts, Instagram, Facebook, LinkedIn, Pinterest, Bluesky, Threads and X with one API key and SDKs | `apiKey` | No |
 | [NAVER](https://developers.naver.com/main/) | NAVER Login, Share on NAVER, Social Plugins and more | `OAuth` | Unknown |
 | [Open Collective](https://docs.opencollective.com/help/developers/api) | Get Open Collective data | No | Unknown |
 | [Pinterest](https://developers.pinterest.com/) | The world's catalog of ideas | `OAuth` | Unknown |
@@ -1924,8 +1927,8 @@
 | [NBA Stats](https://documenter.getpostman.com/view/25652688/2sB34Zs4xZ) | Postman docs for comprehensive NBA player statistics, advanced metrics, and detailed shot chart data | No | Yes |
 | [NHL Records and Stats](https://gitlab.com/dword4/nhlapi) | NHL historical data and statistics | No | Unknown |
 | [Oddsmagnet](https://oddsmagnet.com/oddsdata) | Odds history from multiple UK bookmakers | No | Yes |
+| [OddsRelay](https://oddsrelay.io) | Pre-match odds from UK and Irish bookmakers, bet365 included, with Betfair, Smarkets, Matchbook and BETDAQ lay prices | `apiKey` | No |
 | [OpenLigaDB](https://www.openligadb.de) | Crowd sourced sports league results | No | Yes |
-| [Parlay](https://parlay-api.com/docs) | Real-time sports betting odds from 21+ sportsbooks across 38+ sports with free tier (1K req/month) | `apiKey` | No |
 | [Premier League Standings ](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | All Current Premier League Standings and Statistics | `apiKey` | Unknown |
 | [Racing Alpha](https://racingalpha.co.uk/developers) | AI win-probability scores, fair prices and draw-bias stats for UK & Irish horse racing | No | Yes |
 | [SkipOdds](https://skipodds.com/docs) | De-vigged fair win probabilities across 13 sports, averaged from 69+ bookmakers | `apiKey` | Yes |
