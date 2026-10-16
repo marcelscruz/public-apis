@@ -1,5 +1,5 @@
 {
-"count": 1829,
+"count": 1830,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -327,6 +327,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://suprsonic.ai",
+        "Category": "AI"
+    },
+    {
+        "API": "Synap",
+        "Description": "OpenAI-compatible API for open-weight models: chat completions, streaming, tool calling and JSON-schema output, billed per token",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://synap.linkrra.com",
         "Category": "AI"
     },
     {
