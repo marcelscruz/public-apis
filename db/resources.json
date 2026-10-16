@@ -1,5 +1,5 @@
 {
-"count": 1834,
+"count": 1835,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10711,6 +10711,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.gettyimages.com/en/",
+        "Category": "Photography"
+    },
+    {
+        "API": "GifSnap",
+        "Description": "GIF and sticker search, trending content and media lookup",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://gifsnap.com/",
         "Category": "Photography"
     },
     {
