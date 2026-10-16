@@ -1655,6 +1655,7 @@
 | [Flickr](https://www.flickr.com/services/api/) | Flickr Services | `OAuth` | Unknown |
 | [Generate Image Thumbnails API](https://apyhub.com/utility/image-processor-thumbnail) | Generate and optimise Image Thumbnails from any image with this API and save hours of image editing | `apiKey` | Yes |
 | [Getty Images](https://developers.gettyimages.com/en/) | Build applications using the world's most powerful imagery | `OAuth` | Unknown |
+| [GifSnap](https://gifsnap.com/) | GIF and sticker search, trending content and media lookup | No | Yes |
 | [Giphy](https://developers.giphy.com/docs/) | Get all your gifs | `apiKey` | Unknown |
 | [Google Photos](https://developers.google.com/photos) | Integrate Google Photos with your apps or devices | `OAuth` | Unknown |
 | [Imgur](https://apidocs.imgur.com/) | Images | `OAuth` | Unknown |
