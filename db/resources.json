@@ -1,5 +1,5 @@
 {
-"count": 1833,
+"count": 1834,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4967,6 +4967,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://www.printsocket.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "ReadGZH",
+        "Description": "Read public WeChat Official Account articles as Markdown via REST/MCP; anonymous shared quota or optional API key",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://readgzh.site/.well-known/openapi.yaml",
         "Category": "Documents & Productivity"
     },
     {
