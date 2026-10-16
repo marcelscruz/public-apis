@@ -1,5 +1,5 @@
 {
-"count": 1831,
+"count": 1832,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9367,6 +9367,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developer.usajobs.gov/",
+        "Category": "Jobs"
+    },
+    {
+        "API": "Wadifa Info",
+        "Description": "Open public-sector recruitment exams in Morocco with deadlines and official notices, civil-service pay by grade and holidays",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://www.wadifa-info.com",
         "Category": "Jobs"
     },
     {
