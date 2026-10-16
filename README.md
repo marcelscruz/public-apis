@@ -1439,6 +1439,7 @@
 | [TheirStack's Job Postings](https://theirstack.com/en/job-posting-api) | Access simultaneously to jobs from Linkedin, Glassdoor, Indeed and 16+ other job sites | `apiKey` | Unknown |
 | [Upwork](https://developers.upwork.com) | Freelance job board and management system | `OAuth` | Unknown |
 | [USAJOBS](https://developer.usajobs.gov/) | US government job board | `apiKey` | Unknown |
+| [Wadifa Info](https://www.wadifa-info.com) | Open public-sector recruitment exams in Morocco with deadlines and official notices, civil-service pay by grade and holidays | No | Yes |
 | [WhatJobs](https://www.whatjobs.com/affiliates) | Job search engine | `apiKey` | Unknown |
 | [Worklittle](https://docs.worklittle.com) | Job search, over 4 million jobs | `apiKey` | Yes |
 
