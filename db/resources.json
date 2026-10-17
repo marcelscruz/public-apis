@@ -7802,8 +7802,8 @@
         "Category": "Geocoding"
     },
     {
-        "API": "ipgeolocation",
-        "Description": "IP Geolocation AP with free plan 30k requests per month",
+        "API": "IPGeolocation",
+        "Description": "Accurate IP geolocation, basic ASN, time zones and user-agent parsing. Free plan: 1,000 API credits/day. Paid plans add company information and IP security.",
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://ipgeolocation.io/",
