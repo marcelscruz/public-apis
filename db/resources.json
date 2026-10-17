@@ -1,5 +1,5 @@
 {
-"count": 1838,
+"count": 1839,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6511,6 +6511,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://github.com/alxiw/punkapi",
+        "Category": "Food & Drink"
+    },
+    {
+        "API": "ReceptAPI",
+        "Description": "Swedish recipes as structured JSON: normalized ingredients, EU-14 allergens, steps with timers and scalable servings",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://receptapi.se",
         "Category": "Food & Drink"
     },
     {
