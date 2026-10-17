@@ -1052,6 +1052,7 @@
 | [Open Brewery DB](https://www.openbrewerydb.org) | Breweries, Cideries and Craft Beer Bottle Shops | No | Yes |
 | [Open Food Facts](https://world.openfoodfacts.org/data) | Food Products Database | No | Unknown |
 | [PunkAPI](https://github.com/alxiw/punkapi) | BrewDog's DIY Dog beer catalogue as an API | No | Yes |
+| [ReceptAPI](https://receptapi.se) | Swedish recipes as structured JSON: normalized ingredients, EU-14 allergens, steps with timers and scalable servings | `apiKey` | Yes |
 | [RecipeAPI](https://recipeapi.io) | Recipes, ingredients, nutrition data and cooking instructions | `apiKey` | Yes |
 | [Spoonacular](https://spoonacular.com/food-api) | Recipes, Food Products, and Meal Planning | `apiKey` | Unknown |
 | [Status Pizza](https://status.pizza) | Pizza for every HTTP Status | No | Unknown |
