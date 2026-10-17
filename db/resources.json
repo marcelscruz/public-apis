@@ -1,5 +1,5 @@
 {
-"count": 1836,
+"count": 1838,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3471,6 +3471,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.openwebninja.com",
+        "Category": "Development"
+    },
+    {
+        "API": "Thordata",
+        "Description": "Scrap any webpage or search engine with built-in residential proxies across 190+ countries. Web Scraping API, Search API, and Web Unlocker — pay as you go",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.thordata.com/",
         "Category": "Development"
     },
     {
@@ -12119,6 +12127,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://docs.microsoft.com/en-us/graph/api/overview",
+        "Category": "Social"
+    },
+    {
+        "API": "Mirrorfly Chat API",
+        "Description": "MirrorFly's chat API & SDK add real-time messaging to any app in minutes, with full source code access, custom security, and hosting on your own servers",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://mirrorfly.com",
         "Category": "Social"
     },
     {
