@@ -1867,6 +1867,7 @@
 | [LinkedIn](https://docs.microsoft.com/en-us/linkedin/) | The foundation of all digital integrations with LinkedIn | `OAuth` | Unknown |
 | [Meetup](https://www.meetup.com/api/guide) | Data about Meetups from Meetup.com | `apiKey` | Unknown |
 | [Microsoft Graph](https://docs.microsoft.com/en-us/graph/api/overview) | Access the data and intelligence in Microsoft 365, Windows 10, and Enterprise Mobility | `OAuth` | Unknown |
+| [Mirrorfly Chat API](https://mirrorfly.com) | MirrorFly's chat API & SDK add real-time messaging to any app in minutes, with full source code access, custom security, and hosting on your own servers | `apiKey` | Unknown |
 | [Multi Upload Tool](https://multi-upload-tool.com) | Schedule and publish videos to TikTok, YouTube Shorts, Instagram, Facebook, LinkedIn, Pinterest, Bluesky, Threads and X with one API key and SDKs | `apiKey` | No |
 | [NAVER](https://developers.naver.com/main/) | NAVER Login, Share on NAVER, Social Plugins and more | `OAuth` | Unknown |
 | [Open Collective](https://docs.opencollective.com/help/developers/api) | Get Open Collective data | No | Unknown |
