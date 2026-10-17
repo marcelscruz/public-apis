@@ -1147,6 +1147,7 @@
 | [RuneScape](https://runescape.wiki/w/Application_programming_interface) | RuneScape and OSRS RPGs information | No | No |
 | [Sakura CardCaptor](https://github.com/JessVel/sakura-card-captor-api) | Sakura CardCaptor Cards Information | No | Unknown |
 | [Scryfall](https://scryfall.com/docs/api) | Magic: The Gathering database | No | Yes |
+| [SFXMint](https://sfxmint.com/) | Free CC0 AI-generated or synthesized sound effects by description, event or set, with direct WAV/MP3 URLs; no key for library access | No | Yes |
 | [slot.report](https://slot.report/api/) | Online slot machine data: RTP, volatility, max win and features for 6,000+ games | No | Yes |
 | [SpaceTradersAPI](https://spacetraders.io) | A playable inter-galactic space trading MMOAPI | `OAuth` | Yes |
 | [Stardew Valley Wiki](https://www.stardewvalleywiki.net/developers) | Stardew Valley game data: fish, crops, villagers, gifts, bundles | No | Yes |
