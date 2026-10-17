@@ -367,6 +367,7 @@
 | [TradeData](https://tradedata.io) | Global customs manifest and bill of lading APIs across 10 sovereign nations | `apiKey` | Yes |
 | [Trello](https://developers.trello.com/) | Boards, lists and cards to help you organize and prioritize your projects | `OAuth` | Unknown |
 | [USPTO Trademark](https://rapidapi.com/pentium10/api/uspto-trademark) | Trademark keyword search, availability, owner, serial search, attorney info, MCP ready | `apiKey` | Yes |
+| [Vaneform](https://vaneform.com) | Website traffic estimates for any domain: monthly visits, traffic sources, top countries and keyword data | `apiKey` | Yes |
 | [Zillapi](https://zillapi.com) | US property data API — Zestimate, photos, taxes, price history | `apiKey` | Yes |
 
 **[⬆ Back to Index](#index)**
