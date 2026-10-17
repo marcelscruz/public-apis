@@ -680,7 +680,6 @@
 | [Neon](https://neon.com) | Serverless PostgreSQL with a REST API to manage projects, branches and run SQL over HTTP | `apiKey` | Yes |
 | [Netlify](https://docs.netlify.com/api/get-started/) | Netlify is a hosting service for the programmable web | `OAuth` | Unknown |
 | [NetworkCalc](https://networkcalc.com/api/docs) | Network calculators, including subnets, DNS, binary, and security tools | No | Yes |
-| [NoneCap](https://nonecap.com) | hCaptcha solver API: submit a sitekey and page URL, get back a valid hCaptcha token. Supports regular, invisible and enterprise sitekeys | `apiKey` | Yes |
 | [npm Registry](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md) | Query information about your favorite Node.js libraries programmatically | No | Unknown |
 | [Olostep](https://www.olostep.com) | AI-native web search, scraping, and crawling API that delivers clean, structured, real-time web data. Used by top AI companies | `apiKey` | Yes |
 | [OneSignal](https://documentation.onesignal.com/reference/rest-api-overview) | Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App | `apiKey` | Unknown |
@@ -796,7 +795,6 @@
 | [CraftMyPDF](https://craftmypdf.com) | Generate PDF documents from templates with a drop-and-drop editor and a simple API | `apiKey` | No |
 | [CustomJS](https://www.customjs.io) | HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs | `apiKey` | Unknown |
 | [CV / Resume Parsing API](https://apyhub.com/utility/sharpapi-ai-resume-parser) | The Resume Parser API parses a resume (CV) file from multiple formats (PDF/DOC/DOCX/TXT/RTF) and returns an extensive object of data points | `apiKey` | Yes |
-| [doc.cheap](https://doc.cheap) | Passport, ID card and MRZ recognition - send a photo, get the printed fields as structured JSON. 10 free recognitions, then $0.01 per document | `apiKey` | Yes |
 | [DocForge](https://docforge-api.vercel.app) | Convert between Markdown, HTML, CSV, JSON, and YAML formats | No | Yes |
 | [FastApi Simple Calculator](https://fastapi-calculadora.onrender.com/) | Math, Stadistics, Conversions, Currency and more | No | Unknown |
 | [File Conversions API](https://apyhub.com/catalog/file-conversion) | APIs to handle all your file transformations. Word to PDF, Markdown to HTML, CSV to JSON, audio and many more | `apiKey` | Yes |
@@ -820,13 +818,11 @@
 | [PDFBolt](https://pdfbolt.com/docs) | High-quality HTML to PDF conversion with templates and AI generation | `apiKey` | Yes |
 | [PDFEndpoint](https://pdfendpoint.com) | HTML and URL to PDF API | `apiKey` | No |
 | [PDFGate](https://pdfgate.com/html-to-pdf-api) | HTML to PDF API with support for custom headers, footers, fillable form fields, and encryption | `apiKey` | Yes |
-| [PDFMint](https://pdf.mintapis.com) | HTML, Markdown or a URL to PDF, PNG or JPEG, plus PDF merging. The file comes back in the same response. Free for 10 documents/month | `apiKey` | No |
 | [pdfrender](https://pdfrender.dev) | HTML and CSS to PDF with page headers, footers and page numbers, no headless browser | `apiKey` | Unknown |
 | [Pocket](https://getpocket.com/developer/) | Bookmarking service | `OAuth` | Unknown |
 | [Podio](https://developers.podio.com) | File sharing and productivity | `OAuth` | Unknown |
 | [PrexView](https://prexview.com) | Data from XML or JSON to PDF, HTML or Image | `apiKey` | Unknown |
 | [PrintSocket](https://www.printsocket.com) | Send PDFs, ZPL labels and ESC/POS receipts to printers you control, from any language | `apiKey` | No |
-| [ReadGZH](https://readgzh.site/.well-known/openapi.yaml) | Read public WeChat Official Account articles as Markdown via REST/MCP; anonymous shared quota or optional API key | No | Yes |
 | [RenderPDF.io](https://renderpdf.io) | HTML to PDF crazy fast, 500 pdfs/month + CDN-ready | `apiKey` | Yes |
 | [ReportForge](https://reportforge-api.vercel.app) | Generate styled HTML reports from CSV or JSON data with built-in templates | No | Yes |
 | [Restpack](https://restpack.io/) | Provides screenshot, HTML to PDF and content extraction APIs | `apiKey` | Unknown |
@@ -951,7 +947,6 @@
 | [AlphaAI](https://alphai.io/developers) | AI-enriched financial & insider-trading news, scored for relevance | `apiKey` | Unknown |
 | [AlphaSMO](https://alphasmo.com) | SEC 13F institutional holdings, Form 4 insider trading, and smart money convergence signals. Free anonymous tier, no signup required | No | Yes |
 | [AlQANAAS Gold Data](https://alqanaas.com/en/developers/gold-data-api) | Live XAUUSD, country gold prices, and weekly gold research in JSON and CSV | No | Yes |
-| [APIllow](https://apillow.co) | Zillow property data with 50+ fields per listing | `apiKey` | Yes |
 | [ArgentoFX](https://fastapiproject-1-eziw.onrender.com/docs) | Real-time foreign exchange rates for Argentina | No | Yes |
 | [Banco do Brasil](https://developers.bb.com.br) | All Banco do Brasil financial transaction APIs | `OAuth` | Yes |
 | [Bargo Congress Trades](https://www.bargo.ai/free-apis/congress) | U.S. Congress STOCK Act stock trades with per-trade performance | No | Yes |
@@ -966,7 +961,6 @@
 | [Drillr](https://drillr.ai) | Fundamentals, filings, filing full-text search, earnings, ownership, events and analyst data for US, China and Japan equities, linked to source filings | `apiKey` | No |
 | [Earnings Feed](https://earningsfeed.com/api/docs) | SEC filings, insider transactions, institutional holdings | `apiKey` | No |
 | [Econdb](https://www.econdb.com/api/) | Global macroeconomic data | No | Yes |
-| [Eulerpool](https://eulerpool.com/financial-data-api) | Global stock, ETF, macro, crypto and FX data with fundamentals and history | `apiKey` | Yes |
 | [eunormia E-Invoice API](https://eunormia.com) | eunormia turns your invoice data into a ZUGFeRD/Factur-X PDF/A-3 per EN 16931 — and validates every result before it is delivered | `apiKey` | Unknown |
 | [Fed Treasury](https://fiscaldata.treasury.gov/api-documentation/) | U.S. Department of the Treasury Data | No | Unknown |
 | [Filingrail](https://filingrail.hudsonenterprisesllc.com) | SEC EDGAR filings, XBRL financials, Form 4 insider trades, 8-K events and 13F holdings, each record linked to its source filing | `apiKey` | Unknown |
@@ -1003,7 +997,6 @@
 | [ParityVend](https://www.ambeteco.com/ParityVend/) | Globalize your business by auto-adapting pricing for each visitor with Purchasing Power Parity | `apiKey` | Yes |
 | [Plaid](https://plaid.com/) | Connect with user's bank accounts and access transaction data | `apiKey` | Unknown |
 | [Polygon](https://polygon.io/) | Historical stock market data | `apiKey` | Unknown |
-| [Polymarket](https://docs.polymarket.com) | Prediction market data including markets, prices, and order book | `apiKey` | Yes |
 | [Portfolio Optimizer](https://portfoliooptimizer.io/) | Portfolio analysis and optimization | No | Yes |
 | [Razorpay IFSC](https://razorpay.com/docs/) | Indian Financial Systems Code (Bank Branch Codes) | No | Unknown |
 | [Real Time Finance](https://github.com/Real-time-finance/finance-websocket-API/) | Websocket API to access realtime stock data | `apiKey` | Unknown |
@@ -1046,7 +1039,6 @@
 | [DietlyAPI](https://www.getdietly.com/api) | Food & nutrition API with 4.2M+ foods (Open Food Facts + community, normalized and confidence-ranked): calories, macros, micronutrients, barcode lookup, ~40ms s | `apiKey` | Yes |
 | [Edamam nutrition](https://developer.edamam.com/edamam-docs-nutrition-api) | Nutrition Analysis | `apiKey` | Unknown |
 | [Edamam recipes](https://developer.edamam.com/edamam-docs-recipe-api) | Recipe Search | `apiKey` | Unknown |
-| [Food Info](https://food-info.org/developer) | Nutrient data for foods from five national food composition datasets plus Open Food Facts | `apiKey` | No |
 | [Foodish](https://github.com/surhud004/Foodish#readme) | Random pictures of food dishes | No | Yes |
 | [Jelly Belly Wiki](https://jelly-belly-wiki.netlify.app/) | Data about Jelly Belly beans- flavores, facts, history and more endpoints | No | Yes |
 | [Kroger](https://developer.kroger.com/reference) | Supermarket Data | `apiKey` | Unknown |
@@ -1391,7 +1383,6 @@
 | [COVID-19 Tracker Canada](https://api.covid19tracker.ca/docs/1.0/overview) | Details on Covid-19 cases across Canada | No | Unknown |
 | [COVID-19 Tracker Sri Lanka](https://www.hpb.health.gov.lk/en/api-documentation) | Provides situation of the COVID-19 patients reported in Sri Lanka | No | Unknown |
 | [Dataflow Kit COVID-19](https://covid-19.dataflowkit.com) | COVID-19 live statistics into sites per hour | No | Unknown |
-| [ERstat](https://erstat.ca/developers) | Live Canadian emergency room closures and service disruptions, by province | `apiKey` | Yes |
 | [FoodData Central](https://fdc.nal.usda.gov/) | National Nutrient Database for Standard Reference | `apiKey` | Unknown |
 | [Healthcare.gov](https://www.healthcare.gov/developers/) | Educational content about the US Health Insurance Marketplace | No | Unknown |
 | [Humanitarian Data Exchange](https://data.humdata.org/) | Humanitarian Data Exchange (HDX) is open platform for sharing data across crises and organisations | No | Unknown |
@@ -1552,7 +1543,6 @@
 | [Kaggle](https://www.kaggle.com/docs/api) | Create and interact with Datasets, Notebooks, and connect with Kaggle | `apiKey` | Unknown |
 | [LinkPreview](https://www.linkpreview.net) | Get JSON formatted summary with title, description and preview image for any requested URL | `apiKey` | Yes |
 | [Lowy Asia Power Index](https://github.com/0x0is1/lowy-index-api-docs) | Get measure resources and influence to rank the relative power of states in Asia | No | Unknown |
-| [Microburbs](https://www.microburbs.com.au/api-access) | Australian property data at street and mesh-block level: street price forecasts, crime below the suburb, sales, rents, schools, zoning and hazard risk | `apiKey` | No |
 | [Microlink.io](https://microlink.io) | Extract structured data from any website | No | Yes |
 | [Nobel Prize](https://www.nobelprize.org/about/developer-zone-2/) | Open data about nobel prizes and events | No | Yes |
 | [Open Data Minneapolis](https://opendata.minneapolismn.gov/) | Spatial (GIS) and non-spatial city data for Minneapolis | No | No |
@@ -1642,7 +1632,6 @@
 | [Phone Specification](https://github.com/azharimm/phone-specs-api) | Rest Api for Phone specifications | No | Yes |
 | [Proweblook Phone Number Checker](https://proweblook.com/phone-number-validator) | Phone number validation | `apiKey` | Yes |
 | [Proweblook Whatsapp Contact Checker](https://proweblook.com/whatsapp-number-checker) | Whatsapp number validation | `apiKey` | Yes |
-| [USA Caller Lookup](https://www.usacallerlookup.com/api/) | US reverse phone lookup: carrier, location and FTC robocall complaint data, no key needed | No | Yes |
 | [Veriphone](https://veriphone.io) | Phone number validation & carrier lookup | `apiKey` | Yes |
 
 **[⬆ Back to Index](#index)**
@@ -1804,7 +1793,6 @@
 | [SecurityTrails](https://securitytrails.com/corp/api) | Domain and IP related information such as current and historical WHOIS and DNS records | `apiKey` | Unknown |
 | [Shodan](https://developer.shodan.io/) | Search engine for Internet connected devices | `apiKey` | Unknown |
 | [Spyse](https://spyse-dev.readme.io/reference/quick-start) | Access data on all Internet assets and build powerful attack surface management applications | `apiKey` | Unknown |
-| [ThreatCluster](https://threatcluster.io/api/public/v1/docs) | Threat intelligence API: incident clusters from 20,000 sources, validated IOCs, CVEs with KEV/EPSS status, ransomware leak-site victims | `apiKey` | No |
 | [UK Police](https://data.police.uk/docs/) | UK Police data | No | Unknown |
 | [Virus and Malware Scan API by attachmentAV](https://attachmentav.com/solution/virus-malware-scan-api/) | Scan files for viruses, worms, trojans, ransomware, and other kinds of malware by sending them to the attachmentAV API powered by Sophos | `apiKey` | No |
 | [VulDB](https://vuldb.com/) | VulDB API allows to initiate queries for one or more items along with transactional bots | `apiKey` | Unknown |
@@ -2006,7 +1994,6 @@
 | [LanguageTool](https://languagetool.org/http-api/) | Style and Grammar Checker for 25+ Languages | No | Unknown |
 | [Lecto Translation](https://rapidapi.com/lecto-lecto-default/api/lecto-translation/) | Translation API with free tier and reasonable prices | `apiKey` | Yes |
 | [LibreTranslate](https://libretranslate.com/docs) | Translation tool with 17 available languages | No | Unknown |
-| [Proofread and Grammar Check API](https://apyhub.com/utility/sharpapi-proofread-grammar-check) | The Proofreading and Grammar Check API ensures the provided text is grammatically correct and polished by automatically proofreading and checking for errors | `apiKey` | Yes |
 | [Safe text](https://rapidapi.com/bacloud14/api/safe-text) | Clean short and long texts. It is probably world most complete text-cleaner API! Providing very fast and accurate results. | `apiKey` | Yes |
 | [Semantria](https://semantria.readme.io/docs) | Text Analytics with sentiment analysis, categorization & named entity extraction | `OAuth` | Unknown |
 | [Tisane](https://tisane.ai/) | Text Analytics with focus on detection of abusive content and law enforcement applications | `OAuth` | Yes |
