@@ -1,5 +1,5 @@
 {
-"count": 1835,
+"count": 1836,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7223,6 +7223,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://scryfall.com/docs/api",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "SFXMint",
+        "Description": "Free CC0 AI-generated or synthesized sound effects by description, event or set, with direct WAV/MP3 URLs; no key for library access",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://sfxmint.com/",
         "Category": "Games & Comics"
     },
     {
