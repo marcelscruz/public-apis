@@ -1,5 +1,5 @@
 {
-"count": 1839,
+"count": 1840,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1751,6 +1751,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://rapidapi.com/pentium10/api/uspto-trademark",
+        "Category": "Business"
+    },
+    {
+        "API": "Vaneform",
+        "Description": "Website traffic estimates for any domain: monthly visits, traffic sources, top countries and keyword data",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://vaneform.com",
         "Category": "Business"
     },
     {
