@@ -624,6 +624,7 @@
 | [Netbait IP Scorer](https://netbait.org) | Netbait is a free IP reputation API designed to help users determine whether an IP address has been involved in attacks, scanning attempts, or other malicious a | No | Yes |
 | [NiuProxy](https://niuproxy.com/) | Residential proxies for web scraping, AI agents and automation, with flexible IP rotation, 190+ countries, and HTTP(S)/SOCKS5 support | `apiKey` | No |
 | [OpenWeb Ninja](https://www.openwebninja.com) | The web data & SERP API stack for AI engineers, app developers, and GTM teams. 40+ fast and reliable APIs for accurate, real-time public data from across the we | `apiKey` | Yes |
+| [Thordata](https://www.thordata.com/) | Scrap any webpage or search engine with built-in residential proxies across 190+ countries. Web Scraping API, Search API, and Web Unlocker — pay as you go | `apiKey` | No |
 [Format JSON Online Dummy API](https://formatjsononline.com/dummy-api) | A free tool to generate dummy JSON data for testing and prototyping.| No  | Yes | Yes |
 | [Gcore CDN](https://docs.gcore.com/cdn) | Make your app fast and responsive for a global audience with Gcore CDN. | `apiKey` | Yes |
 | [Gcore Cloud](https://docs.gcore.com/cloud) | Scalable, secure, and reliable hybrid cloud services anywhere in the world. | `apiKey` | Yes |
