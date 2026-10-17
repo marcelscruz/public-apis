@@ -1,5 +1,5 @@
 {
-"count": 1840,
+"count": 1841,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1679,6 +1679,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://renidly.com",
+        "Category": "Business"
+    },
+    {
+        "API": "RestoSignals",
+        "Description": "US restaurants and bars 1-6 months before opening, fused from liquor-license, food-permit and business filings and scored",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://restosignals.com",
         "Category": "Business"
     },
     {
