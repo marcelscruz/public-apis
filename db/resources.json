@@ -1,5 +1,5 @@
 {
-"count": 1841,
+"count": 1828,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3922,14 +3922,6 @@
         "Category": "Development"
     },
     {
-        "API": "NoneCap",
-        "Description": "hCaptcha solver API: submit a sitekey and page URL, get back a valid hCaptcha token. Supports regular, invisible and enterprise sitekeys",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://nonecap.com",
-        "Category": "Development"
-    },
-    {
         "API": "npm Registry",
         "Description": "Query information about your favorite Node.js libraries programmatically",
         "Auth": "",
@@ -4754,14 +4746,6 @@
         "Category": "Documents & Productivity"
     },
     {
-        "API": "doc.cheap",
-        "Description": "Passport, ID card and MRZ recognition - send a photo, get the printed fields as structured JSON. 10 free recognitions, then $0.01 per document",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://doc.cheap",
-        "Category": "Documents & Productivity"
-    },
-    {
         "API": "DocForge",
         "Description": "Convert between Markdown, HTML, CSV, JSON, and YAML formats",
         "Auth": "",
@@ -4946,14 +4930,6 @@
         "Category": "Documents & Productivity"
     },
     {
-        "API": "PDFMint",
-        "Description": "HTML, Markdown or a URL to PDF, PNG or JPEG, plus PDF merging. The file comes back in the same response. Free for 10 documents/month",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://pdf.mintapis.com",
-        "Category": "Documents & Productivity"
-    },
-    {
         "API": "pdfrender",
         "Description": "HTML and CSS to PDF with page headers, footers and page numbers, no headless browser",
         "Auth": "apiKey",
@@ -4991,14 +4967,6 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://www.printsocket.com",
-        "Category": "Documents & Productivity"
-    },
-    {
-        "API": "ReadGZH",
-        "Description": "Read public WeChat Official Account articles as Markdown via REST/MCP; anonymous shared quota or optional API key",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://readgzh.site/.well-known/openapi.yaml",
         "Category": "Documents & Productivity"
     },
     {
@@ -5754,14 +5722,6 @@
         "Category": "Finance"
     },
     {
-        "API": "APIllow",
-        "Description": "Zillow property data with 50+ fields per listing",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://apillow.co",
-        "Category": "Finance"
-    },
-    {
         "API": "ArgentoFX",
         "Description": "Real-time foreign exchange rates for Argentina",
         "Auth": "",
@@ -5871,14 +5831,6 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://www.econdb.com/api/",
-        "Category": "Finance"
-    },
-    {
-        "API": "Eulerpool",
-        "Description": "Global stock, ETF, macro, crypto and FX data with fundamentals and history",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://eulerpool.com/financial-data-api",
         "Category": "Finance"
     },
     {
@@ -6170,14 +6122,6 @@
         "Category": "Finance"
     },
     {
-        "API": "Polymarket",
-        "Description": "Prediction market data including markets, prices, and order book",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://docs.polymarket.com",
-        "Category": "Finance"
-    },
-    {
         "API": "Portfolio Optimizer",
         "Description": "Portfolio analysis and optimization",
         "Auth": "",
@@ -6463,14 +6407,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developer.edamam.com/edamam-docs-recipe-api",
-        "Category": "Food & Drink"
-    },
-    {
-        "API": "Food Info",
-        "Description": "Nutrient data for foods from five national food composition datasets plus Open Food Facts",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://food-info.org/developer",
         "Category": "Food & Drink"
     },
     {
@@ -9034,14 +8970,6 @@
         "Category": "Health"
     },
     {
-        "API": "ERstat",
-        "Description": "Live Canadian emergency room closures and service disruptions, by province",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://erstat.ca/developers",
-        "Category": "Health"
-    },
-    {
         "API": "FoodData Central",
         "Description": "National Nutrient Database for Standard Reference",
         "Auth": "apiKey",
@@ -10130,14 +10058,6 @@
         "Category": "Open Data"
     },
     {
-        "API": "Microburbs",
-        "Description": "Australian property data at street and mesh-block level: street price forecasts, crime below the suburb, sales, rents, schools, zoning and hazard risk",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://www.microburbs.com.au/api-access",
-        "Category": "Open Data"
-    },
-    {
         "API": "Microlink.io",
         "Description": "Extract structured data from any website",
         "Auth": "",
@@ -10655,14 +10575,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://proweblook.com/whatsapp-number-checker",
-        "Category": "Phone"
-    },
-    {
-        "API": "USA Caller Lookup",
-        "Description": "US reverse phone lookup: carrier, location and FTC robocall complaint data, no key needed",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://www.usacallerlookup.com/api/",
         "Category": "Phone"
     },
     {
@@ -11711,14 +11623,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://spyse-dev.readme.io/reference/quick-start",
-        "Category": "Security"
-    },
-    {
-        "API": "ThreatCluster",
-        "Description": "Threat intelligence API: incident clusters from 20,000 sources, validated IOCs, CVEs with KEV/EPSS status, ransomware leak-site victims",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://threatcluster.io/api/public/v1/docs",
         "Category": "Security"
     },
     {
@@ -13087,14 +12991,6 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://libretranslate.com/docs",
-        "Category": "Text Analysis"
-    },
-    {
-        "API": "Proofread and Grammar Check API",
-        "Description": "The Proofreading and Grammar Check API ensures the provided text is grammatically correct and polished by automatically proofreading and checking for errors",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://apyhub.com/utility/sharpapi-proofread-grammar-check",
         "Category": "Text Analysis"
     },
     {
