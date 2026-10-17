@@ -1225,7 +1225,7 @@
 | [ipapi.co](https://ipapi.co/api/#introduction) | Find IP address location information | No | Yes |
 | [ipapi.is](https://ipapi.is) | IP geolocation, ASN and company data with VPN, proxy, Tor and datacenter detection | `apiKey` | Yes |
 | [IPGEO](https://api.techniknews.net/ipgeo/) | Unlimited free IP Address API with useful information | No | Unknown |
-| [ipgeolocation](https://ipgeolocation.io/) | IP Geolocation AP with free plan 30k requests per month | `apiKey` | Yes |
+| [IPGeolocation](https://ipgeolocation.io/) | Accurate IP geolocation, basic ASN, time zones and user-agent parsing. Free plan: 1,000 API credits/day. Paid plans add company information and IP security. | `apiKey` | Yes |
 | [IPInfoDB](https://www.ipinfodb.com/api) | Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address | `apiKey` | Unknown |
 | [IPWho IP Geolocation API](https://www.ipwho.org/) | 2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency. | `apiKey` | Yes |
 | [IPWhois](https://ipwhois.io) | IP geolocation and IP intelligence API providing location, ISP, ASN, and proxy detection data for IPv4 and IPv6 addresses | `apiKey` | Yes |
