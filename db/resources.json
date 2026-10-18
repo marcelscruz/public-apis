@@ -1,5 +1,5 @@
 {
-"count": 1833,
+"count": 1834,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5111,6 +5111,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://dropmail.me/api/#live-demo",
+        "Category": "Email"
+    },
+    {
+        "API": "email59",
+        "Description": "Email API for apps and agents: send from a ready @email59.com address with no DNS setup, plus email verification codes, address checks and campaigns",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://email59.com",
         "Category": "Email"
     },
     {
