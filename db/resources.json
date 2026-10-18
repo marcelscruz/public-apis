@@ -1,5 +1,5 @@
 {
-"count": 1834,
+"count": 1835,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1519,6 +1519,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://www.arvancloud.ir/en/dev/sdk",
+        "Category": "Business"
+    },
+    {
+        "API": "Auregistre",
+        "Description": "Dated history of every French company from the official BODACC gazette: changes, insolvency proceedings and filings",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://auregistre.fr",
         "Category": "Business"
     },
     {
