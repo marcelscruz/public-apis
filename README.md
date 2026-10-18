@@ -1435,6 +1435,7 @@
 | [Reed](https://www.reed.co.uk/developers) | Job board aggregator | `apiKey` | Unknown |
 | [Reqbeat](https://reqbeat.com) | Hiring signals: search job postings by role and geo, subscribe to companies, and receive new reqs via webhook | `apiKey` | Unknown |
 | [Techmap's Job Postings](https://jobdatafeeds.com/job-api) | API for International Job postings | `apiKey` | Unknown |
+| [The Jobs](https://thejobsapi.com) | US and Canada job listings from employer career sites, with search filters, full descriptions, apply links and a resumable change feed. | `apiKey` | No |
 | [The Muse](https://www.themuse.com/developers/api/v2) | Job board and company profiles | `apiKey` | Unknown |
 | [TheirStack's Job Postings](https://theirstack.com/en/job-posting-api) | Access simultaneously to jobs from Linkedin, Glassdoor, Indeed and 16+ other job sites | `apiKey` | Unknown |
 | [Upwork](https://developers.upwork.com) | Freelance job board and management system | `OAuth` | Unknown |
