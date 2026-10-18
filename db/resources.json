@@ -1,5 +1,5 @@
 {
-"count": 1828,
+"count": 1829,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1255,6 +1255,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.layer4.app/api-docs",
+        "Category": "Blockchain"
+    },
+    {
+        "API": "MELEK",
+        "Description": "Graphene social blockchain (Steem/Hive/Blurt family): public condenser_api JSON-RPC for posts, accounts, votes and blocks",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://melek.salon",
         "Category": "Blockchain"
     },
     {
