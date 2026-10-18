@@ -1,5 +1,5 @@
 {
-"count": 1830,
+"count": 1831,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12591,6 +12591,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://rapidapi.com/heisenbug/api/premier-league-live-scores/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "PropLine",
+        "Description": "Player props and game odds from 118 sportsbooks and exchanges across 59 sports, with every prop graded against official box scores",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://prop-line.com",
         "Category": "Sports & Fitness"
     },
     {
