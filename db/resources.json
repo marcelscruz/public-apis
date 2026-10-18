@@ -1,5 +1,5 @@
 {
-"count": 1832,
+"count": 1833,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9335,6 +9335,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://jobdatafeeds.com/job-api",
+        "Category": "Jobs"
+    },
+    {
+        "API": "The Jobs",
+        "Description": "US and Canada job listings from employer career sites, with search filters, full descriptions, apply links and a resumable change feed.",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://thejobsapi.com",
         "Category": "Jobs"
     },
     {
