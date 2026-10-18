@@ -1,5 +1,5 @@
 {
-"count": 1831,
+"count": 1832,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5519,6 +5519,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://www.energidataservice.dk/",
+        "Category": "Environment"
+    },
+    {
+        "API": "DC Hub",
+        "Description": "Data Center Power Index (DCPI): daily scores of where data centers can get grid power across 300+ markets, plus grid, fiber and interconnection-queue data",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://dchub.cloud",
         "Category": "Environment"
     },
     {
