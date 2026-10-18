@@ -1,5 +1,5 @@
 {
-"count": 1829,
+"count": 1830,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7767,6 +7767,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.ipinfodb.com/api",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "IPKit",
+        "Description": "Free IP lookup with location, ASN/ISP and VPN/proxy/Tor signals, plus the caller's own IP, as JSON",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://ipkit.dev",
         "Category": "Geocoding"
     },
     {
