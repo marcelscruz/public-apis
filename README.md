@@ -108,6 +108,7 @@
 | [APIClaw](https://apiclaw.biz) | Flat-rate OpenAI-compatible gateway for Claude, GPT, DeepSeek, Qwen, Kimi and GLM models | `apiKey` | Yes |
 | [Azurade](https://azurade.com) | Image and video generation with 30+ models (Veo, Seedance, Nano Banana) over one REST API, paid per generation from credits that never expire | `apiKey` | Yes |
 | [Chatwith](https://chatwith.tools) | Build custom ChatGPT-style AI chatbots trained on your website and files, integrated with 5000+ apps — no coding, live in minutes. | `apiKey` | Yes |
+| [Cheaper Inference](https://cheaperinference.com) | OpenAI-compatible LLM gateway: one API key for chat models from several labs, plus an Anthropic-compatible Messages endpoint | `apiKey` | No |
 | [CitedSpy](https://www.citedspy.com/) | Track brand visibility, share of voice, and citations across AI engines like ChatGPT, Gemini, and Claude | `apiKey` | Unknown |
 | [Clarifai](https://docs.clarifai.com/api-guide/api-overview) | Computer Vision | `OAuth` | Unknown |
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` | Yes |
