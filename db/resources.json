@@ -1,5 +1,5 @@
 {
-"count": 1836,
+"count": 1837,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5671,6 +5671,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://platform.seatgeek.com/",
+        "Category": "Events"
+    },
+    {
+        "API": "Things To Do",
+        "Description": "Search local events in plain words: concerts, comedy, pop-ups, markets and classes, with times, venues and prices",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://thingstodoapi.com",
         "Category": "Events"
     },
     {
