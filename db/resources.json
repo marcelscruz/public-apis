@@ -1,5 +1,5 @@
 {
-"count": 1843,
+"count": 1844,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -63,6 +63,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://chatwith.tools",
+        "Category": "AI"
+    },
+    {
+        "API": "Cheaper Inference",
+        "Description": "OpenAI-compatible LLM gateway: one API key for chat models from several labs, plus an Anthropic-compatible Messages endpoint",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://cheaperinference.com",
         "Category": "AI"
     },
     {
