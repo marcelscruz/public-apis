@@ -821,6 +821,7 @@
 | [PDFEndpoint](https://pdfendpoint.com) | HTML and URL to PDF API | `apiKey` | No |
 | [PDFGate](https://pdfgate.com/html-to-pdf-api) | HTML to PDF API with support for custom headers, footers, fillable form fields, and encryption | `apiKey` | Yes |
 | [pdfrender](https://pdfrender.dev) | HTML and CSS to PDF with page headers, footers and page numbers, no headless browser | `apiKey` | Unknown |
+| [PicToText OCR](https://pictotext.io) | Structured OCR for IDs, passports, and driver's licenses across 30+ countries | `apiKey` | No |
 | [Pocket](https://getpocket.com/developer/) | Bookmarking service | `OAuth` | Unknown |
 | [Podio](https://developers.podio.com) | File sharing and productivity | `OAuth` | Unknown |
 | [PrexView](https://prexview.com) | Data from XML or JSON to PDF, HTML or Image | `apiKey` | Unknown |
