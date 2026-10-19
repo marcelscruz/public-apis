@@ -296,6 +296,7 @@
 | [MELEK](https://melek.salon) | Graphene social blockchain (Steem/Hive/Blurt family): public condenser_api JSON-RPC for posts, accounts, votes and blocks | No | Yes |
 | [MoltNode](https://moltnode.ag) | Free JSON-RPC gateway for 31 blockchains, including Ethereum, Base, Arbitrum, Solana and Sui, with one URL per chain and no sign-up | No | Yes |
 | [Nownodes](https://nownodes.io/) | Blockchain-as-a-service solution that provides high-quality connection via API | `apiKey` | Unknown |
+| [OnFinality](https://onfinality.io/en) | Multichain blockchain RPC APIs with rate-limited public endpoints | No | Yes |
 | [Steem](https://developers.steem.io/) | Blockchain-based blogging and social media website | No | No |
 | [The Graph](https://thegraph.com) | Indexing protocol for querying networks like Ethereum with GraphQL | `apiKey` | Unknown |
 | [Watchdata](https://docs.watchdata.io) | Provide simple and reliable API access to Ethereum blockchain | `apiKey` | Unknown |
