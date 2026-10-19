@@ -1540,6 +1540,7 @@
 ### Open Data
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [10ML Fragrance Index](https://mcp.10ml.com) | Perfume knowledge from the 10ML Fragrance Index: notes, accords, fragrance families, similar scents, houses and expert guides | No | Yes |
 | [Archive.org](https://archive.readme.io/docs) | The Internet Archive | No | No |
 | [ArgentinaDatos](https://argentinadatos.com/) | Unofficial Argentinian data API | No | Yes |
 | [baseray](https://baseray.ai) | Building data: address, use, size, height, age, roof, solar panels and registered businesses | `apiKey` | Yes |
