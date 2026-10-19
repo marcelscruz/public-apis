@@ -1,5 +1,5 @@
 {
-"count": 1853,
+"count": 1854,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4679,6 +4679,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.api2convert.com/",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "APISign",
+        "Description": "E-signature API for apps and AI agents: send Markdown or .docx contracts by email and get signed PDFs with a SHA-256 seal, audit trail and webhooks",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://apisign.io",
         "Category": "Documents & Productivity"
     },
     {
