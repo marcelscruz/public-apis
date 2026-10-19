@@ -1,5 +1,5 @@
 {
-"count": 1839,
+"count": 1840,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13335,6 +13335,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://api-docs.izi.travel/",
+        "Category": "Transportation"
+    },
+    {
+        "API": "K-AgentPay",
+        "Description": "Korea travel live data in English/Japanese/Korean: Seoul subway arrivals, Incheon Airport wait times, Seoul crowds and weather, K-pop concerts",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://k-agentpay.com/",
         "Category": "Transportation"
     },
     {
