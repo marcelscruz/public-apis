@@ -1897,6 +1897,7 @@
 | [Wapio](https://www.wapio.io) | WhatsApp messaging with text, media, QR-code connection and incoming-message webhooks | `apiKey` | No |
 | [Webex](https://developer.webex.com) | Team collaboration software | `OAuth` | Yes |
 | [WoopSocial](https://woopsocial.com) | Schedule and publish posts across social media platforms | `apiKey` | No |
+| [Xquik](https://xquik.com) | Xquik is the world's fastest and cheapest X Twitter scraper service with the most complete X data. REST API, MCP & SDKs. | `apiKey` | No |
 | [Zoom](https://developers.zoom.us/docs/api) | Video communication, web conferencing, chat, and webinars | `OAuth` | Unknown |
 
 **[⬆ Back to Index](#index)**
