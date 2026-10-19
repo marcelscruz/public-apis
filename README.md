@@ -1629,6 +1629,7 @@
 | [kanye.rest](https://kanye.rest) | REST API for random Kanye West quotes | No | Yes |
 | [kimiquotes](https://kimiquotes.pages.dev/docs) | Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen | No | Yes |
 | [Medium](https://github.com/Medium/medium-api-docs) | Community of readers and writers offering unique perspectives on ideas | `OAuth` | Unknown |
+| [Perle Românești](https://api.tasta.space/perle-romanesti) | Real slips of the tongue said in public by famous Romanians, quoted word for word with context, date and source, at random or filtered | No | Yes |
 | [Quoterism](https://www.quoterism.com/developer) | The Web's Largest Collection of Human Inspiration | No | Unknown |
 | [Quotes on Design](https://quotesondesign.com/api/) | Inspirational Quotes | No | Unknown |
 | [Sentino Personality API](https://sentino.org/api/) | AI-powered personality profiling and psychology analysis using NLP and Big 5, NEO, HEXACO, DISC inventories | `apiKey` | No |
