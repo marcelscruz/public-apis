@@ -1,5 +1,5 @@
 {
-"count": 1844,
+"count": 1853,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3962,6 +3962,14 @@
         "Category": "Development"
     },
     {
+        "API": "NoneCap",
+        "Description": "hCaptcha solver API: submit a sitekey and page URL, get back a valid hCaptcha token. Supports regular, invisible and enterprise sitekeys",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://nonecap.com",
+        "Category": "Development"
+    },
+    {
         "API": "npm Registry",
         "Description": "Query information about your favorite Node.js libraries programmatically",
         "Auth": "",
@@ -4978,6 +4986,14 @@
         "Category": "Documents & Productivity"
     },
     {
+        "API": "PDFMint",
+        "Description": "HTML, Markdown or a URL to PDF, PNG or JPEG, plus PDF merging. The file comes back in the same response. Free for 10 documents/month",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://pdf.mintapis.com",
+        "Category": "Documents & Productivity"
+    },
+    {
         "API": "pdfrender",
         "Description": "HTML and CSS to PDF with page headers, footers and page numbers, no headless browser",
         "Auth": "apiKey",
@@ -5015,6 +5031,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://www.printsocket.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "ReadGZH",
+        "Description": "Read public WeChat Official Account articles as Markdown via REST/MCP; anonymous shared quota or optional API key",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://readgzh.site/.well-known/openapi.yaml",
         "Category": "Documents & Productivity"
     },
     {
@@ -5794,6 +5818,14 @@
         "Category": "Finance"
     },
     {
+        "API": "APIllow",
+        "Description": "Zillow property data with 50+ fields per listing",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://apillow.co",
+        "Category": "Finance"
+    },
+    {
         "API": "ArgentoFX",
         "Description": "Real-time foreign exchange rates for Argentina",
         "Auth": "",
@@ -6191,6 +6223,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://polygon.io/",
+        "Category": "Finance"
+    },
+    {
+        "API": "Polymarket",
+        "Description": "Prediction market data including markets, prices, and order book",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://docs.polymarket.com",
         "Category": "Finance"
     },
     {
@@ -10690,6 +10730,14 @@
         "Category": "Phone"
     },
     {
+        "API": "USA Caller Lookup",
+        "Description": "US reverse phone lookup: carrier, location and FTC robocall complaint data, no key needed",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://www.usacallerlookup.com/api/",
+        "Category": "Phone"
+    },
+    {
         "API": "Veriphone",
         "Description": "Phone number validation & carrier lookup",
         "Auth": "apiKey",
@@ -11738,6 +11786,14 @@
         "Category": "Security"
     },
     {
+        "API": "ThreatCluster",
+        "Description": "Threat intelligence API: incident clusters from 20,000 sources, validated IOCs, CVEs with KEV/EPSS status, ransomware leak-site victims",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://threatcluster.io/api/public/v1/docs",
+        "Category": "Security"
+    },
+    {
         "API": "UK Police",
         "Description": "UK Police data",
         "Auth": "",
@@ -12610,6 +12666,14 @@
         "Category": "Sports & Fitness"
     },
     {
+        "API": "Live Tennis API",
+        "Description": "Live tennis scores, historical results, market odds and AI win-probability for ATP, WTA, Challenger and ITF",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://livetennisapi.com",
+        "Category": "Sports & Fitness"
+    },
+    {
         "API": "Lumify",
         "Description": "Real-time sports intelligence: scores, odds, betting splits & AI bet analysis across 8 sports",
         "Auth": "apiKey",
@@ -13111,6 +13175,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://libretranslate.com/docs",
+        "Category": "Text Analysis"
+    },
+    {
+        "API": "Proofread and Grammar Check API",
+        "Description": "The Proofreading and Grammar Check API ensures the provided text is grammatically correct and polished by automatically proofreading and checking for errors",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/sharpapi-proofread-grammar-check",
         "Category": "Text Analysis"
     },
     {
