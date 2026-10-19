@@ -935,6 +935,7 @@
 |---|---|---|---|
 | [Eventbrite](https://www.eventbrite.com/platform/api/) | Find events | `OAuth` | Unknown |
 | [SeatGeek](https://platform.seatgeek.com/) | Search events, venues and performers | `apiKey` | Unknown |
+| [Things To Do](https://thingstodoapi.com) | Search local events in plain words: concerts, comedy, pop-ups, markets and classes, with times, venues and prices | No | Yes |
 | [Ticketmaster](https://developer.ticketmaster.com/products-and-docs/apis/getting-started/) | Search events, attractions, or venues | `apiKey` | Unknown |
 
 **[⬆ Back to Index](#index)**
