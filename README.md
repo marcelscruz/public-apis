@@ -500,6 +500,7 @@
 | [OKEx](https://okx.com/okx-api) | Cryptocurrency exchange based in Seychelles | `apiKey` | Unknown |
 | [OpenSea](https://docs.opensea.io/reference/api-overview) | The Largest NFT Marketplace | `apiKey` | No |
 | [Ophis](https://ophis.fi) | Natural-language intent parser for DEX swaps across 11 EVM chains | No | Unknown |
+| [Paribu](https://www.paribu.com) | Turkish cryptocurrency exchange with real-time market data, order book, trading and account endpoints | `apiKey` | No |
 | [Poloniex](https://docs.poloniex.com) | US based digital asset exchange | `apiKey` | Unknown |
 | [RealCryptoCap](https://realcryptocap.com/api) | Real crypto market cap without stables, wrapped or tokenized assets: native Top 500, coin lookup and market briefs (paid Pro/Ultra) | `apiKey` | Yes |
 | [Sharpe](https://sharpe.ai) | Crypto market data for funding, futures, options, arbitrage, narratives, and news | No | No |
