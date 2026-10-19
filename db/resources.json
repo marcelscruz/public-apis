@@ -1,5 +1,5 @@
 {
-"count": 1837,
+"count": 1838,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8471,6 +8471,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://data.ibb.gov.tr",
+        "Category": "Government"
+    },
+    {
+        "API": "Kurtaxe",
+        "Description": "German tourist tax (Kurtaxe) rates of more than 250 municipalities as JSON and CSV, every figure quoted from the municipal statute with its source",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://keyset.cloud/kurtaxe/",
         "Category": "Government"
     },
     {
