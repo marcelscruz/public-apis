@@ -1,5 +1,5 @@
 {
-"count": 1840,
+"count": 1841,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9183,6 +9183,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://aidevboard.com",
+        "Category": "Jobs"
+    },
+    {
+        "API": "AI Trainer Work",
+        "Description": "Open AI training jobs (RLHF, data annotation, expert evaluation) from 20+ platforms, with pay, countries and listing dates",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://aitrainer.work",
         "Category": "Jobs"
     },
     {
