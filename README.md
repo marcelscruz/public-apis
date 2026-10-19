@@ -625,6 +625,7 @@
 | [FluentEDI](https://fluentedi.com) | Deterministic tools for AI agents: X12 EDI, check digits, time, cron, JSON repair | No | Yes |
 | [Form Creation API](https://apyhub.com/utility/reformify-form-api) | Create and manage customizable forms within your applications | `apiKey` | Yes |
 | [FormForge](https://formforge-api.vercel.app) | Generate styled, accessible HTML forms from JSON definitions with validation | No | Yes |
+| [jstash](https://jstash.app) | Hosted JSON storage: save JSON with one HTTP request and get a URL any website can fetch | `apiKey` | No |
 | [Netbait IP Scorer](https://netbait.org) | Netbait is a free IP reputation API designed to help users determine whether an IP address has been involved in attacks, scanning attempts, or other malicious a | No | Yes |
 | [NiuProxy](https://niuproxy.com/) | Residential proxies for web scraping, AI agents and automation, with flexible IP rotation, 190+ countries, and HTTP(S)/SOCKS5 support | `apiKey` | No |
 | [OpenWeb Ninja](https://www.openwebninja.com) | The web data & SERP API stack for AI engineers, app developers, and GTM teams. 40+ fast and reliable APIs for accurate, real-time public data from across the we | `apiKey` | Yes |
