@@ -1,5 +1,5 @@
 {
-"count": 1854,
+"count": 1855,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6767,6 +6767,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://codapi.dev/",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "CardZ Marketcap",
+        "Description": "Daily PSA 10 market cap, reference prices and population data for graded Pokémon TCG and One Piece Card Game cards",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://cardzmarketcap.com",
         "Category": "Games & Comics"
     },
     {
