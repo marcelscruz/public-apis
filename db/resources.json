@@ -1,5 +1,5 @@
 {
-"count": 1842,
+"count": 1843,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2623,6 +2623,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://ophis.fi",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "Paribu",
+        "Description": "Turkish cryptocurrency exchange with real-time market data, order book, trading and account endpoints",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.paribu.com",
         "Category": "Cryptocurrency"
     },
     {
