@@ -1,5 +1,5 @@
 {
-"count": 1835,
+"count": 1836,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9119,6 +9119,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://open.fda.gov",
+        "Category": "Health"
+    },
+    {
+        "API": "Peptide Library",
+        "Description": "Peptide research profiles, cited studies and regulatory status, plus a vendor directory and current prices (free key)",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://peptidelibrary.app/developers",
         "Category": "Health"
     },
     {
