@@ -2049,6 +2049,7 @@
 | [GraphHopper](https://docs.graphhopper.com/) | A-to-B routing with turn-by-turn instructions | `apiKey` | Unknown |
 | [Icelandic APIs](https://docs.apis.is/) | Open APIs that deliver services in or regarding Iceland | No | Unknown |
 | [Izi](https://api-docs.izi.travel/) | Audio guide for travellers | `apiKey` | Unknown |
+| [K-AgentPay](https://k-agentpay.com/) | Korea travel live data in English/Japanese/Korean: Seoul subway arrivals, Incheon Airport wait times, Seoul crowds and weather, K-pop concerts | `apiKey` | Yes |
 | [Konkan Railway Live Train Position](https://konkan-railway-api.vercel.app/) | Realtime data for trains on India's Konkan Railway | No | Yes |
 | [Land Transport Authority DataMall, Singapore](https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf) | Singapore transport information | `apiKey` | Unknown |
 | [Metro Lisboa](https://app.metrolisboa.pt/status/getLinhas.php) | Delays in subway lines | No | No |
