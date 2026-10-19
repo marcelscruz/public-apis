@@ -685,6 +685,7 @@
 | [Neon](https://neon.com) | Serverless PostgreSQL with a REST API to manage projects, branches and run SQL over HTTP | `apiKey` | Yes |
 | [Netlify](https://docs.netlify.com/api/get-started/) | Netlify is a hosting service for the programmable web | `OAuth` | Unknown |
 | [NetworkCalc](https://networkcalc.com/api/docs) | Network calculators, including subnets, DNS, binary, and security tools | No | Yes |
+| [NoneCap](https://nonecap.com) | hCaptcha solver API: submit a sitekey and page URL, get back a valid hCaptcha token. Supports regular, invisible and enterprise sitekeys | `apiKey` | Yes |
 | [npm Registry](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md) | Query information about your favorite Node.js libraries programmatically | No | Unknown |
 | [Olostep](https://www.olostep.com) | AI-native web search, scraping, and crawling API that delivers clean, structured, real-time web data. Used by top AI companies | `apiKey` | Yes |
 | [OneSignal](https://documentation.onesignal.com/reference/rest-api-overview) | Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App | `apiKey` | Unknown |
@@ -824,11 +825,13 @@
 | [PDFBolt](https://pdfbolt.com/docs) | High-quality HTML to PDF conversion with templates and AI generation | `apiKey` | Yes |
 | [PDFEndpoint](https://pdfendpoint.com) | HTML and URL to PDF API | `apiKey` | No |
 | [PDFGate](https://pdfgate.com/html-to-pdf-api) | HTML to PDF API with support for custom headers, footers, fillable form fields, and encryption | `apiKey` | Yes |
+| [PDFMint](https://pdf.mintapis.com) | HTML, Markdown or a URL to PDF, PNG or JPEG, plus PDF merging. The file comes back in the same response. Free for 10 documents/month | `apiKey` | No |
 | [pdfrender](https://pdfrender.dev) | HTML and CSS to PDF with page headers, footers and page numbers, no headless browser | `apiKey` | Unknown |
 | [Pocket](https://getpocket.com/developer/) | Bookmarking service | `OAuth` | Unknown |
 | [Podio](https://developers.podio.com) | File sharing and productivity | `OAuth` | Unknown |
 | [PrexView](https://prexview.com) | Data from XML or JSON to PDF, HTML or Image | `apiKey` | Unknown |
 | [PrintSocket](https://www.printsocket.com) | Send PDFs, ZPL labels and ESC/POS receipts to printers you control, from any language | `apiKey` | No |
+| [ReadGZH](https://readgzh.site/.well-known/openapi.yaml) | Read public WeChat Official Account articles as Markdown via REST/MCP; anonymous shared quota or optional API key | No | Yes |
 | [RenderPDF.io](https://renderpdf.io) | HTML to PDF crazy fast, 500 pdfs/month + CDN-ready | `apiKey` | Yes |
 | [ReportForge](https://reportforge-api.vercel.app) | Generate styled HTML reports from CSV or JSON data with built-in templates | No | Yes |
 | [Restpack](https://restpack.io/) | Provides screenshot, HTML to PDF and content extraction APIs | `apiKey` | Unknown |
@@ -956,6 +959,7 @@
 | [AlphaAI](https://alphai.io/developers) | AI-enriched financial & insider-trading news, scored for relevance | `apiKey` | Unknown |
 | [AlphaSMO](https://alphasmo.com) | SEC 13F institutional holdings, Form 4 insider trading, and smart money convergence signals. Free anonymous tier, no signup required | No | Yes |
 | [AlQANAAS Gold Data](https://alqanaas.com/en/developers/gold-data-api) | Live XAUUSD, country gold prices, and weekly gold research in JSON and CSV | No | Yes |
+| [APIllow](https://apillow.co) | Zillow property data with 50+ fields per listing | `apiKey` | Yes |
 | [ArgentoFX](https://fastapiproject-1-eziw.onrender.com/docs) | Real-time foreign exchange rates for Argentina | No | Yes |
 | [Banco do Brasil](https://developers.bb.com.br) | All Banco do Brasil financial transaction APIs | `OAuth` | Yes |
 | [Bargo Congress Trades](https://www.bargo.ai/free-apis/congress) | U.S. Congress STOCK Act stock trades with per-trade performance | No | Yes |
@@ -1006,6 +1010,7 @@
 | [ParityVend](https://www.ambeteco.com/ParityVend/) | Globalize your business by auto-adapting pricing for each visitor with Purchasing Power Parity | `apiKey` | Yes |
 | [Plaid](https://plaid.com/) | Connect with user's bank accounts and access transaction data | `apiKey` | Unknown |
 | [Polygon](https://polygon.io/) | Historical stock market data | `apiKey` | Unknown |
+| [Polymarket](https://docs.polymarket.com) | Prediction market data including markets, prices, and order book | `apiKey` | Yes |
 | [Portfolio Optimizer](https://portfoliooptimizer.io/) | Portfolio analysis and optimization | No | Yes |
 | [Razorpay IFSC](https://razorpay.com/docs/) | Indian Financial Systems Code (Bank Branch Codes) | No | Unknown |
 | [Real Time Finance](https://github.com/Real-time-finance/finance-websocket-API/) | Websocket API to access realtime stock data | `apiKey` | Unknown |
@@ -1646,6 +1651,7 @@
 | [Phone Specification](https://github.com/azharimm/phone-specs-api) | Rest Api for Phone specifications | No | Yes |
 | [Proweblook Phone Number Checker](https://proweblook.com/phone-number-validator) | Phone number validation | `apiKey` | Yes |
 | [Proweblook Whatsapp Contact Checker](https://proweblook.com/whatsapp-number-checker) | Whatsapp number validation | `apiKey` | Yes |
+| [USA Caller Lookup](https://www.usacallerlookup.com/api/) | US reverse phone lookup: carrier, location and FTC robocall complaint data, no key needed | No | Yes |
 | [Veriphone](https://veriphone.io) | Phone number validation & carrier lookup | `apiKey` | Yes |
 
 **[⬆ Back to Index](#index)**
@@ -1807,6 +1813,7 @@
 | [SecurityTrails](https://securitytrails.com/corp/api) | Domain and IP related information such as current and historical WHOIS and DNS records | `apiKey` | Unknown |
 | [Shodan](https://developer.shodan.io/) | Search engine for Internet connected devices | `apiKey` | Unknown |
 | [Spyse](https://spyse-dev.readme.io/reference/quick-start) | Access data on all Internet assets and build powerful attack surface management applications | `apiKey` | Unknown |
+| [ThreatCluster](https://threatcluster.io/api/public/v1/docs) | Threat intelligence API: incident clusters from 20,000 sources, validated IOCs, CVEs with KEV/EPSS status, ransomware leak-site victims | `apiKey` | No |
 | [UK Police](https://data.police.uk/docs/) | UK Police data | No | Unknown |
 | [Virus and Malware Scan API by attachmentAV](https://attachmentav.com/solution/virus-malware-scan-api/) | Scan files for viruses, worms, trojans, ransomware, and other kinds of malware by sending them to the attachmentAV API powered by Sophos | `apiKey` | No |
 | [VulDB](https://vuldb.com/) | VulDB API allows to initiate queries for one or more items along with transactional bots | `apiKey` | Unknown |
@@ -1934,6 +1941,7 @@
 | [iSports API](https://isportsapi.com/) | Provide live and historical sports data of global competitions, like live score, fixtures, player & match stats, database etc. | `apiKey` | Yes |
 | [JCDecaux Bike](https://developer.jcdecaux.com/) | JCDecaux's self-service bicycles | `apiKey` | Unknown |
 | [KashRock](https://www.kashrock.com) | Esports data: player props, odds, live scores, and player stats across CS2, Valorant, LoL, Dota 2, CoD, R6, Mobile Legends, and Apex Legends | `apiKey` | No |
+| [Live Tennis API](https://livetennisapi.com) | Live tennis scores, historical results, market odds and AI win-probability for ATP, WTA, Challenger and ITF | `apiKey` | Yes |
 | [Lumify](https://lumify.ai) | Real-time sports intelligence: scores, odds, betting splits & AI bet analysis across 8 sports | `apiKey` | No |
 | [MLB Records and Stats](https://appac.github.io/mlb-data-api-docs/) | Current and historical MLB statistics | No | Unknown |
 | [MoviOdds](https://moviodds.com) | Free real-time bet365 soccer odds: every market bet365 prices, pre-match and in-play, over REST and WebSocket, plus Bet Builder pricing | No | Yes |
@@ -2009,6 +2017,7 @@
 | [LanguageTool](https://languagetool.org/http-api/) | Style and Grammar Checker for 25+ Languages | No | Unknown |
 | [Lecto Translation](https://rapidapi.com/lecto-lecto-default/api/lecto-translation/) | Translation API with free tier and reasonable prices | `apiKey` | Yes |
 | [LibreTranslate](https://libretranslate.com/docs) | Translation tool with 17 available languages | No | Unknown |
+| [Proofread and Grammar Check API](https://apyhub.com/utility/sharpapi-proofread-grammar-check) | The Proofreading and Grammar Check API ensures the provided text is grammatically correct and polished by automatically proofreading and checking for errors | `apiKey` | Yes |
 | [Safe text](https://rapidapi.com/bacloud14/api/safe-text) | Clean short and long texts. It is probably world most complete text-cleaner API! Providing very fast and accurate results. | `apiKey` | Yes |
 | [Semantria](https://semantria.readme.io/docs) | Text Analytics with sentiment analysis, categorization & named entity extraction | `OAuth` | Unknown |
 | [Tisane](https://tisane.ai/) | Text Analytics with focus on detection of abusive content and law enforcement applications | `OAuth` | Yes |
