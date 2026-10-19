@@ -1,5 +1,5 @@
 {
-"count": 1841,
+"count": 1842,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3479,6 +3479,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://formforge-api.vercel.app",
+        "Category": "Development"
+    },
+    {
+        "API": "jstash",
+        "Description": "Hosted JSON storage: save JSON with one HTTP request and get a URL any website can fetch",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://jstash.app",
         "Category": "Development"
     },
     {
