@@ -1,5 +1,5 @@
 {
-"count": 1838,
+"count": 1839,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4175,6 +4175,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://scraperbox.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "ScrapeUnblocker",
+        "Description": "Web scraping API that renders every page in a real browser, gets past Cloudflare, DataDome, PerimeterX and Akamai, and returns HTML or parsed JSON",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.scrapeunblocker.com",
         "Category": "Development"
     },
     {
