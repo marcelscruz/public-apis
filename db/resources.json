@@ -1,5 +1,5 @@
 {
-"count": 1857,
+"count": 1858,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12023,6 +12023,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://shopsavvy.com/data",
+        "Category": "Shopping"
+    },
+    {
+        "API": "SI5 Global",
+        "Description": "Product lookup by GTIN/EAN or name for ERP, POS and e-commerce, with brands, images and NCM/CEST when available",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://global.si5.com.br",
         "Category": "Shopping"
     },
     {
