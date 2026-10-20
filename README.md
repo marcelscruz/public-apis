@@ -1559,6 +1559,7 @@
 | [French Address Search](https://geo.api.gouv.fr/adresse) | Address search via the French Government | No | Unknown |
 | [Generate Link Preview (including checking for malicious links)](https://apyhub.com/utility/link-preview) | Fetches metadata from any URL passed to it, including Open Graph tags. | `apiKey` | Yes |
 | [GENESIS](https://www.destatis.de/EN/Service/OpenData/api-webservice.html) | Federal Statistical Office Germany | `OAuth` | Unknown |
+| [Global Solo Banking Access Index](https://www.globalsolo.global/data/banking-access-index) | Which of 19 US business banking providers accept company owners from 8 countries of residence, each cell quoting the provider's own page | No | Yes |
 | [InfraNode](https://infranode.dev) | Unified German city open data: weather, air quality, EV chargers, transit, demographics | No | Yes |
 | [Joshua Project](https://api.joshuaproject.net/) | People groups of the world with the fewest followers of Christ | `apiKey` | Unknown |
 | [Kaggle](https://www.kaggle.com/docs/api) | Create and interact with Datasets, Notebooks, and connect with Kaggle | `apiKey` | Unknown |
