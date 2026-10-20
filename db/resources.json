@@ -2242,14 +2242,6 @@
         "Category": "Cryptocurrency"
     },
     {
-        "API": "Block",
-        "Description": "Bitcoin Payment, Wallet & Transaction Data",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://block.io/docs/basic",
-        "Category": "Cryptocurrency"
-    },
-    {
         "API": "BlockBee",
         "Description": "Cryptocurrency Payment Processor",
         "Auth": "apiKey",
@@ -2663,6 +2655,14 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://sharpe.ai",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "SoChain",
+        "Description": "Bitcoin, Litecoin, Dogecoin and Zcash balances, transactions and blocks",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://sochain.com",
         "Category": "Cryptocurrency"
     },
     {
