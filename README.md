@@ -1652,6 +1652,7 @@
 | [MobileAPI](https://mobileapi.dev/docs/) | Smartphone, tablet, and wearable device specifications | `apiKey` | Yes |
 | [NumlookupAPI](https://numlookupapi.com) | Worldwide Phone Number Lookup & Verification API | `apiKey` | Yes |
 | [Phone Specification](https://github.com/azharimm/phone-specs-api) | Rest Api for Phone specifications | No | Yes |
+| [PlaceCall](https://voygr.tech/placecall/) | Voice AI agent that phones US businesses for bookings, appointments and quotes, gets through IVR menus and holds, and returns the outcome and transcript | `apiKey` | No |
 | [Proweblook Phone Number Checker](https://proweblook.com/phone-number-validator) | Phone number validation | `apiKey` | Yes |
 | [Proweblook Whatsapp Contact Checker](https://proweblook.com/whatsapp-number-checker) | Whatsapp number validation | `apiKey` | Yes |
 | [USA Caller Lookup](https://www.usacallerlookup.com/api/) | US reverse phone lookup: carrier, location and FTC robocall complaint data, no key needed | No | Yes |
