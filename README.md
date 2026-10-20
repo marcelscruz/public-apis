@@ -512,6 +512,7 @@
 | [VaultVision](https://vaultvision.tech/developers) | Read-only Hyperliquid vault data, risk rankings, and research signals | No | Yes |
 | [WorldCoinIndex](https://www.worldcoinindex.com/apiservice) | Cryptocurrencies Prices | `apiKey` | Unknown |
 | [x402-list](https://x402-list.com) | Directory of paid x402 APIs with per-endpoint USD pricing and live uptime, vetted before an agent pays, backed by on-chain settlement volume | No | Yes |
+| [XRPL.to](https://xrpl.to/docs) | XRP Ledger token prices, holders, trades and NFT data | No | Yes |
 | [ZMOK](https://docs.zmok.io) | Ethereum JSON RPC API and Web3 provider | No | Unknown |
 
 **[⬆ Back to Index](#index)**
