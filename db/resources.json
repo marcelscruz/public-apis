@@ -5838,7 +5838,7 @@
         "Description": "Live XAUUSD, country gold prices, and weekly gold research in JSON and CSV",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://alqanaas.com/en/developers/gold-data-api",
+        "Link": "https://alqanaas.com",
         "Category": "Finance"
     },
     {
