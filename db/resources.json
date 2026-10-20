@@ -11886,7 +11886,7 @@
         "Description": "Neutral, sourced comparisons of products and services across any category, localized by language and country; per-criterion values, sub-scores and the source link behind each value",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://comparefairly.com/llms.txt",
+        "Link": "https://comparefairly.com",
         "Category": "Shopping"
     },
     {
