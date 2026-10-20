@@ -452,7 +452,6 @@
 | [Bitfinex](https://docs.bitfinex.com/docs) | Cryptocurrency Trading Platform | `apiKey` | Unknown |
 | [Bitmex](https://www.bitmex.com/app/apiOverview) | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong | `apiKey` | Unknown |
 | [BlackForge](https://blackforge.so) | Order book depth, resting-liquidity lifetimes and taker buy/sell flow for ~11,800 pairs on 9 spot exchanges, per 5-minute window | `apiKey` | No |
-| [Block](https://block.io/docs/basic) | Bitcoin Payment, Wallet & Transaction Data | `apiKey` | Unknown |
 | [BlockBee](https://docs.blockbee.io/) | Cryptocurrency Payment Processor | `apiKey` | Unknown |
 | [Blockchain](https://www.blockchain.com/api) | Bitcoin Payment, Wallet & Transaction Data | `apiKey` | Unknown |
 | [blockfrost Cardano](https://blockfrost.io/) | Interaction with the Cardano mainnet and several testnets | `apiKey` | Unknown |
@@ -505,6 +504,7 @@
 | [Poloniex](https://docs.poloniex.com) | US based digital asset exchange | `apiKey` | Unknown |
 | [RealCryptoCap](https://realcryptocap.com/api) | Real crypto market cap without stables, wrapped or tokenized assets: native Top 500, coin lookup and market briefs (paid Pro/Ultra) | `apiKey` | Yes |
 | [Sharpe](https://sharpe.ai) | Crypto market data for funding, futures, options, arbitrage, narratives, and news | No | No |
+| [SoChain](https://sochain.com) | Bitcoin, Litecoin, Dogecoin and Zcash balances, transactions and blocks | No | Yes |
 | [Solana JSON RPC](https://docs.solana.com/developing/clients/jsonrpc-api) | Provides various endpoints to interact with the Solana Blockchain | No | Unknown |
 | [Trading View](https://www.tradingview.com/rest-api-spec/) | Market price, data, graph for brokers and traders | `OAuth` | Unknown |
 | [Tron Network](https://developers.tron.network/reference/api-key) | Provides various endpoints to interact with the Tron Blockchain | No | Unknown |
