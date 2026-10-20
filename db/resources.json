@@ -1,5 +1,5 @@
 {
-"count": 1855,
+"count": 1856,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5295,6 +5295,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://www.mailcheck.ai/#documentation",
+        "Category": "Email"
+    },
+    {
+        "API": "mailfloss",
+        "Description": "Email verification for signup forms and lists. Stops spam signups by blocking disposable and invalid emails and suggests typo fixes, with 500 free a month",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://mailfloss.com",
         "Category": "Email"
     },
     {
