@@ -1230,7 +1230,7 @@
         "Description": "Cross-frontend DEX attribution and execution quality data across Ethereum and L2s",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://cleartracedata.com/docs",
+        "Link": "https://cleartracedata.com",
         "Category": "Blockchain"
     },
     {
