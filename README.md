@@ -138,6 +138,7 @@
 | [Prismix Status API](https://prismix.dev/api-docs) | Real-time uptime and incident status for 75+ AI services (OpenAI, Anthropic, Cursor, Gemini) | No | Yes |
 | [Requesty](https://www.requesty.ai) | OpenAI-compatible gateway that routes requests to 600+ models from 30+ providers, with fallbacks, caching and spend tracking | `apiKey` | Yes |
 | [Roboflow Universe](https://universe.roboflow.com) | Pre-trained computer vision models | `apiKey` | Yes |
+| [Runcrate](https://www.runcrate.ai) | OpenAI-compatible inference for 200+ open models plus on-demand cloud GPUs (H100, A100, RTX 4090), billed by usage | `apiKey` | Yes |
 | [SkyBiometry](https://skybiometry.com/documentation/) | Face Detection, Face Recognition and Face Grouping | `apiKey` | Unknown |
 | [Spam Hunter](https://spam-hunter.ru/) | Free service to classify text as spam using ML | `apiKey` | Yes |
 | [Summarize Text with AI](https://apyhub.com/utility/ai-summarize) | This API generates customizable summaries of text and web pages using AI | `apiKey` | Yes |
