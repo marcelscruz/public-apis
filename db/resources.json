@@ -1,5 +1,5 @@
 {
-"count": 1856,
+"count": 1857,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5007,6 +5007,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://pdfrender.dev",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "PicToText OCR",
+        "Description": "Structured OCR for IDs, passports, and driver's licenses across 30+ countries",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://pictotext.io",
         "Category": "Documents & Productivity"
     },
     {
