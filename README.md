@@ -1500,6 +1500,7 @@
 | [Spotify](https://beta.developer.spotify.com/documentation/web-api/) | View Spotify music catalog and manage users' libraries and playlists | `OAuth` | Unknown |
 | [TasteDive](https://tastedive.com/read/api) | Similar artist API (also works for movies and TV shows) | `apiKey` | Unknown |
 | [TheAudioDB](https://www.theaudiodb.com/free_music_api) | Music | `apiKey` | Unknown |
+| [Words into Music](https://wordsintomusic.com/) | Generate songs from ideas or lyrics in five languages, track jobs and read your own song library | `apiKey` | No |
 
 **[⬆ Back to Index](#index)**
 
