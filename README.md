@@ -1840,6 +1840,7 @@
 | [Flipkart Marketplace](https://seller.flipkart.com/api-docs/FMSAPI.html) | Product listing management, Order Fulfilment in the Flipkart Marketplace | `OAuth` | Yes |
 | [Lazada](https://open.lazada.com/doc/doc.htm) | Retrieve product ratings and seller performance metrics | `apiKey` | Unknown |
 | [Mercadolibre](https://developers.mercadolibre.cl/es_ar/api-docs-es) | Manage sales, ads, products, services and Shops | `apiKey` | Unknown |
+| [Nexscope](https://www.nexscope.ai) | Ecommerce marketplace data for Amazon, TikTok Shop, Walmart, Shopee, Temu and more: products, keywords, reviews, sales estimates; REST API and MCP | `apiKey` | No |
 | [OLX Poland](https://developer.olx.pl/api/doc#section/) | Integrate with local sites by posting, managing adverts and communicating with OLX users | `apiKey` | Unknown |
 | [Platzi Fake Store](https://fakeapi.platzi.com/) | A fake store API for your e-commerce or shopping website prototype. For testing and learning | `apiKey` | Unknown |
 | [Printful](https://developers.printful.com) | Printful's official API to manage and integrate their services | `OAuth` | Unknown |
