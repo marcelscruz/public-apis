@@ -265,6 +265,7 @@
 | [Pika](https://pika.style/image-generation-api) | Image Generation API | `apiKey` | Yes |
 | [Sticker Shop](https://api.tasta.space/stickers) | Pop art on demand: comic bursts, speech balloons, rubber stamps and retro error windows with your own text, as SVG or PNG | No | Yes |
 | [The Color](https://www.thecolorapi.com/) | Swiss army knife for color | No | Unknown |
+| [WAODAO](https://waodao.ai/) | Read-only access to a daily Human + AI art archive and NFT metadata | No | Yes |
 | [Word Cloud](https://wordcloudapi.com/) | Easily create word clouds | `apiKey` | Unknown |
 | [xColors](https://github.com/cheatsnake/xColors-api) | Generate & convert colors | No | Yes |
 
