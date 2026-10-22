@@ -1,5 +1,5 @@
 {
-"count": 1876,
+"count": 1877,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2695,6 +2695,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://realcryptocap.com/api",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "send21",
+        "Description": "Crypto pay links and API for people and AI agents: non-custodial BTC, Lightning, USDC, USDT, EURC, SOL and ETH payment requests",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://send21.io",
         "Category": "Cryptocurrency"
     },
     {
