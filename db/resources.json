@@ -1,5 +1,5 @@
 {
-"count": 1866,
+"count": 1867,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2319,6 +2319,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://bykaranteli.com",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "CabalSpy",
+        "Description": "Real-time KOL, smart money and whale wallet tracking across Solana, Ethereum, BNB Chain, Base and Robinhood Chain. 2,000+ labeled wallets, REST and WebSocket",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://www.cabalspy.xyz/",
         "Category": "Cryptocurrency"
     },
     {
