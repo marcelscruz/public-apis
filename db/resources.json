@@ -1,5 +1,5 @@
 {
-"count": 1871,
+"count": 1872,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10391,6 +10391,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://salarywiki.com/api",
+        "Category": "Open Data"
+    },
+    {
+        "API": "Scento Perfume API",
+        "Description": "Perfume notes, families, houses and raw materials, each tied to a page on scento.com",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://www.scento.com/developers/perfume-api",
         "Category": "Open Data"
     },
     {
