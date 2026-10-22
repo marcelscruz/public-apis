@@ -1,5 +1,5 @@
 {
-"count": 1880,
+"count": 1881,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4639,6 +4639,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://webscraping.ai/",
+        "Category": "Development"
+    },
+    {
+        "API": "xmlvalid",
+        "Description": "Validate XML against XSD, DTD and RelaxNG, and e-invoices against EN 16931, Peppol and XRechnung rules",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://xmlvalid.com/",
         "Category": "Development"
     },
     {
