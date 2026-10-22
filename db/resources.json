@@ -1,5 +1,5 @@
 {
-"count": 1860,
+"count": 1862,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1087,6 +1087,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://pika.style/image-generation-api",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "Sticker Shop",
+        "Description": "Pop art on demand: comic bursts, speech balloons, rubber stamps and retro error windows with your own text, as SVG or PNG",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://api.tasta.space/stickers",
         "Category": "Art & Design"
     },
     {
@@ -10064,6 +10072,14 @@
         "Cors": "yes",
         "Link": "https://worldnewsapi.com",
         "Category": "News"
+    },
+    {
+        "API": "10ML Fragrance Index",
+        "Description": "Perfume knowledge from the 10ML Fragrance Index: notes, accords, fragrance families, similar scents, houses and expert guides",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://mcp.10ml.com",
+        "Category": "Open Data"
     },
     {
         "API": "Archive.org",
