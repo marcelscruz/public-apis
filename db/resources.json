@@ -1,5 +1,5 @@
 {
-"count": 1864,
+"count": 1866,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -303,6 +303,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://universe.roboflow.com",
+        "Category": "AI"
+    },
+    {
+        "API": "RouterBase API",
+        "Description": "One OpenAI-compatible API for accessing 200+ AI models from OpenAI, Anthropic, Google, Meta, xAI, DeepSeek, and more",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://routerbase.com",
         "Category": "AI"
     },
     {
@@ -711,6 +719,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://shikimori.one/api/doc",
+        "Category": "Anime"
+    },
+    {
+        "API": "Tenrai",
+        "Description": "Tenrai is a free Unofficial public REST API for the full MyAnimeList public catalogue. Anime, manga, characters, people, producers, seasons, and more",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://tenrai.org",
         "Category": "Anime"
     },
     {
