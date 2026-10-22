@@ -462,6 +462,7 @@
 | [BtcTurk](https://docs.btcturk.com/) | Real-time cryptocurrency data, graphs and API that allows buy&sell | `apiKey` | Yes |
 | [Bybit](https://bybit-exchange.github.io/docs) | Cryptocurrency data feed and algorithmic trading | `apiKey` | Unknown |
 | [ByKaranteli](https://bykaranteli.com) | Cross-exchange crypto derivatives data: funding rates, open interest, liquidation maps, options flow, ETF flows and Fear & Greed. JSON and CSV, free key with a verified account | `apiKey` | Yes |
+| [CabalSpy](https://www.cabalspy.xyz/) | Real-time KOL, smart money and whale wallet tracking across Solana, Ethereum, BNB Chain, Base and Robinhood Chain. 2,000+ labeled wallets, REST and WebSocket | `apiKey` | Unknown |
 | [Chord](https://getchord.xyz) | DEX aggregator API with best-route quotes split across DEXs and unsigned swap transactions on Base, Arbitrum, BNB Chain, Avalanche, Monad and more | No | Yes |
 | [Codex Data](https://www.codex.io) | Real-time and historical token prices, charts and wallet data across 80+ blockchain networks | `apiKey` | Yes |
 | [CoinAPI](https://docs.coinapi.io/) | All Currency Exchanges integrate under a single api | `apiKey` | No |
