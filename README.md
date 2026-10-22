@@ -1581,6 +1581,7 @@
 | [InfraNode](https://infranode.dev) | Unified German city open data: weather, air quality, EV chargers, transit, demographics | No | Yes |
 | [Joshua Project](https://api.joshuaproject.net/) | People groups of the world with the fewest followers of Christ | `apiKey` | Unknown |
 | [Kaggle](https://www.kaggle.com/docs/api) | Create and interact with Datasets, Notebooks, and connect with Kaggle | `apiKey` | Unknown |
+| [Künstlerfinanzen](https://kuenstlerfinanzen.de/entwickler.html) | Contribution rates of the German artists' social insurance (Künstlersozialkasse) per year and branch, each value with its source | No | No |
 | [LinkPreview](https://www.linkpreview.net) | Get JSON formatted summary with title, description and preview image for any requested URL | `apiKey` | Yes |
 | [Lottizen](https://lottizen.com) | Lottery draw results and number statistics for Canada, US and Europe, plus Canadian scratch-ticket remaining prizes | `X-Mashape-Key` | Yes |
 | [Lowy Asia Power Index](https://github.com/0x0is1/lowy-index-api-docs) | Get measure resources and influence to rank the relative power of states in Asia | No | Unknown |
