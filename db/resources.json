@@ -1,5 +1,5 @@
 {
-"count": 1881,
+"count": 1882,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10471,6 +10471,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.scoop.it/dev",
+        "Category": "Open Data"
+    },
+    {
+        "API": "SlashYear",
+        "Description": "History by year, date and country, plus world leaders, historical prices and No. 1 songs, each line cited to a Wikipedia revision",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://slashyear.com",
         "Category": "Open Data"
     },
     {
