@@ -1,5 +1,5 @@
 {
-"count": 1873,
+"count": 1874,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10319,6 +10319,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.linkpreview.net",
+        "Category": "Open Data"
+    },
+    {
+        "API": "Lottizen",
+        "Description": "Lottery draw results and number statistics for Canada, US and Europe, plus Canadian scratch-ticket remaining prizes",
+        "Auth": "X-Mashape-Key",
+        "Cors": "yes",
+        "Link": "https://lottizen.com",
         "Category": "Open Data"
     },
     {
