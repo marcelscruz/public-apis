@@ -2079,6 +2079,7 @@
 | [Fuel Prices at Spanish Gas Stations](https://datos.gob.es/en/apidata) | Provides information about fuel prices at gas stations in Spain | No | No |
 | [Grab](https://developer.grab.com/docs/) | Track deliveries, ride fares, payments and loyalty points | `OAuth` | Unknown |
 | [GraphHopper](https://docs.graphhopper.com/) | A-to-B routing with turn-by-turn instructions | `apiKey` | Unknown |
+| [HaulierScope](https://haulierscope.co.uk) | Great Britain goods vehicle and PSV operator licences, change history and public inquiries | No | Yes |
 | [Icelandic APIs](https://docs.apis.is/) | Open APIs that deliver services in or regarding Iceland | No | Unknown |
 | [Izi](https://api-docs.izi.travel/) | Audio guide for travellers | `apiKey` | Unknown |
 | [K-AgentPay](https://k-agentpay.com/) | Korea travel live data in English/Japanese/Korean: Seoul subway arrivals, Incheon Airport wait times, Seoul crowds and weather, K-pop concerts | `apiKey` | Yes |
