@@ -770,6 +770,7 @@
 | [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel/API.md) | Code compiler supporting 35+ languages mentioned at wandbox.org | No | Unknown |
 | [Web Scraping API](https://apyhub.com/utility/sharpapi-web-scraping-api) | Extract structured data from any public URL | `apiKey` | Yes |
 | [WebScraping.AI](https://webscraping.ai/) | Web Scraping API with built-in proxies and JS rendering | `apiKey` | Yes |
+| [xmlvalid](https://xmlvalid.com/) | Validate XML against XSD, DTD and RelaxNG, and e-invoices against EN 16931, Peppol and XRechnung rules | `apiKey` | Yes |
 | [YAMLine](https://yamline.com/json/) | Convert YAML to JSON (on-the-fly) | No | Yes |
 | [ZenRows](https://www.zenrows.com/) | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies | `apiKey` | Unknown |
 | [Zuplo](https://zuplo.com/) | API platform for Development, Deployment, and Docs - add auth, rate-limiting, and monetization fast | `apiKey` | Unknown |
