@@ -278,6 +278,7 @@
 | [GetOTP](https://otp.dev/en/docs/) | Implement OTP flow quickly | `apiKey` | No |
 | [Kinde](https://kinde.com) | Authentication for modern applications. Integrates in minutes and free up to 7,500 MAU | `OAuth` | No |
 | [MojoAuth](https://mojoauth.com) | Secure and modern passwordless authentication platform | `apiKey` | Yes |
+| [ReqKey](https://www.reqkey.com) | ReqKey validates API keys, meters credits, enforces rate limits, and logs every request — from a single SDK call inside your own middleware | `apiKey` | No |
 | [Stytch](https://stytch.com/) | User infrastructure for modern applications | `apiKey` | No |
 | [Warrant](https://docs.warrant.dev/) | APIs for authorization and access control | `apiKey` | Yes |
 
