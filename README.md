@@ -201,6 +201,7 @@
 | [Nekosia API](https://nekosia.cat) | Random catgirl images with metadata, dominant colors, compressed versions, duplicate prevention, and its own booru | No | Yes |
 | [PokéAPI](https://pokeapi.co) | Pokémon data, including imagery | No | No |
 | [Shikimori](https://shikimori.one/api/doc) | Anime discovery, tracking, forum, rates | `OAuth` | Unknown |
+| [Tenrai](https://tenrai.org) | Tenrai is a free Unofficial public REST API for the full MyAnimeList public catalogue. Anime, manga, characters, people, producers, seasons, and more | No | Yes |
 | [Trace Moe](https://soruly.github.io/trace.moe-api/#/) | A useful tool to get the exact scene of an anime from a screenshot | No | No |
 | [Waifu.im](https://waifu.im/docs) | Get waifu pictures from an archive of over 4000 images and multiple tags | No | Yes |
 
