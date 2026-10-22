@@ -106,6 +106,7 @@
 | [AI/ML](https://aimlapi.com) | Access 100+ curated AI Models over 1 API | `apiKey` | Yes |
 | [API Route](https://www.api-route.com) | OpenAI-compatible multi-model gateway for chat completions with API keys and usage-based billing | `apiKey` | Yes |
 | [APIClaw](https://apiclaw.biz) | Flat-rate OpenAI-compatible gateway for Claude, GPT, DeepSeek, Qwen, Kimi and GLM models | `apiKey` | Yes |
+| [APIModels](https://apimodels.app) | OpenAI-compatible API for 150+ image, video, audio and LLM models: automatic channel failover, failed calls not billed, most prices below official rates | `apiKey` | Yes |
 | [Azurade](https://azurade.com) | Image and video generation with 30+ models (Veo, Seedance, Nano Banana) over one REST API, paid per generation from credits that never expire | `apiKey` | Yes |
 | [Chatwith](https://chatwith.tools) | Build custom ChatGPT-style AI chatbots trained on your website and files, integrated with 5000+ apps — no coding, live in minutes. | `apiKey` | Yes |
 | [Cheaper Inference](https://cheaperinference.com) | OpenAI-compatible LLM gateway: one API key for chat models from several labs, plus an Anthropic-compatible Messages endpoint | `apiKey` | No |
