@@ -1,5 +1,5 @@
 {
-"count": 1877,
+"count": 1878,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -47,6 +47,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apiclaw.biz",
+        "Category": "AI"
+    },
+    {
+        "API": "APIModels",
+        "Description": "OpenAI-compatible API for 150+ image, video, audio and LLM models: automatic channel failover, failed calls not billed, most prices below official rates",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://apimodels.app",
         "Category": "AI"
     },
     {
