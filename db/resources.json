@@ -1,5 +1,5 @@
 {
-"count": 1864,
+"count": 1863,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11919,14 +11919,6 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://partners.clickwise.net/",
-        "Category": "Shopping"
-    },
-    {
-        "API": "CompareFairly",
-        "Description": "Neutral, sourced comparisons of products and services across any category, localized by language and country; per-criterion values, sub-scores and the source link behind each value",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://comparefairly.com",
         "Category": "Shopping"
     },
     {
