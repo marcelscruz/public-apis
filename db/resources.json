@@ -1,5 +1,5 @@
 {
-"count": 1878,
+"count": 1879,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1847,6 +1847,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://vaneform.com",
+        "Category": "Business"
+    },
+    {
+        "API": "VNCNT Labs Trademark Checker",
+        "Description": "Check product titles, tags and slogans against about 4.4M live USPTO trademarks by class, with risk level, owner and serial number",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://vncntlabs.com/tools/trademark-checker/",
         "Category": "Business"
     },
     {
