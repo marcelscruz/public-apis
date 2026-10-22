@@ -1,5 +1,5 @@
 {
-"count": 1869,
+"count": 1872,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4018,6 +4018,14 @@
         "Category": "Development"
     },
     {
+        "API": "NoneCap",
+        "Description": "hCaptcha solver API: submit a sitekey and page URL, get back a valid hCaptcha token. Supports regular, invisible and enterprise sitekeys",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://nonecap.com",
+        "Category": "Development"
+    },
+    {
         "API": "npm Registry",
         "Description": "Query information about your favorite Node.js libraries programmatically",
         "Auth": "",
@@ -4255,6 +4263,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://scraperbox.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "ScrapeUnblocker",
+        "Description": "Web scraping API that renders every page in a real browser, gets past Cloudflare, DataDome, PerimeterX and Akamai, and returns HTML or parsed JSON",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.scrapeunblocker.com",
         "Category": "Development"
     },
     {
@@ -5095,6 +5111,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://www.printsocket.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "ReadGZH",
+        "Description": "Read public WeChat Official Account articles as Markdown via REST/MCP; anonymous shared quota or optional API key",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://readgzh.site/.well-known/openapi.yaml",
         "Category": "Documents & Productivity"
     },
     {
