@@ -1,5 +1,5 @@
 {
-"count": 1872,
+"count": 1873,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8119,6 +8119,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://opencagedata.com",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "OpenGeocoding",
+        "Description": "Forward and reverse geocoding and address autocomplete built on OpenStreetMap, Overture Maps and other open data",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://opengeocoding.com",
         "Category": "Geocoding"
     },
     {
