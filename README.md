@@ -1265,6 +1265,7 @@
 | [OnWater](https://onwater.io/) | Determine if a lat/lon is on water or land | No | Unknown |
 | [Open Topo Data](https://www.opentopodata.org) | Elevation and ocean depth for a latitude and longitude | No | No |
 | [OpenCage](https://opencagedata.com) | Forward and reverse geocoding using open data | `apiKey` | Yes |
+| [OpenGeocoding](https://opengeocoding.com) | Forward and reverse geocoding and address autocomplete built on OpenStreetMap, Overture Maps and other open data | `apiKey` | Yes |
 | [OpenPLZ API](https://www.openplzapi.org/) | A public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland via an open REST API | No | Yes |
 | [openrouteservice.org](https://openrouteservice.org/) | Directions, POIs, isochrones, geocoding (+reverse), elevation, and more | `apiKey` | Unknown |
 | [OpenStreetMap](https://wiki.openstreetmap.org/wiki/API) | Navigation, geolocation and geographical data | `OAuth` | Unknown |
