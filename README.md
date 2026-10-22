@@ -810,6 +810,7 @@
 | [Flowdash](https://docs.flowdash.com/docs/api-introduction) | Automate business workflows | `apiKey` | Unknown |
 | [Formfeed](https://formfeed.dev) | Render PDFs and images from HTML templates (Jinja2, Liquid, Handlebars) or Word files with one API call. EU-hosted, free tier | `apiKey` | No |
 | [fynk](https://fynk.com) | Generate, update, and manage contracts from your own systems with a secure and scalable REST API | `apiKey` | Yes |
+| [Hexloom File](https://hexloomlabs.com/api/) | Merge PDFs and strip or inspect photo metadata (EXIF, GPS) with one HTTP call; files processed in memory, not stored | `apiKey` | Yes |
 | [Html2PDF](https://html2pdf.app/) | HTML/URL to PDF | `apiKey` | Unknown |
 | [iLovePDF](https://developer.ilovepdf.com/) | Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month | `apiKey` | Yes |
 | [Invoice Parsing API](https://apyhub.com/utility/sharpapi-ai-invoice-parser) | Extract structured invoice data using AI with this API. Multiple formats supported | `apiKey` | Yes |
