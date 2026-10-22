@@ -1,5 +1,5 @@
 {
-"count": 1863,
+"count": 1864,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3487,6 +3487,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://extendsclass.com/json-storage.html",
+        "Category": "Development"
+    },
+    {
+        "API": "FireDash Fire Hydrant Public API",
+        "Description": "Live fire hydrant data: location, flow rate in GPM, and whether each hydrant is in or out of service. Sourced from the fire departments that maintain them",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://developer.firedash.us/",
         "Category": "Development"
     },
     {
