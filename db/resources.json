@@ -1,5 +1,5 @@
 {
-"count": 1879,
+"count": 1880,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10127,6 +10127,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://github.com/NHagar/substack_api",
+        "Category": "News"
+    },
+    {
+        "API": "The Deploy Log",
+        "Description": "AI deployments, each sourced to the publisher's own page: query by words, company or ISO week over MCP, or fetch every row as JSON or CSV",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://deployedbyai.com/log/",
         "Category": "News"
     },
     {
