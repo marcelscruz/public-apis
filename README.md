@@ -1007,6 +1007,7 @@
 | [Intrinio](https://intrinio.com/) | A wide selection of financial data feeds | `apiKey` | Unknown |
 | [KeepRule](https://github.com/henu-wang/keeprule-api) | Investment principles and quotes from Buffett, Munger, and other masters | No | Yes |
 | [Kite Connect](https://kite.trade/docs/connect/v3/) | Stock market investment and trading platform | `apiKey` | No |
+| [Kultranz](https://kultranz.com) | US salary, tax and cost-of-living data: take-home pay, tax brackets and COL index from BLS, BEA, Census and IRS sources | No | Yes |
 | [Klarna](https://docs.klarna.com/klarna-payments/api/payments-api/) | Klarna payment and shopping service | `apiKey` | Unknown |
 | [LiquiLens](https://liquilens.in) | Public-record bank and lender failure-risk evidence | No | Yes |
 | [MercadoPago](https://www.mercadopago.com.br/developers/es/reference) | Mercado Pago API reference - all the information you need to develop your integrations | `apiKey` | Unknown |
