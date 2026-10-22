@@ -1,5 +1,5 @@
 {
-"count": 1869,
+"count": 1870,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5287,6 +5287,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://www.guerrillamail.com/GuerrillaMailAPI.html",
+        "Category": "Email"
+    },
+    {
+        "API": "Hail",
+        "Description": "Find phone numbers, submit registration documents, and add calls, SMS, and email through one API",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://hail.so",
         "Category": "Email"
     },
     {
