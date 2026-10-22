@@ -869,6 +869,7 @@
 | [Emailvalidation](https://emailvalidation.io/email-validation-api/) | E-Mail address validation | `apiKey` | Yes |
 | [FreeCustom.Email](https://freecustom.email) | Disposable email inboxes with OTP extraction and real-time WebSocket events | `apiKey` | Yes |
 | [Guerrilla Mail](https://www.guerrillamail.com/GuerrillaMailAPI.html) | Disposable temporary Email addresses | No | Unknown |
+| [Hail](https://hail.so) | Find phone numbers, submit registration documents, and add calls, SMS, and email through one API | `apiKey` | No |
 | [Heybounce](https://www.heybounce.io/#email-verification-api) | Email Verification API | No | Yes |
 | [ImprovMX](https://improvmx.com/api) | API for free email forwarding service | `apiKey` | Unknown |
 | [inboxsink](https://inboxsink.com) | Disposable inboxes for end-to-end tests that wait for the email and extract OTP codes and links | `apiKey` | No |
