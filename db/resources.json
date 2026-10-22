@@ -5323,7 +5323,7 @@
     },
     {
         "API": "Hail",
-        "Description": "Find phone numbers, submit registration documents, and add calls, SMS, and email through one API",
+        "Description": "Add AI calls, SMS, and email to apps and AI agents through one API",
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://hail.so",
