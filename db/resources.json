@@ -1,5 +1,5 @@
 {
-"count": 1867,
+"count": 1868,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1183,6 +1183,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://mojoauth.com",
+        "Category": "Authentication & Authorization"
+    },
+    {
+        "API": "ReqKey",
+        "Description": "ReqKey validates API keys, meters credits, enforces rate limits, and logs every request — from a single SDK call inside your own middleware",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.reqkey.com",
         "Category": "Authentication & Authorization"
     },
     {
