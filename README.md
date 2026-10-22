@@ -1537,6 +1537,7 @@
 | [Sonto](https://sonto.tech) | Tech and AI news as JSON or RSS, with translated feeds in EN, DE, ES, FR, JA | No | Yes |
 | [Spaceflight News](https://spaceflightnewsapi.net) | Spaceflight related news 🚀 | No | Yes |
 | [Substack API Wrapper](https://github.com/NHagar/substack_api) | Substack's newsletter platform now has an API wrapper, for easy access to latest posts | No | Unknown |
+| [The Deploy Log](https://deployedbyai.com/log/) | AI deployments, each sourced to the publisher's own page: query by words, company or ISO week over MCP, or fetch every row as JSON or CSV | No | Yes |
 | [The Guardian](https://open-platform.theguardian.com/) | Access all the content the Guardian creates, categorised by tags and section | `apiKey` | Unknown |
 | [The Old Reader](https://github.com/theoldreader/api) | RSS reader | `apiKey` | Unknown |
 | [TheNews](https://www.thenewsapi.com/) | Aggregated headlines, top story and live news JSON API | `apiKey` | Yes |
