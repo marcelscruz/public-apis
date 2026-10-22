@@ -1,5 +1,5 @@
 {
-"count": 1870,
+"count": 1871,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1639,6 +1639,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.google.com/analytics/",
+        "Category": "Business"
+    },
+    {
+        "API": "Hexvan",
+        "Description": "Contacts, quotes, invoices and receipts of a small trade business (plumbers, electricians, roofers)",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://hexvan.com",
         "Category": "Business"
     },
     {
