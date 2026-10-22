@@ -1919,6 +1919,7 @@
 | [vk](https://vk.com/dev/sites) | Read and write vk data | `OAuth` | Unknown |
 | [Wapio](https://www.wapio.io) | WhatsApp messaging with text, media, QR-code connection and incoming-message webhooks | `apiKey` | No |
 | [Webex](https://developer.webex.com) | Team collaboration software | `OAuth` | Yes |
+| [Weir](https://weirapp.io) | Public Reddit and X (Twitter) data: search posts, read comment threads, profiles and followers, and run scheduled monitors with webhooks | `apiKey` | No |
 | [WoopSocial](https://woopsocial.com) | Schedule and publish posts across social media platforms | `apiKey` | No |
 | [Zoom](https://developers.zoom.us/docs/api) | Video communication, web conferencing, chat, and webinars | `OAuth` | Unknown |
 
