@@ -745,6 +745,7 @@
 | [Serialif Color](https://color.serialif.com/) | Color conversion, complementary, grayscale and contrasted text | No | No |
 | [SERP Rank Checker](https://apyhub.com/utility/serp-rank) | Check realtime Google SERP Rank of any keywords | `apiKey` | Yes |
 | [SerpApi - Search API](https://serpapi.com/) | SerpApi's Search API makes it easy and fast to scrape Google and other search engines | `apiKey` | No |
+| [Serper Live](https://serper.live/) | Live Google SERP API: organic results as JSON for a chosen country, language and device | `apiKey` | No |
 | [Shadify](https://github.com/cheatsnake/shadify) | Service for generating data and executing logic to create various games and puzzles | No | Yes |
 | [Sheet2API](https://sheet2api.com/) | Easy Google Sheets and Excel Online API | `apiKey` | Unknown |
 | [Sheetsu](https://sheetsu.com/) | Easy google sheets integration | `apiKey` | Unknown |
