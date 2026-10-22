@@ -1,5 +1,5 @@
 {
-"count": 1862,
+"count": 1864,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2727,6 +2727,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://x402-list.com",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "XRPL.to",
+        "Description": "XRP Ledger token prices, holders, trades and NFT data",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://xrpl.to/docs",
         "Category": "Cryptocurrency"
     },
     {
@@ -12527,6 +12535,14 @@
         "Auth": "OAuth",
         "Cors": "yes",
         "Link": "https://developer.webex.com",
+        "Category": "Social"
+    },
+    {
+        "API": "Weir",
+        "Description": "Public Reddit and X (Twitter) data: search posts, read comment threads, profiles and followers, and run scheduled monitors with webhooks",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://weirapp.io",
         "Category": "Social"
     },
     {
