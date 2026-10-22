@@ -1,5 +1,5 @@
 {
-"count": 1874,
+"count": 1875,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9887,6 +9887,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.theaudiodb.com/free_music_api",
+        "Category": "Music"
+    },
+    {
+        "API": "Words into Music",
+        "Description": "Generate songs from ideas or lyrics in five languages, track jobs and read your own song library",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://wordsintomusic.com/",
         "Category": "Music"
     },
     {
