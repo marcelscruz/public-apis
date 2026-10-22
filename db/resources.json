@@ -1,5 +1,5 @@
 {
-"count": 1859,
+"count": 1860,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10631,6 +10631,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://github.com/Medium/medium-api-docs",
+        "Category": "Personality"
+    },
+    {
+        "API": "Perle Românești",
+        "Description": "Real slips of the tongue said in public by famous Romanians, quoted word for word with context, date and source, at random or filtered",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://api.tasta.space/perle-romanesti",
         "Category": "Personality"
     },
     {
