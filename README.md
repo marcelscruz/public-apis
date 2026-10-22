@@ -1489,6 +1489,7 @@
 | [audiometa.io](https://www.audiometa.io) | Aggregated live web signals and multiple APIs into one catalog. artists, tracks, playcounts, social reach, and more | `apiKey` | No |
 | [Bandcamp](https://bandcamp.com/developer) | API of Music store Bandcamp | `OAuth` | Unknown |
 | [Bandsintown](https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0) | Music Events | No | Unknown |
+| [Cucutime](https://cucutime.org) | Kids-song ideas for any name and search over the CucuTime YouTube catalog; a free key adds AI songs for adult-facing apps | No | Yes |
 | [Deezer](https://developers.deezer.com/api) | Music | `OAuth` | Unknown |
 | [Discogs](https://www.discogs.com/developers) | Music | `OAuth` | Unknown |
 | [Freesound](https://freesound.org/docs/api/) | Music Samples | `apiKey` | Unknown |
