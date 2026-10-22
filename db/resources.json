@@ -1,5 +1,5 @@
 {
-"count": 1872,
+"count": 1873,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13575,6 +13575,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://docs.graphhopper.com/",
+        "Category": "Transportation"
+    },
+    {
+        "API": "HaulierScope",
+        "Description": "Great Britain goods vehicle and PSV operator licences, change history and public inquiries",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://haulierscope.co.uk",
         "Category": "Transportation"
     },
     {
