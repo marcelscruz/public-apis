@@ -692,6 +692,7 @@
 | [Neon](https://neon.com) | Serverless PostgreSQL with a REST API to manage projects, branches and run SQL over HTTP | `apiKey` | Yes |
 | [Netlify](https://docs.netlify.com/api/get-started/) | Netlify is a hosting service for the programmable web | `OAuth` | Unknown |
 | [NetworkCalc](https://networkcalc.com/api/docs) | Network calculators, including subnets, DNS, binary, and security tools | No | Yes |
+| [NoneCap](https://nonecap.com) | hCaptcha solver API: submit a sitekey and page URL, get back a valid hCaptcha token. Supports regular, invisible and enterprise sitekeys | `apiKey` | Yes |
 | [npm Registry](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md) | Query information about your favorite Node.js libraries programmatically | No | Unknown |
 | [Olostep](https://www.olostep.com) | AI-native web search, scraping, and crawling API that delivers clean, structured, real-time web data. Used by top AI companies | `apiKey` | Yes |
 | [OneSignal](https://documentation.onesignal.com/reference/rest-api-overview) | Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App | `apiKey` | Unknown |
@@ -722,6 +723,7 @@
 | [ScrapeNinja](https://scrapeninja.net) | Scraping API with Chrome fingerprint and residential proxies | `apiKey` | Unknown |
 | [ScraperApi](https://www.scraperapi.com) | Easily build scalable web scrapers | `apiKey` | Unknown |
 | [scraperBox](https://scraperbox.com/) | Undetectable web scraping API | `apiKey` | Yes |
+| [ScrapeUnblocker](https://www.scrapeunblocker.com) | Web scraping API that renders every page in a real browser, gets past Cloudflare, DataDome, PerimeterX and Akamai, and returns HTML or parsed JSON | `apiKey` | No |
 | [Scrapfly](https://scrapfly.io) | Scrapfly is an enterprise-grade solution providing Web Scraping API that aims to simplify the scraping process by managing everything: real browser rendering, rotating proxies, and fingerprints (TLS, HTTP, browser) to bypass all major anti-bots. | `apiKey` | No |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping with a simple API | `apiKey` | Unknown |
 | [ScrapingDog](https://www.scrapingdog.com/) | Proxy API for Web scraping | `apiKey` | Unknown |
@@ -839,6 +841,7 @@
 | [Podio](https://developers.podio.com) | File sharing and productivity | `OAuth` | Unknown |
 | [PrexView](https://prexview.com) | Data from XML or JSON to PDF, HTML or Image | `apiKey` | Unknown |
 | [PrintSocket](https://www.printsocket.com) | Send PDFs, ZPL labels and ESC/POS receipts to printers you control, from any language | `apiKey` | No |
+| [ReadGZH](https://readgzh.site/.well-known/openapi.yaml) | Read public WeChat Official Account articles as Markdown via REST/MCP; anonymous shared quota or optional API key | No | Yes |
 | [RenderPDF.io](https://renderpdf.io) | HTML to PDF crazy fast, 500 pdfs/month + CDN-ready | `apiKey` | Yes |
 | [ReportForge](https://reportforge-api.vercel.app) | Generate styled HTML reports from CSV or JSON data with built-in templates | No | Yes |
 | [Restpack](https://restpack.io/) | Provides screenshot, HTML to PDF and content extraction APIs | `apiKey` | Unknown |
