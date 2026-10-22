@@ -1,5 +1,5 @@
 {
-"count": 1875,
+"count": 1876,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1815,6 +1815,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.trello.com/",
+        "Category": "Business"
+    },
+    {
+        "API": "Trends API",
+        "Description": "Search, social and shopping trend data as JSON: Google Trends, TikTok, YouTube, Amazon, Reddit and more",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://trendsapi.ai",
         "Category": "Business"
     },
     {
