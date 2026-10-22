@@ -1,5 +1,5 @@
 {
-"count": 1858,
+"count": 1859,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4863,6 +4863,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://fynk.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Hexloom File",
+        "Description": "Merge PDFs and strip or inspect photo metadata (EXIF, GPS) with one HTTP call; files processed in memory, not stored",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://hexloomlabs.com/api/",
         "Category": "Documents & Productivity"
     },
     {
