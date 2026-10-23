@@ -1,5 +1,5 @@
 {
-"count": 1883,
+"count": 1884,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2527,6 +2527,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://cryptolabel.io/",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "Deep Blue Alpha",
+        "Description": "Ethereum whale-flow data: moves by 20,000+ tracked wallets, exchange deposits/withdrawals labeled apart from DEX swaps",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://deepbluealpha.io/whale-api",
         "Category": "Cryptocurrency"
     },
     {
