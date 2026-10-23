@@ -1,5 +1,5 @@
 {
-"count": 1884,
+"count": 1885,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10383,6 +10383,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.kaggle.com/docs/api",
+        "Category": "Open Data"
+    },
+    {
+        "API": "Künstlerfinanzen",
+        "Description": "Contribution rates of the German artists' social insurance (Künstlersozialkasse) per year and branch, each value with its source",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://kuenstlerfinanzen.de/entwickler.html",
         "Category": "Open Data"
     },
     {
