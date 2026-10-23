@@ -1,5 +1,5 @@
 {
-"count": 1888,
+"count": 1889,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12663,6 +12663,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://www.tumblr.com/docs/en/api/v2",
+        "Category": "Social"
+    },
+    {
+        "API": "TweetAPI",
+        "Description": "Twitter data API: search, profiles, followers, timelines, lists, communities, posting and DMs",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://tweetapi.com",
         "Category": "Social"
     },
     {
