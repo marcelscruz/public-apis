@@ -628,6 +628,7 @@
 | [CurlShot](https://curlshot.com) | Screenshot API: any URL, HTML or Markdown to PNG, JPEG, WebP, PDF or scrolling video, with full page, devices, dark mode and ad blocking | `apiKey` | Yes |
 | [Databricks](https://docs.databricks.com/dev-tools/api/latest/index.html) | Service to manage your databricks account,clusters, notebooks, jobs and workspaces | `apiKey` | Yes |
 | [DATPAQ](https://datpaq.com) | Developer-first APIs. Enterprise-ready infrastructure. Sampla data, avatars, image processing and a lot more. | `apiKey` | Yes |
+| [Deed](https://deed.page) | Publish HTML or a static folder to a permanent HTTPS subdomain with one PUT and no signup; also served as a remote MCP server | No | Yes |
 | [DigitalOcean Status](https://status.digitalocean.com/api) | Status of all DigitalOcean services | No | Unknown |
 | [Docker Hub](https://docs.docker.com/docker-hub/api/latest/) | Interact with Docker Hub | `apiKey` | Yes |
 | [DomainDb Info](https://api.domainsdb.info/) | Domain name search to find all domains containing particular words/phrases/etc | No | Unknown |
