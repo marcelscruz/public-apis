@@ -1,5 +1,5 @@
 {
-"count": 1887,
+"count": 1888,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3511,6 +3511,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://datpaq.com",
+        "Category": "Development"
+    },
+    {
+        "API": "Deed",
+        "Description": "Publish HTML or a static folder to a permanent HTTPS subdomain with one PUT and no signup; also served as a remote MCP server",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://deed.page",
         "Category": "Development"
     },
     {
