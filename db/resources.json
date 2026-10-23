@@ -1,5 +1,5 @@
 {
-"count": 1885,
+"count": 1886,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10055,6 +10055,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://github.com/cyberboysumanjay/Inshorts-News-API",
+        "Category": "News"
+    },
+    {
+        "API": "Kiwi News",
+        "Description": "Community-curated crypto and Ethereum news: hot, new and best feeds, stories with comments",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://news.kiwistand.com",
         "Category": "News"
     },
     {
