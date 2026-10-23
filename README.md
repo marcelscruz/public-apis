@@ -487,6 +487,7 @@
 | [CoinStats](https://coinstats.app/api-docs/) | Blockchain and DeFi across 120+ chains, market, historical data, portfolio tracking, news, sentiment, MCP, and agent skills | `apiKey` | Yes |
 | [CryptAPI](https://docs.cryptapi.io/) | Cryptocurrency Payment Processor | No | Unknown |
 | [CryptoCompare](https://www.cryptocompare.com/api#) | Cryptocurrencies Comparison | No | Unknown |
+| [CryptoKeyhole](https://cryptokeyhole.com) | On-chain and market metrics for Bitcoin, Ethereum and more, calculated from its own nodes; Free charts need no key | No | No |
 | [CryptoLabel](https://cryptolabel.io/) | Free crypto address labels. Identify known addresses on major networks with a free API | No | Yes |
 | [Deep Blue Alpha](https://deepbluealpha.io/whale-api) | Ethereum whale-flow data: moves by 20,000+ tracked wallets, exchange deposits/withdrawals labeled apart from DEX swaps | `apiKey` | Yes |
 | [DexPaprika](https://docs.dexpaprika.com) | DEX pools, tokens, prices and OHLCV across 36 blockchain networks | No | No |
