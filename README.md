@@ -751,6 +751,7 @@
 | [Serialif Color](https://color.serialif.com/) | Color conversion, complementary, grayscale and contrasted text | No | No |
 | [SERP Rank Checker](https://apyhub.com/utility/serp-rank) | Check realtime Google SERP Rank of any keywords | `apiKey` | Yes |
 | [SerpApi - Search API](https://serpapi.com/) | SerpApi's Search API makes it easy and fast to scrape Google and other search engines | `apiKey` | No |
+| [SerpKite](https://serpkite.com) | Google SERP API for AI agents: web, news, images, maps, reviews and Scholar results as JSON or Markdown, plus page extraction and an MCP server | `apiKey` | Yes |
 | [Shadify](https://github.com/cheatsnake/shadify) | Service for generating data and executing logic to create various games and puzzles | No | Yes |
 | [Sheet2API](https://sheet2api.com/) | Easy Google Sheets and Excel Online API | `apiKey` | Unknown |
 | [Sheetsu](https://sheetsu.com/) | Easy google sheets integration | `apiKey` | Unknown |
