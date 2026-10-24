@@ -575,6 +575,7 @@
 | [US Autocomplete](https://www.smarty.com/docs/cloud/us-autocomplete-pro-api) | Enter address data quickly with real-time address suggestions | `apiKey` | Yes |
 | [US Extract](https://www.smarty.com/products/apis/us-extract-api) | Extract postal addresses from any text including emails | `apiKey` | Yes |
 | [US Street Address](https://www.smarty.com/docs/cloud/us-street-api) | Validate and append data for any US postal address | `apiKey` | Yes |
+| [ValidaLatam](https://validalatam.ia-latam.app/docs) | Validate and format Latin American tax IDs, national IDs and bank accounts (CUIT, CPF, CNPJ, RFC, CURP, CLABE, RUT, NIT, RUC, IBAN) using check-digit algorithms | No | Yes |
 | [Validate UK Postcodes](https://apyhub.com/utility/data-postcodes-uk) | This API validates postal codes within UK | `apiKey` | Yes |
 | [VatcheckAPI](https://vatcheckapi.com) | VAT Number Validation & Lookup REST API | `apiKey` | Yes |
 | [VerifyEd](https://verifyed.org/docs) | Verify academic credentials — search 912K+ schools, detect diploma mills worldwide | `apiKey` | Yes |
