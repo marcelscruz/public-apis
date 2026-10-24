@@ -1,5 +1,5 @@
 {
-"count": 1889,
+"count": 1890,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1239,6 +1239,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://docs.blockscout.com/devs/apis",
+        "Category": "Blockchain"
+    },
+    {
+        "API": "BlockVectra",
+        "Description": "EVM JSON-RPC, indexed blockchain data, and keyless chain discovery",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://blockvectra.com/en/",
         "Category": "Blockchain"
     },
     {
