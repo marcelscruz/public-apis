@@ -1,5 +1,5 @@
 {
-"count": 1892,
+"count": 1891,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7543,14 +7543,6 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://tetr.io/about/api/",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "Unicum",
-        "Description": "World of Tanks player, clan and tank stats, ratings, leaderboards and server population for EU, NA and Asia",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://unicum.gg",
         "Category": "Games & Comics"
     },
     {
