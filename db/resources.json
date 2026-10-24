@@ -1,5 +1,5 @@
 {
-"count": 1891,
+"count": 1892,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3127,6 +3127,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.smarty.com/docs/cloud/us-street-api",
+        "Category": "Data Validation"
+    },
+    {
+        "API": "ValidaLatam",
+        "Description": "Validate and format Latin American tax IDs, national IDs and bank accounts (CUIT, CPF, CNPJ, RFC, CURP, CLABE, RUT, NIT, RUC, IBAN) using check-digit algorithms",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://validalatam.ia-latam.app/docs",
         "Category": "Data Validation"
     },
     {
