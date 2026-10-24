@@ -1,5 +1,5 @@
 {
-"count": 1891,
+"count": 1892,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12599,6 +12599,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://api.slack.com/",
+        "Category": "Social"
+    },
+    {
+        "API": "Social Media Management API",
+        "Description": "Schedule and publish posts, upload media, and fetch analytics across 11 social platforms like Instagram, TikTok, LinkedIn, and X, from one REST API",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://omnisocials.com/",
         "Category": "Social"
     },
     {
