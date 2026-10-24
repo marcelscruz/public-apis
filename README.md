@@ -1481,6 +1481,7 @@
 | [Wadifa Info](https://www.wadifa-info.com) | Open public-sector recruitment exams in Morocco with deadlines and official notices, civil-service pay by grade and holidays | No | Yes |
 | [WhatJobs](https://www.whatjobs.com/affiliates) | Job search engine | `apiKey` | Unknown |
 | [Worklittle](https://docs.worklittle.com) | Job search, over 4 million jobs | `apiKey` | Yes |
+| [YubHub](https://yubhub.co/) | Job listings read directly from employers' careers pages, enriched with salary, skills and work arrangement, plus hiring statistics | No | Yes |
 
 **[⬆ Back to Index](#index)**
 
