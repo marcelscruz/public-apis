@@ -254,6 +254,7 @@
 | [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) | Art | `apiKey` | Unknown |
 | [Icon Horse](https://icon.horse/usage) | Favicons for any website, with fallbacks | No | Yes |
 | [Icons8](https://img.icons8.com/) | Icons (find "search icon" hyperlink in page) | No | Unknown |
+| [Ink Studio AI](https://inkstudioai.com) | Generate AI tattoo designs from text prompts in 13 styles and search a public tattoo gallery. One free design per new account, then one-time plans | `apiKey` | No |
 | [Logotypes](https://logotypes.dev/) | Logotypes of the world in multiples format | No | Yes |
 | [Lordicon](https://lordicon.com/) | Icons with predone Animations | No | Yes |
 | [Magnific Icons API](https://docs.magnific.com/api-reference/icons/icons-api) | Icon search and download API by Freepik (formerly Iconfinder) | `apiKey` | Unknown |
