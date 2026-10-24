@@ -291,6 +291,7 @@
 | [Animica](https://explorer.animica.org) | Post-quantum proof-of-work L1 blockchain explorer REST API and node JSON-RPC, with OpenAPI and OpenRPC documents | No | Yes |
 | [Bitquery](https://graphql.bitquery.io/ide) | Onchain GraphQL APIs & DEX APIs | `apiKey` | Yes |
 | [Blockscout](https://docs.blockscout.com/devs/apis) | Multi-chain explorer for Ethereum and 100+ EVM chains | `apiKey` | Yes |
+| [BlockVectra](https://blockvectra.com/en/) | EVM JSON-RPC, indexed blockchain data, and keyless chain discovery | `apiKey` | Yes |
 | [Bscscan](https://bscscan.com/apis) | Binance Smart Chain explorer API | `apiKey` | Yes |
 | [Chainlink](https://chain.link/developer-resources) | Build hybrid smart contracts with Chainlink | No | Unknown |
 | [Chainpoint](https://tierion.com/chainpoint/) | Chainpoint is a global network for anchoring data to the Bitcoin blockchain | No | Unknown |
