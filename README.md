@@ -1187,7 +1187,6 @@
 | [TCGApi](https://tcgapi.dev) | Trading card game prices and historical data across 89+ games | `apiKey` | No |
 | [Tebex](https://docs.tebex.io/plugin/) | Tebex API for information about game purchases | `X-Mashape-Key` | No |
 | [TETR.IO](https://tetr.io/about/api/) | TETR.IO Tetra Channel API | No | Unknown |
-| [Unicum](https://unicum.gg) | World of Tanks player, clan and tank stats, ratings, leaderboards and server population for EU, NA and Asia | No | Yes |
 | [Universalis](https://universalis.app/docs/index.html) | Final Fantasy XIV market board data | No | Yes |
 | [Valorant (non-official)](https://valorant-api.com) | An extensive API containing data of most Valorant in-game items, assets and more | No | Unknown |
 | [Warface (non-official)](https://api.wfstats.cf) | Official API proxy with better data structure and more features | No | No |
