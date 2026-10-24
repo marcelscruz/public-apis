@@ -883,6 +883,7 @@
 | [inboxsink](https://inboxsink.com) | Disposable inboxes for end-to-end tests that wait for the email and extract OTP codes and links | `apiKey` | No |
 | [IndiePitcher](https://docs.indiepitcher.com/api-reference) | Everything email for your startup with markdown support | `apiKey` | Yes |
 | [Kickbox](https://open.kickbox.com/) | Email verification API | No | Yes |
+| [ProofNexa Email & Domain Gate](https://quant-b2b-risk-gate-api.vercel.app) | Live DNS MX/SPF/DMARC email deliverability verification, disposable mailbox detection and CSV/JSON API | No | Yes |
 | [mail.gw](https://docs.mail.gw) | 10 Minute Mail | No | Yes |
 | [mail.tm](https://docs.mail.tm) | Temporary Email Service | No | Yes |
 | [MailboxValidator](https://www.mailboxvalidator.com/api-email-free) | Validate email address to improve deliverability | `apiKey` | Unknown |
