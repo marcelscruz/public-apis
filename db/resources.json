@@ -1,5 +1,5 @@
 {
-"count": 1893,
+"count": 1894,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4487,6 +4487,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://serpapi.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "SerpKite",
+        "Description": "Google SERP API for AI agents: web, news, images, maps, reviews and Scholar results as JSON or Markdown, plus page extraction and an MCP server",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://serpkite.com",
         "Category": "Development"
     },
     {
