@@ -1679,6 +1679,7 @@
 | [Abstract Phone Validation](https://www.abstractapi.com/phone-validation-api) | Validate phone numbers globally | `apiKey` | Yes |
 | [CheckThatPhone](https://checkthatphone.com) | Real-time phone validation API for US & Canada: carrier and line type from live carrier data, portability, deliverability, GeoIP and TCPA litigator scrub | `apiKey` | Unknown |
 | [Cloudmersive Validate](https://cloudmersive.com/phone-number-validation-API) | Validate international phone numbers | `apiKey` | Yes |
+| [Losali](https://losalidirect.com) | Directory of French special phone numbers (3xxx short codes, 08, freephone): the service each one reaches, its number type and its cost from France | No | Yes |
 | [MobileAPI](https://mobileapi.dev/docs/) | Smartphone, tablet, and wearable device specifications | `apiKey` | Yes |
 | [NumlookupAPI](https://numlookupapi.com) | Worldwide Phone Number Lookup & Verification API | `apiKey` | Yes |
 | [Phone Specification](https://github.com/azharimm/phone-specs-api) | Rest Api for Phone specifications | No | Yes |
