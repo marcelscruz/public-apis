@@ -1075,6 +1075,7 @@
 | [Edamam nutrition](https://developer.edamam.com/edamam-docs-nutrition-api) | Nutrition Analysis | `apiKey` | Unknown |
 | [Edamam recipes](https://developer.edamam.com/edamam-docs-recipe-api) | Recipe Search | `apiKey` | Unknown |
 | [Foodish](https://github.com/surhud004/Foodish#readme) | Random pictures of food dishes | No | Yes |
+| [IndiaRestros](https://indiarestros.com) | Restaurants, menus with item prices and dish search for 1.5M+ eateries in 9,774 Indian cities and towns | No | Yes |
 | [Jelly Belly Wiki](https://jelly-belly-wiki.netlify.app/) | Data about Jelly Belly beans- flavores, facts, history and more endpoints | No | Yes |
 | [Kroger](https://developer.kroger.com/reference) | Supermarket Data | `apiKey` | Unknown |
 | [LCBO](https://lcbo.dev/) | Alcohol | No | Yes |
