@@ -1,5 +1,5 @@
 {
-"count": 1892,
+"count": 1893,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1039,6 +1039,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://img.icons8.com/",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "Ink Studio AI",
+        "Description": "Generate AI tattoo designs from text prompts in 13 styles and search a public tattoo gallery. One free design per new account, then one-time plans",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://inkstudioai.com",
         "Category": "Art & Design"
     },
     {
