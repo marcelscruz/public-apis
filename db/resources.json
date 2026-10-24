@@ -1,5 +1,5 @@
 {
-"count": 1890,
+"count": 1891,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13791,6 +13791,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://openchargemap.org/site/develop/api",
+        "Category": "Transportation"
+    },
+    {
+        "API": "PlateAPI",
+        "Description": "Australian vehicle registration plate lookup API. Send a plate and state, get year, make, model, body, and engine back as JSON. All 8 states and territories",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://plateapi.com.au",
         "Category": "Transportation"
     },
     {
