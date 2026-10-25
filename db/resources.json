@@ -1,5 +1,5 @@
 {
-"count": 1895,
+"count": 1896,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5959,6 +5959,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.agenttoolbelt.live",
+        "Category": "Finance"
+    },
+    {
+        "API": "Agent Wallet Index",
+        "Description": "Wallets, payment protocols and card rails for AI agents with source-linked facts",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://agentwalletindex.fyi",
         "Category": "Finance"
     },
     {
