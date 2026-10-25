@@ -300,6 +300,7 @@
 | [Covalent](https://www.covalenthq.com/docs/api/) | Multi-blockchain data aggregator platform | `apiKey` | Unknown |
 | [Etherscan](https://etherscan.io/apis) | Ethereum explorer API | `apiKey` | Yes |
 | [GetBlock](https://getblock.io/) | Blockchain RPC Node provider that supports over 50 multiple blockchains | `apiKey` | Unknown |
+| [HEY Research Lab](https://heyresearch.xyz) | Whether a Robinhood Chain token's or project's team is still shipping, and what it shipped, each ship with its public source | No | Yes |
 | [Layer4](https://www.layer4.app/api-docs) | Layer4 is a blockchain integration platform that supports no-code and API use | `apiKey` | Yes |
 | [MELEK](https://melek.salon) | Graphene social blockchain (Steem/Hive/Blurt family): public condenser_api JSON-RPC for posts, accounts, votes and blocks | No | Yes |
 | [MoltNode](https://moltnode.ag) | Free JSON-RPC gateway for 31 blockchains, including Ethereum, Base, Arbitrum, Solana and Sui, with one URL per chain and no sign-up | No | Yes |
