@@ -1,5 +1,5 @@
 {
-"count": 1898,
+"count": 1899,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3319,6 +3319,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://apis.guru/api-doc/",
+        "Category": "Development"
+    },
+    {
+        "API": "AppGoat",
+        "Description": "App Store + Google Play data API and remote MCP server: apps, reviews, keywords, rankings, top charts and competitors for Claude, ChatGPT and Cursor.",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://appgoat.ai",
         "Category": "Development"
     },
     {
