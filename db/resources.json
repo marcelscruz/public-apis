@@ -1,5 +1,5 @@
 {
-"count": 1900,
+"count": 1901,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12335,6 +12335,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developer.tokopedia.com/openapi/guide/#/",
+        "Category": "Shopping"
+    },
+    {
+        "API": "VantaSpec",
+        "Description": "UK PC hardware prices, price history and specs across UK retailers",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://vantaspec.com",
         "Category": "Shopping"
     },
     {
