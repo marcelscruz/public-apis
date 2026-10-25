@@ -1,5 +1,5 @@
 {
-"count": 1896,
+"count": 1897,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6103,6 +6103,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://sandbox.developerhub.citi.com/api-catalog-list",
+        "Category": "Finance"
+    },
+    {
+        "API": "CreditUnions",
+        "Description": "US credit union eligibility and NCUA call-report data",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://creditunions.fyi",
         "Category": "Finance"
     },
     {
