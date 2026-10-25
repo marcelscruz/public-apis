@@ -1,5 +1,5 @@
 {
-"count": 1894,
+"count": 1895,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3215,6 +3215,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://agentdeals.dev/api",
+        "Category": "Development"
+    },
+    {
+        "API": "AgentSandboxes",
+        "Description": "Directory of cloud sandbox providers for AI agents with source-linked specs",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://agentsandboxes.fyi",
         "Category": "Development"
     },
     {
