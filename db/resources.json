@@ -1,5 +1,5 @@
 {
-"count": 1899,
+"count": 1900,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8759,6 +8759,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://www.federalregister.gov/reader-aids/developer-resources/rest-api",
+        "Category": "Government"
+    },
+    {
+        "API": "FIRMSapi",
+        "Description": "Look up, search and validate US CBP FIRMS facility codes for piers, container freight stations, bonded warehouses and FTZs",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://firmsapi.com",
         "Category": "Government"
     },
     {
