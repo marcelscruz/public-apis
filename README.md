@@ -1351,6 +1351,7 @@
 | [FCC ULS Daily Change Archive](https://rapidapi.com/marlinloots3r/api/fcc-uls-daily-change-archive) | Day-resolution archive of FCC ULS license change events, including days the FCC's own seven-day feed has overwritten. Coverage from 2026-08-18 | `apiKey` | Unknown |
 | [FEC](https://api.open.fec.gov/developers/) | Information on campaign donations in federal elections | `apiKey` | Unknown |
 | [Federal Register](https://www.federalregister.gov/reader-aids/developer-resources/rest-api) | The Daily Journal of the United States Government | No | Unknown |
+| [FIRMSapi](https://firmsapi.com) | Look up, search and validate US CBP FIRMS facility codes for piers, container freight stations, bonded warehouses and FTZs | `apiKey` | Yes |
 | [Gazette Data, UK](https://www.thegazette.co.uk/data) | UK official public record API | `OAuth` | Unknown |
 | [Interpol Red Notices](https://interpol.api.bund.dev/) | Access and search Interpol Red Notices | No | Unknown |
 | [Istanbul (İBB) Open Data](https://data.ibb.gov.tr) | Data sets from the İstanbul Metropolitan Municipality (İBB) | No | Unknown |
