@@ -12371,7 +12371,7 @@
     },
     {
         "API": "BulkPublish",
-        "Description": "Schedule and publish posts to 14 social networks",
+        "Description": "Schedule and publish posts to 15 social networks",
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.bulkpublish.com",
