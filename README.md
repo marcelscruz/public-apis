@@ -1939,6 +1939,7 @@
 | [Revolt](https://developers.revolt.chat) | Revolt open source Discord alternative | `apiKey` | Unknown |
 | [Rumoro](https://rumoro.dev) | Social listening API: brand, competitor and topic mentions from 16 sources, scored for relevance, sentiment and intent | `apiKey` | No |
 | [ShapelessAI](https://shapelessai.com) | Schedule and publish posts to LinkedIn, X, Instagram, TikTok, YouTube, Facebook, Threads and Bluesky, plus AI images and video | `apiKey` | No |
+| [ShortsIntel](https://www.shortsintel.com) | Short-form video and ad intelligence API and MCP server: TikTok, Instagram Reels, YouTube Shorts and Meta ad library data with AI video analysis | `apiKey` | No |
 | [Signals](https://signals.sh) | Marketplace API to quote, place, and track Reddit and Quora promotion orders, with catalog and wallet endpoints | `apiKey` | No |
 | [Slack](https://api.slack.com/) | Team Instant Messaging | `OAuth` | Unknown |
 | [Social Media Management API](https://omnisocials.com/) | Schedule and publish posts, upload media, and fetch analytics across 11 social platforms like Instagram, TikTok, LinkedIn, and X, from one REST API | `apiKey` | No |
