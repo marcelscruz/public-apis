@@ -947,6 +947,7 @@
 | [Cloverly](https://www.cloverly.com/carbon-offset-documentation) | API calculates the impact of common carbon-intensive activities in real time | `apiKey` | Unknown |
 | [Danish data service Energi](https://www.energidataservice.dk/) | Open energy data from Energinet to society | No | Unknown |
 | [DC Hub](https://dchub.cloud) | Data Center Power Index (DCPI): daily scores of where data centers can get grid power across 300+ markets, plus grid, fiber and interconnection-queue data | `apiKey` | Yes |
+| [El mapa del agua](https://elmapadelagua.com/api-dureza-agua) | Water hardness (°fH) of Spanish municipalities by INE code or postal code, with the source and date of each analysis | No | Yes |
 | [Elpriser i dag](https://elprisernaidag.se/api/) | Swedish electricity spot prices including VAT and energy tax, in 15-minute intervals | No | Yes |
 | [GrünstromIndex](https://gruenstromindex.de/) | Green Power Index for Germany (Grünstromindex/GSI) | No | Yes |
 | [IQAir](https://www.iqair.com/air-pollution-data-api) | Air quality and weather data | `apiKey` | Unknown |
