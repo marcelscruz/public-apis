@@ -1,5 +1,5 @@
 {
-"count": 1901,
+"count": 1902,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1895,6 +1895,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.abstractapi.com/holidays-api",
+        "Category": "Calendar"
+    },
+    {
+        "API": "Bankday",
+        "Description": "Business days, bank holidays and settlement dates for ACH, Fedwire, TARGET2, Bacs, Payments Canada, 28 stock exchanges and 247 countries",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://bankday.dev",
         "Category": "Calendar"
     },
     {
