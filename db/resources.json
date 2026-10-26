@@ -3698,6 +3698,14 @@
         "Category": "Development"
     },
     {
+        "API": "ScreenshotAPI",
+        "Description": "Website screenshots, PDFs, HTML rendering, caching, and webhooks",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://screenshotapi.to",
+        "Category": "Development"
+    },
+    {
         "API": "Thordata",
         "Description": "Scrap any webpage or search engine with built-in residential proxies across 190+ countries. Web Scraping API, Search API, and Web Unlocker — pay as you go",
         "Auth": "apiKey",
@@ -4431,14 +4439,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://screenshotscout.com/",
-        "Category": "Development"
-    },
-    {
-        "API": "ScreenshotAPI",
-        "Description": "Website screenshots, PDFs, HTML rendering, caching, and webhooks",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://screenshotapi.to/docs",
         "Category": "Development"
     },
     {
