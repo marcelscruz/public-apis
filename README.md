@@ -1591,6 +1591,7 @@
 | [DevLifeCheck](https://devlifecheck.com) | Security-update end dates, recalls and evidence for 1,300+ phones, tablets, Chromebooks and routers | No | No |
 | [Dimdom](https://api.dimdom.pl/api/public/docs) | Polish real estate listings, agency profiles and TERYT geographic data | No | No |
 | [Edgepedia](https://www.edgechat.ai/edgepedia) | Search and read Edgepedia, a free and growing encyclopedia with citations. No key. | No | Yes |
+| [ek litre](https://eklitre.pk/data/#h-api) | Pakistan's petrol, diesel and kerosene prices since 2006, with OGRA's line-by-line price build-up | No | Yes |
 | [Enigma Public](https://developers.enigma.com/docs) | Broadest collection of public data | `apiKey` | Yes |
 | [French Address Search](https://geo.api.gouv.fr/adresse) | Address search via the French Government | No | Unknown |
 | [Generate Link Preview (including checking for malicious links)](https://apyhub.com/utility/link-preview) | Fetches metadata from any URL passed to it, including Open Graph tags. | `apiKey` | Yes |
