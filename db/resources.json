@@ -1,5 +1,5 @@
 {
-"count": 1910,
+"count": 1911,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8511,6 +8511,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apiverket.se/docs",
+        "Category": "Government"
+    },
+    {
+        "API": "Apostille Finder",
+        "Description": "Find the government office that issues your apostille",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://apostilles.fyi",
         "Category": "Government"
     },
     {
