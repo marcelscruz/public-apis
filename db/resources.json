@@ -1,5 +1,5 @@
 {
-"count": 1906,
+"count": 1907,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4039,6 +4039,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://kroki.io",
+        "Category": "Development"
+    },
+    {
+        "API": "Labelixa",
+        "Description": "Render, validate, debug and convert ZPL, EPL, TSPL and CPCL thermal labels to PNG or PDF, with barcode generation",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://labelixa.com",
         "Category": "Development"
     },
     {
