@@ -1,5 +1,5 @@
 {
-"count": 1907,
+"count": 1908,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1415,6 +1415,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://bigbookapi.com",
+        "Category": "Books"
+    },
+    {
+        "API": "BookRank",
+        "Description": "Book scores from reader ratings, category rankings, series reading orders and ISBN/Wikidata lookups",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://openbookrank.com/en/open-data",
         "Category": "Books"
     },
     {
