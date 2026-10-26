@@ -1,5 +1,5 @@
 {
-"count": 1908,
+"count": 1909,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9264,6 +9264,14 @@
         "Cors": "unknown",
         "Link": "https://api.usaspending.gov/",
         "Category": "Government"
+    },
+    {
+        "API": "ADHDEvaluations",
+        "Description": "Find an ADHD evaluation provider near you",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://adhdevaluations.fyi",
+        "Category": "Health"
     },
     {
         "API": "CMS.gov",
