@@ -1,5 +1,5 @@
 {
-"count": 1903,
+"count": 1904,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6495,6 +6495,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://www.realie.ai/real-estate-data-api",
+        "Category": "Finance"
+    },
+    {
+        "API": "ReceiptEdit Sales Tax API",
+        "Description": "Free sales-tax lookup API covering all US states + zip-level city/county rates. No signup, no rate limit. Also supports Canadian GST/HST/PST and Indian GST slabs. Ideal for building expense-reimbursement flows, invoicing SaaS demos, receipt OCR pipelines, or seeding accounting tools. Full docs at https://receiptedit.com/developers",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://receiptedit.com",
         "Category": "Finance"
     },
     {
