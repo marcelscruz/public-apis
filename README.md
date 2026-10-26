@@ -391,6 +391,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [Abstract Public Holidays](https://www.abstractapi.com/holidays-api) | Data on national, regional, and religious holidays via API | `apiKey` | Yes |
+| [Bankday](https://bankday.dev) | Business days, bank holidays and settlement dates for ACH, Fedwire, TARGET2, Bacs, Payments Canada, 28 stock exchanges and 247 countries | `apiKey` | Yes |
 | [Business Box](https://marubox.jp) | Booking API for small businesses in Japan: event types, open slots, bookings, invite links and webhooks, with API keys on the free plan | `apiKey` | Yes |
 | [Calendarific](https://calendarific.com/) | Worldwide Holidays | `apiKey` | Unknown |
 | [CountdownsHQ](https://countdownshq.com) | Dates and timezone-correct live countdowns for 150+ holidays and observances in 18 countries | No | Yes |
