@@ -1318,6 +1318,7 @@
 |---|---|---|---|
 | [Api Colombia](https://api-colombia.com/) | Community driven API for Colombia Public Data | No | Unknown |
 | [Apiverket](https://apiverket.se/docs) | Swedish public data including companies, statistics, weather and transport | `apiKey` | Yes |
+| [Apostille Finder](https://apostilles.fyi) | Find the government office that issues your apostille | No | Yes |
 | [Ayes and Noes](https://ayesandnoes.co.uk/developers) | UK House of Commons MPs, parties and recorded votes | No | Yes |
 | [Bank Negara Malaysia Open Data](https://apikijangportal.bnm.gov.my/) | Malaysia Central Bank Open Data | No | Unknown |
 | [BCLaws](https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html) | Access to the laws of British Columbia | No | Unknown |
