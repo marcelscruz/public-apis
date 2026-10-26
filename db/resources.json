@@ -1,5 +1,5 @@
 {
-"count": 1905,
+"count": 1906,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5351,6 +5351,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/validator-academic-email",
+        "Category": "Email"
+    },
+    {
+        "API": "anon.li",
+        "Description": "Create and manage anonymous email aliases, forwarding recipients, custom domains and end-to-end encrypted file drops",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://anon.li",
         "Category": "Email"
     },
     {
