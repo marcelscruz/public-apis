@@ -1,5 +1,5 @@
 {
-"count": 1909,
+"count": 1906,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3434,14 +3434,6 @@
         "Category": "Development"
     },
     {
-        "API": "BrewPage",
-        "Description": "Free instant hosting for HTML, Markdown, JSON, and files. No signup",
-        "Auth": "",
-        "Cors": "no",
-        "Link": "https://brewpage.app",
-        "Category": "Development"
-    },
-    {
         "API": "BrowserCat",
         "Description": "Headless browser API for automation, scraping, and more",
         "Auth": "apiKey",
@@ -3487,14 +3479,6 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://github.com/fawazahmed0/cloudflare-trace-api",
-        "Category": "Development"
-    },
-    {
-        "API": "Codex Reset",
-        "Description": "OpenAI Codex usage-limit reset history, verified announcements and 24h/48h reset probability",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://codex-reset.com",
         "Category": "Development"
     },
     {
@@ -5095,14 +5079,6 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developer.atlassian.com/server/jira/platform/rest-apis/",
-        "Category": "Documents & Productivity"
-    },
-    {
-        "API": "Kiprio PDF Text",
-        "Description": "Extract plain text from PDF documents for LLM and RAG pipelines",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://kiprio.com",
         "Category": "Documents & Productivity"
     },
     {
