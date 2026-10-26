@@ -1,5 +1,5 @@
 {
-"count": 1908,
+"count": 1909,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12695,6 +12695,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://shapelessai.com",
+        "Category": "Social"
+    },
+    {
+        "API": "ShortsIntel",
+        "Description": "Short-form video and ad intelligence API and MCP server: TikTok, Instagram Reels, YouTube Shorts and Meta ad library data with AI video analysis",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.shortsintel.com",
         "Category": "Social"
     },
     {
