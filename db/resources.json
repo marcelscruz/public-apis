@@ -9678,7 +9678,7 @@
         "Description": "Live, vetted job listings from official employer sources across India",
         "Auth": "apiKey",
         "Cors": "yes",
-        "Link": "https://www.jobvetta.com/api",
+        "Link": "https://jobvetta.com",
         "Category": "Jobs"
     },
     {
