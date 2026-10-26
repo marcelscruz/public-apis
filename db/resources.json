@@ -1,5 +1,5 @@
 {
-"count": 1906,
+"count": 1907,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10439,6 +10439,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://www.edgechat.ai/edgepedia",
+        "Category": "Open Data"
+    },
+    {
+        "API": "ek litre",
+        "Description": "Pakistan's petrol, diesel and kerosene prices since 2006, with OGRA's line-by-line price build-up",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://eklitre.pk/data/#h-api",
         "Category": "Open Data"
     },
     {
