@@ -1,5 +1,5 @@
 {
-"count": 1904,
+"count": 1905,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -215,6 +215,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://irisnet.de/api/",
+        "Category": "AI"
+    },
+    {
+        "API": "isGenAI",
+        "Description": "Check images, text and URLs for recorded evidence of AI use, such as C2PA Content Credentials, IPTC AI labels and saved prompts",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://isgenai.com",
         "Category": "AI"
     },
     {
