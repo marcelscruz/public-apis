@@ -1750,7 +1750,7 @@
         "Description": "Startup-directory research and weekly product leaderboard data",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://mydentify.com/openapi.json",
+        "Link": "https://mydentify.com",
         "Category": "Business"
     },
     {
@@ -13518,7 +13518,7 @@
         "Description": "Pay-as-you-go multilingual text-to-speech with Portuguese voices and WAV, MP3, and Opus output",
         "Auth": "apiKey",
         "Cors": "yes",
-        "Link": "https://www.brainiall.com/en/apis/text-to-speech",
+        "Link": "https://brainiall.com",
         "Category": "Text Analysis"
     },
     {
@@ -14654,7 +14654,7 @@
         "Description": "Render videos from JSON: motion templates, effects, transitions, batch rendering",
         "Auth": "apiKey",
         "Cors": "no",
-        "Link": "https://ilovevideoeditor.com/docs/api",
+        "Link": "https://ilovevideoeditor.com",
         "Category": "Video"
     },
     {
