@@ -106,6 +106,7 @@
 | [AI/ML](https://aimlapi.com) | Access 100+ curated AI Models over 1 API | `apiKey` | Yes |
 | [API Route](https://www.api-route.com) | OpenAI-compatible multi-model gateway for chat completions with API keys and usage-based billing | `apiKey` | Yes |
 | [APIClaw](https://apiclaw.biz) | Flat-rate OpenAI-compatible gateway for Claude, GPT, DeepSeek, Qwen, Kimi and GLM models | `apiKey` | Yes |
+| [APIModels](https://apimodels.app) | OpenAI-compatible API for 150+ image, video, audio and LLM models: automatic channel failover, failed calls not billed, most prices below official rates | `apiKey` | Yes |
 | [Azurade](https://azurade.com) | Image and video generation with 30+ models (Veo, Seedance, Nano Banana) over one REST API, paid per generation from credits that never expire | `apiKey` | Yes |
 | [Chatwith](https://chatwith.tools) | Build custom ChatGPT-style AI chatbots trained on your website and files, integrated with 5000+ apps — no coding, live in minutes. | `apiKey` | Yes |
 | [Cheaper Inference](https://cheaperinference.com) | OpenAI-compatible LLM gateway: one API key for chat models from several labs, plus an Anthropic-compatible Messages endpoint | `apiKey` | No |
@@ -138,6 +139,7 @@
 | [Prismix Status API](https://prismix.dev/api-docs) | Real-time uptime and incident status for 75+ AI services (OpenAI, Anthropic, Cursor, Gemini) | No | Yes |
 | [Requesty](https://www.requesty.ai) | OpenAI-compatible gateway that routes requests to 600+ models from 30+ providers, with fallbacks, caching and spend tracking | `apiKey` | Yes |
 | [Roboflow Universe](https://universe.roboflow.com) | Pre-trained computer vision models | `apiKey` | Yes |
+| [RouterBase API](https://routerbase.com) | One OpenAI-compatible API for accessing 200+ AI models from OpenAI, Anthropic, Google, Meta, xAI, DeepSeek, and more | `apiKey` | Unknown |
 | [SkyBiometry](https://skybiometry.com/documentation/) | Face Detection, Face Recognition and Face Grouping | `apiKey` | Unknown |
 | [Spam Hunter](https://spam-hunter.ru/) | Free service to classify text as spam using ML | `apiKey` | Yes |
 | [Summarize Text with AI](https://apyhub.com/utility/ai-summarize) | This API generates customizable summaries of text and web pages using AI | `apiKey` | Yes |
@@ -201,6 +203,7 @@
 | [Nekosia API](https://nekosia.cat) | Random catgirl images with metadata, dominant colors, compressed versions, duplicate prevention, and its own booru | No | Yes |
 | [PokéAPI](https://pokeapi.co) | Pokémon data, including imagery | No | No |
 | [Shikimori](https://shikimori.one/api/doc) | Anime discovery, tracking, forum, rates | `OAuth` | Unknown |
+| [Tenrai](https://tenrai.org) | Tenrai is a free Unofficial public REST API for the full MyAnimeList public catalogue. Anime, manga, characters, people, producers, seasons, and more | No | Yes |
 | [Trace Moe](https://soruly.github.io/trace.moe-api/#/) | A useful tool to get the exact scene of an anime from a screenshot | No | No |
 | [Waifu.im](https://waifu.im/docs) | Get waifu pictures from an archive of over 4000 images and multiple tags | No | Yes |
 
@@ -251,6 +254,7 @@
 | [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) | Art | `apiKey` | Unknown |
 | [Icon Horse](https://icon.horse/usage) | Favicons for any website, with fallbacks | No | Yes |
 | [Icons8](https://img.icons8.com/) | Icons (find "search icon" hyperlink in page) | No | Unknown |
+| [Ink Studio AI](https://inkstudioai.com) | Generate AI tattoo designs from text prompts in 13 styles and search a public tattoo gallery. One free design per new account, then one-time plans | `apiKey` | No |
 | [Logotypes](https://logotypes.dev/) | Logotypes of the world in multiples format | No | Yes |
 | [Lordicon](https://lordicon.com/) | Icons with predone Animations | No | Yes |
 | [Magnific Icons API](https://docs.magnific.com/api-reference/icons/icons-api) | Icon search and download API by Freepik (formerly Iconfinder) | `apiKey` | Unknown |
@@ -260,6 +264,7 @@
 | [PHP-Noise](https://php-noise.com/) | Noise Background Image Generator | No | Yes |
 | [Picsart](https://picsart.io) | Image & video editing, generative AI, 100+ AI models via unified API | `apiKey` | Yes |
 | [Pika](https://pika.style/image-generation-api) | Image Generation API | `apiKey` | Yes |
+| [Sticker Shop](https://api.tasta.space/stickers) | Pop art on demand: comic bursts, speech balloons, rubber stamps and retro error windows with your own text, as SVG or PNG | No | Yes |
 | [The Color](https://www.thecolorapi.com/) | Swiss army knife for color | No | Unknown |
 | [Word Cloud](https://wordcloudapi.com/) | Easily create word clouds | `apiKey` | Unknown |
 | [xColors](https://github.com/cheatsnake/xColors-api) | Generate & convert colors | No | Yes |
@@ -275,6 +280,7 @@
 | [GetOTP](https://otp.dev/en/docs/) | Implement OTP flow quickly | `apiKey` | No |
 | [Kinde](https://kinde.com) | Authentication for modern applications. Integrates in minutes and free up to 7,500 MAU | `OAuth` | No |
 | [MojoAuth](https://mojoauth.com) | Secure and modern passwordless authentication platform | `apiKey` | Yes |
+| [ReqKey](https://www.reqkey.com) | ReqKey validates API keys, meters credits, enforces rate limits, and logs every request — from a single SDK call inside your own middleware | `apiKey` | No |
 | [Stytch](https://stytch.com/) | User infrastructure for modern applications | `apiKey` | No |
 | [Warrant](https://docs.warrant.dev/) | APIs for authorization and access control | `apiKey` | Yes |
 
@@ -286,6 +292,7 @@
 | [Animica](https://explorer.animica.org) | Post-quantum proof-of-work L1 blockchain explorer REST API and node JSON-RPC, with OpenAPI and OpenRPC documents | No | Yes |
 | [Bitquery](https://graphql.bitquery.io/ide) | Onchain GraphQL APIs & DEX APIs | `apiKey` | Yes |
 | [Blockscout](https://docs.blockscout.com/devs/apis) | Multi-chain explorer for Ethereum and 100+ EVM chains | `apiKey` | Yes |
+| [BlockVectra](https://blockvectra.com/en/) | EVM JSON-RPC, indexed blockchain data, and keyless chain discovery | `apiKey` | Yes |
 | [Bscscan](https://bscscan.com/apis) | Binance Smart Chain explorer API | `apiKey` | Yes |
 | [Chainlink](https://chain.link/developer-resources) | Build hybrid smart contracts with Chainlink | No | Unknown |
 | [Chainpoint](https://tierion.com/chainpoint/) | Chainpoint is a global network for anchoring data to the Bitcoin blockchain | No | Unknown |
@@ -293,6 +300,7 @@
 | [Covalent](https://www.covalenthq.com/docs/api/) | Multi-blockchain data aggregator platform | `apiKey` | Unknown |
 | [Etherscan](https://etherscan.io/apis) | Ethereum explorer API | `apiKey` | Yes |
 | [GetBlock](https://getblock.io/) | Blockchain RPC Node provider that supports over 50 multiple blockchains | `apiKey` | Unknown |
+| [HEY Research Lab](https://heyresearch.xyz) | Whether a Robinhood Chain token's or project's team is still shipping, and what it shipped, each ship with its public source | No | Yes |
 | [Layer4](https://www.layer4.app/api-docs) | Layer4 is a blockchain integration platform that supports no-code and API use | `apiKey` | Yes |
 | [MELEK](https://melek.salon) | Graphene social blockchain (Steem/Hive/Blurt family): public condenser_api JSON-RPC for posts, accounts, votes and blocks | No | Yes |
 | [MoltNode](https://moltnode.ag) | Free JSON-RPC gateway for 31 blockchains, including Ethereum, Base, Arbitrum, Solana and Sui, with one URL per chain and no sign-up | No | Yes |
@@ -349,6 +357,7 @@
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | `OAuth` | Unknown |
 | [Gmail](https://developers.google.com/gmail/api/) | Flexible, RESTful access to the user's inbox | `OAuth` | Unknown |
 | [Google Analytics](https://developers.google.com/analytics/) | Collect, configure and analyze your data to reach the right audience | `OAuth` | Unknown |
+| [Hexvan](https://hexvan.com) | Contacts, quotes, invoices and receipts of a small trade business (plumbers, electricians, roofers) | `apiKey` | No |
 | [Instatus](https://instatus.com/help/api) | Post to and update maintenance and incidents on your status page through an HTTP REST API | `apiKey` | Unknown |
 | [Listings API](https://listingsapi.com) | Manage business locations, sync listings across publishers, respond to reviews, publish posts, and pull local search analytics | `apiKey` | Unknown |
 | [Logo.dev](https://www.logo.dev) | Automated company logo API that updates daily. Transform any domain or company name into verified logos. | `apiKey` | Yes |
@@ -370,8 +379,10 @@
 | [ToolCompare](https://toolcompare.net/data) | Software pricing for 512 tools with the source URL and the date each price was read | No | Yes |
 | [TradeData](https://tradedata.io) | Global customs manifest and bill of lading APIs across 10 sovereign nations | `apiKey` | Yes |
 | [Trello](https://developers.trello.com/) | Boards, lists and cards to help you organize and prioritize your projects | `OAuth` | Unknown |
+| [Trends API](https://trendsapi.ai) | Search, social and shopping trend data as JSON: Google Trends, TikTok, YouTube, Amazon, Reddit and more | `apiKey` | No |
 | [USPTO Trademark](https://rapidapi.com/pentium10/api/uspto-trademark) | Trademark keyword search, availability, owner, serial search, attorney info, MCP ready | `apiKey` | Yes |
 | [Vaneform](https://vaneform.com) | Website traffic estimates for any domain: monthly visits, traffic sources, top countries and keyword data | `apiKey` | Yes |
+| [VNCNT Labs Trademark Checker](https://vncntlabs.com/tools/trademark-checker/) | Check product titles, tags and slogans against about 4.4M live USPTO trademarks by class, with risk level, owner and serial number | `apiKey` | Yes |
 | [Zillapi](https://zillapi.com) | US property data API — Zestimate, photos, taxes, price history | `apiKey` | Yes |
 
 **[⬆ Back to Index](#index)**
@@ -380,6 +391,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [Abstract Public Holidays](https://www.abstractapi.com/holidays-api) | Data on national, regional, and religious holidays via API | `apiKey` | Yes |
+| [Bankday](https://bankday.dev) | Business days, bank holidays and settlement dates for ACH, Fedwire, TARGET2, Bacs, Payments Canada, 28 stock exchanges and 247 countries | `apiKey` | Yes |
 | [Business Box](https://marubox.jp) | Booking API for small businesses in Japan: event types, open slots, bookings, invite links and webhooks, with API keys on the free plan | `apiKey` | Yes |
 | [Calendarific](https://calendarific.com/) | Worldwide Holidays | `apiKey` | Unknown |
 | [CountdownsHQ](https://countdownshq.com) | Dates and timezone-correct live countdowns for 150+ holidays and observances in 18 countries | No | Yes |
@@ -459,6 +471,7 @@
 | [BtcTurk](https://docs.btcturk.com/) | Real-time cryptocurrency data, graphs and API that allows buy&sell | `apiKey` | Yes |
 | [Bybit](https://bybit-exchange.github.io/docs) | Cryptocurrency data feed and algorithmic trading | `apiKey` | Unknown |
 | [ByKaranteli](https://bykaranteli.com) | Cross-exchange crypto derivatives data: funding rates, open interest, liquidation maps, options flow, ETF flows and Fear & Greed. JSON and CSV, free key with a verified account | `apiKey` | Yes |
+| [CabalSpy](https://www.cabalspy.xyz/) | Real-time KOL, smart money and whale wallet tracking across Solana, Ethereum, BNB Chain, Base and Robinhood Chain. 2,000+ labeled wallets, REST and WebSocket | `apiKey` | Unknown |
 | [Chord](https://getchord.xyz) | DEX aggregator API with best-route quotes split across DEXs and unsigned swap transactions on Base, Arbitrum, BNB Chain, Avalanche, Monad and more | No | Yes |
 | [Codex Data](https://www.codex.io) | Real-time and historical token prices, charts and wallet data across 80+ blockchain networks | `apiKey` | Yes |
 | [CoinAPI](https://docs.coinapi.io/) | All Currency Exchanges integrate under a single api | `apiKey` | No |
@@ -479,6 +492,7 @@
 | [CryptAPI](https://docs.cryptapi.io/) | Cryptocurrency Payment Processor | No | Unknown |
 | [CryptoCompare](https://www.cryptocompare.com/api#) | Cryptocurrencies Comparison | No | Unknown |
 | [CryptoLabel](https://cryptolabel.io/) | Free crypto address labels. Identify known addresses on major networks with a free API | No | Yes |
+| [Deep Blue Alpha](https://deepbluealpha.io/whale-api) | Ethereum whale-flow data: moves by 20,000+ tracked wallets, exchange deposits/withdrawals labeled apart from DEX swaps | `apiKey` | Yes |
 | [DexPaprika](https://docs.dexpaprika.com) | DEX pools, tokens, prices and OHLCV across 36 blockchain networks | No | No |
 | [dYdX](https://docs.dydx.exchange/) | Decentralized cryptocurrency exchange | `apiKey` | Unknown |
 | [Ethplorer](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API) | Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures | `apiKey` | Unknown |
@@ -500,9 +514,9 @@
 | [OKEx](https://okx.com/okx-api) | Cryptocurrency exchange based in Seychelles | `apiKey` | Unknown |
 | [OpenSea](https://docs.opensea.io/reference/api-overview) | The Largest NFT Marketplace | `apiKey` | No |
 | [Ophis](https://ophis.fi) | Natural-language intent parser for DEX swaps across 11 EVM chains | No | Unknown |
-| [Paribu](https://www.paribu.com) | Turkish cryptocurrency exchange with real-time market data, order book, trading and account endpoints | `apiKey` | No |
 | [Poloniex](https://docs.poloniex.com) | US based digital asset exchange | `apiKey` | Unknown |
 | [RealCryptoCap](https://realcryptocap.com/api) | Real crypto market cap without stables, wrapped or tokenized assets: native Top 500, coin lookup and market briefs (paid Pro/Ultra) | `apiKey` | Yes |
+| [send21](https://send21.io) | Crypto pay links and API for people and AI agents: non-custodial BTC, Lightning, USDC, USDT, EURC, SOL and ETH payment requests | `apiKey` | No |
 | [Sharpe](https://sharpe.ai) | Crypto market data for funding, futures, options, arbitrage, narratives, and news | No | No |
 | [SoChain](https://sochain.com) | Bitcoin, Litecoin, Dogecoin and Zcash balances, transactions and blocks | No | Yes |
 | [Solana JSON RPC](https://docs.solana.com/developing/clients/jsonrpc-api) | Provides various endpoints to interact with the Solana Blockchain | No | Unknown |
@@ -512,6 +526,7 @@
 | [VaultVision](https://vaultvision.tech/developers) | Read-only Hyperliquid vault data, risk rankings, and research signals | No | Yes |
 | [WorldCoinIndex](https://www.worldcoinindex.com/apiservice) | Cryptocurrencies Prices | `apiKey` | Unknown |
 | [x402-list](https://x402-list.com) | Directory of paid x402 APIs with per-endpoint USD pricing and live uptime, vetted before an agent pays, backed by on-chain settlement volume | No | Yes |
+| [XRPL.to](https://xrpl.to/docs) | XRP Ledger token prices, holders, trades and NFT data | No | Yes |
 | [ZMOK](https://docs.zmok.io) | Ethereum JSON RPC API and Web3 provider | No | Unknown |
 
 **[⬆ Back to Index](#index)**
@@ -563,6 +578,7 @@
 | [US Autocomplete](https://www.smarty.com/docs/cloud/us-autocomplete-pro-api) | Enter address data quickly with real-time address suggestions | `apiKey` | Yes |
 | [US Extract](https://www.smarty.com/products/apis/us-extract-api) | Extract postal addresses from any text including emails | `apiKey` | Yes |
 | [US Street Address](https://www.smarty.com/docs/cloud/us-street-api) | Validate and append data for any US postal address | `apiKey` | Yes |
+| [ValidaLatam](https://validalatam.ia-latam.app/docs) | Validate and format Latin American tax IDs, national IDs and bank accounts (CUIT, CPF, CNPJ, RFC, CURP, CLABE, RUT, NIT, RUC, IBAN) using check-digit algorithms | No | Yes |
 | [Validate UK Postcodes](https://apyhub.com/utility/data-postcodes-uk) | This API validates postal codes within UK | `apiKey` | Yes |
 | [VatcheckAPI](https://vatcheckapi.com) | VAT Number Validation & Lookup REST API | `apiKey` | Yes |
 | [VerifyEd](https://verifyed.org/docs) | Verify academic credentials — search 912K+ schools, detect diploma mills worldwide | `apiKey` | Yes |
@@ -578,6 +594,7 @@
 | [Agent Gateway](https://agent-gateway-kappa.vercel.app) | 34+ AI agent infrastructure services including memory, wallets, and scheduling | `apiKey` | Yes |
 | [Agent Nexus](https://agentnexus.app) | Continuously probed registry of APIs, MCP servers and CLIs callable by agents | No | Yes |
 | [AgentDeals](https://agentdeals.dev/api) | Search and compare developer free tiers, startup credits, and pricing changes | No | Yes |
+| [AgentSandboxes](https://agentsandboxes.fyi) | Directory of cloud sandbox providers for AI agents with source-linked specs | No | Yes |
 | [Agify.io](https://agify.io) | Estimates the age from a first name | No | Yes |
 | [Allscreenshots](https://allscreenshots.com) | Website screenshots and PDFs with full-page capture, dark mode, ad blocking and bulk requests | `apiKey` | No |
 | [Amazonscraperapi](https://amazonscraperapi.com) | Amazon product, search & batch scraping API with residential proxies (1000 free) | `apiKey` | No |
@@ -589,6 +606,7 @@
 | [ApiFlash](https://apiflash.com/) | Chrome based screenshot API for developers | `apiKey` | Unknown |
 | [APILayer](https://apilayer.com) | APILayer is a unified API marketplace with 40+ production-ready APIs for finance, geolocation, weather, data, and AI. Trusted by 2.2M+ developers | No | Unknown |
 | [APIs.guru](https://apis.guru/api-doc/) | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | No | Unknown |
+| [AppGoat](https://appgoat.ai) | App Store + Google Play data API and remote MCP server: apps, reviews, keywords, rankings, top charts and competitors for Claude, ChatGPT and Cursor. | `apiKey` | Yes |
 | [ApyHub: A Complete API Catalog](https://apyhub.com/catalog) | Build and ship applications that scale using certified APIs for every use case | `apiKey` | Yes |
 | [ASORadar](https://asoradar.com) | App Store and Google Play reviews, ratings, rankings and app metadata | `apiKey` | Unknown |
 | [AutoChangelog](https://autochangelog.com) | Automatically creates changelog entries from deployments by analyzing pull requests, commits, and code diffs across your GitHub repositories | `apiKey` | Yes |
@@ -618,12 +636,14 @@
 | [CurlShot](https://curlshot.com) | Screenshot API: any URL, HTML or Markdown to PNG, JPEG, WebP, PDF or scrolling video, with full page, devices, dark mode and ad blocking | `apiKey` | Yes |
 | [Databricks](https://docs.databricks.com/dev-tools/api/latest/index.html) | Service to manage your databricks account,clusters, notebooks, jobs and workspaces | `apiKey` | Yes |
 | [DATPAQ](https://datpaq.com) | Developer-first APIs. Enterprise-ready infrastructure. Sampla data, avatars, image processing and a lot more. | `apiKey` | Yes |
+| [Deed](https://deed.page) | Publish HTML or a static folder to a permanent HTTPS subdomain with one PUT and no signup; also served as a remote MCP server | No | Yes |
 | [DigitalOcean Status](https://status.digitalocean.com/api) | Status of all DigitalOcean services | No | Unknown |
 | [Docker Hub](https://docs.docker.com/docker-hub/api/latest/) | Interact with Docker Hub | `apiKey` | Yes |
 | [DomainDb Info](https://api.domainsdb.info/) | Domain name search to find all domains containing particular words/phrases/etc | No | Unknown |
 | [DownStatus](https://isitdownstatus.com) | Real-time status for GitHub, AWS, Discord and 90+ services | No | Yes |
 | [EveryInfra](https://everyinfra.com) | Structured data from 90 platforms (RedNote, Douyin, TikTok, Amazon and more), web search and CAPTCHA solving via REST or MCP | `apiKey` | No |
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | A simple JSON store API | No | Yes |
+| [FireDash Fire Hydrant Public API](https://developer.firedash.us/) | Live fire hydrant data: location, flow rate in GPM, and whether each hydrant is in or out of service. Sourced from the fire departments that maintain them | `apiKey` | Yes |
 | [FluentEDI](https://fluentedi.com) | Deterministic tools for AI agents: X12 EDI, check digits, time, cron, JSON repair | No | Yes |
 | [Form Creation API](https://apyhub.com/utility/reformify-form-api) | Create and manage customizable forms within your applications | `apiKey` | Yes |
 | [FormForge](https://formforge-api.vercel.app) | Generate styled, accessible HTML forms from JSON definitions with validation | No | Yes |
@@ -735,6 +755,7 @@
 | [Serialif Color](https://color.serialif.com/) | Color conversion, complementary, grayscale and contrasted text | No | No |
 | [SERP Rank Checker](https://apyhub.com/utility/serp-rank) | Check realtime Google SERP Rank of any keywords | `apiKey` | Yes |
 | [SerpApi - Search API](https://serpapi.com/) | SerpApi's Search API makes it easy and fast to scrape Google and other search engines | `apiKey` | No |
+| [SerpKite](https://serpkite.com) | Google SERP API for AI agents: web, news, images, maps, reviews and Scholar results as JSON or Markdown, plus page extraction and an MCP server | `apiKey` | Yes |
 | [Shadify](https://github.com/cheatsnake/shadify) | Service for generating data and executing logic to create various games and puzzles | No | Yes |
 | [Sheet2API](https://sheet2api.com/) | Easy Google Sheets and Excel Online API | `apiKey` | Unknown |
 | [Sheetsu](https://sheetsu.com/) | Easy google sheets integration | `apiKey` | Unknown |
@@ -759,6 +780,7 @@
 | [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel/API.md) | Code compiler supporting 35+ languages mentioned at wandbox.org | No | Unknown |
 | [Web Scraping API](https://apyhub.com/utility/sharpapi-web-scraping-api) | Extract structured data from any public URL | `apiKey` | Yes |
 | [WebScraping.AI](https://webscraping.ai/) | Web Scraping API with built-in proxies and JS rendering | `apiKey` | Yes |
+| [xmlvalid](https://xmlvalid.com/) | Validate XML against XSD, DTD and RelaxNG, and e-invoices against EN 16931, Peppol and XRechnung rules | `apiKey` | Yes |
 | [YAMLine](https://yamline.com/json/) | Convert YAML to JSON (on-the-fly) | No | Yes |
 | [ZenRows](https://www.zenrows.com/) | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies | `apiKey` | Unknown |
 | [Zuplo](https://zuplo.com/) | API platform for Development, Deployment, and Docs - add auth, rate-limiting, and monetization fast | `apiKey` | Unknown |
@@ -810,6 +832,7 @@
 | [Flowdash](https://docs.flowdash.com/docs/api-introduction) | Automate business workflows | `apiKey` | Unknown |
 | [Formfeed](https://formfeed.dev) | Render PDFs and images from HTML templates (Jinja2, Liquid, Handlebars) or Word files with one API call. EU-hosted, free tier | `apiKey` | No |
 | [fynk](https://fynk.com) | Generate, update, and manage contracts from your own systems with a secure and scalable REST API | `apiKey` | Yes |
+| [Hexloom File](https://hexloomlabs.com/api/) | Merge PDFs and strip or inspect photo metadata (EXIF, GPS) with one HTTP call; files processed in memory, not stored | `apiKey` | Yes |
 | [Html2PDF](https://html2pdf.app/) | HTML/URL to PDF | `apiKey` | Unknown |
 | [iLovePDF](https://developer.ilovepdf.com/) | Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month | `apiKey` | Yes |
 | [Invoice Parsing API](https://apyhub.com/utility/sharpapi-ai-invoice-parser) | Extract structured invoice data using AI with this API. Multiple formats supported | `apiKey` | Yes |
@@ -861,6 +884,7 @@
 | [Emailvalidation](https://emailvalidation.io/email-validation-api/) | E-Mail address validation | `apiKey` | Yes |
 | [FreeCustom.Email](https://freecustom.email) | Disposable email inboxes with OTP extraction and real-time WebSocket events | `apiKey` | Yes |
 | [Guerrilla Mail](https://www.guerrillamail.com/GuerrillaMailAPI.html) | Disposable temporary Email addresses | No | Unknown |
+| [Hail](https://hail.so) | Add AI calls, SMS, and email to apps and AI agents through one API | `apiKey` | No |
 | [Heybounce](https://www.heybounce.io/#email-verification-api) | Email Verification API | No | Yes |
 | [ImprovMX](https://improvmx.com/api) | API for free email forwarding service | `apiKey` | Unknown |
 | [inboxsink](https://inboxsink.com) | Disposable inboxes for end-to-end tests that wait for the email and extract OTP codes and links | `apiKey` | No |
@@ -956,6 +980,7 @@
 | [Abstract VAT Validation](https://www.abstractapi.com/vat-validation-rates-api) | Validate VAT numbers and calculate VAT rates | `apiKey` | Yes |
 | [Adanos](https://adanos.org/) | Stock and crypto sentiment from Reddit, X, financial news, and Polymarket | `apiKey` | Yes |
 | [Agent Toolbelt](https://www.agenttoolbelt.live) | AI-generated stock analysis (investment thesis, valuation, insider signal, earnings) from live fundamentals, as structured JSON | `apiKey` | Unknown |
+| [Agent Wallet Index](https://agentwalletindex.fyi) | Wallets, payment protocols and card rails for AI agents with source-linked facts | No | Yes |
 | [Aikount](https://aikount.com) | Spanish accounting for freelancers and SMEs: invoices, expense receipts with OCR, bank reconciliation, ledger and VAT returns | `apiKey` | No |
 | [Aletheia](https://aletheiaapi.com/) | Insider trading data, earnings call analysis, financial statements, and more | `apiKey` | Yes |
 | [Alpha Vantage](https://www.alphavantage.co/) | Realtime and historical stock data | `apiKey` | Unknown |
@@ -973,6 +998,7 @@
 | [Bullbear Advisors](https://rapidapi.com/otha1920/api/bullbear-advisor) | See strong buy and sell signals the day they occur. Get today's stocks that closed with a strong Bullish or Bearish candlestick. | No | No |
 | [Casheva](https://casheva.com) | Financial data for Argentina, Spain and Mexico: USD rates, inflation, Euribor, ICL | No | Yes |
 | [Citi](https://sandbox.developerhub.citi.com/api-catalog-list) | All Citigroup account and statement data APIs | `apiKey` | Unknown |
+| [CreditUnions](https://creditunions.fyi) | US credit union eligibility and NCUA call-report data | No | Yes |
 | [DolarAPI](https://dolarapi.com/docs/) | Real-time exchange rates for Latin American currencies | No | Yes |
 | [Drillr](https://drillr.ai) | Fundamentals, filings, filing full-text search, earnings, ownership, events and analyst data for US, China and Japan equities, linked to source filings | `apiKey` | No |
 | [Earnings Feed](https://earningsfeed.com/api/docs) | SEC filings, insider transactions, institutional holdings | `apiKey` | No |
@@ -1018,6 +1044,7 @@
 | [Razorpay IFSC](https://razorpay.com/docs/) | Indian Financial Systems Code (Bank Branch Codes) | No | Unknown |
 | [Real Time Finance](https://github.com/Real-time-finance/finance-websocket-API/) | Websocket API to access realtime stock data | `apiKey` | Unknown |
 | [Realie Property Data API](https://www.realie.ai/real-estate-data-api) | Realie's property data is directly sourced from local municipalities and contains over 100 data fields. Realie covers the entire USA with 180 million parcels. | `apiKey` | No |
+| [ReceiptEdit Sales Tax API](https://receiptedit.com) | Free sales-tax lookup API covering all US states + zip-level city/county rates. No signup, no rate limit. Also supports Canadian GST/HST/PST and Indian GST slabs. Ideal for building expense-reimbursement flows, invoicing SaaS demos, receipt OCR pipelines, or seeding accounting tools. Full docs at https://receiptedit.com/developers | No | Yes |
 | [RentCast](https://developers.rentcast.io) | Retrieve real-time property and rental data for real estate in the United States | `apiKey` | Yes |
 | [Roic AI](https://www.roic.ai/) | Fundamentals, financial ratios and earnings call transcripts for 68k+ companies | `apiKey` | Unknown |
 | [Salary API](https://jobicy.com/salary-api) | The REST API returns structured JSON responses containing salary ranges, hourly rates, compensation benchmarks, required skills, market demand, and regional employment insights | `apiKey` | Yes |
@@ -1256,6 +1283,7 @@
 | [OnWater](https://onwater.io/) | Determine if a lat/lon is on water or land | No | Unknown |
 | [Open Topo Data](https://www.opentopodata.org) | Elevation and ocean depth for a latitude and longitude | No | No |
 | [OpenCage](https://opencagedata.com) | Forward and reverse geocoding using open data | `apiKey` | Yes |
+| [OpenGeocoding](https://opengeocoding.com) | Forward and reverse geocoding and address autocomplete built on OpenStreetMap, Overture Maps and other open data | `apiKey` | Yes |
 | [OpenPLZ API](https://www.openplzapi.org/) | A public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland via an open REST API | No | Yes |
 | [openrouteservice.org](https://openrouteservice.org/) | Directions, POIs, isochrones, geocoding (+reverse), elevation, and more | `apiKey` | Unknown |
 | [OpenStreetMap](https://wiki.openstreetmap.org/wiki/API) | Navigation, geolocation and geographical data | `OAuth` | Unknown |
@@ -1325,6 +1353,7 @@
 | [FCC ULS Daily Change Archive](https://rapidapi.com/marlinloots3r/api/fcc-uls-daily-change-archive) | Day-resolution archive of FCC ULS license change events, including days the FCC's own seven-day feed has overwritten. Coverage from 2026-08-18 | `apiKey` | Unknown |
 | [FEC](https://api.open.fec.gov/developers/) | Information on campaign donations in federal elections | `apiKey` | Unknown |
 | [Federal Register](https://www.federalregister.gov/reader-aids/developer-resources/rest-api) | The Daily Journal of the United States Government | No | Unknown |
+| [FIRMSapi](https://firmsapi.com) | Look up, search and validate US CBP FIRMS facility codes for piers, container freight stations, bonded warehouses and FTZs | `apiKey` | Yes |
 | [Gazette Data, UK](https://www.thegazette.co.uk/data) | UK official public record API | `OAuth` | Unknown |
 | [Interpol Red Notices](https://interpol.api.bund.dev/) | Access and search Interpol Red Notices | No | Unknown |
 | [Istanbul (İBB) Open Data](https://data.ibb.gov.tr) | Data sets from the İstanbul Metropolitan Municipality (İBB) | No | Unknown |
@@ -1475,6 +1504,7 @@
 | [audiometa.io](https://www.audiometa.io) | Aggregated live web signals and multiple APIs into one catalog. artists, tracks, playcounts, social reach, and more | `apiKey` | No |
 | [Bandcamp](https://bandcamp.com/developer) | API of Music store Bandcamp | `OAuth` | Unknown |
 | [Bandsintown](https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0) | Music Events | No | Unknown |
+| [Cucutime](https://cucutime.org) | Kids-song ideas for any name and search over the CucuTime YouTube catalog; a free key adds AI songs for adult-facing apps | No | Yes |
 | [Deezer](https://developers.deezer.com/api) | Music | `OAuth` | Unknown |
 | [Discogs](https://www.discogs.com/developers) | Music | `OAuth` | Unknown |
 | [Freesound](https://freesound.org/docs/api/) | Music Samples | `apiKey` | Unknown |
@@ -1500,6 +1530,7 @@
 | [Spotify](https://beta.developer.spotify.com/documentation/web-api/) | View Spotify music catalog and manage users' libraries and playlists | `OAuth` | Unknown |
 | [TasteDive](https://tastedive.com/read/api) | Similar artist API (also works for movies and TV shows) | `apiKey` | Unknown |
 | [TheAudioDB](https://www.theaudiodb.com/free_music_api) | Music | `apiKey` | Unknown |
+| [Words into Music](https://wordsintomusic.com/) | Generate songs from ideas or lyrics in five languages, track jobs and read your own song library | `apiKey` | No |
 
 **[⬆ Back to Index](#index)**
 
@@ -1519,6 +1550,7 @@
 | [HackerNews Node](https://github.com/EdixonAlberto/api-hackernews-node) | Api to get related articles about Node.js in Hacker News | `apiKey` | No |
 | [HasData: Structured Web Data APIs](https://hasdata.com) | Real-time Google News, SERP, and Web Scraping APIs. Extract structured public data from any news outlet or search engine at scale without blocks | `apiKey` | No |
 | [Inshorts News](https://github.com/cyberboysumanjay/Inshorts-News-API) | Provides news from inshorts | No | Unknown |
+| [Kiwi News](https://news.kiwistand.com) | Community-curated crypto and Ethereum news: hot, new and best feeds, stories with comments | No | Yes |
 | [MarketAux](https://www.marketaux.com/) | Live stock market news with tagged tickers + sentiment and stats JSON API | `apiKey` | Yes |
 | [New York Times](https://developer.nytimes.com/) | The New York Times Developer Network | `apiKey` | Unknown |
 | [News](https://newsapi.org/) | Headlines currently published on a range of news sources and blogs | `apiKey` | Unknown |
@@ -1531,6 +1563,7 @@
 | [Sonto](https://sonto.tech) | Tech and AI news as JSON or RSS, with translated feeds in EN, DE, ES, FR, JA | No | Yes |
 | [Spaceflight News](https://spaceflightnewsapi.net) | Spaceflight related news 🚀 | No | Yes |
 | [Substack API Wrapper](https://github.com/NHagar/substack_api) | Substack's newsletter platform now has an API wrapper, for easy access to latest posts | No | Unknown |
+| [The Deploy Log](https://deployedbyai.com/log/) | AI deployments, each sourced to the publisher's own page: query by words, company or ISO week over MCP, or fetch every row as JSON or CSV | No | Yes |
 | [The Guardian](https://open-platform.theguardian.com/) | Access all the content the Guardian creates, categorised by tags and section | `apiKey` | Unknown |
 | [The Old Reader](https://github.com/theoldreader/api) | RSS reader | `apiKey` | Unknown |
 | [TheNews](https://www.thenewsapi.com/) | Aggregated headlines, top story and live news JSON API | `apiKey` | Yes |
@@ -1543,6 +1576,7 @@
 ### Open Data
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [10ML Fragrance Index](https://mcp.10ml.com) | Perfume knowledge from the 10ML Fragrance Index: notes, accords, fragrance families, similar scents, houses and expert guides | No | Yes |
 | [Archive.org](https://archive.readme.io/docs) | The Internet Archive | No | No |
 | [ArgentinaDatos](https://argentinadatos.com/) | Unofficial Argentinian data API | No | Yes |
 | [baseray](https://baseray.ai) | Building data: address, use, size, height, age, roof, solar panels and registered businesses | `apiKey` | Yes |
@@ -1564,7 +1598,9 @@
 | [InfraNode](https://infranode.dev) | Unified German city open data: weather, air quality, EV chargers, transit, demographics | No | Yes |
 | [Joshua Project](https://api.joshuaproject.net/) | People groups of the world with the fewest followers of Christ | `apiKey` | Unknown |
 | [Kaggle](https://www.kaggle.com/docs/api) | Create and interact with Datasets, Notebooks, and connect with Kaggle | `apiKey` | Unknown |
+| [Künstlerfinanzen](https://kuenstlerfinanzen.de/entwickler.html) | Contribution rates of the German artists' social insurance (Künstlersozialkasse) per year and branch, each value with its source | No | No |
 | [LinkPreview](https://www.linkpreview.net) | Get JSON formatted summary with title, description and preview image for any requested URL | `apiKey` | Yes |
+| [Lottizen](https://lottizen.com) | Lottery draw results and number statistics for Canada, US and Europe, plus Canadian scratch-ticket remaining prizes | `X-Mashape-Key` | Yes |
 | [Lowy Asia Power Index](https://github.com/0x0is1/lowy-index-api-docs) | Get measure resources and influence to rank the relative power of states in Asia | No | Unknown |
 | [Microlink.io](https://microlink.io) | Extract structured data from any website | No | Yes |
 | [Nobel Prize](https://www.nobelprize.org/about/developer-zone-2/) | Open data about nobel prizes and events | No | Yes |
@@ -1574,7 +1610,9 @@
 | [OpenSanctions](https://www.opensanctions.org/docs/api/) | Data on international sanctions, crime and politically exposed persons | No | Yes |
 | [Recreation Information Database](https://ridb.recreation.gov/) | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US) | `apiKey` | Unknown |
 | [Salary Explorer](https://salarywiki.com/api) | Wages and employment for every US occupation by state and metro area, from Bureau of Labor Statistics survey data, with cost-of-living adjustment | No | Yes |
+| [Scento Perfume API](https://www.scento.com/developers/perfume-api) | Perfume notes, families, houses and raw materials, each tied to a page on scento.com | No | Yes |
 | [Scoop.it](https://www.scoop.it/dev) | Content Curation Service | `apiKey` | Unknown |
+| [SlashYear](https://slashyear.com) | History by year, date and country, plus world leaders, historical prices and No. 1 songs, each line cited to a Wikipedia revision | No | Yes |
 | [Socrata](https://dev.socrata.com/) | Access to Open Data from Governments, Non-profits and NGOs around the world | `OAuth` | Yes |
 | [Sofiaplan](https://sofiaplan.bg/api/) | Access to urban research data for the Bulgarian capital Sofia | No | Yes |
 | [Udemy Coupons, Courses & Instructors Data](https://rapidapi.com/vintarok-vintarok-default/api/udemy-coupons-courses-instructors-data-api) | Retrieve Udemy courses, coupons, instructors, and metadata | `apiKey` | Yes |
@@ -1632,6 +1670,7 @@
 | [kanye.rest](https://kanye.rest) | REST API for random Kanye West quotes | No | Yes |
 | [kimiquotes](https://kimiquotes.pages.dev/docs) | Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen | No | Yes |
 | [Medium](https://github.com/Medium/medium-api-docs) | Community of readers and writers offering unique perspectives on ideas | `OAuth` | Unknown |
+| [Perle Românești](https://api.tasta.space/perle-romanesti) | Real slips of the tongue said in public by famous Romanians, quoted word for word with context, date and source, at random or filtered | No | Yes |
 | [Quoterism](https://www.quoterism.com/developer) | The Web's Largest Collection of Human Inspiration | No | Unknown |
 | [Quotes on Design](https://quotesondesign.com/api/) | Inspirational Quotes | No | Unknown |
 | [Sentino Personality API](https://sentino.org/api/) | AI-powered personality profiling and psychology analysis using NLP and Big 5, NEO, HEXACO, DISC inventories | `apiKey` | No |
@@ -1653,6 +1692,7 @@
 | [MobileAPI](https://mobileapi.dev/docs/) | Smartphone, tablet, and wearable device specifications | `apiKey` | Yes |
 | [NumlookupAPI](https://numlookupapi.com) | Worldwide Phone Number Lookup & Verification API | `apiKey` | Yes |
 | [Phone Specification](https://github.com/azharimm/phone-specs-api) | Rest Api for Phone specifications | No | Yes |
+| [PlaceCall](https://voygr.tech/placecall/) | Voice AI agent that phones US businesses for bookings, appointments and quotes, gets through IVR menus and holds, and returns the outcome and transcript | `apiKey` | No |
 | [Proweblook Phone Number Checker](https://proweblook.com/phone-number-validator) | Phone number validation | `apiKey` | Yes |
 | [Proweblook Whatsapp Contact Checker](https://proweblook.com/whatsapp-number-checker) | Whatsapp number validation | `apiKey` | Yes |
 | [USA Caller Lookup](https://www.usacallerlookup.com/api/) | US reverse phone lookup: carrier, location and FTC robocall complaint data, no key needed | No | Yes |
@@ -1831,7 +1871,6 @@
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce | `apiKey` | Unknown |
 | [Canopy](https://www.canopyapi.co/) | A modern API for Amazon Data | `apiKey` | Unknown |
 | [Clickwise](https://partners.clickwise.net/) | Affiliate product search by GTIN with tracked links, affiliate programs and deals; free sandbox key | `apiKey` | No |
-| [CompareFairly](https://comparefairly.com) | Neutral, sourced comparisons of products and services across any category, localized by language and country; per-criterion values, sub-scores and the source link behind each value | No | Yes |
 | [DeX](https://dex.sy) | Syrian online store builder: manage products, variants, stock, categories and orders of a DeX store via REST API and webhooks | `apiKey` | No |
 | [Digi-Key](https://www.digikey.com/en/resources/api-solutions) | Retrieve price and inventory of electronic components as well as place orders | `OAuth` | Unknown |
 | [E-Commerce APIs](https://apyhub.com/catalog/commerce-quick-tools) | All around e-commerce APIs. Generate QR codes, product categories and thumbnails, barcodes and many more. | `apiKey` | Yes |
@@ -1851,6 +1890,7 @@
 | [ShopSavvy](https://shopsavvy.com/data) | Product lookups by barcode/UPC/EAN/ASIN with real-time pricing and price history | `apiKey` | Yes |
 | [SI5 Global](https://global.si5.com.br) | Product lookup by GTIN/EAN or name for ERP, POS and e-commerce, with brands, images and NCM/CEST when available | `apiKey` | Yes |
 | [Tokopedia](https://developer.tokopedia.com/openapi/guide/#/) | Tokopedia's Official API for integration of various services from Tokopedia | `OAuth` | Unknown |
+| [VantaSpec](https://vantaspec.com) | UK PC hardware prices, price history and specs across UK retailers | No | Yes |
 | [WooCommerce](https://woocommerce.github.io/woocommerce-rest-api-docs/) | WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format | `apiKey` | Yes |
 | [Zinc](https://www.zinc.com) | Place, track and return orders at Amazon, Walmart, Target and other online retailers | `apiKey` | No |
 
@@ -1864,7 +1904,7 @@
 | [Ayrshare](https://www.ayrshare.com) | Social media APIs to post, get analytics, and manage multiple users social media accounts | `apiKey` | Yes |
 | [Blogger](https://developers.google.com/blogger/) | The Blogger APIs allows client applications to view and update Blogger content | `OAuth` | Unknown |
 | [Breakreach](https://www.breakreach.com) | Schedule and publish posts to 19 social networks with one REST API, SDKs and a hosted MCP server | `apiKey` | No |
-| [BulkPublish](https://www.bulkpublish.com) | Schedule and publish posts to 14 social networks | `apiKey` | Yes |
+| [BulkPublish](https://www.bulkpublish.com) | Schedule and publish posts to 15 social networks | `apiKey` | Yes |
 | [Discord](https://discord.com/developers/docs/intro) | Make bots for Discord, integrate Discord onto an external platform | `OAuth` | Unknown |
 | [Disqus](https://disqus.com/api/docs/auth/) | Communicate with Disqus data | `OAuth` | Unknown |
 | [Facebook](https://developers.facebook.com/) | Facebook Login, Share on FB, Social Plugins, Analytics and more | `OAuth` | Unknown |
@@ -1898,6 +1938,7 @@
 | [ShapelessAI](https://shapelessai.com) | Schedule and publish posts to LinkedIn, X, Instagram, TikTok, YouTube, Facebook, Threads and Bluesky, plus AI images and video | `apiKey` | No |
 | [Signals](https://signals.sh) | Marketplace API to quote, place, and track Reddit and Quora promotion orders, with catalog and wallet endpoints | `apiKey` | No |
 | [Slack](https://api.slack.com/) | Team Instant Messaging | `OAuth` | Unknown |
+| [Social Media Management API](https://omnisocials.com/) | Schedule and publish posts, upload media, and fetch analytics across 11 social platforms like Instagram, TikTok, LinkedIn, and X, from one REST API | `apiKey` | No |
 | [SocialClaw](https://getsocialclaw.com/) | Unified API to schedule and publish posts across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, Discord, Telegram, and WordPress | `apiKey` | Yes |
 | [SocialData API](https://socialdata.tools) | Read Twitter data | `apiKey` | No |
 | [TamTam](https://dev.tamtam.chat/) | Bot API to interact with TamTam | `apiKey` | Unknown |
@@ -1907,6 +1948,7 @@
 | [TikTok LIVE](https://rngrow.com/api-docs) | TikTok LIVE creator data: recruitable creators, league boards, rankings and top gifters | `apiKey` | Yes |
 | [Trash Nothing](https://trashnothing.com/developer) | A freecycling community with thousands of free items posted every day | `OAuth` | Yes |
 | [Tumblr](https://www.tumblr.com/docs/en/api/v2) | Read and write Tumblr Data | `OAuth` | Unknown |
+| [TweetAPI](https://tweetapi.com) | Twitter data API: search, profiles, followers, timelines, lists, communities, posting and DMs | `apiKey` | No |
 | [Twitch](https://dev.twitch.tv/docs) | Game Streaming API | `OAuth` | Unknown |
 | [Twitter](https://developer.twitter.com/en/docs) | Read and write Twitter data | `OAuth` | No |
 | [TwitterApi.IO](https://twitterapi.io) | Access Twitter's Real-time & Historical Data with Unmatched Simplicity | `apiKey` | No |
@@ -1914,7 +1956,9 @@
 | [vk](https://vk.com/dev/sites) | Read and write vk data | `OAuth` | Unknown |
 | [Wapio](https://www.wapio.io) | WhatsApp messaging with text, media, QR-code connection and incoming-message webhooks | `apiKey` | No |
 | [Webex](https://developer.webex.com) | Team collaboration software | `OAuth` | Yes |
+| [Weir](https://weirapp.io) | Public Reddit and X (Twitter) data: search posts, read comment threads, profiles and followers, and run scheduled monitors with webhooks | `apiKey` | No |
 | [WoopSocial](https://woopsocial.com) | Schedule and publish posts across social media platforms | `apiKey` | No |
+| [Xquik API](https://xquik.com) | Search X posts, profiles, followers, trends, and communities through 128 REST operations, MCP, webhooks, SDKs, and exports. Not affiliated with X Corp | `apiKey` | Unknown |
 | [Zoom](https://developers.zoom.us/docs/api) | Video communication, web conferencing, chat, and webinars | `OAuth` | Unknown |
 
 **[⬆ Back to Index](#index)**
@@ -2066,6 +2110,7 @@
 | [Fuel Prices at Spanish Gas Stations](https://datos.gob.es/en/apidata) | Provides information about fuel prices at gas stations in Spain | No | No |
 | [Grab](https://developer.grab.com/docs/) | Track deliveries, ride fares, payments and loyalty points | `OAuth` | Unknown |
 | [GraphHopper](https://docs.graphhopper.com/) | A-to-B routing with turn-by-turn instructions | `apiKey` | Unknown |
+| [HaulierScope](https://haulierscope.co.uk) | Great Britain goods vehicle and PSV operator licences, change history and public inquiries | No | Yes |
 | [Icelandic APIs](https://docs.apis.is/) | Open APIs that deliver services in or regarding Iceland | No | Unknown |
 | [Izi](https://api-docs.izi.travel/) | Audio guide for travellers | `apiKey` | Unknown |
 | [K-AgentPay](https://k-agentpay.com/) | Korea travel live data in English/Japanese/Korean: Seoul subway arrivals, Incheon Airport wait times, Seoul crowds and weather, K-pop concerts | `apiKey` | Yes |
@@ -2075,6 +2120,7 @@
 | [MTA](https://api.mta.info/#/subwayRealTimeFeeds) | MTA Subway Realtime Feeds | No | No |
 | [Navitia](https://doc.navitia.io/) | The open API for building cool stuff with transport data | `apiKey` | Unknown |
 | [Open Charge Map](https://openchargemap.org/site/develop/api) | Global public registry of electric vehicle charging locations | `apiKey` | Yes |
+| [PlateAPI](https://plateapi.com.au) | Australian vehicle registration plate lookup API. Send a plate and state, get year, make, model, body, and engine back as JSON. All 8 states and territories | `apiKey` | No |
 | [REFUGE Restrooms](https://www.refugerestrooms.org/api/docs/#!/restrooms) | Provides safe restroom access for transgender, intersex and gender nonconforming individuals | No | Unknown |
 | [Road511](https://road511.com) | Unified traffic data from 65 US/CA jurisdictions: events, cameras, signs, bridges, truck routes | `apiKey` | Yes |
 | [Sabre for Developers](https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel) | Travel Search - Limited usage | `apiKey` | Unknown |
