@@ -1,5 +1,5 @@
 {
-"count": 1909,
+"count": 1910,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7,6 +7,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://rapidapi.com/vintarok-vintarok-default/api/advanced-multilanguage-ai-translator-api-with-fast-responses",
+        "Category": "AI"
+    },
+    {
+        "API": "AI Benchmark Index",
+        "Description": "AI benchmarks with traceable data, licences and scores",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://aibenchmarkindex.com",
         "Category": "AI"
     },
     {
