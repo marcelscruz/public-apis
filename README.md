@@ -899,6 +899,7 @@
 | [MailChannels](https://www.mailchannels.com/email-api/) | Send transactional email over HTTPS with official JavaScript, Python and PHP SDKs | `apiKey` | No |
 | [MailCheck.ai](https://www.mailcheck.ai/#documentation) | Prevent users to sign up with temporary email addresses | No | Unknown |
 | [mailfloss](https://mailfloss.com) | Email verification for signup forms and lists. Stops spam signups by blocking disposable and invalid emails and suggests typo fixes, with 500 free a month | `apiKey` | Yes |
+| [MailTester Ninja](https://mailtester.ninja) | Real-time email verification checked live against the mail server: valid, invalid or catch-all, disposable detection, free tier without signup | `apiKey` | Yes |
 | [Mailtrap](https://mailtrap.docs.apiary.io/#) | A service for the safe testing of emails sent from the development and staging environments | `apiKey` | Unknown |
 | [MailValid](https://mailvalid.io) | Real-time email verification API with SMTP, MX, disposable, role-based, and catch-all detection. Verify single or bulk emails with confidence scoring | `apiKey` | Yes |
 | [NoParam](https://noparam.com) | Email validation API for real-time & bulk checking | `apiKey` | Unknown |
