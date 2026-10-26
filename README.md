@@ -319,6 +319,7 @@
 | [Bhagavad Gita telugu](https://gita-api.vercel.app) | Bhagavad Gita API in telugu and odia languages | No | Yes |
 | [Bible-api](https://bible-api.com/) | Free Bible API with multiple languages | No | Yes |
 | [Big Book](https://bigbookapi.com) | The Big Book API allows you to semantically search, filter, sort, and recommend books | `apiKey` | Yes |
+| [BookRank](https://openbookrank.com/en/open-data) | Book scores from reader ratings, category rankings, series reading orders and ISBN/Wikidata lookups | No | Yes |
 | [Crossref Metadata Search](https://github.com/CrossRef/rest-api-doc) | Books & Articles Metadata | No | Unknown |
 | [Ganjoor](https://api.ganjoor.net) | Classic Persian poetry works including access to related manuscripts, recitations and music tracks | `OAuth` | Yes |
 | [Google Books](https://developers.google.com/books/) | Books | `OAuth` | Unknown |
