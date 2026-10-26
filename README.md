@@ -1044,6 +1044,7 @@
 | [Razorpay IFSC](https://razorpay.com/docs/) | Indian Financial Systems Code (Bank Branch Codes) | No | Unknown |
 | [Real Time Finance](https://github.com/Real-time-finance/finance-websocket-API/) | Websocket API to access realtime stock data | `apiKey` | Unknown |
 | [Realie Property Data API](https://www.realie.ai/real-estate-data-api) | Realie's property data is directly sourced from local municipalities and contains over 100 data fields. Realie covers the entire USA with 180 million parcels. | `apiKey` | No |
+| [ReceiptEdit Sales Tax API](https://receiptedit.com) | Free sales-tax lookup API covering all US states + zip-level city/county rates. No signup, no rate limit. Also supports Canadian GST/HST/PST and Indian GST slabs. Ideal for building expense-reimbursement flows, invoicing SaaS demos, receipt OCR pipelines, or seeding accounting tools. Full docs at https://receiptedit.com/developers | No | Yes |
 | [RentCast](https://developers.rentcast.io) | Retrieve real-time property and rental data for real estate in the United States | `apiKey` | Yes |
 | [Roic AI](https://www.roic.ai/) | Fundamentals, financial ratios and earnings call transcripts for 68k+ companies | `apiKey` | Unknown |
 | [Salary API](https://jobicy.com/salary-api) | The REST API returns structured JSON responses containing salary ranges, hourly rates, compensation benchmarks, required skills, market demand, and regional employment insights | `apiKey` | Yes |
