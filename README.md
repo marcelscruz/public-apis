@@ -371,6 +371,7 @@
 | [Mydentify](https://mydentify.com) | Startup-directory research and weekly product leaderboard data | No | Yes |
 | [NioLeads](https://nioleads.com/apidoc) | LinkedIn Email Finder and Email Verifier | `apiKey` | Yes |
 | [Project Cost Estimator](https://projectcostestimator.com/api-docs) | Cost, timeline and complexity estimates for website, ecommerce and app projects | `apiKey` | Yes |
+| [Public Adjusters Directory](https://publicadjusters.fyi) | Public adjusters, so you can check a licence before you hire one | No | Yes |
 | [Redash](https://redash.io/help/user-guide/integrations-and-api/api) | Access your queries and dashboards on Redash | `apiKey` | Yes |
 | [Renidly](https://renidly.com) | Resolve any B2B identityin milliseconds | `apiKey` | Yes |
 | [RestoSignals](https://restosignals.com) | US restaurants and bars 1-6 months before opening, fused from liquor-license, food-permit and business filings and scored | `apiKey` | No |
