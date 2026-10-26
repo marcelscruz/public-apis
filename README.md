@@ -383,6 +383,7 @@
 | [Trends API](https://trendsapi.ai) | Search, social and shopping trend data as JSON: Google Trends, TikTok, YouTube, Amazon, Reddit and more | `apiKey` | No |
 | [USPTO Trademark](https://rapidapi.com/pentium10/api/uspto-trademark) | Trademark keyword search, availability, owner, serial search, attorney info, MCP ready | `apiKey` | Yes |
 | [Vaneform](https://vaneform.com) | Website traffic estimates for any domain: monthly visits, traffic sources, top countries and keyword data | `apiKey` | Yes |
+| [VNCNT Labs Keyword Search Volume](https://vncntlabs.com/tools/keyword-volume/) | Bulk Google Keyword Planner and Amazon search volume with CPC, competition, difficulty, intent and 12-month trend, up to 50,000 keywords a run | `apiKey` | Yes |
 | [VNCNT Labs Trademark Checker](https://vncntlabs.com/tools/trademark-checker/) | Check product titles, tags and slogans against about 4.4M live USPTO trademarks by class, with risk level, owner and serial number | `apiKey` | Yes |
 | [Zillapi](https://zillapi.com) | US property data API — Zestimate, photos, taxes, price history | `apiKey` | Yes |
 
