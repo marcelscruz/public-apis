@@ -1358,6 +1358,7 @@
 | [Interpol Red Notices](https://interpol.api.bund.dev/) | Access and search Interpol Red Notices | No | Unknown |
 | [Istanbul (İBB) Open Data](https://data.ibb.gov.tr) | Data sets from the İstanbul Metropolitan Municipality (İBB) | No | Unknown |
 | [Kurtaxe](https://keyset.cloud/kurtaxe/) | German tourist tax (Kurtaxe) rates of more than 250 municipalities as JSON and CSV, every figure quoted from the municipal statute with its source | No | Yes |
+| [MarriageLicense](https://marriagelicense.fyi) | Where to give notice of marriage or get a marriage licence, by country | No | Yes |
 | [National Park Service, US](https://www.nps.gov/subjects/developer/) | Data from the US National Park Service | `apiKey` | Yes |
 | [Open Government, ACT](https://www.data.act.gov.au/) | Australian Capital Territory Open Data | No | Unknown |
 | [Open Government, Argentina](https://datos.gob.ar/) | Argentina Government Open Data | No | Unknown |
