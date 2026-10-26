@@ -1,5 +1,5 @@
 {
-"count": 1902,
+"count": 1903,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12839,6 +12839,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://woopsocial.com",
+        "Category": "Social"
+    },
+    {
+        "API": "Xquik API",
+        "Description": "Search X posts, profiles, followers, trends, and communities through 128 REST operations, MCP, webhooks, SDKs, and exports. Not affiliated with X Corp",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://xquik.com",
         "Category": "Social"
     },
     {
