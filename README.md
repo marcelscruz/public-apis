@@ -810,6 +810,7 @@
 |---|---|---|---|
 | [AI Meeting Minutes Suite](https://rapidapi.com/vintarok-vintarok-default/api/ai-meeting-minutes-suite-summaries-templates-redaction) | Generate summaries, templates, and redact sensitive data from meeting notes | `apiKey` | Yes |
 | [Airtable](https://airtable.com/api) | Integrate with Airtable | `apiKey` | Unknown |
+| [Utilvo](https://utilvo.com/) | Client-side WebAssembly document and PDF processing utilities | No | Yes |
 | [Api2Convert](https://www.api2convert.com/) | Online File Conversion API | `apiKey` | Unknown |
 | [APISign](https://apisign.io) | E-signature API for apps and AI agents: send Markdown or .docx contracts by email and get signed PDFs with a SHA-256 seal, audit trail and webhooks | `apiKey` | No |
 | [Asana](https://developers.asana.com/docs) | Programmatic access to all data in your asana system | `apiKey` | Yes |
