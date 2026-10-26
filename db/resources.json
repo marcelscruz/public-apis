@@ -1,5 +1,5 @@
 {
-"count": 1907,
+"count": 1908,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13287,6 +13287,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.thesportsdb.com/api.php",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "TipsAudit",
+        "Description": "Football fair odds (bookmaker margin removed) and bookmaker margin index",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://tipsaudit.com/api",
         "Category": "Sports & Fitness"
     },
     {
