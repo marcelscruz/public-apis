@@ -3494,7 +3494,7 @@
         "Description": "OpenAI Codex usage-limit reset history, verified announcements and 24h/48h reset probability",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://codex-reset.com/llms.txt",
+        "Link": "https://codex-reset.com",
         "Category": "Development"
     },
     {
@@ -5102,7 +5102,7 @@
         "Description": "Extract plain text from PDF documents for LLM and RAG pipelines",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://kiprio.com/v1/pdf-text/",
+        "Link": "https://kiprio.com",
         "Category": "Documents & Productivity"
     },
     {
@@ -6302,7 +6302,7 @@
         "Description": "Tax calculations for Germany: income tax, crypto, commuter allowance, and more",
         "Auth": "apiKey",
         "Cors": "no",
-        "Link": "https://rechner-hub.de/steuerrechner-api/",
+        "Link": "https://rechner-hub.de",
         "Category": "Finance"
     },
     {
