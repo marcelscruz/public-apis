@@ -1,5 +1,5 @@
 {
-"count": 1913,
+"count": 1914,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1687,6 +1687,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.freelancer.com",
+        "Category": "Business"
+    },
+    {
+        "API": "FuneralCompare",
+        "Description": "Funeral homes and cremation providers, compared by the fees they publish",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://funeralcompare.fyi",
         "Category": "Business"
     },
     {
