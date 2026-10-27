@@ -1011,6 +1011,7 @@
 | [Citi](https://sandbox.developerhub.citi.com/api-catalog-list) | All Citigroup account and statement data APIs | `apiKey` | Unknown |
 | [CreditUnions](https://creditunions.fyi) | US credit union eligibility and NCUA call-report data | No | Yes |
 | [DolarAPI](https://dolarapi.com/docs/) | Real-time exchange rates for Latin American currencies | No | Yes |
+| [DevPros Calculator API](https://devpros.uk/tools/api) | 565 free calculator endpoints (finance, tax, maths, health, conversions) returning JSON results with step-by-step breakdowns — no signup, no API key, OpenAPI spec at /openapi.json | No | Yes |
 | [Drillr](https://drillr.ai) | Fundamentals, filings, filing full-text search, earnings, ownership, events and analyst data for US, China and Japan equities, linked to source filings | `apiKey` | No |
 | [Earnings Feed](https://earningsfeed.com/api/docs) | SEC filings, insider transactions, institutional holdings | `apiKey` | No |
 | [Econdb](https://www.econdb.com/api/) | Global macroeconomic data | No | Yes |
