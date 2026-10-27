@@ -1,5 +1,5 @@
 {
-"count": 1921,
+"count": 1922,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2583,6 +2583,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://coinstats.app/api-docs/",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "CoinXview",
+        "Description": "Crypto prices aggregated from 22 exchanges, OHLC history, Fear & Greed index and per-coin risk score",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://coinxview.com",
         "Category": "Cryptocurrency"
     },
     {
