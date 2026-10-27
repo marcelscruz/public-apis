@@ -788,6 +788,7 @@
 | [Vend](https://extract.paypercall.dev) | Pay-per-call web-data API for AI agents: any URL to clean text/markdown, plus web search, link check, geoip and PDF-to-text; settled on-chain in XNO per call. | No | No |
 | [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel/API.md) | Code compiler supporting 35+ languages mentioned at wandbox.org | No | Unknown |
 | [Web Scraping API](https://apyhub.com/utility/sharpapi-web-scraping-api) | Extract structured data from any public URL | `apiKey` | Yes |
+| [WebExtract](https://webextract.dev) | Web page to clean Markdown or structured JSON (product, price, tables, metadata). 20 free calls/day per IP, then x402 USDC per call or prepaid credits | No | No |
 | [WebScraping.AI](https://webscraping.ai/) | Web Scraping API with built-in proxies and JS rendering | `apiKey` | Yes |
 | [xmlvalid](https://xmlvalid.com/) | Validate XML against XSD, DTD and RelaxNG, and e-invoices against EN 16931, Peppol and XRechnung rules | `apiKey` | Yes |
 | [YAMLine](https://yamline.com/json/) | Convert YAML to JSON (on-the-fly) | No | Yes |
