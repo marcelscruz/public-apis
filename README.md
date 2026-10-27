@@ -1212,6 +1212,7 @@
 | [Warface (non-official)](https://api.wfstats.cf) | Official API proxy with better data structure and more features | No | No |
 | [Wargaming.net](https://developers.wargaming.net/) | Wargaming.net info and stats | `apiKey` | No |
 | [When is next MCU film](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md) | Upcoming MCU film information | No | Unknown |
+| [Wordle Hints Today Api](https://wordlehintstoday.org/wordle-api) | Returns the most recent NYT Wordle answer in a single clean JSON object. Ideal for daily widgets and status bots | No | Yes |
 | [Wynncraft](https://docs.wynncraft.com/) | Wynncraft Information | No | Unknown |
 | [xkcd](https://xkcd.com/json.html) | Retrieve xkcd comics as JSON | No | No |
 | [Yu-Gi-Oh!](https://db.ygoprodeck.com/api-guide/) | Yu-Gi-Oh! TCG Information | No | Unknown |
