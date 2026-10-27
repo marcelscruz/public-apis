@@ -1,5 +1,5 @@
 {
-"count": 1930,
+"count": 1931,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9671,6 +9671,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://psychologieetserenite.com/api",
+        "Category": "Health"
+    },
+    {
+        "API": "RRM Academy Research Library",
+        "Description": "Physician-curated restorative reproductive medicine research: endometriosis, PCOS, NaProTechnology, fertility awareness",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://rrmacademy.org/connect/",
         "Category": "Health"
     },
     {
