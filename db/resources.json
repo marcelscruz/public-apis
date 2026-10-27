@@ -1,5 +1,5 @@
 {
-"count": 1924,
+"count": 1925,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -175,6 +175,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://geekflare.com",
+        "Category": "AI"
+    },
+    {
+        "API": "GenRelay",
+        "Description": "Unified API for image and video generation models (Nano Banana, Seedance, GPT Image, Veo), pay-as-you-go in USD with free credits",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://genrelay.ai",
         "Category": "AI"
     },
     {
