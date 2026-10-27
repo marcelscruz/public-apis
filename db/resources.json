@@ -1,5 +1,5 @@
 {
-"count": 1914,
+"count": 1915,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8855,6 +8855,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://data.ibb.gov.tr",
+        "Category": "Government"
+    },
+    {
+        "API": "ITINAgents",
+        "Description": "Directory of IRS ITIN acceptance agents",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://itinagents.fyi",
         "Category": "Government"
     },
     {
