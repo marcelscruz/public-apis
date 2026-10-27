@@ -373,6 +373,7 @@
 | [Mydentify](https://mydentify.com) | Startup-directory research and weekly product leaderboard data | No | Yes |
 | [NioLeads](https://nioleads.com/apidoc) | LinkedIn Email Finder and Email Verifier | `apiKey` | Yes |
 | [Project Cost Estimator](https://projectcostestimator.com/api-docs) | Cost, timeline and complexity estimates for website, ecommerce and app projects | `apiKey` | Yes |
+| [Public Adjusters Directory](https://publicadjusters.fyi) | Public adjusters, so you can check a licence before you hire one | No | Yes |
 | [Redash](https://redash.io/help/user-guide/integrations-and-api/api) | Access your queries and dashboards on Redash | `apiKey` | Yes |
 | [Renidly](https://renidly.com) | Resolve any B2B identityin milliseconds | `apiKey` | Yes |
 | [RestoSignals](https://restosignals.com) | US restaurants and bars 1-6 months before opening, fused from liquor-license, food-permit and business filings and scored | `apiKey` | No |
@@ -494,6 +495,7 @@
 | [CoinRanking](https://developers.coinranking.com/api/documentation) | Live Cryptocurrency data | `apiKey` | Unknown |
 | [Coinremitter](https://coinremitter.com/docs) | Cryptocurrencies Payment & Prices | `apiKey` | Unknown |
 | [CoinStats](https://coinstats.app/api-docs/) | Blockchain and DeFi across 120+ chains, market, historical data, portfolio tracking, news, sentiment, MCP, and agent skills | `apiKey` | Yes |
+| [CoinXview](https://coinxview.com) | Crypto prices aggregated from 22 exchanges, OHLC history, Fear & Greed index and per-coin risk score | No | Yes |
 | [CryptAPI](https://docs.cryptapi.io/) | Cryptocurrency Payment Processor | No | Unknown |
 | [CryptoCompare](https://www.cryptocompare.com/api#) | Cryptocurrencies Comparison | No | Unknown |
 | [CryptoLabel](https://cryptolabel.io/) | Free crypto address labels. Identify known addresses on major networks with a free API | No | Yes |
@@ -900,6 +902,7 @@
 | [MailChannels](https://www.mailchannels.com/email-api/) | Send transactional email over HTTPS with official JavaScript, Python and PHP SDKs | `apiKey` | No |
 | [MailCheck.ai](https://www.mailcheck.ai/#documentation) | Prevent users to sign up with temporary email addresses | No | Unknown |
 | [mailfloss](https://mailfloss.com) | Email verification for signup forms and lists. Stops spam signups by blocking disposable and invalid emails and suggests typo fixes, with 500 free a month | `apiKey` | Yes |
+| [MailTester Ninja](https://mailtester.ninja) | Real-time email verification checked live against the mail server: valid, invalid or catch-all, disposable detection, free tier without signup | `apiKey` | Yes |
 | [Mailtrap](https://mailtrap.docs.apiary.io/#) | A service for the safe testing of emails sent from the development and staging environments | `apiKey` | Unknown |
 | [MailValid](https://mailvalid.io) | Real-time email verification API with SMTP, MX, disposable, role-based, and catch-all detection. Verify single or bulk emails with confidence scoring | `apiKey` | Yes |
 | [NoParam](https://noparam.com) | Email validation API for real-time & bulk checking | `apiKey` | Unknown |
@@ -1033,6 +1036,7 @@
 | [LiquiLens](https://liquilens.in) | Public-record bank and lender failure-risk evidence | No | Yes |
 | [MercadoPago](https://www.mercadopago.com.br/developers/es/reference) | Mercado Pago API reference - all the information you need to develop your integrations | `apiKey` | Unknown |
 | [Metal Sentinel](https://metal-sentinel.com) | Real-time precious and base metals prices. One API. Zero cost | `apiKey` | Unknown |
+| [Metals-API](https://metals-api.com) | Real-time and historical gold, silver, platinum, LBMA and LME base metals prices | `apiKey` | Yes |
 | [Mono](https://mono.co/) | Connect with users’ bank accounts and access transaction data in Africa | `apiKey` | Unknown |
 | [Moov](https://docs.moov.io/api/) | The Moov API makes it simple for platforms to send, receive, and store money | `apiKey` | Unknown |
 | [Nasdaq Data Link](https://docs.data.nasdaq.com/) | Stock market data | `apiKey` | Unknown |
@@ -1457,6 +1461,7 @@
 | [Open Data NHS Scotland](https://www.opendata.nhs.scot) | Medical reference data and statistics by Public Health Scotland | No | Unknown |
 | [Open Disease](https://disease.sh/) | API for Current cases and more stuff about COVID-19 and Influenza | No | Yes |
 | [openFDA](https://open.fda.gov) | Public FDA data about drugs, devices and foods | `apiKey` | Unknown |
+| [Opioid Treatment Directory](https://opioidtreatment.fyi) | Methadone and buprenorphine treatment providers | No | Yes |
 | [Peptide Library](https://peptidelibrary.app/developers) | Peptide research profiles, cited studies and regulatory status, plus a vendor directory and current prices (free key) | No | Yes |
 | [Psychologie et Sérénité](https://psychologieetserenite.com/api) | French psychology articles metadata and validated psychological tests catalog | No | Yes |
 | [Verified Supplement Data](https://verifiedsupplementdata.com) | Supplement dosing, form comparisons and drug-nutrient interactions with PubMed citations | No | Yes |
