@@ -1,5 +1,5 @@
 {
-"count": 1932,
+"count": 1933,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4799,6 +4799,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/sharpapi-web-scraping-api",
+        "Category": "Development"
+    },
+    {
+        "API": "WebExtract",
+        "Description": "Web page to clean Markdown or structured JSON (product, price, tables, metadata). 20 free calls/day per IP, then x402 USDC per call or prepaid credits",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://webextract.dev",
         "Category": "Development"
     },
     {
