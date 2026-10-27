@@ -1,5 +1,5 @@
 {
-"count": 1919,
+"count": 1920,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6415,6 +6415,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://metal-sentinel.com",
+        "Category": "Finance"
+    },
+    {
+        "API": "Metals-API",
+        "Description": "Real-time and historical gold, silver, platinum, LBMA and LME base metals prices",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://metals-api.com",
         "Category": "Finance"
     },
     {
