@@ -1,5 +1,5 @@
 {
-"count": 1911,
+"count": 1912,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6759,6 +6759,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.getdietly.com/api",
+        "Category": "Food & Drink"
+    },
+    {
+        "API": "Dish Directory",
+        "Description": "Restaurants with their dishes, prices and hours, by city",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://dishdirectory.com",
         "Category": "Food & Drink"
     },
     {
