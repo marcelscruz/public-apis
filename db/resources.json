@@ -1,5 +1,5 @@
 {
-"count": 1927,
+"count": 1928,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6223,6 +6223,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://creditunions.fyi",
+        "Category": "Finance"
+    },
+    {
+        "API": "DevPros Calculator API",
+        "Description": "565 free calculator endpoints (finance, tax, maths, health, conversions) returning JSON results with step-by-step breakdowns — no signup, no API key, OpenAPI spec at /openapi.json",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://devpros.uk/tools/api",
         "Category": "Finance"
     },
     {
