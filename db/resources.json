@@ -1,5 +1,5 @@
 {
-"count": 1920,
+"count": 1921,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5543,6 +5543,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://mailfloss.com",
+        "Category": "Email"
+    },
+    {
+        "API": "MailTester Ninja",
+        "Description": "Real-time email verification checked live against the mail server: valid, invalid or catch-all, disposable detection, free tier without signup",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://mailtester.ninja",
         "Category": "Email"
     },
     {
