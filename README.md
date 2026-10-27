@@ -359,6 +359,7 @@
 | [ESA Vendors](https://esavendors.fyi) | Learning vendors that education funds reimburse | No | Yes |
 | [FalcoScan](https://falcoscan.com) | Data on 7,000+ AI products across 29 markets, with market scores and shut-down and acquisition records | `apiKey` | No |
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | `OAuth` | Unknown |
+| [FuneralCompare](https://funeralcompare.fyi) | Funeral homes and cremation providers, compared by the fees they publish | No | Yes |
 | [Gmail](https://developers.google.com/gmail/api/) | Flexible, RESTful access to the user's inbox | `OAuth` | Unknown |
 | [Google Analytics](https://developers.google.com/analytics/) | Collect, configure and analyze your data to reach the right audience | `OAuth` | Unknown |
 | [Hexvan](https://hexvan.com) | Contacts, quotes, invoices and receipts of a small trade business (plumbers, electricians, roofers) | `apiKey` | No |
