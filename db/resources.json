@@ -1,5 +1,5 @@
 {
-"count": 1915,
+"count": 1916,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8871,6 +8871,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://keyset.cloud/kurtaxe/",
+        "Category": "Government"
+    },
+    {
+        "API": "MarriageLicense",
+        "Description": "Where to give notice of marriage or get a marriage licence, by country",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://marriagelicense.fyi",
         "Category": "Government"
     },
     {
