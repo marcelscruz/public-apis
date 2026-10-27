@@ -1,5 +1,5 @@
 {
-"count": 1912,
+"count": 1913,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1663,6 +1663,14 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://domainsdb.info/",
+        "Category": "Business"
+    },
+    {
+        "API": "ESA Vendors",
+        "Description": "Learning vendors that education funds reimburse",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://esavendors.fyi",
         "Category": "Business"
     },
     {
