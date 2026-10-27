@@ -1,5 +1,5 @@
 {
-"count": 1929,
+"count": 1930,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1759,6 +1759,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.logo.dev",
+        "Category": "Business"
+    },
+    {
+        "API": "logoapi.sh",
+        "Description": "Company logo as SVG by domain, with name search and white, black, grey and dark variants. No key or signup. Free for 1M requests a month per site",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://logoapi.sh",
         "Category": "Business"
     },
     {
