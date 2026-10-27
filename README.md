@@ -101,6 +101,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [Advanced Multilanguage AI Translator (RapidAPI)](https://rapidapi.com/vintarok-vintarok-default/api/advanced-multilanguage-ai-translator-api-with-fast-responses) | AI-powered translator supporting multiple languages with fast, context-aware responses | `apiKey` | Yes |
+| [AI Benchmark Index](https://aibenchmarkindex.com) | AI benchmarks with traceable data, licences and scores | No | Yes |
 | [AI For Thai](https://aiforthai.in.th/index.php) | Free Various Thai AI API | `apiKey` | Yes |
 | [AI Learning Engine](https://rapidapi.com/vintarok-vintarok-default/api/ai-learning-engine-task-creation-auto-grading-api) | Create, auto-grade, and analyze learning tasks with AI-based evaluations | `apiKey` | Yes |
 | [AI/ML](https://aimlapi.com) | Access 100+ curated AI Models over 1 API | `apiKey` | Yes |
@@ -355,8 +356,10 @@
 | [Crustdata](https://docs.crustdata.com) | People and company data covering profiles, headcount, funding and contacts | `apiKey` | Yes |
 | [Derrick](https://derrick-app.com) | B2B contact and company enrichment: verified work emails, mobile numbers, firmographics, technologies in use and hiring signals | `apiKey` | No |
 | [Domainsdb.info](https://domainsdb.info/) | Registered Domain Names Search | No | No |
+| [ESA Vendors](https://esavendors.fyi) | Learning vendors that education funds reimburse | No | Yes |
 | [FalcoScan](https://falcoscan.com) | Data on 7,000+ AI products across 29 markets, with market scores and shut-down and acquisition records | `apiKey` | No |
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | `OAuth` | Unknown |
+| [FuneralCompare](https://funeralcompare.fyi) | Funeral homes and cremation providers, compared by the fees they publish | No | Yes |
 | [Gmail](https://developers.google.com/gmail/api/) | Flexible, RESTful access to the user's inbox | `OAuth` | Unknown |
 | [Google Analytics](https://developers.google.com/analytics/) | Collect, configure and analyze your data to reach the right audience | `OAuth` | Unknown |
 | [Hexvan](https://hexvan.com) | Contacts, quotes, invoices and receipts of a small trade business (plumbers, electricians, roofers) | `apiKey` | No |
@@ -1082,6 +1085,7 @@
 | [Chomp](https://chompthis.com/api/) | Data about various grocery products and foods | `apiKey` | Unknown |
 | [Coffee](https://coffee.alexflipnote.dev/) | Random pictures of coffee | No | Unknown |
 | [DietlyAPI](https://www.getdietly.com/api) | Food & nutrition API with 4.2M+ foods (Open Food Facts + community, normalized and confidence-ranked): calories, macros, micronutrients, barcode lookup, ~40ms s | `apiKey` | Yes |
+| [Dish Directory](https://dishdirectory.com) | Restaurants with their dishes, prices and hours, by city | No | Yes |
 | [Edamam nutrition](https://developer.edamam.com/edamam-docs-nutrition-api) | Nutrition Analysis | `apiKey` | Unknown |
 | [Edamam recipes](https://developer.edamam.com/edamam-docs-recipe-api) | Recipe Search | `apiKey` | Unknown |
 | [Foodish](https://github.com/surhud004/Foodish#readme) | Random pictures of food dishes | No | Yes |
@@ -1319,6 +1323,7 @@
 |---|---|---|---|
 | [Api Colombia](https://api-colombia.com/) | Community driven API for Colombia Public Data | No | Unknown |
 | [Apiverket](https://apiverket.se/docs) | Swedish public data including companies, statistics, weather and transport | `apiKey` | Yes |
+| [Apostille Finder](https://apostilles.fyi) | Find the government office that issues your apostille | No | Yes |
 | [Ayes and Noes](https://ayesandnoes.co.uk/developers) | UK House of Commons MPs, parties and recorded votes | No | Yes |
 | [Bank Negara Malaysia Open Data](https://apikijangportal.bnm.gov.my/) | Malaysia Central Bank Open Data | No | Unknown |
 | [BCLaws](https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html) | Access to the laws of British Columbia | No | Unknown |
@@ -1358,7 +1363,9 @@
 | [Gazette Data, UK](https://www.thegazette.co.uk/data) | UK official public record API | `OAuth` | Unknown |
 | [Interpol Red Notices](https://interpol.api.bund.dev/) | Access and search Interpol Red Notices | No | Unknown |
 | [Istanbul (İBB) Open Data](https://data.ibb.gov.tr) | Data sets from the İstanbul Metropolitan Municipality (İBB) | No | Unknown |
+| [ITINAgents](https://itinagents.fyi) | Directory of IRS ITIN acceptance agents | No | Yes |
 | [Kurtaxe](https://keyset.cloud/kurtaxe/) | German tourist tax (Kurtaxe) rates of more than 250 municipalities as JSON and CSV, every figure quoted from the municipal statute with its source | No | Yes |
+| [MarriageLicense](https://marriagelicense.fyi) | Where to give notice of marriage or get a marriage licence, by country | No | Yes |
 | [National Park Service, US](https://www.nps.gov/subjects/developer/) | Data from the US National Park Service | `apiKey` | Yes |
 | [Open Government, ACT](https://www.data.act.gov.au/) | Australian Capital Territory Open Data | No | Unknown |
 | [Open Government, Argentina](https://datos.gob.ar/) | Argentina Government Open Data | No | Unknown |
@@ -1420,6 +1427,7 @@
 ### Health
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [ADHDEvaluations](https://adhdevaluations.fyi) | Find an ADHD evaluation provider near you | No | Yes |
 | [CMS.gov](https://data.cms.gov/provider-data/) | Access to the data from the CMS - medicare.gov | `apiKey` | Unknown |
 | [Coronavirus in the UK](https://coronavirus.data.gov.uk/details/developers-guide) | UK Government coronavirus data, including deaths and cases by region | No | Unknown |
 | [Covid Tracking Project](https://covidtracking.com/data/api/version-2) | Covid-19 data for the US | No | No |
@@ -1441,6 +1449,7 @@
 | [Lexigram](https://docs.lexigram.io/) | NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology | `apiKey` | Unknown |
 | [Longevity World Cup](https://longevityworldcup.com/swagger/index.html) | Public longevity athlete data, biological age calculators and rankings | No | Yes |
 | [Makeup](https://makeup-api.herokuapp.com/) | Makeup Information | No | Unknown |
+| [MemoryCareHomes](https://memorycarehomes.fyi) | Memory care homes, checkable against the public register | No | Yes |
 | [MRIPrices](https://mriprices.fyi) | Cash-pay MRI prices at US hospitals, read from hospital price files | No | Yes |
 | [MyVaccination](https://documenter.getpostman.com/view/16605343/Tzm8GG7u) | Vaccination data for Malaysia | No | Unknown |
 | [NPPES](https://npiregistry.cms.hhs.gov/registry/help-api) | National Plan & Provider Enumeration System, info on healthcare providers registered in US | No | Unknown |
