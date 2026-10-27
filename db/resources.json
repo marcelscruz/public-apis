@@ -1,5 +1,5 @@
 {
-"count": 1931,
+"count": 1932,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14007,6 +14007,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://docs.flightportrait.com/build/api",
+        "Category": "Transportation"
+    },
+    {
+        "API": "FlyItalyADSB",
+        "Description": "Live aircraft positions in ADS-B JSON for any point on Earth from a community receiver network, plus history and overflights",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://flyitalyadsb.com/en/data/api/",
         "Category": "Transportation"
     },
     {
