@@ -1,5 +1,5 @@
 {
-"count": 1918,
+"count": 1919,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1799,6 +1799,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://projectcostestimator.com/api-docs",
+        "Category": "Business"
+    },
+    {
+        "API": "Public Adjusters Directory",
+        "Description": "Public adjusters, so you can check a licence before you hire one",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://publicadjusters.fyi",
         "Category": "Business"
     },
     {
