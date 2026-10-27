@@ -13507,7 +13507,7 @@
     },
     {
         "API": "Your Move - Exercise API",
-        "Description": "The complete exercise library and fitness API for your app. 698+ professional HD exercise videos with workout generation and program builder.",
+        "Description": "Exercise library and fitness API for your app. 2,005+ professional HD exercise videos with instructions, workout generation and program builder.",
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://ymove.app/exercise-api",
