@@ -1,5 +1,5 @@
 {
-"count": 1917,
+"count": 1918,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9551,6 +9551,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://open.fda.gov",
+        "Category": "Health"
+    },
+    {
+        "API": "Opioid Treatment Directory",
+        "Description": "Methadone and buprenorphine treatment providers",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://opioidtreatment.fyi",
         "Category": "Health"
     },
     {
