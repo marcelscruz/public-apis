@@ -122,6 +122,7 @@
 | [Face-api.js](https://github.com/justadudewhohacks/face-api.js) | JavaScript API for face detection, recognition, and emotion analysis using TensorFlow.js | No | Unknown |
 | [Gandr](https://gandr.ai) | Text to speech API for voice agents. One voice in 23 languages, every render watermarked | `apiKey` | Yes |
 | [Geekflare](https://geekflare.com) | Geekflare is for web scraping, search, and data extraction, letting developers pull  structured data from any website for AI agents and automation workflows | `apiKey` | Yes |
+| [GenRelay](https://genrelay.ai) | Unified API for image and video generation models (Nano Banana, Seedance, GPT Image, Veo), pay-as-you-go in USD with free credits | `apiKey` | Yes |
 | [Gladia](https://docs.gladia.io) | Artificial intelligence API's | `apiKey` | No |
 | [HarnessRouter](https://harnessrouter.ai/docs) | Run coding agent harnesses (Codex, Claude Code, Hermes) behind your product through one API | `apiKey` | Unknown |
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Discovery API for AI agents & MCP servers (search, verify, UAID, chat) | `apiKey` | Yes |
