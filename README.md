@@ -1996,6 +1996,7 @@
 | [Blacktop Motorsport API](https://ocblacktop.com/api) | Motorsport results, standings and schedules, with live timing for F1, NASCAR, IndyCar and WRC | `apiKey` | Yes |
 | [City Bikes](https://api.citybik.es/v2/) | City Bikes around the world | No | Unknown |
 | [Cloudbet](https://www.cloudbet.com/api/) | Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically | `apiKey` | Yes |
+| [Clutch](https://clutchledger.com) | Pregame NBA win probabilities for every game, sealed before tip and graded after the final, as free JSON and CSV files | No | Yes |
 | [CollegeFootballData.com](https://collegefootballdata.com) | Unofficial detailed American college football statistics, records, and results API | `apiKey` | Unknown |
 | [Cricket API](https://cricket-api.net) | Comprehensive Cricket API for live scores, fixtures, results, player stats, match data, and smarter digital cricket experiences | `apiKey` | Yes |
 | [F1 API](https://f1api.dev) | Open F1 API with realtime data | No | Unknown |
