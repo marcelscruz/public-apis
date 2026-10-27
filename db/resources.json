@@ -1,5 +1,5 @@
 {
-"count": 1925,
+"count": 1926,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5887,6 +5887,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://dchub.cloud",
+        "Category": "Environment"
+    },
+    {
+        "API": "El mapa del agua",
+        "Description": "Water hardness (°fH) of Spanish municipalities by INE code or postal code, with the source and date of each analysis",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://elmapadelagua.com/api-dureza-agua",
         "Category": "Environment"
     },
     {
