@@ -1,5 +1,5 @@
 {
-"count": 1923,
+"count": 1924,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7743,6 +7743,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "Wordle Hints Today Api",
+        "Description": "Returns the most recent NYT Wordle answer in a single clean JSON object. Ideal for daily widgets and status bots",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://wordlehintstoday.org/wordle-api",
         "Category": "Games & Comics"
     },
     {
