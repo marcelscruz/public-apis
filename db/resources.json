@@ -1,5 +1,5 @@
 {
-"count": 1928,
+"count": 1929,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1127,6 +1127,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://php-noise.com/",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "Pic2svg",
+        "Description": "Trace raster images into SVG filled paths with a keyless JSON HTTP API; daily usage limits apply",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://pic2svg.com/",
         "Category": "Art & Design"
     },
     {
