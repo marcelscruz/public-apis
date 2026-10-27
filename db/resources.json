@@ -1,5 +1,5 @@
 {
-"count": 1922,
+"count": 1923,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3383,6 +3383,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://apis.guru/api-doc/",
+        "Category": "Development"
+    },
+    {
+        "API": "APIVerve",
+        "Description": "About 380 APIs behind one key: email and phone validation, IP, DNS and SSL lookups, exchange and VAT rates, VIN decoding and more",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://apiverve.com",
         "Category": "Development"
     },
     {
