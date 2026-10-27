@@ -122,6 +122,7 @@
 | [Face-api.js](https://github.com/justadudewhohacks/face-api.js) | JavaScript API for face detection, recognition, and emotion analysis using TensorFlow.js | No | Unknown |
 | [Gandr](https://gandr.ai) | Text to speech API for voice agents. One voice in 23 languages, every render watermarked | `apiKey` | Yes |
 | [Geekflare](https://geekflare.com) | Geekflare is for web scraping, search, and data extraction, letting developers pull  structured data from any website for AI agents and automation workflows | `apiKey` | Yes |
+| [GenRelay](https://genrelay.ai) | Unified API for image and video generation models (Nano Banana, Seedance, GPT Image, Veo), pay-as-you-go in USD with free credits | `apiKey` | Yes |
 | [Gladia](https://docs.gladia.io) | Artificial intelligence API's | `apiKey` | No |
 | [HarnessRouter](https://harnessrouter.ai/docs) | Run coding agent harnesses (Codex, Claude Code, Hermes) behind your product through one API | `apiKey` | Unknown |
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Discovery API for AI agents & MCP servers (search, verify, UAID, chat) | `apiKey` | Yes |
@@ -496,6 +497,7 @@
 | [CoinRanking](https://developers.coinranking.com/api/documentation) | Live Cryptocurrency data | `apiKey` | Unknown |
 | [Coinremitter](https://coinremitter.com/docs) | Cryptocurrencies Payment & Prices | `apiKey` | Unknown |
 | [CoinStats](https://coinstats.app/api-docs/) | Blockchain and DeFi across 120+ chains, market, historical data, portfolio tracking, news, sentiment, MCP, and agent skills | `apiKey` | Yes |
+| [CoinXview](https://coinxview.com) | Crypto prices aggregated from 22 exchanges, OHLC history, Fear & Greed index and per-coin risk score | No | Yes |
 | [CryptAPI](https://docs.cryptapi.io/) | Cryptocurrency Payment Processor | No | Unknown |
 | [CryptoCompare](https://www.cryptocompare.com/api#) | Cryptocurrencies Comparison | No | Unknown |
 | [CryptoLabel](https://cryptolabel.io/) | Free crypto address labels. Identify known addresses on major networks with a free API | No | Yes |
@@ -613,6 +615,7 @@
 | [ApiFlash](https://apiflash.com/) | Chrome based screenshot API for developers | `apiKey` | Unknown |
 | [APILayer](https://apilayer.com) | APILayer is a unified API marketplace with 40+ production-ready APIs for finance, geolocation, weather, data, and AI. Trusted by 2.2M+ developers | No | Unknown |
 | [APIs.guru](https://apis.guru/api-doc/) | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | No | Unknown |
+| [APIVerve](https://apiverve.com) | About 380 APIs behind one key: email and phone validation, IP, DNS and SSL lookups, exchange and VAT rates, VIN decoding and more | `apiKey` | Yes |
 | [AppGoat](https://appgoat.ai) | App Store + Google Play data API and remote MCP server: apps, reviews, keywords, rankings, top charts and competitors for Claude, ChatGPT and Cursor. | `apiKey` | Yes |
 | [ApyHub: A Complete API Catalog](https://apyhub.com/catalog) | Build and ship applications that scale using certified APIs for every use case | `apiKey` | Yes |
 | [ASORadar](https://asoradar.com) | App Store and Google Play reviews, ratings, rankings and app metadata | `apiKey` | Unknown |
@@ -902,6 +905,7 @@
 | [MailChannels](https://www.mailchannels.com/email-api/) | Send transactional email over HTTPS with official JavaScript, Python and PHP SDKs | `apiKey` | No |
 | [MailCheck.ai](https://www.mailcheck.ai/#documentation) | Prevent users to sign up with temporary email addresses | No | Unknown |
 | [mailfloss](https://mailfloss.com) | Email verification for signup forms and lists. Stops spam signups by blocking disposable and invalid emails and suggests typo fixes, with 500 free a month | `apiKey` | Yes |
+| [MailTester Ninja](https://mailtester.ninja) | Real-time email verification checked live against the mail server: valid, invalid or catch-all, disposable detection, free tier without signup | `apiKey` | Yes |
 | [Mailtrap](https://mailtrap.docs.apiary.io/#) | A service for the safe testing of emails sent from the development and staging environments | `apiKey` | Unknown |
 | [MailValid](https://mailvalid.io) | Real-time email verification API with SMTP, MX, disposable, role-based, and catch-all detection. Verify single or bulk emails with confidence scoring | `apiKey` | Yes |
 | [NoParam](https://noparam.com) | Email validation API for real-time & bulk checking | `apiKey` | Unknown |
@@ -953,6 +957,7 @@
 | [Cloverly](https://www.cloverly.com/carbon-offset-documentation) | API calculates the impact of common carbon-intensive activities in real time | `apiKey` | Unknown |
 | [Danish data service Energi](https://www.energidataservice.dk/) | Open energy data from Energinet to society | No | Unknown |
 | [DC Hub](https://dchub.cloud) | Data Center Power Index (DCPI): daily scores of where data centers can get grid power across 300+ markets, plus grid, fiber and interconnection-queue data | `apiKey` | Yes |
+| [El mapa del agua](https://elmapadelagua.com/api-dureza-agua) | Water hardness (°fH) of Spanish municipalities by INE code or postal code, with the source and date of each analysis | No | Yes |
 | [Elpriser i dag](https://elprisernaidag.se/api/) | Swedish electricity spot prices including VAT and energy tax, in 15-minute intervals | No | Yes |
 | [GrünstromIndex](https://gruenstromindex.de/) | Green Power Index for Germany (Grünstromindex/GSI) | No | Yes |
 | [IQAir](https://www.iqair.com/air-pollution-data-api) | Air quality and weather data | `apiKey` | Unknown |
@@ -1035,6 +1040,7 @@
 | [LiquiLens](https://liquilens.in) | Public-record bank and lender failure-risk evidence | No | Yes |
 | [MercadoPago](https://www.mercadopago.com.br/developers/es/reference) | Mercado Pago API reference - all the information you need to develop your integrations | `apiKey` | Unknown |
 | [Metal Sentinel](https://metal-sentinel.com) | Real-time precious and base metals prices. One API. Zero cost | `apiKey` | Unknown |
+| [Metals-API](https://metals-api.com) | Real-time and historical gold, silver, platinum, LBMA and LME base metals prices | `apiKey` | Yes |
 | [Mono](https://mono.co/) | Connect with users’ bank accounts and access transaction data in Africa | `apiKey` | Unknown |
 | [Moov](https://docs.moov.io/api/) | The Moov API makes it simple for platforms to send, receive, and store money | `apiKey` | Unknown |
 | [Nasdaq Data Link](https://docs.data.nasdaq.com/) | Stock market data | `apiKey` | Unknown |
@@ -1209,6 +1215,7 @@
 | [Warface (non-official)](https://api.wfstats.cf) | Official API proxy with better data structure and more features | No | No |
 | [Wargaming.net](https://developers.wargaming.net/) | Wargaming.net info and stats | `apiKey` | No |
 | [When is next MCU film](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md) | Upcoming MCU film information | No | Unknown |
+| [Wordle Hints Today Api](https://wordlehintstoday.org/wordle-api) | Returns the most recent NYT Wordle answer in a single clean JSON object. Ideal for daily widgets and status bots | No | Yes |
 | [Wynncraft](https://docs.wynncraft.com/) | Wynncraft Information | No | Unknown |
 | [xkcd](https://xkcd.com/json.html) | Retrieve xkcd comics as JSON | No | No |
 | [Yu-Gi-Oh!](https://db.ygoprodeck.com/api-guide/) | Yu-Gi-Oh! TCG Information | No | Unknown |
