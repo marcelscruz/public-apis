@@ -1,5 +1,5 @@
 {
-"count": 1916,
+"count": 1917,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9495,6 +9495,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://makeup-api.herokuapp.com/",
+        "Category": "Health"
+    },
+    {
+        "API": "MemoryCareHomes",
+        "Description": "Memory care homes, checkable against the public register",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://memorycarehomes.fyi",
         "Category": "Health"
     },
     {
