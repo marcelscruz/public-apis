@@ -613,6 +613,7 @@
 | [ApiFlash](https://apiflash.com/) | Chrome based screenshot API for developers | `apiKey` | Unknown |
 | [APILayer](https://apilayer.com) | APILayer is a unified API marketplace with 40+ production-ready APIs for finance, geolocation, weather, data, and AI. Trusted by 2.2M+ developers | No | Unknown |
 | [APIs.guru](https://apis.guru/api-doc/) | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | No | Unknown |
+| [APIVerve](https://apiverve.com) | About 380 APIs behind one key: email and phone validation, IP, DNS and SSL lookups, exchange and VAT rates, VIN decoding and more | `apiKey` | Yes |
 | [AppGoat](https://appgoat.ai) | App Store + Google Play data API and remote MCP server: apps, reviews, keywords, rankings, top charts and competitors for Claude, ChatGPT and Cursor. | `apiKey` | Yes |
 | [ApyHub: A Complete API Catalog](https://apyhub.com/catalog) | Build and ship applications that scale using certified APIs for every use case | `apiKey` | Yes |
 | [ASORadar](https://asoradar.com) | App Store and Google Play reviews, ratings, rankings and app metadata | `apiKey` | Unknown |
