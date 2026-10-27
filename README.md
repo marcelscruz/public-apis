@@ -265,6 +265,7 @@
 | [Noun Project](https://api.thenounproject.com/index.html) | Icons | `OAuth` | Unknown |
 | [OG Stamp](https://ogstamp.com) | Open Graph and social card PNGs from a title or a page URL. One-time credits, no subscription | `apiKey` | Yes |
 | [PHP-Noise](https://php-noise.com/) | Noise Background Image Generator | No | Yes |
+| [Pic2svg](https://pic2svg.com/) | Trace raster images into SVG filled paths with a keyless JSON HTTP API; daily usage limits apply | No | No |
 | [Picsart](https://picsart.io) | Image & video editing, generative AI, 100+ AI models via unified API | `apiKey` | Yes |
 | [Pika](https://pika.style/image-generation-api) | Image Generation API | `apiKey` | Yes |
 | [Sticker Shop](https://api.tasta.space/stickers) | Pop art on demand: comic bursts, speech balloons, rubber stamps and retro error windows with your own text, as SVG or PNG | No | Yes |
