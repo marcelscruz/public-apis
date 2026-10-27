@@ -1083,6 +1083,7 @@
 | [Chomp](https://chompthis.com/api/) | Data about various grocery products and foods | `apiKey` | Unknown |
 | [Coffee](https://coffee.alexflipnote.dev/) | Random pictures of coffee | No | Unknown |
 | [DietlyAPI](https://www.getdietly.com/api) | Food & nutrition API with 4.2M+ foods (Open Food Facts + community, normalized and confidence-ranked): calories, macros, micronutrients, barcode lookup, ~40ms s | `apiKey` | Yes |
+| [Dish Directory](https://dishdirectory.com) | Restaurants with their dishes, prices and hours, by city | No | Yes |
 | [Edamam nutrition](https://developer.edamam.com/edamam-docs-nutrition-api) | Nutrition Analysis | `apiKey` | Unknown |
 | [Edamam recipes](https://developer.edamam.com/edamam-docs-recipe-api) | Recipe Search | `apiKey` | Unknown |
 | [Foodish](https://github.com/surhud004/Foodish#readme) | Random pictures of food dishes | No | Yes |
