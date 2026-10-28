@@ -137,6 +137,7 @@
 | [MessengerX.io](https://messengerx.rtfd.io) | A FREE API for developers to build and monetize personalized ML based chat apps | `apiKey` | Yes |
 | [Neuronto](https://neuronto.com) | Free search over MCP servers, A2A agents, skills and APIs across Agentic Resource Discovery registries | No | Yes |
 | [NLP Cloud](https://nlpcloud.io) | NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more | `apiKey` | Unknown |
+| [Obscurify AI](https://obscurify.ai) | Anonymous OpenAI-compatible API for 200+ LLMs. Accounts are a random number, no email; pay with Monero, Bitcoin or card | `apiKey` | Yes |
 | [OpenAI](https://openai.com/index/openai-api) | Use AI models such as ChatGPT or DALL-E to experience the capabilities of AI | `apiKey` | Yes |
 | [Perspective](https://perspectiveapi.com) | NLP API to return probability that if text is toxic, obscene, insulting or threatening | `apiKey` | Unknown |
 | [Prismix Status API](https://prismix.dev/api-docs) | Real-time uptime and incident status for 75+ AI services (OpenAI, Anthropic, Cursor, Gemini) | No | Yes |
@@ -375,6 +376,7 @@
 | [markerapi](https://markerapi.com) | Trademark Search | No | Unknown |
 | [Mydentify](https://mydentify.com) | Startup-directory research and weekly product leaderboard data | No | Yes |
 | [NioLeads](https://nioleads.com/apidoc) | LinkedIn Email Finder and Email Verifier | `apiKey` | Yes |
+| [Privatus Analytics](https://privatusanalytics.com) | Cookieless website analytics. Read visitors, pages, sources, goals and funnels for your sites | `apiKey` | Yes |
 | [Project Cost Estimator](https://projectcostestimator.com/api-docs) | Cost, timeline and complexity estimates for website, ecommerce and app projects | `apiKey` | Yes |
 | [Public Adjusters Directory](https://publicadjusters.fyi) | Public adjusters, so you can check a licence before you hire one | No | Yes |
 | [Redash](https://redash.io/help/user-guide/integrations-and-api/api) | Access your queries and dashboards on Redash | `apiKey` | Yes |
@@ -706,6 +708,7 @@
 | [JSONsilo.com](https://jsonsilo.com) | Hassle-free JSON hosting. Convert your JSON file to an API in minutes at no cost. | `apiKey` | Yes |
 | [Kroki](https://kroki.io) | Creates diagrams from textual descriptions | No | Yes |
 | [Labelixa](https://labelixa.com) | Render, validate, debug and convert ZPL, EPL, TSPL and CPCL thermal labels to PNG or PDF, with barcode generation | `apiKey` | Yes |
+| [LogBrew](https://logbrew.co) | Send app errors, logs, traces and metrics over REST or OpenTelemetry (OTLP), then read them back with a project key | `apiKey` | Yes |
 | [MAC address vendor lookup](https://macaddress.io/api) | Retrieve vendor details and other information regarding a given MAC address or an OUI | `apiKey` | Yes |
 | [Magento Watch](https://magento.watch) | Release dates, end-of-life dates, system requirements, security bulletins and patches for Magento Open Source, Adobe Commerce and Mage-OS versions | No | Yes |
 | [Markdown to HTML API](https://apyhub.com/utility/converter-md-html) | This API lets you upload and transform a Markdown file to HTML | `apiKey` | Yes |
@@ -1013,7 +1016,6 @@
 | [Casheva](https://casheva.com) | Financial data for Argentina, Spain and Mexico: USD rates, inflation, Euribor, ICL | No | Yes |
 | [Citi](https://sandbox.developerhub.citi.com/api-catalog-list) | All Citigroup account and statement data APIs | `apiKey` | Unknown |
 | [CreditUnions](https://creditunions.fyi) | US credit union eligibility and NCUA call-report data | No | Yes |
-| [DevPros Calculator API](https://devpros.uk/tools/api) | 565 free calculator endpoints (finance, tax, maths, health, conversions) returning JSON results with step-by-step breakdowns — no signup, no API key, OpenAPI spec at /openapi.json | No | Yes |
 | [DolarAPI](https://dolarapi.com/docs/) | Real-time exchange rates for Latin American currencies | No | Yes |
 | [Drillr](https://drillr.ai) | Fundamentals, filings, filing full-text search, earnings, ownership, events and analyst data for US, China and Japan equities, linked to source filings | `apiKey` | No |
 | [Earnings Feed](https://earningsfeed.com/api/docs) | SEC filings, insider transactions, institutional holdings | `apiKey` | No |
@@ -1083,6 +1085,7 @@
 | [Validate IBAN API ](https://apyhub.com/utility/finance-validator-iban) | This API lets you quickly validate IBAN bank codes | `apiKey` | Yes |
 | [Validate Swift/BIC ](https://apyhub.com/utility/finance-validator-bic) | Validates BIC/SWIFT code | `apiKey` | Yes |
 | [ValueRay](https://www.valueray.com/api) | Technical, quantitative and sentiment data for stocks and ETFs, optimized for AI/LLM | No | Yes |
+| [Valyu](https://www.valyu.ai) | Search SEC filings, company earnings, stock prices and economic data with source citations | `apiKey` | No |
 | [WallstreetBets](https://dashboard.nbshare.io/apps/reddit/api/) | WallstreetBets Stock Comments Sentiment Analysis | No | Unknown |
 | [xChangeApi](https://xchangeapi.com/) | Exchange rates & real time market data | `apiKey` | Yes |
 | [YNAB](https://api.youneedabudget.com/) | Budgeting & Planning | `OAuth` | Yes |
@@ -1553,6 +1556,7 @@
 | [Songkick](https://www.songkick.com/developer/) | Music Events | `apiKey` | Unknown |
 | [Songlink / Odesli](https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741) | Get all the services on which a song is available | `apiKey` | Yes |
 | [SoundCloud](https://developers.soundcloud.com/docs/api/guide) | With SoundCloud API you can build applications that will give more power to control your content | `OAuth` | Unknown |
+| [Soundza](https://soundza.com) | Free sound effects, music loops and ambience to search and download, plus sound effect generation from a prompt | `apiKey` | Yes |
 | [Spotify](https://beta.developer.spotify.com/documentation/web-api/) | View Spotify music catalog and manage users' libraries and playlists | `OAuth` | Unknown |
 | [TasteDive](https://tastedive.com/read/api) | Similar artist API (also works for movies and TV shows) | `apiKey` | Unknown |
 | [TheAudioDB](https://www.theaudiodb.com/free_music_api) | Music | `apiKey` | Unknown |
@@ -1959,6 +1963,7 @@
 | [Pinterest](https://developers.pinterest.com/) | The world's catalog of ideas | `OAuth` | Unknown |
 | [PostEverywhere](https://posteverywhere.ai) | Schedule and publish posts to 12 social networks via one API | `apiKey` | No |
 | [Product Hunt](https://api.producthunt.com/v2/docs) | The best new products in tech | `OAuth` | Unknown |
+| [Qovia](https://qovia.ai) | Public posts, comments and creator data from Douyin, Xiaohongshu, Weibo, Bilibili, TikTok, YouTube and more as one JSON API | `apiKey` | No |
 | [Reddit](https://www.reddit.com/dev/api) | Homepage of the internet | `OAuth` | Unknown |
 | [Revolt](https://developers.revolt.chat) | Revolt open source Discord alternative | `apiKey` | Unknown |
 | [Rumoro](https://rumoro.dev) | Social listening API: brand, competitor and topic mentions from 16 sources, scored for relevance, sentiment and intent | `apiKey` | No |
@@ -2154,6 +2159,7 @@
 | [Road511](https://road511.com) | Unified traffic data from 65 US/CA jurisdictions: events, cameras, signs, bridges, truck routes | `apiKey` | Yes |
 | [Sabre for Developers](https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel) | Travel Search - Limited usage | `apiKey` | Unknown |
 | [Schiphol Airport](https://developer.schiphol.nl/) | Schiphol | `apiKey` | Unknown |
+| [StayingAPI](https://stayingapi.com) | One REST API + native MCP server for live search, availability, price, cross-OTA price comparison and reviews across Airbnb, Booking.com, Vrbo & Google Hotels | `apiKey` | Yes |
 | [Strait of Hormuz Ship Monitor](https://hormuz.data-tracking.net/llms.txt) | Live AIS vessel traffic, crossings and oil flow through the Strait of Hormuz | No | No |
 | [Swedavia Airports](https://apideveloper.swedavia.se/) | Airport and flight information of Swedish Airports operated by Swedavia | `apiKey` | No |
 | [Tankerkoenig](https://creativecommons.tankerkoenig.de/swagger/) | German realtime gas/diesel prices | `apiKey` | Yes |
