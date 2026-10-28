@@ -1,5 +1,5 @@
 {
-"count": 1935,
+"count": 1936,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14183,6 +14183,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developer.schiphol.nl/",
+        "Category": "Transportation"
+    },
+    {
+        "API": "StayingAPI",
+        "Description": "One REST API + native MCP server for live search, availability, price, cross-OTA price comparison and reviews across Airbnb, Booking.com, Vrbo & Google Hotels",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://stayingapi.com",
         "Category": "Transportation"
     },
     {
