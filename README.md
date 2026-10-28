@@ -375,6 +375,7 @@
 | [markerapi](https://markerapi.com) | Trademark Search | No | Unknown |
 | [Mydentify](https://mydentify.com) | Startup-directory research and weekly product leaderboard data | No | Yes |
 | [NioLeads](https://nioleads.com/apidoc) | LinkedIn Email Finder and Email Verifier | `apiKey` | Yes |
+| [Privatus Analytics](https://privatusanalytics.com) | Cookieless website analytics. Read visitors, pages, sources, goals and funnels for your sites | `apiKey` | Yes |
 | [Project Cost Estimator](https://projectcostestimator.com/api-docs) | Cost, timeline and complexity estimates for website, ecommerce and app projects | `apiKey` | Yes |
 | [Public Adjusters Directory](https://publicadjusters.fyi) | Public adjusters, so you can check a licence before you hire one | No | Yes |
 | [Redash](https://redash.io/help/user-guide/integrations-and-api/api) | Access your queries and dashboards on Redash | `apiKey` | Yes |
