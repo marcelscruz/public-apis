@@ -265,6 +265,7 @@
 | [Noun Project](https://api.thenounproject.com/index.html) | Icons | `OAuth` | Unknown |
 | [OG Stamp](https://ogstamp.com) | Open Graph and social card PNGs from a title or a page URL. One-time credits, no subscription | `apiKey` | Yes |
 | [PHP-Noise](https://php-noise.com/) | Noise Background Image Generator | No | Yes |
+| [Pic2svg](https://pic2svg.com/) | Trace raster images into SVG filled paths with a keyless JSON HTTP API; daily usage limits apply | No | No |
 | [Picsart](https://picsart.io) | Image & video editing, generative AI, 100+ AI models via unified API | `apiKey` | Yes |
 | [Pika](https://pika.style/image-generation-api) | Image Generation API | `apiKey` | Yes |
 | [Sticker Shop](https://api.tasta.space/stickers) | Pop art on demand: comic bursts, speech balloons, rubber stamps and retro error windows with your own text, as SVG or PNG | No | Yes |
@@ -368,12 +369,14 @@
 | [Instatus](https://instatus.com/help/api) | Post to and update maintenance and incidents on your status page through an HTTP REST API | `apiKey` | Unknown |
 | [Listings API](https://listingsapi.com) | Manage business locations, sync listings across publishers, respond to reviews, publish posts, and pull local search analytics | `apiKey` | Unknown |
 | [Logo.dev](https://www.logo.dev) | Automated company logo API that updates daily. Transform any domain or company name into verified logos. | `apiKey` | Yes |
+| [logoapi.sh](https://logoapi.sh) | Company logo as SVG by domain, with name search and white, black, grey and dark variants. No key or signup. Free for 1M requests a month per site | No | Yes |
 | [LogoKit](https://docs.logokit.com) | Logo API for brands, stocks, and cryptocurrencies | `apiKey` | Unknown |
 | [Mailchimp](https://mailchimp.com/developer/) | Send marketing campaigns and transactional mails | `apiKey` | Unknown |
 | [mailjet](https://www.mailjet.com/) | Marketing email can be sent and mail templates made in MJML or HTML can be sent using API | `apiKey` | Unknown |
 | [markerapi](https://markerapi.com) | Trademark Search | No | Unknown |
 | [Mydentify](https://mydentify.com) | Startup-directory research and weekly product leaderboard data | No | Yes |
 | [NioLeads](https://nioleads.com/apidoc) | LinkedIn Email Finder and Email Verifier | `apiKey` | Yes |
+| [Privatus Analytics](https://privatusanalytics.com) | Cookieless website analytics. Read visitors, pages, sources, goals and funnels for your sites | `apiKey` | Yes |
 | [Project Cost Estimator](https://projectcostestimator.com/api-docs) | Cost, timeline and complexity estimates for website, ecommerce and app projects | `apiKey` | Yes |
 | [Public Adjusters Directory](https://publicadjusters.fyi) | Public adjusters, so you can check a licence before you hire one | No | Yes |
 | [Redash](https://redash.io/help/user-guide/integrations-and-api/api) | Access your queries and dashboards on Redash | `apiKey` | Yes |
@@ -646,6 +649,7 @@
 | [DATPAQ](https://datpaq.com) | Developer-first APIs. Enterprise-ready infrastructure. Sampla data, avatars, image processing and a lot more. | `apiKey` | Yes |
 | [Deed](https://deed.page) | Publish HTML or a static folder to a permanent HTTPS subdomain with one PUT and no signup; also served as a remote MCP server | No | Yes |
 | [DigitalOcean Status](https://status.digitalocean.com/api) | Status of all DigitalOcean services | No | Unknown |
+| [Discord Timestamp Generator](https://discordtimestampgen.com) | Turns an ISO 8601 datetime or a Unix time into Discord timestamp codes in all 7 styles, with a format list endpoint and an OpenAPI 3.1 spec | No | Yes |
 | [Docker Hub](https://docs.docker.com/docker-hub/api/latest/) | Interact with Docker Hub | `apiKey` | Yes |
 | [DomainDb Info](https://api.domainsdb.info/) | Domain name search to find all domains containing particular words/phrases/etc | No | Unknown |
 | [DownStatus](https://isitdownstatus.com) | Real-time status for GitHub, AWS, Discord and 90+ services | No | Yes |
@@ -788,6 +792,7 @@
 | [Vend](https://extract.paypercall.dev) | Pay-per-call web-data API for AI agents: any URL to clean text/markdown, plus web search, link check, geoip and PDF-to-text; settled on-chain in XNO per call. | No | No |
 | [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel/API.md) | Code compiler supporting 35+ languages mentioned at wandbox.org | No | Unknown |
 | [Web Scraping API](https://apyhub.com/utility/sharpapi-web-scraping-api) | Extract structured data from any public URL | `apiKey` | Yes |
+| [WebExtract](https://webextract.dev) | Web page to clean Markdown or structured JSON (product, price, tables, metadata). 20 free calls/day per IP, then x402 USDC per call or prepaid credits | No | No |
 | [WebScraping.AI](https://webscraping.ai/) | Web Scraping API with built-in proxies and JS rendering | `apiKey` | Yes |
 | [xmlvalid](https://xmlvalid.com/) | Validate XML against XSD, DTD and RelaxNG, and e-invoices against EN 16931, Peppol and XRechnung rules | `apiKey` | Yes |
 | [YAMLine](https://yamline.com/json/) | Convert YAML to JSON (on-the-fly) | No | Yes |
@@ -1010,6 +1015,7 @@
 | [Casheva](https://casheva.com) | Financial data for Argentina, Spain and Mexico: USD rates, inflation, Euribor, ICL | No | Yes |
 | [Citi](https://sandbox.developerhub.citi.com/api-catalog-list) | All Citigroup account and statement data APIs | `apiKey` | Unknown |
 | [CreditUnions](https://creditunions.fyi) | US credit union eligibility and NCUA call-report data | No | Yes |
+| [DevPros Calculator API](https://devpros.uk/tools/api) | 565 free calculator endpoints (finance, tax, maths, health, conversions) returning JSON results with step-by-step breakdowns — no signup, no API key, OpenAPI spec at /openapi.json | No | Yes |
 | [DolarAPI](https://dolarapi.com/docs/) | Real-time exchange rates for Latin American currencies | No | Yes |
 | [Drillr](https://drillr.ai) | Fundamentals, filings, filing full-text search, earnings, ownership, events and analyst data for US, China and Japan equities, linked to source filings | `apiKey` | No |
 | [Earnings Feed](https://earningsfeed.com/api/docs) | SEC filings, insider transactions, institutional holdings | `apiKey` | No |
@@ -1468,6 +1474,7 @@
 | [Opioid Treatment Directory](https://opioidtreatment.fyi) | Methadone and buprenorphine treatment providers | No | Yes |
 | [Peptide Library](https://peptidelibrary.app/developers) | Peptide research profiles, cited studies and regulatory status, plus a vendor directory and current prices (free key) | No | Yes |
 | [Psychologie et Sérénité](https://psychologieetserenite.com/api) | French psychology articles metadata and validated psychological tests catalog | No | Yes |
+| [RRM Academy Research Library](https://rrmacademy.org/connect/) | Physician-curated restorative reproductive medicine research: endometriosis, PCOS, NaProTechnology, fertility awareness | `apiKey` | No |
 | [Verified Supplement Data](https://verifiedsupplementdata.com) | Supplement dosing, form comparisons and drug-nutrient interactions with PubMed citations | No | Yes |
 
 **[⬆ Back to Index](#index)**
@@ -2041,7 +2048,7 @@
 | [TipsAudit](https://tipsaudit.com/api) | Football fair odds (bookmaker margin removed) and bookmaker margin index | No | Yes |
 | [Tredict](https://www.tredict.com/blog/oauth_docs/) | Get and set activities, health data and more | `OAuth` | Unknown |
 | [Wger](https://wger.de/en/software/api) | Workout manager data as exercises, muscles or equipment | `apiKey` | Unknown |
-| [Your Move - Exercise API](https://ymove.app/exercise-api) | The complete exercise library and fitness API for your app. 698+ professional HD exercise videos with workout generation and program builder. | `apiKey` | Yes |
+| [Your Move - Exercise API](https://ymove.app/exercise-api) | Exercise library and fitness API for your app. 2,005+ professional HD exercise videos with instructions, workout generation and program builder. | `apiKey` | Yes |
 
 **[⬆ Back to Index](#index)**
 
@@ -2129,6 +2136,7 @@
 | [facha](https://docs.api.facha.dev/) | Aircraft Tracking, AIS Ship Tracking, Temporary Email Detection, IP GeoLocation, Package Tracking | No | Unknown |
 | [Flight Fare Search](https://rapidapi.com/farish978/api/flight-fare-search) | Search for realtime flight fares across destinations | `apiKey` | Yes |
 | [FlightPortrait](https://docs.flightportrait.com/build/api) | Live and historical aircraft positions, flights, airlines and airframes from a community ADS-B receiver network, open data under ODbL | No | Yes |
+| [FlyItalyADSB](https://flyitalyadsb.com/en/data/api/) | Live aircraft positions in ADS-B JSON for any point on Earth from a community receiver network, plus history and overflights | `apiKey` | Yes |
 | [Fuel Prices at Spanish Gas Stations](https://datos.gob.es/en/apidata) | Provides information about fuel prices at gas stations in Spain | No | No |
 | [Grab](https://developer.grab.com/docs/) | Track deliveries, ride fares, payments and loyalty points | `OAuth` | Unknown |
 | [GraphHopper](https://docs.graphhopper.com/) | A-to-B routing with turn-by-turn instructions | `apiKey` | Unknown |
