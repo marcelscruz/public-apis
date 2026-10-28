@@ -1,5 +1,5 @@
 {
-"count": 1937,
+"count": 1938,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4135,6 +4135,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://labelixa.com",
+        "Category": "Development"
+    },
+    {
+        "API": "LogBrew",
+        "Description": "Send app errors, logs, traces and metrics over REST or OpenTelemetry (OTLP), then read them back with a project key",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://logbrew.co",
         "Category": "Development"
     },
     {
