@@ -1,5 +1,5 @@
 {
-"count": 1939,
+"count": 1940,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -319,6 +319,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://perspectiveapi.com",
+        "Category": "AI"
+    },
+    {
+        "API": "Pictograph",
+        "Description": "Label images with SAM3, train RF-DETR and YOLOX detectors, and run them on GPU endpoints that take live RTSP and WebRTC video",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://pictograph.io",
         "Category": "AI"
     },
     {
