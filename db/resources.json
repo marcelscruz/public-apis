@@ -1,5 +1,5 @@
 {
-"count": 1934,
+"count": 1935,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12855,6 +12855,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://api.producthunt.com/v2/docs",
+        "Category": "Social"
+    },
+    {
+        "API": "Qovia",
+        "Description": "Public posts, comments and creator data from Douyin, Xiaohongshu, Weibo, Bilibili, TikTok, YouTube and more as one JSON API",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://qovia.ai",
         "Category": "Social"
     },
     {
