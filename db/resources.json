@@ -1,5 +1,5 @@
 {
-"count": 1933,
+"count": 1934,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1815,6 +1815,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://nioleads.com/apidoc",
+        "Category": "Business"
+    },
+    {
+        "API": "Privatus Analytics",
+        "Description": "Cookieless website analytics. Read visitors, pages, sources, goals and funnels for your sites",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://privatusanalytics.com",
         "Category": "Business"
     },
     {
