@@ -1,5 +1,5 @@
 {
-"count": 1938,
+"count": 1939,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -295,6 +295,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://nlpcloud.io",
+        "Category": "AI"
+    },
+    {
+        "API": "Obscurify AI",
+        "Description": "Anonymous OpenAI-compatible API for 200+ LLMs. Accounts are a random number, no email; pay with Monero, Bitcoin or card",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://obscurify.ai",
         "Category": "AI"
     },
     {
