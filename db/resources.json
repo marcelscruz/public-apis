@@ -1,5 +1,5 @@
 {
-"count": 1935,
+"count": 1936,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6807,6 +6807,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://www.valueray.com/api",
+        "Category": "Finance"
+    },
+    {
+        "API": "Valyu",
+        "Description": "Search SEC filings, company earnings, stock prices and economic data with source citations",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.valyu.ai",
         "Category": "Finance"
     },
     {
