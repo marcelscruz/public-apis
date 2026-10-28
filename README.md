@@ -1553,6 +1553,7 @@
 | [Songkick](https://www.songkick.com/developer/) | Music Events | `apiKey` | Unknown |
 | [Songlink / Odesli](https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741) | Get all the services on which a song is available | `apiKey` | Yes |
 | [SoundCloud](https://developers.soundcloud.com/docs/api/guide) | With SoundCloud API you can build applications that will give more power to control your content | `OAuth` | Unknown |
+| [Soundza](https://soundza.com) | Free sound effects, music loops and ambience to search and download, plus sound effect generation from a prompt | `apiKey` | Yes |
 | [Spotify](https://beta.developer.spotify.com/documentation/web-api/) | View Spotify music catalog and manage users' libraries and playlists | `OAuth` | Unknown |
 | [TasteDive](https://tastedive.com/read/api) | Similar artist API (also works for movies and TV shows) | `apiKey` | Unknown |
 | [TheAudioDB](https://www.theaudiodb.com/free_music_api) | Music | `apiKey` | Unknown |
