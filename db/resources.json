@@ -1,5 +1,5 @@
 {
-"count": 1936,
+"count": 1937,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10231,6 +10231,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.soundcloud.com/docs/api/guide",
+        "Category": "Music"
+    },
+    {
+        "API": "Soundza",
+        "Description": "Free sound effects, music loops and ambience to search and download, plus sound effect generation from a prompt",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://soundza.com",
         "Category": "Music"
     },
     {
