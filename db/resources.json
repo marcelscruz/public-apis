@@ -1,5 +1,5 @@
 {
-"count": 1943,
+"count": 1944,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13895,6 +13895,14 @@
         "Auth": "OAuth",
         "Cors": "yes",
         "Link": "https://tisane.ai/",
+        "Category": "Text Analysis"
+    },
+    {
+        "API": "Unprofane",
+        "Description": "Profanity and toxicity checks in 17 languages that read leetspeak, look-alike letters and spacing, with a Perspective API compatible endpoint",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://unprofane.com",
         "Category": "Text Analysis"
     },
     {
