@@ -1445,6 +1445,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [ADHDEvaluations](https://adhdevaluations.fyi) | Find an ADHD evaluation provider near you | No | Yes |
+| [Atmospore Pollen forecasts](https://pollenapi.com) | The Atmospore API provides real-time and forecast pollen data for locations worldwide. Data is updated daily and include forecasts up to 7 days into the future | `apiKey` | Unknown |
 | [CMS.gov](https://data.cms.gov/provider-data/) | Access to the data from the CMS - medicare.gov | `apiKey` | Unknown |
 | [Coronavirus in the UK](https://coronavirus.data.gov.uk/details/developers-guide) | UK Government coronavirus data, including deaths and cases by region | No | Unknown |
 | [Covid Tracking Project](https://covidtracking.com/data/api/version-2) | Covid-19 data for the US | No | No |
