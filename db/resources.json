@@ -1,5 +1,5 @@
 {
-"count": 1941,
+"count": 1942,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9463,6 +9463,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://adhdevaluations.fyi",
+        "Category": "Health"
+    },
+    {
+        "API": "Atmospore Pollen forecasts",
+        "Description": "The Atmospore API provides real-time and forecast pollen data for locations worldwide. Data is updated daily and include forecasts up to 7 days into the future",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://pollenapi.com",
         "Category": "Health"
     },
     {
