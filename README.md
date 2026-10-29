@@ -395,6 +395,7 @@
 | [USPTO Trademark](https://rapidapi.com/pentium10/api/uspto-trademark) | Trademark keyword search, availability, owner, serial search, attorney info, MCP ready | `apiKey` | Yes |
 | [Vaneform](https://vaneform.com) | Website traffic estimates for any domain: monthly visits, traffic sources, top countries and keyword data | `apiKey` | Yes |
 | [VNCNT Labs Trademark Checker](https://vncntlabs.com/tools/trademark-checker/) | Check product titles, tags and slogans against about 4.4M live USPTO trademarks by class, with risk level, owner and serial number | `apiKey` | Yes |
+| [Zaptu](https://zaptu.ai) | Remote MCP server and REST API that send consented contact requests to local US home-service pros (plumbing, cleaning, pest). Not a booking | No | Yes |
 | [Zillapi](https://zillapi.com) | US property data API — Zestimate, photos, taxes, price history | `apiKey` | Yes |
 
 **[⬆ Back to Index](#index)**
