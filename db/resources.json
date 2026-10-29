@@ -1,5 +1,5 @@
 {
-"count": 1942,
+"count": 1943,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11343,6 +11343,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://proweblook.com/whatsapp-number-checker",
+        "Category": "Phone"
+    },
+    {
+        "API": "Sparetext",
+        "Description": "Send and receive SMS from your own Android phone or iPhone through a REST API, signed webhooks and an MCP server",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://sparetext.dev",
         "Category": "Phone"
     },
     {
