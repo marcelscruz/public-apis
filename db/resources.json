@@ -1,5 +1,5 @@
 {
-"count": 1940,
+"count": 1941,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10567,6 +10567,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://mcp.10ml.com",
+        "Category": "Open Data"
+    },
+    {
+        "API": "API Indonesia",
+        "Description": "Indonesian public data: regions down to 83,000+ villages with postal codes, schools, hospitals, minimum wages, DJKI trademarks. Paid per request",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://apiindonesia.id",
         "Category": "Open Data"
     },
     {
