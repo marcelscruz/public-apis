@@ -617,6 +617,7 @@
 | [API Status Check](https://apistatuscheck.com) | Real-time status and uptime monitoring for 270+ APIs and services | No | Yes |
 | [ApicAgent](https://www.apicagent.com) | Extract device details from user-agent string | No | Yes |
 | [ApiFlash](https://apiflash.com/) | Chrome based screenshot API for developers | `apiKey` | Unknown |
+| [APIFreaks](https://apifreaks.com/) | 100+ APIs behind one key: WHOIS, DNS, IP, weather, currency, commodities, PDF, screenshots, email and phone validation. 10K free credits on signup | `apiKey` | Yes |
 | [APILayer](https://apilayer.com) | APILayer is a unified API marketplace with 40+ production-ready APIs for finance, geolocation, weather, data, and AI. Trusted by 2.2M+ developers | No | Unknown |
 | [APIs.guru](https://apis.guru/api-doc/) | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | No | Unknown |
 | [APIVerve](https://apiverve.com) | About 380 APIs behind one key: email and phone validation, IP, DNS and SSL lookups, exchange and VAT rates, VIN decoding and more | `apiKey` | Yes |
