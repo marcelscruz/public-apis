@@ -1,5 +1,5 @@
 {
-"count": 1945,
+"count": 1946,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12623,6 +12623,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://global.si5.com.br",
+        "Category": "Shopping"
+    },
+    {
+        "API": "SoldFetch",
+        "Description": "eBay sold and active listings via REST and MCP; not affiliated with eBay",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://soldfetch.com",
         "Category": "Shopping"
     },
     {
