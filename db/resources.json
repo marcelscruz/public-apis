@@ -1,5 +1,5 @@
 {
-"count": 1947,
+"count": 1948,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2655,6 +2655,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://www.cryptocompare.com/api#",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "CryptoKeyhole",
+        "Description": "On-chain and market metrics for Bitcoin, Ethereum and more, calculated from its own nodes; Free charts need no key",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://cryptokeyhole.com",
         "Category": "Cryptocurrency"
     },
     {
