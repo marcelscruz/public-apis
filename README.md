@@ -857,6 +857,7 @@
 | [MConverter](https://dev.mconverter.eu/) | File converter and PDF compressor. Extract images from video, convert documents, Markdown and more | `apiKey` | Unknown |
 | [Monday](https://developer.monday.com/) | Programmatically access and update data inside a monday.com account | `apiKey` | Unknown |
 | [Notion](https://developers.notion.com/docs/getting-started) | Integrate with Notion | `OAuth` | Unknown |
+| [Optiic](https://optiic.dev) | OCR API that extracts text from images and PDFs, sent as a file or a URL, with optional translation of the result | `apiKey` | Yes |
 | [PandaDoc](https://developers.pandadoc.com) | DocGen and eSignatures API | `apiKey` | No |
 | [PaperClean](https://paperclean.ip1.cc/api/docs) | Clean document photos for printing, remove shadows and fix lighting | `apiKey` | Yes |
 | [Paraphrase Text API](https://apyhub.com/utility/sharpapi-paraphrase-text) | The Paraphrase Text Generator API generates a paraphrased version of the provided text | `apiKey` | Yes |
