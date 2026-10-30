@@ -1,5 +1,5 @@
 {
-"count": 1944,
+"count": 1945,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8847,6 +8847,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://data.colorado.gov/",
+        "Category": "Government"
+    },
+    {
+        "API": "Contratero",
+        "Description": "Spanish public tenders and awards from the official PLACSP platform, updated hourly, with buyer and winner per contract",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://contratero.es/docs",
         "Category": "Government"
     },
     {
