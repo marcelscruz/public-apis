@@ -822,6 +822,7 @@
 ### Documents & Productivity
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [AI Form](https://aiformapi.com) | Create forms, share a link and read responses as JSON or CSV, with an MCP server for AI agents | `apiKey` | Yes |
 | [AI Meeting Minutes Suite](https://rapidapi.com/vintarok-vintarok-default/api/ai-meeting-minutes-suite-summaries-templates-redaction) | Generate summaries, templates, and redact sensitive data from meeting notes | `apiKey` | Yes |
 | [Airtable](https://airtable.com/api) | Integrate with Airtable | `apiKey` | Unknown |
 | [Api2Convert](https://www.api2convert.com/) | Online File Conversion API | `apiKey` | Unknown |
