@@ -1924,6 +1924,7 @@
 | [Shopify](https://shopify.dev/docs/api) | Manage sales channels, customers, products, and discounts for a retail business | `OAuth` | Unknown |
 | [ShopSavvy](https://shopsavvy.com/data) | Product lookups by barcode/UPC/EAN/ASIN with real-time pricing and price history | `apiKey` | Yes |
 | [SI5 Global](https://global.si5.com.br) | Product lookup by GTIN/EAN or name for ERP, POS and e-commerce, with brands, images and NCM/CEST when available | `apiKey` | Yes |
+| [SoldFetch](https://soldfetch.com) | eBay sold and active listings via REST and MCP; not affiliated with eBay | `apiKey` | Yes |
 | [Tokopedia](https://developer.tokopedia.com/openapi/guide/#/) | Tokopedia's Official API for integration of various services from Tokopedia | `OAuth` | Unknown |
 | [VantaSpec](https://vantaspec.com) | UK PC hardware prices, price history and specs across UK retailers | No | Yes |
 | [WooCommerce](https://woocommerce.github.io/woocommerce-rest-api-docs/) | WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format | `apiKey` | Yes |
