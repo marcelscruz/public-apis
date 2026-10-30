@@ -656,6 +656,7 @@
 | [DownStatus](https://isitdownstatus.com) | Real-time status for GitHub, AWS, Discord and 90+ services | No | Yes |
 | [EveryInfra](https://everyinfra.com) | Structured data from 90 platforms (RedNote, Douyin, TikTok, Amazon and more), web search and CAPTCHA solving via REST or MCP | `apiKey` | No |
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | A simple JSON store API | No | Yes |
+| [FastAF](https://fastaf.co) | Google search and verticals, Amazon, YouTube, Reddit and page scraping as JSON for AI agents; hosted MCP server, x402 pay-per-call, 500 free credits/month | `apiKey` | No |
 | [FireDash Fire Hydrant Public API](https://developer.firedash.us/) | Live fire hydrant data: location, flow rate in GPM, and whether each hydrant is in or out of service. Sourced from the fire departments that maintain them | `apiKey` | Yes |
 | [FluentEDI](https://fluentedi.com) | Deterministic tools for AI agents: X12 EDI, check digits, time, cron, JSON repair | No | Yes |
 | [Form Creation API](https://apyhub.com/utility/reformify-form-api) | Create and manage customizable forms within your applications | `apiKey` | Yes |
