@@ -1,5 +1,5 @@
 {
-"count": 1946,
+"count": 1947,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5239,6 +5239,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.notion.com/docs/getting-started",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Optiic",
+        "Description": "OCR API that extracts text from images and PDFs, sent as a file or a URL, with optional translation of the result",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://optiic.dev",
         "Category": "Documents & Productivity"
     },
     {
