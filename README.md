@@ -1107,6 +1107,7 @@
 | [Dish Directory](https://dishdirectory.com) | Restaurants with their dishes, prices and hours, by city | No | Yes |
 | [Edamam nutrition](https://developer.edamam.com/edamam-docs-nutrition-api) | Nutrition Analysis | `apiKey` | Unknown |
 | [Edamam recipes](https://developer.edamam.com/edamam-docs-recipe-api) | Recipe Search | `apiKey` | Unknown |
+| [FiberUp Fiber Database](https://fiberup.app/data/) | Dietary fiber per serving and per 100 g, split into soluble and insoluble, for ~200 common foods | No | Yes |
 | [Foodish](https://github.com/surhud004/Foodish#readme) | Random pictures of food dishes | No | Yes |
 | [Jelly Belly Wiki](https://jelly-belly-wiki.netlify.app/) | Data about Jelly Belly beans- flavores, facts, history and more endpoints | No | Yes |
 | [Kroger](https://developer.kroger.com/reference) | Supermarket Data | `apiKey` | Unknown |
