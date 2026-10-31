@@ -1,5 +1,5 @@
 {
-"count": 1950,
+"count": 1951,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4111,6 +4111,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://ipquery.io",
+        "Category": "Development"
+    },
+    {
+        "API": "Irmu",
+        "Description": "Web scraping API and hosted MCP server: JavaScript rendering, screenshots, proxy rotation, AI JSON extraction, ChatGPT answers and Booking.com search data",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://irmu.com",
         "Category": "Development"
     },
     {
