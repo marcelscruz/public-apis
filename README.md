@@ -2289,6 +2289,7 @@
 | [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television | No | Unknown |
 | [Rules of Acquisition](https://rulesofacquisition.herokuapp.com/) | Ferengi Rules of Acquisition from Star Trek with episode references | No | Unknown |
 | [Shoof Aflam](https://shoofaflam.tv/api-docs/) | Arabic streaming guide — search 14,000+ movies/series, platform availability across 18 services | No | Yes |
+| [ShortDramaKit](https://shortdramakit.com) | Short-drama metadata with quoted tasks and saved CSV/JSON exports. API key and prepaid credits required; coverage varies. | `apiKey` | No |
 | [Shotstack](https://shotstack.io/) | Cloud-based video editing API | `apiKey` | Unknown |
 | [Simkl](https://simkl.docs.apiary.io) | Movie, TV and Anime data | `apiKey` | Unknown |
 | [South Park Quotes](https://github.com/Thatskat/southpark-quotes-api) | Get some quotes from South Park, mmkay! | No | Unknown |
