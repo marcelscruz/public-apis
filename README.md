@@ -831,7 +831,6 @@
 | [APISign](https://apisign.io) | E-signature API for apps and AI agents: send Markdown or .docx contracts by email and get signed PDFs with a SHA-256 seal, audit trail and webhooks | `apiKey` | No |
 | [Asana](https://developers.asana.com/docs) | Programmatic access to all data in your asana system | `apiKey` | Yes |
 | [Bookfolio Fixer](https://fixer.bookfolio.io) | Validate and repair EPUB ebooks, returns JSON store-readiness verdicts | `apiKey` | Unknown |
-
 | [ClickUp](https://clickup.com/api) | ClickUp is a robust, cloud-based project management tool for boosting productivity | `OAuth` | Unknown |
 | [Clipform](https://clipform.io) | Create and manage interactive video-style forms, quizzes, and surveys | `apiKey` | No |
 | [Clockify](https://clockify.me/developers-api) | Clockify's REST-based API can be used to push/pull data to/from it & integrate it with other systems | `apiKey` | Unknown |
