@@ -1,5 +1,5 @@
 {
-"count": 1952,
+"count": 1953,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1671,6 +1671,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://companyenrich.com",
+        "Category": "Business"
+    },
+    {
+        "API": "Comunicate.eu",
+        "Description": "Catalogue of 3,800+ news sites for press releases and advertorials: niches, authority, prices",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://comunicate.eu",
         "Category": "Business"
     },
     {
