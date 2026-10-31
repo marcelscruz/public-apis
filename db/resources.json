@@ -1,5 +1,5 @@
 {
-"count": 1953,
+"count": 1954,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5023,6 +5023,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://developers.asana.com/docs",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Bookfolio Fixer",
+        "Description": "Validate and repair EPUB ebooks, returns JSON store-readiness verdicts",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://fixer.bookfolio.io",
         "Category": "Documents & Productivity"
     },
     {
