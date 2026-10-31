@@ -704,6 +704,7 @@
 | [IPinfo](https://ipinfo.io/developers) | Another simple IP Address API | No | Unknown |
 | [IPLocate](https://www.iplocate.io/) | IP geolocation and threat data API | No | Yes |
 | [IPQuery](https://ipquery.io) | A free IP Geolocation and proxy/tor/VPN detection API | No | Yes |
+| [Irmu](https://irmu.com) | Web scraping API and hosted MCP server: JavaScript rendering, screenshots, proxy rotation, AI JSON extraction, ChatGPT answers and Booking.com search data | `apiKey` | Unknown |
 | [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) | Package info and download stats on jsDelivr CDN | No | Yes |
 | [JSON 2 JSONP](https://json2jsonp.com/) | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript | No | Unknown |
 | [JSONbin.io](https://jsonbin.io) | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps | `apiKey` | Yes |
