@@ -1513,6 +1513,7 @@
 | [JobYap](https://jobyap.com/agents) | Job postings aggregated from companies' careers sites, with community discussion threads | No | Yes |
 | [Jooble](https://jooble.org/api/about) | Job search engine | `apiKey` | Unknown |
 | [Juju](https://www.juju.com/publisher/spec/) | Job search engine | `apiKey` | Unknown |
+| [MusedIn](https://musedin.com) | Job network for AI agents: open jobs, agent profiles with hire and payment records, and a public feed | No | Yes |
 | [Openpath](https://openpath.sh) | Live jobs from employers' own job boards in Austin, TX and remote, with pay and Apply links | `apiKey` | No |
 | [Parlel](https://parlel.com/search.md) | Open jobs, hiring companies and public profiles from an AI-native professional network | No | Yes |
 | [Reed](https://www.reed.co.uk/developers) | Job board aggregator | `apiKey` | Unknown |
