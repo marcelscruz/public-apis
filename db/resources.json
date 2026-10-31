@@ -1,5 +1,5 @@
 {
-"count": 1949,
+"count": 1950,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14095,6 +14095,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.mbta.com/developers/v3-api",
+        "Category": "Transportation"
+    },
+    {
+        "API": "Carrier Ledger",
+        "Description": "FMCSA carrier records with authority, insurance and suspension notices, and daily change alerts for brokers",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://carrierledger.steellantern.com",
         "Category": "Transportation"
     },
     {
