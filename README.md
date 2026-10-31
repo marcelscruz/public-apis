@@ -472,7 +472,7 @@
 | [AI DECISIONS](https://aidecisions.ai) | Crypto address risk screening: sanctions hits, mixer exposure, AI-agent detection and a calibrated risk tier across six chains | `apiKey` | No |
 | [Alchemy Ethereum](https://docs.alchemy.com/alchemy/) | Ethereum Node-as-a-Service Provider | `apiKey` | Yes |
 | [Binance](https://github.com/binance/binance-spot-api-docs) | Exchange for Trading Cryptocurrencies based in China | `apiKey` | Unknown |
-| [Bitculator](https://bitculator.com/en/crypto-api) | Crypto prices, OHLCV history, sentiment, technical indicators, exchanges and liquidations | `apiKey` | Yes |
+| [Bitculator](https://bitculator.com) | Crypto prices, OHLCV history, sentiment, technical indicators, exchanges and liquidations | `apiKey` | Yes |
 | [Bitfinex](https://docs.bitfinex.com/docs) | Cryptocurrency Trading Platform | `apiKey` | Unknown |
 | [Bitmex](https://www.bitmex.com/app/apiOverview) | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong | `apiKey` | Unknown |
 | [BlackForge](https://blackforge.so) | Order book depth, resting-liquidity lifetimes and taker buy/sell flow for ~11,800 pairs on 9 spot exchanges, per 5-minute window | `apiKey` | No |
