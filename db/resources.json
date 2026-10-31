@@ -1,5 +1,5 @@
 {
-"count": 1948,
+"count": 1949,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11319,6 +11319,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://cloudmersive.com/phone-number-validation-API",
+        "Category": "Phone"
+    },
+    {
+        "API": "Fax for Agents",
+        "Description": "Fax API, hosted MCP server and SDKs built so AI agents can send and receive faxes, with a free sandbox",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://faxforagents.com",
         "Category": "Phone"
     },
     {
