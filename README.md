@@ -1565,6 +1565,7 @@
 | [Soundza](https://soundza.com) | Free sound effects, music loops and ambience to search and download, plus sound effect generation from a prompt | `apiKey` | Yes |
 | [Spotify](https://beta.developer.spotify.com/documentation/web-api/) | View Spotify music catalog and manage users' libraries and playlists | `OAuth` | Unknown |
 | [TasteDive](https://tastedive.com/read/api) | Similar artist API (also works for movies and TV shows) | `apiKey` | Unknown |
+| [Tera Studio](https://terastudio.co/ai-assistants/) | Key, tempo and vocal range of 2,000 well-known songs by title, plus key shifts, over MCP (JSON-RPC over HTTP) | No | No |
 | [TheAudioDB](https://www.theaudiodb.com/free_music_api) | Music | `apiKey` | Unknown |
 | [Words into Music](https://wordsintomusic.com/) | Generate songs from ideas or lyrics in five languages, track jobs and read your own song library | `apiKey` | No |
 
