@@ -713,6 +713,7 @@
 | [Labelixa](https://labelixa.com) | Render, validate, debug and convert ZPL, EPL, TSPL and CPCL thermal labels to PNG or PDF, with barcode generation | `apiKey` | Yes |
 | [LogBrew](https://logbrew.co) | Send app errors, logs, traces and metrics over REST or OpenTelemetry (OTLP), then read them back with a project key | `apiKey` | Yes |
 | [MAC address vendor lookup](https://macaddress.io/api) | Retrieve vendor details and other information regarding a given MAC address or an OUI | `apiKey` | Yes |
+| [MacPip](https://macpip.com) | Read-only API for a directory of Mac apps: search, listings, check reports and daily launches. No key | No | Yes |
 | [Magento Watch](https://magento.watch) | Release dates, end-of-life dates, system requirements, security bulletins and patches for Magento Open Source, Adobe Commerce and Mage-OS versions | No | Yes |
 | [Markdown to HTML API](https://apyhub.com/utility/converter-md-html) | This API lets you upload and transform a Markdown file to HTML | `apiKey` | Yes |
 | [Markdown to JSON API](https://apyhub.com/utility/converter-markdown-json) | Upload Markdown and get JSON with one API call | `apiKey` | Yes |
