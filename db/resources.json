@@ -2414,7 +2414,7 @@
         "Description": "Crypto prices, OHLCV history, sentiment, technical indicators, exchanges and liquidations",
         "Auth": "apiKey",
         "Cors": "yes",
-        "Link": "https://bitculator.com/en/crypto-api",
+        "Link": "https://bitculator.com",
         "Category": "Cryptocurrency"
     },
     {
