@@ -846,6 +846,7 @@
 | [CustomJS](https://www.customjs.io) | HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs | `apiKey` | Unknown |
 | [CV / Resume Parsing API](https://apyhub.com/utility/sharpapi-ai-resume-parser) | The Resume Parser API parses a resume (CV) file from multiple formats (PDF/DOC/DOCX/TXT/RTF) and returns an extensive object of data points | `apiKey` | Yes |
 | [DocForge](https://docforge-api.vercel.app) | Convert between Markdown, HTML, CSV, JSON, and YAML formats | No | Yes |
+| [DocSpring](https://docspring.com) | Fill PDF forms, generate PDFs and Word documents, and collect e-signatures with one API. Free plan, no credit card | `apiKey` | Yes |
 | [FastApi Simple Calculator](https://fastapi-calculadora.onrender.com/) | Math, Stadistics, Conversions, Currency and more | No | Unknown |
 | [File Conversions API](https://apyhub.com/catalog/file-conversion) | APIs to handle all your file transformations. Word to PDF, Markdown to HTML, CSV to JSON, audio and many more | `apiKey` | Yes |
 | [flatmark](https://flatmark.dev) | Convert PDF, Word, PowerPoint, Excel and HTML documents to Markdown for RAG and agents | `apiKey` | Unknown |
