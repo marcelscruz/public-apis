@@ -1,5 +1,5 @@
 {
-"count": 1958,
+"count": 1959,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4959,6 +4959,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.synonyms.com/synonyms_api.php",
+        "Category": "Dictionaries"
+    },
+    {
+        "API": "VocaFlare Clips",
+        "Description": "YouTube clips where a word is spoken, with the exact second and transcript line",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://clips.vocaflare.com/",
         "Category": "Dictionaries"
     },
     {
