@@ -2259,6 +2259,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [An API of Ice And Fire](https://anapioficeandfire.com/) | Game Of Thrones API | No | Unknown |
+| [Bettyapp](https://bettyapp.org) | Find the moments in university and school lectures that explain a topic, with links that play each lecture from that moment | No | Yes |
 | [Bob's Burgers API](https://bobsburgersapi.com/) | The Bob's Burgers API contains data for hundreds of characters, episodes, running gags, and images from the show | No | Yes |
 | [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) | Some Breaking Bad quotes | No | Unknown |
 | [Buffy the Vampire Slayer and Angel](https://github.com/Thatskat/btvs-angel-api) | Get episode, cast and crew data from Buffy the Vampire Slayer and Angel | No | Yes |
