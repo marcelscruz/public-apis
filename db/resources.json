@@ -1,5 +1,5 @@
 {
-"count": 1954,
+"count": 1955,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5759,6 +5759,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://en.mailsenpai.com/smtp-senpai/",
+        "Category": "Email"
+    },
+    {
+        "API": "StopMailing",
+        "Description": "Temporary email addresses with a free, no-signup REST API: create, read messages, live updates (SSE)",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://stopmailing.net",
         "Category": "Email"
     },
     {
