@@ -1,5 +1,5 @@
 {
-"count": 1955,
+"count": 1956,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5151,6 +5151,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://docforge-api.vercel.app",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "DocSpring",
+        "Description": "Fill PDF forms, generate PDFs and Word documents, and collect e-signatures with one API. Free plan, no credit card",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://docspring.com",
         "Category": "Documents & Productivity"
     },
     {
