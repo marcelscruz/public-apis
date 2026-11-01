@@ -928,6 +928,7 @@
 | [Sendinblue](https://developers.sendinblue.com/docs) | A service that provides solutions relating to marketing and/or transactional email and/or SMS | `apiKey` | Unknown |
 | [SendRaven](https://sendraven.ai) | Email API for AI agents: send from your own domain, receive replies as threads, and cap or hold sends for approval per API key | `apiKey` | No |
 | [SMTP Senpai](https://en.mailsenpai.com/smtp-senpai/) | EU-hosted transactional email API and SMTP relay: DKIM on your domain, signed webhooks, delivery events | `apiKey` | No |
+| [StopMailing](https://stopmailing.net) | Temporary email addresses with a free, no-signup REST API: create, read messages, live updates (SSE) | No | Yes |
 | [Sweego](https://learn.sweego.io/docs/api-intro) | Self-serve multichannel notification platform for transactional email, SMS, push web& mobile, chat, in-app | `apiKey` | Yes |
 | [Sweep Emails](https://sweepemails.com/) | Reliable email validation API with Free tier | `apiKey` | No |
 | [Temporary and Disposable emails API](https://apyhub.com/utility/boomlify-temp-mail) | This API provides temporary & disposable email addresses | `apiKey` | Yes |
