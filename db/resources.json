@@ -1,5 +1,5 @@
 {
-"count": 1957,
+"count": 1958,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2951,6 +2951,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://x402-list.com",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "xAxios",
+        "Description": "Solana and Robinhood Chain token rug risk scores over REST, plus a free public WebSocket with live prices, trades and new launches",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://xaxios.com/solutions/api",
         "Category": "Cryptocurrency"
     },
     {
