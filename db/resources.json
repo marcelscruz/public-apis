@@ -1,5 +1,5 @@
 {
-"count": 1956,
+"count": 1957,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12399,6 +12399,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://offendersearch.app",
+        "Category": "Security"
+    },
+    {
+        "API": "Opsis",
+        "Description": "Check which of 1,000+ sites an email address or username is registered on, with profile details and the source for each result",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://useopsis.com",
         "Category": "Security"
     },
     {
