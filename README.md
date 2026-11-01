@@ -1890,6 +1890,7 @@
 | [National Vulnerability Database](https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog) | U.S. National Vulnerability Database | No | Unknown |
 | [NetAPI](https://netapi.com/) | Domain data API: compromised domain/IP checks, TLD stats, Top 1M ranks, new-domain search and domain lists for 1,500+ TLDs | No | Yes |
 | [Offendersearch](https://offendersearch.app) | Search sex-offender records across all 58 US state, territory and tribal registries in one query; REST API plus open data | `apiKey` | Yes |
+| [Opsis](https://useopsis.com) | Check which of 1,000+ sites an email address or username is registered on, with profile details and the source for each result | `apiKey` | No |
 | [OWASP ZAP](https://www.zaproxy.org/docs/api/) | Automated security testing API for web apps | No | Unknown |
 | [Passwordinator](https://github.com/fawazsullia/password-generator/) | Generate random passwords of varying complexities | No | Yes |
 | [Patronus Protect](https://api.patronus.studio/) | Detect prompt injection in text, public webpages and documents for AI agents and RAG pipelines | `apiKey` | No |
