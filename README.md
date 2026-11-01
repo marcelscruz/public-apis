@@ -816,6 +816,7 @@
 | [Merriam-Webster](https://dictionaryapi.com/) | Dictionary and Thesaurus Data | `apiKey` | Unknown |
 | [Oxford](https://developer.oxforddictionaries.com/) | Dictionary Data | `apiKey` | No |
 | [Synonyms](https://www.synonyms.com/synonyms_api.php) | Synonyms, thesaurus and antonyms information for any given word | `apiKey` | Unknown |
+| [VocaFlare Clips](https://clips.vocaflare.com/) | YouTube clips where a word is spoken, with the exact second and transcript line | `apiKey` | Yes |
 | [Wiktionary](https://en.wiktionary.org/w/api.php) | Collaborative dictionary data | No | Yes |
 | [Wordnik](https://developer.wordnik.com) | Dictionary Data | `apiKey` | Unknown |
 | [Words](https://www.wordsapi.com/docs/) | Definitions and synonyms for more than 150,000 words | `apiKey` | Unknown |
