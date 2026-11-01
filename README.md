@@ -1967,6 +1967,7 @@
 | [Lanyard](https://github.com/Phineas/lanyard) | Retrieve your presence on Discord through an HTTP REST API or WebSocket | No | Yes |
 | [Line](https://developers.line.biz/) | Line Login, Share on Line, Social Plugins and more | `OAuth` | Unknown |
 | [LinkedIn](https://docs.microsoft.com/en-us/linkedin/) | The foundation of all digital integrations with LinkedIn | `OAuth` | Unknown |
+| [LurkAPI](https://lurkapi.com) | Public posts, profiles, comments, ads and video transcripts from 16 social platforms as JSON, also served as an MCP server | `apiKey` | Yes |
 | [Meetup](https://www.meetup.com/api/guide) | Data about Meetups from Meetup.com | `apiKey` | Unknown |
 | [Microsoft Graph](https://docs.microsoft.com/en-us/graph/api/overview) | Access the data and intelligence in Microsoft 365, Windows 10, and Enterprise Mobility | `OAuth` | Unknown |
 | [Mirrorfly Chat API](https://mirrorfly.com) | MirrorFly's chat API & SDK add real-time messaging to any app in minutes, with full source code access, custom security, and hosting on your own servers | `apiKey` | Unknown |
