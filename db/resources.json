@@ -3282,14 +3282,6 @@
         "Category": "Data Validation"
     },
     {
-        "API": "ValidaLatam",
-        "Description": "Validate and format Latin American tax IDs, national IDs and bank accounts (CUIT, CPF, CNPJ, RFC, CURP, CLABE, RUT, NIT, RUC, IBAN) using check-digit algorithms",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://validalatam.ia-latam.app/docs",
-        "Category": "Data Validation"
-    },
-    {
         "API": "Validate UK Postcodes",
         "Description": "This API validates postal codes within UK",
         "Auth": "apiKey",
