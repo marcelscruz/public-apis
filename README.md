@@ -790,6 +790,7 @@
 | [Supportivekoala](https://developers.supportivekoala.com/) | Autogenerate images with template | `apiKey` | Yes |
 | [Svix](https://www.svix.com) | Webhooks as a Service | `apiKey` | Unknown |
 | [TalorData](https://talordata.com) | Get structured results from Google, Bing, Yandex, and DuckDuckGo through one API, with fast, reliable responses | `apiKey` | No |
+| [TimeFoo](https://time.foo/api/) | Current time, timestamp format conversion and IANA time zone conversion, no key needed | No | Yes |
 | [Tolgee](https://tolgee.io) | Open-source localization (i18n) platform enabling you to translate you app fast | `apiKey` | No |
 | [ToolForte](https://toolforte.com/developers) | Deterministic utilities: IBAN/VAT validation, cron parsing, regex, diffs, Dutch holidays and test data | `apiKey` | Unknown |
 | [Tyk](https://tyk.io/open-source/) | Api and service management platform | `apiKey` | Yes |
