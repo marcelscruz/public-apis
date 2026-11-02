@@ -92,7 +92,6 @@
 * [Text Analysis](#text-analysis)
 * [Tracking](#tracking)
 * [Transportation](#transportation)
-* [URL Shorteners](#url-shorteners)
 * [Vehicle](#vehicle)
 * [Video](#video)
 * [Weather](#weather)
@@ -137,7 +136,6 @@
 | [MessengerX.io](https://messengerx.rtfd.io) | A FREE API for developers to build and monetize personalized ML based chat apps | `apiKey` | Yes |
 | [Neuronto](https://neuronto.com) | Free search over MCP servers, A2A agents, skills and APIs across Agentic Resource Discovery registries | No | Yes |
 | [NLP Cloud](https://nlpcloud.io) | NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more | `apiKey` | Unknown |
-| [Obscurify AI](https://obscurify.ai) | Anonymous OpenAI-compatible API for 200+ LLMs. Accounts are a random number, no email; pay with Monero, Bitcoin or card | `apiKey` | Yes |
 | [OpenAI](https://openai.com/index/openai-api) | Use AI models such as ChatGPT or DALL-E to experience the capabilities of AI | `apiKey` | Yes |
 | [Perspective](https://perspectiveapi.com) | NLP API to return probability that if text is toxic, obscene, insulting or threatening | `apiKey` | Unknown |
 | [Pictograph](https://pictograph.io) | Label images with SAM3, train RF-DETR and YOLOX detectors, and run them on GPU endpoints that take live RTSP and WebRTC video | `apiKey` | No |
@@ -430,13 +428,10 @@
 |---|---|---|---|
 | [Box](https://developer.box.com/) | File Sharing and Storage | `OAuth` | Unknown |
 | [Databricks](https://docs.databricks.com/api/workspace/introduction) | Manage Databricks workspaces, clusters, jobs, and notebooks via a Rest API | `apiKey` | Unknown |
-| [ddownload](https://ddownload.com/api) | File Sharing and Storage | `apiKey` | Unknown |
 | [Delta Lake](https://docs.delta.io/latest/delta-apidoc.html) | Open-source storage framework enabling Lakehouse architecture with Spark, PrestoDB, Flink, Trino, Hive, and APIs | No | Unknown |
 | [Dropbox](https://www.dropbox.com/developers) | File Sharing and Storage | `OAuth` | Unknown |
 | [Fil One](https://docs.fil.one/) | S3-compatible object storage API (formerly Web3 Storage) | `apiKey` | Yes |
-| [File.io](https://www.file.io) | Super simple file sharing, convenient, anonymous and secure | No | Unknown |
 | [Gcore Storage](https://docs.gcore.com/storage) | S3-Compatible Object Storage is a fast and scalable cloud storage system by Gcore that gives you an opportunity to store and retrieve any amount of data at any time. High-performance storage for use as a CDN origin. | `apiKey` | Yes |
-| [GoFile](https://gofile.io/api) | Unlimited size file uploads for free | `apiKey` | Unknown |
 | [Google Drive](https://developers.google.com/drive/) | File Sharing and Storage | `OAuth` | Unknown |
 | [Gyazo](https://gyazo.com/api/docs) | Save & Share screen captures instantly | `apiKey` | Unknown |
 | [Imgbb](https://api.imgbb.com/) | Simple and quick private image sharing | `apiKey` | Unknown |
@@ -446,7 +441,6 @@
 | [Quip](https://quip.com/dev/automation/documentation) | File Sharing and Storage for groups | `apiKey` | Yes |
 | [Smash](https://api.fromsmash.com/) | Upload large files on websites, mobile apps, SaaS solutions and custom workflows | `apiKey` | Yes |
 | [Storj](https://docs.storj.io/dcs/) | Decentralized Open-Source Cloud Storage | `apiKey` | Unknown |
-| [The Null Pointer](https://0x0.st) | No-bullshit file hosting and URL shortening service | No | Unknown |
 | [Yungle](https://yungle.co) | EU-hosted file transfer: create transfers, upload files with tus and read per-recipient download receipts. Up to 10 GB free per transfer | `apiKey` | No |
 
 **[⬆ Back to Index](#index)**
@@ -740,8 +734,6 @@
 | [ProxyKingdom](https://proxykingdom.com) | Rotating Proxy API that produces a working proxy on every request | `apiKey` | Yes |
 | [Pusher Beams](https://pusher.com/beams) | Push notifications for Android & iOS | `apiKey` | Unknown |
 | [Pusher Channels](https://pusher.com/channels) | Realtime features | `apiKey` | Unknown |
-| [QR code](https://www.qrtag.net/api/) | Create an easy to read QR code and URL shortener | No | Yes |
-| [QR code](https://goqr.me/api/) | Generate and decode / read QR code graphics | No | Unknown |
 | [QR code Generator](https://docs.openqr.io/) | Static and Dynamic QR code generator with custom and unique QR code design | `apiKey` | Unknown |
 | [Qrcode Monkey](https://www.qrcode-monkey.com/qr-code-api-with-logo/) | Integrate custom and unique looking QR codes into your system or workflow | No | Unknown |
 | [QuickChart](https://quickchart.io/) | Generate chart and graph images | No | Yes |
@@ -892,7 +884,6 @@
 |---|---|---|---|
 | [Abstract Email Validation](https://www.abstractapi.com/email-verification-validation-api) | Validate email addresses for deliverability and spam | `apiKey` | Yes |
 | [Academic Email API](https://apyhub.com/utility/validator-academic-email) | This API allows you to verify whether an email belongs to a recognized educational institution | `apiKey` | Yes |
-| [anon.li](https://anon.li) | Create and manage anonymous email aliases, forwarding recipients, custom domains and end-to-end encrypted file drops | `apiKey` | No |
 | [Atomic Mail](https://atomicmail.ai) | Email for AI agents with programmatic inbox creation and send/receive over the open JMAP standard | `apiKey` | Unknown |
 | [Cloudmersive Validate](https://cloudmersive.com/validate-api) | Validate email addresses, phone numbers, VAT numbers and domain names | `apiKey` | Yes |
 | [Disify](https://www.disify.com/) | Validate and detect disposable and temporary email addresses | No | Yes |
@@ -2206,25 +2197,6 @@
 | [Uber](https://developer.uber.com/products) | Uber ride requests and price estimation | `OAuth` | Yes |
 | [Velib metropolis, Paris, France](https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole) | Velib Open Data API | No | No |
 | [Wander Atlas](https://wanderatlasguides.com/api/) | Hourly quiet and busy windows for 671 tourist attractions in 20 countries | No | Yes |
-
-**[⬆ Back to Index](#index)**
-
-### URL Shorteners
-| API | Description | Auth | CORS |
-|---|---|---|---|
-| [1pt](https://github.com/1pt-co/api/blob/main/README.md) | A simple URL shortener | No | Yes |
-| [Bitly](https://dev.bitly.com/get_started.html) | URL shortener and link management | `OAuth` | Unknown |
-| [Bly.to](https://blyto.com/docs) | URL shortening service with analytics and tracking capabilities | `apiKey` | Yes |
-| [CleanURI](https://cleanuri.com/docs) | URL shortener service | No | Yes |
-| [Cutt.ly](https://cutt.ly/api-documentation/cuttly-links-api) | URL shortener service | `apiKey` | Unknown |
-| [Free Url Shortener](https://ulvis.net/developer.html) | Free URL Shortener offers a powerful API to interact with other sites | No | Unknown |
-| [Linkly](https://linklyhq.com/url-shortener-api) | URL shortener API with branded domains, click tracking, smart redirects, and webhooks | `apiKey` | Yes |
-| [Manyapis](https://manyapis.com/products/short-url) | Free URL shortener API with up to 10 requests per day | `apiKey` | Yes |
-| [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` | Unknown |
-| [Spoo.me](https://spoo.me/api) | Free URL shortener with custom alias, max-clicks, password protection and advanced analytics support | No | Yes |
-| [T.LY](https://t.ly/docs) | URL shortener and link management service | `apiKey` | Yes |
-| [TinyURL](https://tinyurl.com/app/dev) | Shorten long URLs | `apiKey` | No |
-| [Urlmskr](https://github.com/Axorax/urlmskr#urlmskr-api) | Easy and fast masked, shortened link creation | No | Unknown |
 
 **[⬆ Back to Index](#index)**
 
