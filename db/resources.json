@@ -1,5 +1,5 @@
 {
-"count": 1963,
+"count": 1964,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10847,6 +10847,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://www.destatis.de/EN/Service/OpenData/api-webservice.html",
+        "Category": "Open Data"
+    },
+    {
+        "API": "hexplace",
+        "Description": "800 towns in Portugal: monthly climate normals (ERA5-Land 1991-2020), rents and home prices, amenities within a walk, transport, hazards and rankings",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://hexplace.org",
         "Category": "Open Data"
     },
     {
