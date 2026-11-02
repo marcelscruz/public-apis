@@ -1,5 +1,5 @@
 {
-"count": 1965,
+"count": 1966,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5279,6 +5279,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developer.atlassian.com/server/jira/platform/rest-apis/",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "KaijuConverter",
+        "Description": "Convert 201+ file formats (HEIC, WebP, AVIF, PDF, DOCX, CSV, ODS, RAW, CAD, EPUB, MP4, MP3), 54 Studio tools & MCP Server",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://kaijuconverter.com/api-docs",
         "Category": "Documents & Productivity"
     },
     {
