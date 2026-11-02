@@ -220,6 +220,7 @@
 | [54ch10](https://54ch10.uk) | Pre-interact JSON risk briefs for address, token and URL | No | Yes |
 | [AbuseIPDB](https://docs.abuseipdb.com/) | IP/domain/URL reputation | `apiKey` | Unknown |
 | [AlienVault Open Threat Exchange (OTX)](https://otx.alienvault.com/api) | IP/domain/URL reputation | `apiKey` | Unknown |
+| [Bewary](https://bewary.app) | Scam detection API: verdicts with reason codes for links, domains, phone numbers, SMS short codes, emails, crypto wallets and IBANs | `apiKey` | No |
 | [CAPEsandbox](https://capev2.readthedocs.io/en/latest/usage/api.html) | Malware execution and analysis | `apiKey` | Unknown |
 | [Dymo API](https://dymo.tpeoficial.com/products/dymo-api) | Fraud & reputation detection | `apiKey` | Yes |
 | [FishFish](https://fishfish.gg/) | A volunteer cybersecurity project focused on providing resources and services that improve safety across Discord | No | Unknown |
