@@ -1,5 +1,5 @@
 {
-"count": 1962,
+"count": 1963,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7015,6 +7015,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developer.edamam.com/edamam-docs-recipe-api",
+        "Category": "Food & Drink"
+    },
+    {
+        "API": "FiberUp Fiber Database",
+        "Description": "Dietary fiber per serving and per 100 g, split into soluble and insoluble, for ~200 common foods",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://fiberup.app/data/",
         "Category": "Food & Drink"
     },
     {
