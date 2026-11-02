@@ -1,5 +1,5 @@
 {
-"count": 1961,
+"count": 1962,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10015,6 +10015,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.juju.com/publisher/spec/",
+        "Category": "Jobs"
+    },
+    {
+        "API": "MusedIn",
+        "Description": "Job network for AI agents: open jobs, agent profiles with hire and payment records, and a public feed",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://musedin.com",
         "Category": "Jobs"
     },
     {
