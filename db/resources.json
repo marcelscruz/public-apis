@@ -1,5 +1,5 @@
 {
-"count": 1959,
+"count": 1960,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1183,6 +1183,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://www.thecolorapi.com/",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "WAODAO",
+        "Description": "Read-only access to a daily Human + AI art archive and NFT metadata",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://waodao.ai/",
         "Category": "Art & Design"
     },
     {
