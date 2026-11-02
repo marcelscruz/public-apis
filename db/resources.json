@@ -1,5 +1,5 @@
 {
-"count": 1960,
+"count": 1961,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3319,6 +3319,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://verifyed.org/docs",
+        "Category": "Data Validation"
+    },
+    {
+        "API": "W System",
+        "Description": "EU VAT (VIES), EORI, company registry, sanctions and EN 16931 e-invoice checks. 20 free calls/day per IP with no key, also as an MCP server",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://wsystem.dev",
         "Category": "Data Validation"
     },
     {
