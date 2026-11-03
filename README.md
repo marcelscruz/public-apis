@@ -380,6 +380,7 @@
 | [markerapi](https://markerapi.com) | Trademark Search | No | Unknown |
 | [Mydentify](https://mydentify.com) | Startup-directory research and weekly product leaderboard data | No | Yes |
 | [NioLeads](https://nioleads.com/apidoc) | LinkedIn Email Finder and Email Verifier | `apiKey` | Yes |
+| [Prisma Reviews](https://prismareviews.com) | Read and reply to reviews from Google, the App Store, Google Play, Trustpilot and 60+ platforms in one JSON format | `apiKey` | No |
 | [Privatus Analytics](https://privatusanalytics.com) | Cookieless website analytics. Read visitors, pages, sources, goals and funnels for your sites | `apiKey` | Yes |
 | [Project Cost Estimator](https://projectcostestimator.com/api-docs) | Cost, timeline and complexity estimates for website, ecommerce and app projects | `apiKey` | Yes |
 | [Public Adjusters Directory](https://publicadjusters.fyi) | Public adjusters, so you can check a licence before you hire one | No | Yes |
