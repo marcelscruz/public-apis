@@ -1,5 +1,5 @@
 {
-"count": 1970,
+"count": 1971,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4487,6 +4487,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://docs.openqr.io/",
+        "Category": "Development"
+    },
+    {
+        "API": "QR Kept",
+        "Description": "Free QR code API: one GET request returns an SVG, no key or account needed",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://qrkept.com",
         "Category": "Development"
     },
     {
