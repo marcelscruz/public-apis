@@ -1,5 +1,5 @@
 {
-"count": 1974,
+"count": 1975,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9151,6 +9151,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://itinagents.fyi",
+        "Category": "Government"
+    },
+    {
+        "API": "Kranli",
+        "Description": "Demandes de permis de construire suisses des 90 derniers jours, par commune et métier",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://kranli.ch/",
         "Category": "Government"
     },
     {
