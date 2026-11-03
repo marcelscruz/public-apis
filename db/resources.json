@@ -1,5 +1,5 @@
 {
-"count": 1976,
+"count": 1977,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9631,6 +9631,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://adhdevaluations.fyi",
+        "Category": "Health"
+    },
+    {
+        "API": "AgingResearch",
+        "Description": "Every new aging research paper from PubMed, bioRxiv, medRxiv, arXiv and Europe PMC, judged on evidence, with trials, grants and extracted claims",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://agingresearch.news/developers",
         "Category": "Health"
     },
     {
