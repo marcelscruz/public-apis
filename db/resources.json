@@ -1,5 +1,5 @@
 {
-"count": 1966,
+"count": 1967,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4799,6 +4799,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://talordata.com",
+        "Category": "Development"
+    },
+    {
+        "API": "TimeFoo",
+        "Description": "Current time, timestamp format conversion and IANA time zone conversion, no key needed",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://time.foo/api/",
         "Category": "Development"
     },
     {
