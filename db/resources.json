@@ -1,5 +1,5 @@
 {
-"count": 1971,
+"count": 1972,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -15455,6 +15455,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://videogen.io/",
+        "Category": "Video"
+    },
+    {
+        "API": "VideoUpscaler",
+        "Description": "AI video upscaling, denoising, stabilization, and frame interpolation to 4K",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://videoupscaler.co",
         "Category": "Video"
     },
     {
