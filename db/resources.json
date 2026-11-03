@@ -1,5 +1,5 @@
 {
-"count": 1979,
+"count": 1980,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13383,6 +13383,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://woopsocial.com",
+        "Category": "Social"
+    },
+    {
+        "API": "xdataapi.io",
+        "Description": "Read-only public X (Twitter) data: profiles, tweets, threads, followers and search with x.com operators, plus a hosted MCP server. Not affiliated with X Corp",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://xdataapi.io",
         "Category": "Social"
     },
     {
