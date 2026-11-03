@@ -1,5 +1,5 @@
 {
-"count": 1980,
+"count": 1981,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7951,6 +7951,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://tetr.io/about/api/",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "TickerMint",
+        "Description": "Daily market prices and price history for Pokemon, One Piece, Lorcana, Riftbound, Yu-Gi-Oh and Gundam cards and sealed products",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://tickermint.cards",
         "Category": "Games & Comics"
     },
     {
