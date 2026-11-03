@@ -1,5 +1,5 @@
 {
-"count": 1972,
+"count": 1973,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6751,6 +6751,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://portfoliooptimizer.io/",
+        "Category": "Finance"
+    },
+    {
+        "API": "Priorcase",
+        "Description": "Precedent search for markets: past moments that look like a given one, with what followed each",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://priorcase.com",
         "Category": "Finance"
     },
     {
