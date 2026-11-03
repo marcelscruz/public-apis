@@ -751,6 +751,7 @@
 | [QR code](https://www.qrtag.net/api/) | Create an easy to read QR code and URL shortener | No | Yes |
 | [QR code](https://goqr.me/api/) | Generate and decode / read QR code graphics | No | Unknown |
 | [QR code Generator](https://docs.openqr.io/) | Static and Dynamic QR code generator with custom and unique QR code design | `apiKey` | Unknown |
+| [QR Kept](https://qrkept.com) | Free QR code API: one GET request returns an SVG, no key or account needed | No | Yes |
 | [Qrcode Monkey](https://www.qrcode-monkey.com/qr-code-api-with-logo/) | Integrate custom and unique looking QR codes into your system or workflow | No | Unknown |
 | [QuickChart](https://quickchart.io/) | Generate chart and graph images | No | Yes |
 | [ReefAPI](https://reefapi.com/) | One API for 185+ live web data sources including search, social, e-commerce, real estate, jobs and finance, returning clean JSON | `apiKey` | No |
