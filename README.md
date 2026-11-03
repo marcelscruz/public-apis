@@ -1400,6 +1400,7 @@
 | [Interpol Red Notices](https://interpol.api.bund.dev/) | Access and search Interpol Red Notices | No | Unknown |
 | [Istanbul (İBB) Open Data](https://data.ibb.gov.tr) | Data sets from the İstanbul Metropolitan Municipality (İBB) | No | Unknown |
 | [ITINAgents](https://itinagents.fyi) | Directory of IRS ITIN acceptance agents | No | Yes |
+| [Kranli](https://kranli.ch/) | Demandes de permis de construire suisses des 90 derniers jours, par commune et métier | No | Yes |
 | [Kurtaxe](https://keyset.cloud/kurtaxe/) | German tourist tax (Kurtaxe) rates of more than 250 municipalities as JSON and CSV, every figure quoted from the municipal statute with its source | No | Yes |
 | [MarriageLicense](https://marriagelicense.fyi) | Where to give notice of marriage or get a marriage licence, by country | No | Yes |
 | [National Park Service, US](https://www.nps.gov/subjects/developer/) | Data from the US National Park Service | `apiKey` | Yes |
