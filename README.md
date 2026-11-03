@@ -1495,6 +1495,7 @@
 | [Psychologie et Sérénité](https://psychologieetserenite.com/api) | French psychology articles metadata and validated psychological tests catalog | No | Yes |
 | [RRM Academy Research Library](https://rrmacademy.org/connect/) | Physician-curated restorative reproductive medicine research: endometriosis, PCOS, NaProTechnology, fertility awareness | `apiKey` | No |
 | [Verified Supplement Data](https://verifiedsupplementdata.com) | Supplement dosing, form comparisons and drug-nutrient interactions with PubMed citations | No | Yes |
+| [Vitalityfit](https://vitality-fit.de/api/) | Current prices of medicines, supplements and care products from German online pharmacies and shops, by name, PZN or EAN | No | Yes |
 
 **[⬆ Back to Index](#index)**
 
