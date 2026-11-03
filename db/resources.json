@@ -1,5 +1,5 @@
 {
-"count": 1967,
+"count": 1968,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -815,6 +815,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://otx.alienvault.com/api",
+        "Category": "Anti-Malware"
+    },
+    {
+        "API": "Bewary",
+        "Description": "Scam detection API: verdicts with reason codes for links, domains, phone numbers, SMS short codes, emails, crypto wallets and IBANs",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://bewary.app",
         "Category": "Anti-Malware"
     },
     {
