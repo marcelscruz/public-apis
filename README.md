@@ -600,6 +600,7 @@
 | [VatcheckAPI](https://vatcheckapi.com) | VAT Number Validation & Lookup REST API | `apiKey` | Yes |
 | [VerifyEd](https://verifyed.org/docs) | Verify academic credentials — search 912K+ schools, detect diploma mills worldwide | `apiKey` | Yes |
 | [W System](https://wsystem.dev) | EU VAT (VIES), EORI, company registry, sanctions and EN 16931 e-invoice checks. 20 free calls/day per IP with no key, also as an MCP server | No | Yes |
+| [WISEPIM](https://wisepim.com/developers/open-data) | Free keyless API: GTIN/EAN/UPC validation with GS1 prefix country, HS code search and EU/US tariff lookup, and EU marketplace fees | No | Yes |
 
 **[⬆ Back to Index](#index)**
 
