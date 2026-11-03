@@ -1,5 +1,5 @@
 {
-"count": 1969,
+"count": 1970,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3335,6 +3335,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://wsystem.dev",
+        "Category": "Data Validation"
+    },
+    {
+        "API": "WISEPIM",
+        "Description": "Free keyless API: GTIN/EAN/UPC validation with GS1 prefix country, HS code search and EU/US tariff lookup, and EU marketplace fees",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://wisepim.com/developers/open-data",
         "Category": "Data Validation"
     },
     {
