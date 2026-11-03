@@ -1,5 +1,5 @@
 {
-"count": 1973,
+"count": 1974,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12511,6 +12511,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://offendersearch.app",
+        "Category": "Security"
+    },
+    {
+        "API": "openshield",
+        "Description": "Image and text moderation API (accept, review or reject) and fraud scoring for sign-ups, logins and payments, EU-hosted, free monthly tier",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.openshield.dev",
         "Category": "Security"
     },
     {
