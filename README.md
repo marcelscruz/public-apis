@@ -1465,6 +1465,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [ADHDEvaluations](https://adhdevaluations.fyi) | Find an ADHD evaluation provider near you | No | Yes |
+| [AgingResearch](https://agingresearch.news/developers) | Every new aging research paper from PubMed, bioRxiv, medRxiv, arXiv and Europe PMC, judged on evidence, with trials, grants and extracted claims | `apiKey` | Yes |
 | [Atmospore Pollen forecasts](https://pollenapi.com) | The Atmospore API provides real-time and forecast pollen data for locations worldwide. Data is updated daily and include forecasts up to 7 days into the future | `apiKey` | Unknown |
 | [CMS.gov](https://data.cms.gov/provider-data/) | Access to the data from the CMS - medicare.gov | `apiKey` | Unknown |
 | [Coronavirus in the UK](https://coronavirus.data.gov.uk/details/developers-guide) | UK Government coronavirus data, including deaths and cases by region | No | Unknown |
