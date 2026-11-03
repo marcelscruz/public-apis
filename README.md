@@ -154,6 +154,7 @@
 | [TranslateMyImage](https://translatemyimage.com) | Translate the text inside JPG, PNG or WEBP images into 9 languages and get the translated image back | `apiKey` | No |
 | [UnoRouter](https://unorouter.com) | OpenAI-compatible gateway routing chat/completions across 500+ models with a free tier | `apiKey` | Yes |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Unknown |
+| [UplinkSwitch](https://uplinkswitch.ai) | One key and base URL for 470+ chat, image, video and speech models, OpenAI-compatible, per-token prepaid billing | `apiKey` | Yes |
 | [UpRes](https://upres.ai) | Image, video and speech restoration up to 8K through a self-serve REST API | `apiKey` | No |
 | [Voxell Forge](https://voxell.ai/forge) | OpenAI-compatible text embeddings API. The turbo model is free forever with no credit card; pro and ultra are paid | `apiKey` | No |
 | [WaveSpeedAI](https://wavespeed.ai) | Generate images, video and audio from 900+ open and commercial models (FLUX, Seedream, Kling, Wan) through one async REST API | `apiKey` | Yes |
