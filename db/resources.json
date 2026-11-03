@@ -1,5 +1,5 @@
 {
-"count": 1968,
+"count": 1969,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9863,6 +9863,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://verifiedsupplementdata.com",
+        "Category": "Health"
+    },
+    {
+        "API": "Vitalityfit",
+        "Description": "Current prices of medicines, supplements and care products from German online pharmacies and shops, by name, PZN or EAN",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://vitality-fit.de/api/",
         "Category": "Health"
     },
     {
