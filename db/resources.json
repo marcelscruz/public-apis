@@ -1,5 +1,5 @@
 {
-"count": 1978,
+"count": 1979,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7959,6 +7959,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://universalis.app/docs/index.html",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "Valo.Data",
+        "Description": "Pokémon TCG cards in EN, FR, JA and ZH with Cardmarket, US market and eBay prices, graded sales and PSA populations; 14 TCGs, free Sandbox",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://valotcg.com/developers/api/pokemon",
         "Category": "Games & Comics"
     },
     {
