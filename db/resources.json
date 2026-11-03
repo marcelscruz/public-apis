@@ -1,5 +1,5 @@
 {
-"count": 1975,
+"count": 1976,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3575,6 +3575,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://blynkapi.docs.apiary.io/#",
+        "Category": "Development"
+    },
+    {
+        "API": "Bowmark",
+        "Description": "Typed functions for live websites (LinkedIn, Amazon, YouTube, Reddit and more) for agents and cron jobs, like daily price checks or lead lists. Free $10",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://bowmark.ai",
         "Category": "Development"
     },
     {
