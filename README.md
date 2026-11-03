@@ -132,6 +132,7 @@
 | [isGenAI](https://isgenai.com) | Check images, text and URLs for recorded evidence of AI use, such as C2PA Content Credentials, IPTC AI labels and saved prompts | No | No |
 | [ISMS Copilot](https://www.ismscopilot.com/products/api) | OpenAI-compatible text-only compliance completions: curated framework knowledge (100+ modules) injected before generation and disclosed on success | `apiKey` | No |
 | [Keen IO](https://keen.io/) | Data Analytics | `apiKey` | Unknown |
+| [Keenable](https://keenable.ai) | Web search and page fetch API for AI agents, backed by an independent web index | `apiKey` | Unknown |
 | [Machinetutors](https://machinetutors.com/api/) | AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP | `apiKey` | Yes |
 | [Magic Hour](https://magichour.ai/api) | Generate and edit AI videos, images, and audio through a self-serve REST API | `apiKey` | Yes |
 | [MessengerX.io](https://messengerx.rtfd.io) | A FREE API for developers to build and monetize personalized ML based chat apps | `apiKey` | Yes |
