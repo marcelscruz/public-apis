@@ -1,5 +1,5 @@
 {
-"count": 1977,
+"count": 1978,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -255,6 +255,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://keen.io/",
+        "Category": "AI"
+    },
+    {
+        "API": "Keenable",
+        "Description": "Web search and page fetch API for AI agents, backed by an independent web index",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://keenable.ai",
         "Category": "AI"
     },
     {
