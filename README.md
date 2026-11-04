@@ -2072,6 +2072,7 @@
 | [Premier League Standings ](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | All Current Premier League Standings and Statistics | `apiKey` | Unknown |
 | [PropLine](https://prop-line.com) | Player props and game odds from 118 sportsbooks and exchanges across 59 sports, with every prop graded against official box scores | `apiKey` | No |
 | [Racing Alpha](https://racingalpha.co.uk/developers) | AI win-probability scores, fair prices and draw-bias stats for UK & Irish horse racing | No | Yes |
+| [Realtime Sports](https://www.realtimesportsapi.com) | Live scores, play-by-play, box scores, schedules, injuries and odds for NFL, NBA, MLB, NHL, college and 23 soccer leagues, via REST, webhooks and WebSocket | `apiKey` | Yes |
 | [SkipOdds](https://skipodds.com/docs) | De-vigged fair win probabilities across 13 sports, averaged from 69+ bookmakers | `apiKey` | Yes |
 | [Soccer / Football API](https://soccer-api.com) | Reliable Soccer API for live scores (websocket), fixtures, results, standings, player stats, match events, and smarter football data experiences | `apiKey` | Yes |
 | [Sport Highlights](https://highlightly.net/documentation/sports/) | Real time Sport Highlights | `apiKey` | Unknown |
