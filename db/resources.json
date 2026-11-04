@@ -1,5 +1,5 @@
 {
-"count": 1984,
+"count": 1985,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4863,6 +4863,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://time.foo/api/",
+        "Category": "Development"
+    },
+    {
+        "API": "TimeLogic",
+        "Description": "Current time, time zone conversion and DST, plus WorldTimeAPI-compatible routes. Free plan: 10,000 requests a month",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://timelogicapi.com",
         "Category": "Development"
     },
     {
