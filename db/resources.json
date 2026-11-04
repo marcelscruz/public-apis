@@ -1,5 +1,5 @@
 {
-"count": 1982,
+"count": 1983,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13719,6 +13719,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://racingalpha.co.uk/developers",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "Realtime Sports",
+        "Description": "Live scores, play-by-play, box scores, schedules, injuries and odds for NFL, NBA, MLB, NHL, college and 23 soccer leagues, via REST, webhooks and WebSocket",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.realtimesportsapi.com",
         "Category": "Sports & Fitness"
     },
     {
