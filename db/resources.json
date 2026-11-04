@@ -1,5 +1,5 @@
 {
-"count": 1981,
+"count": 1982,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -423,6 +423,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://translatemyimage.com",
+        "Category": "AI"
+    },
+    {
+        "API": "UberLLM",
+        "Description": "OpenAI- and Anthropic-compatible API for GPT, Claude, Gemini, DeepSeek and uncensored models plus image, video and music, billed at provider cost",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://uberllm.dev",
         "Category": "AI"
     },
     {
