@@ -1056,7 +1056,7 @@
 | [Front Accounting APIs](https://frontaccounting.com/fawiki/index.php) | Front accounting is multilingual and multicurrency software for small businesses | `OAuth` | Yes |
 | [FXMacroData](https://fxmacrodata.com/) | Real-time forex macroeconomic API for all major currency pairs sourced from central bank announcements | `apiKey` | Yes |
 | [German Tax Calculator](https://rechner-hub.de) | Tax calculations for Germany: income tax, crypto, commuter allowance, and more | `apiKey` | No |
-| [IBANforge](https://ibanforge.com) | IBAN validation, BIC/SWIFT lookup & compliance scoring | `apiKey` | No |
+| [IBANforge](https://ibanforge.com) | IBAN and bank/BIC reference checks, with sourced results and a keyless validation trial | `apiKey` | No |
 | [IEX Cloud](https://iexcloud.io/docs/api/) | Realtime & Historical Stock and Market Data | `apiKey` | Yes |
 | [IG](https://labs.ig.com/gettingstarted) | Spreadbetting and CFD Market Data | `apiKey` | Unknown |
 | [IIN API](https://iinapi.com) | IIN API allows you to accurately identify the issuing bank, card type, country of origin, and other details from a credit or debit card number. This is essential for fraud prevention, payment processing, and customer verification. | `apiKey` | Yes |
