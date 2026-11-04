@@ -1,5 +1,5 @@
 {
-"count": 1983,
+"count": 1984,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2015,6 +2015,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://vncntlabs.com/tools/trademark-checker/",
+        "Category": "Business"
+    },
+    {
+        "API": "Zaptu",
+        "Description": "Remote MCP server and REST API that send consented contact requests to local US home-service pros (plumbing, cleaning, pest). Not a booking",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://zaptu.ai",
         "Category": "Business"
     },
     {
