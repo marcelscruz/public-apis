@@ -427,6 +427,7 @@
 | [Non-Working Days](https://isdayoff.ru) | Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other | No | Yes |
 | [OpenHolidays API](https://www.openholidaysapi.org/) | Public and school holidays for many countries via an open REST API | No | Yes |
 | [Russian Calendar](https://github.com/egno/work-calendar) | Check if a date is a Russian holiday or not | No | No |
+| [SalahTable](https://salahtable.com) | Islamic prayer times for 400+ cities: today, the next 7 days or a whole month, six calculation methods, Hanafi or Shafi'i Asr | No | Yes |
 | [UK Bank Holidays](https://www.gov.uk/bank-holidays.json) | Bank holidays in England and Wales, Scotland and Northern Ireland | No | Unknown |
 
 **[⬆ Back to Index](#index)**
