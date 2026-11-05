@@ -619,6 +619,7 @@
 | [Agent Nexus](https://agentnexus.app) | Continuously probed registry of APIs, MCP servers and CLIs callable by agents | No | Yes |
 | [AgentDeals](https://agentdeals.dev/api) | Search and compare developer free tiers, startup credits, and pricing changes | No | Yes |
 | [AgentSandboxes](https://agentsandboxes.fyi) | Directory of cloud sandbox providers for AI agents with source-linked specs | No | Yes |
+| [AgentSEO](https://www.agentseo.dev/) | SEO API for AI agents: SERP analysis, keyword research, rank tracking, content gaps, and AI visibility workflows via REST and MCP | `apiKey` | No |
 | [Agify.io](https://agify.io) | Estimates the age from a first name | No | Yes |
 | [Allscreenshots](https://allscreenshots.com) | Website screenshots and PDFs with full-page capture, dark mode, ad blocking and bulk requests | `apiKey` | No |
 | [Amazonscraperapi](https://amazonscraperapi.com) | Amazon product, search & batch scraping API with residential proxies (1000 free) | `apiKey` | No |
