@@ -1,5 +1,5 @@
 {
-"count": 1985,
+"count": 1986,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2183,6 +2183,14 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://github.com/egno/work-calendar",
+        "Category": "Calendar"
+    },
+    {
+        "API": "SalahTable",
+        "Description": "Islamic prayer times for 400+ cities: today, the next 7 days or a whole month, six calculation methods, Hanafi or Shafi'i Asr",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://salahtable.com",
         "Category": "Calendar"
     },
     {
