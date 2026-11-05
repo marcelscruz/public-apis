@@ -1,5 +1,5 @@
 {
-"count": 1988,
+"count": 1989,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4839,6 +4839,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://statically.io/",
+        "Category": "Development"
+    },
+    {
+        "API": "String Web Access",
+        "Description": "Search the web, fetch any URL and map a site as clean, LLM-ready Markdown.",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://usestring.ai",
         "Category": "Development"
     },
     {
