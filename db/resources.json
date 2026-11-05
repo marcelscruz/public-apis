@@ -1,5 +1,5 @@
 {
-"count": 1986,
+"count": 1987,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -15367,6 +15367,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://rulesofacquisition.herokuapp.com/",
+        "Category": "Video"
+    },
+    {
+        "API": "Scribiz",
+        "Description": "Extract spoken transcripts, scene-deduped on-screen OCR text, summaries, and chapters from videos and URLs",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://scribiz.com",
         "Category": "Video"
     },
     {
