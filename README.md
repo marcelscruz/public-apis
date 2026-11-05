@@ -1037,6 +1037,7 @@
 | [APIllow](https://apillow.co) | Zillow property data with 50+ fields per listing | `apiKey` | Yes |
 | [ArgentoFX](https://fastapiproject-1-eziw.onrender.com/docs) | Real-time foreign exchange rates for Argentina | No | Yes |
 | [Banco do Brasil](https://developers.bb.com.br) | All Banco do Brasil financial transaction APIs | `OAuth` | Yes |
+| [BankConv](https://bankconv.com) | Convert bank statement PDFs into JSON transactions, CSV, OFX, QFX, QBO and Xero CSV | `apiKey` | No |
 | [Bargo Congress Trades](https://www.bargo.ai/free-apis/congress) | U.S. Congress STOCK Act stock trades with per-trade performance | No | Yes |
 | [Billplz](https://www.billplz.com/api) | Payment platform | `apiKey` | Unknown |
 | [Binlist](https://binlist.net/) | Public access to a database of IIN/BIN information | No | Unknown |
