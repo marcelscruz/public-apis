@@ -1,5 +1,5 @@
 {
-"count": 1991,
+"count": 1992,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1607,6 +1607,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://github.com/fawazahmed0/quran-api#readme",
+        "Category": "Books"
+    },
+    {
+        "API": "Readark",
+        "Description": "Dark romance books with separate spice and darkness ratings, subgenres, tropes and authors",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://readark.app/developers/",
         "Category": "Books"
     },
     {
