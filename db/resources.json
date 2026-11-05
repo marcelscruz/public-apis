@@ -1,5 +1,5 @@
 {
-"count": 1987,
+"count": 1988,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3431,6 +3431,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://agentsandboxes.fyi",
+        "Category": "Development"
+    },
+    {
+        "API": "AgentSEO",
+        "Description": "SEO API for AI agents: SERP analysis, keyword research, rank tracking, content gaps, and AI visibility workflows via REST and MCP",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.agentseo.dev/",
         "Category": "Development"
     },
     {
