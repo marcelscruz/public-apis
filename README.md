@@ -621,6 +621,7 @@
 | [AgentSandboxes](https://agentsandboxes.fyi) | Directory of cloud sandbox providers for AI agents with source-linked specs | No | Yes |
 | [AgentSEO](https://www.agentseo.dev/) | SEO API for AI agents: SERP analysis, keyword research, rank tracking, content gaps, and AI visibility workflows via REST and MCP | `apiKey` | No |
 | [Agify.io](https://agify.io) | Estimates the age from a first name | No | Yes |
+| [AI SENSE](https://aisense.no) | Utility endpoints: time, hashing, encoding, QR codes, HTML to PDF, JSON, images, webhooks and temporary storage | No | Yes |
 | [Allscreenshots](https://allscreenshots.com) | Website screenshots and PDFs with full-page capture, dark mode, ad blocking and bulk requests | `apiKey` | No |
 | [Amazonscraperapi](https://amazonscraperapi.com) | Amazon product, search & batch scraping API with residential proxies (1000 free) | `apiKey` | No |
 | [AnyAPI](https://getanyapi.com) | Hundreds of scraping and data APIs behind one key and one normalized JSON schema, priced per request in USD | `apiKey` | No |
