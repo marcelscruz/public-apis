@@ -1,5 +1,5 @@
 {
-"count": 1995,
+"count": 1996,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1287,6 +1287,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://www.reqkey.com",
+        "Category": "Authentication & Authorization"
+    },
+    {
+        "API": "SignOps",
+        "Description": "Push notifications, login approval, passkeys, authenticator codes and email OTP on one API key",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://signops.dev/docs/",
         "Category": "Authentication & Authorization"
     },
     {
