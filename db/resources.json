@@ -1,5 +1,5 @@
 {
-"count": 1994,
+"count": 1995,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6439,6 +6439,14 @@
         "Auth": "OAuth",
         "Cors": "yes",
         "Link": "https://developers.bb.com.br",
+        "Category": "Finance"
+    },
+    {
+        "API": "BankConv",
+        "Description": "Convert bank statement PDFs into JSON transactions, CSV, OFX, QFX, QBO and Xero CSV",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://bankconv.com",
         "Category": "Finance"
     },
     {
