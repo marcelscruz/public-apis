@@ -886,6 +886,7 @@
 | [PandaDoc](https://developers.pandadoc.com) | DocGen and eSignatures API | `apiKey` | No |
 | [PaperClean](https://paperclean.ip1.cc/api/docs) | Clean document photos for printing, remove shadows and fix lighting | `apiKey` | Yes |
 | [Paraphrase Text API](https://apyhub.com/utility/sharpapi-paraphrase-text) | The Paraphrase Text Generator API generates a paraphrased version of the provided text | `apiKey` | Yes |
+| [PDF Conversion API](https://pdfconversionapi.com) | 556 file conversions in one REST call: Office, HTML, images, email and CAD to PDF and back, plus PDF tools. Free for 250 conversions a month | `apiKey` | No |
 | [Pdfblocks](https://pdfblocks.com) | Generate PDF documents using API | `apiKey` | Yes |
 | [PDFBolt](https://pdfbolt.com/docs) | High-quality HTML to PDF conversion with templates and AI generation | `apiKey` | Yes |
 | [PDFEndpoint](https://pdfendpoint.com) | HTML and URL to PDF API | `apiKey` | No |
