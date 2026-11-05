@@ -795,6 +795,7 @@
 | [SQLable](https://sqlable.com/csv-to-jsonl/) | CSV to JSONL conversion API | No | Yes |
 | [StackExchange](https://api.stackexchange.com/) | Q&A forum for developers | `OAuth` | Unknown |
 | [Statically](https://statically.io/) | A free CDN for developers | No | Yes |
+| [String Web Access](https://usestring.ai) | Search the web, fetch any URL and map a site as clean, LLM-ready Markdown. | `apiKey` | No |
 | [Supadata](https://supadata.ai) | Scrape YouTube, web, and files into text. Get AI-ready, clean data for your next project. | `apiKey` | Yes |
 | [Supportivekoala](https://developers.supportivekoala.com/) | Autogenerate images with template | `apiKey` | Yes |
 | [Svix](https://www.svix.com) | Webhooks as a Service | `apiKey` | Unknown |
