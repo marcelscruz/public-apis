@@ -1,5 +1,5 @@
 {
-"count": 1990,
+"count": 1991,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3447,6 +3447,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://agify.io",
+        "Category": "Development"
+    },
+    {
+        "API": "AI SENSE",
+        "Description": "Utility endpoints: time, hashing, encoding, QR codes, HTML to PDF, JSON, images, webhooks and temporary storage",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://aisense.no",
         "Category": "Development"
     },
     {
