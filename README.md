@@ -343,6 +343,7 @@
 | [Quran](https://quran.api-docs.io/) | RESTful Quran API with multiple languages | No | Yes |
 | [Quran Cloud](https://alquran.cloud/api) | A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran | No | Yes |
 | [Quran-api](https://github.com/fawazahmed0/quran-api#readme) | Free Quran API Service with 90+ different languages and 400+ translations | No | Yes |
+| [Readark](https://readark.app/developers/) | Dark romance books with separate spice and darkness ratings, subgenres, tropes and authors | No | Yes |
 | [Scholar Sidekick](https://scholar-sidekick.com) | Resolve scholarly IDs (DOI, PMID, ISBN, arXiv) and format citations in multiple styles | No | Yes |
 | [Sefaria](https://developers.sefaria.org/reference/getting-started) | Jewish texts | No | Yes |
 | [Stephen King](https://stephen-king-api.onrender.com/) | The varied works and characters of the prolific author Stephen King | No | Unknown |
