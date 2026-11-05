@@ -1,5 +1,5 @@
 {
-"count": 1989,
+"count": 1990,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4791,6 +4791,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://sheetsu.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "Site-Shot",
+        "Description": "Website screenshot API: any URL to PNG, JPEG or WebP in one GET request, full page, ad and cookie-banner removal. Free plan: 100 captures a month, no card",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.site-shot.com/",
         "Category": "Development"
     },
     {
