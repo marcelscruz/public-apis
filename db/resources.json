@@ -1,5 +1,5 @@
 {
-"count": 1992,
+"count": 1993,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2775,6 +2775,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://documenter.getpostman.com/view/10287440/SzYXWKPi",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "Femtos",
+        "Description": "Hyperliquid data across HyperCore, HyperEVM and Elysium: markets, order books, wallets, tokens",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://femtos.xyz",
         "Category": "Cryptocurrency"
     },
     {
