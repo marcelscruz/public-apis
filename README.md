@@ -565,6 +565,7 @@
 | [ApogeoAPI](https://apogeoapi.com) | Geographic data, live rates and IP geo in one API. | `apiKey` | Yes |
 | [Bank of Russia](https://www.cbr.ru/development/SXML/) | Exchange rates and currency conversion | No | Unknown |
 | [Cambio Uruguay](https://cambio-uruguay.com) | Real-time buy/sell rates from every Uruguayan exchange house, with conversion and history | No | Yes |
+| [Canjean](https://canjean.com/exchange-rate-api) | Daily exchange rates for 150+ currencies in JSON, CSV and plain text | No | Yes |
 | [Convert Currency to Multiple Currencies](https://apyhub.com/utility/currency-conversion-multiple) | Convert currencies from a source currency to multiple target currencies. | `apiKey` | Yes |
 | [Currency-api](https://github.com/fawazahmed0/currency-api#readme) | Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits | No | Yes |
 | [Currencyapi](https://currencyapi.com) | Currency Conversion API and cryptocurrency prices, updated minutely | `apiKey` | Yes |
