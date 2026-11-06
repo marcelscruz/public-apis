@@ -1,5 +1,5 @@
 {
-"count": 1999,
+"count": 2000,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13903,6 +13903,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://sportsdata.io/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "SportStatsAPI",
+        "Description": "Live scores, fixtures, standings and historical data across 10 sports; free tier: 300 requests/day",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://sportstatsapi.com/",
         "Category": "Sports & Fitness"
     },
     {
