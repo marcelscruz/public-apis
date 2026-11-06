@@ -2096,6 +2096,7 @@
 | [Sports API (Tennis / Cricket / Soccer)](https://sportsapi365.com) | The best sports API for tennis, cricket and soccer live scores, fixtures, results, stats, match data, odds and predictions | `apiKey` | Yes |
 | [SportScore](https://sportscore.com/developers/api/) | Live scores, fixtures, standings, and top scorers for football, basketball, cricket, and tennis | No | Yes |
 | [SportsDataIO](https://sportsdata.io/) | Get sports data from all over the world | `apiKey` | Unknown |
+| [SportStatsAPI](https://sportstatsapi.com/) | Live scores, fixtures, standings and historical data across 10 sports; free tier: 300 requests/day | `apiKey` | Unknown |
 | [Squiggle](https://api.squiggle.com.au) | Fixtures, results and predictions for Australian Football League matches | No | Yes |
 | [Strava](https://strava.github.io/api/) | Connect with athletes, activities and more | `OAuth` | Unknown |
 | [Table Tennis API](https://tabletennis-api.com) | The best table tennis API, including stats, predictions, rankings (also ELO), odds, live scores, point by point. Table Tennis websocket also available | `apiKey` | Yes |
