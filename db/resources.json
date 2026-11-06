@@ -1,5 +1,5 @@
 {
-"count": 1996,
+"count": 1997,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3711,6 +3711,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://citability.ai",
+        "Category": "Development"
+    },
+    {
+        "API": "cloro",
+        "Description": "Google results with the AI Overview, and ChatGPT, Google AI Mode and Gemini answers with their cited sources, by country",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://cloro.dev",
         "Category": "Development"
     },
     {
