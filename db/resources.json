@@ -1,5 +1,5 @@
 {
-"count": 1998,
+"count": 1999,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2975,6 +2975,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://docs.solana.com/developing/clients/jsonrpc-api",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "The River",
+        "Description": "Tokenized US stocks on Base and Robinhood Chain: live prices across issuers, wallet holdings and P&L, and unsigned trade and limit-order transactions",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://theriver.markets",
         "Category": "Cryptocurrency"
     },
     {
