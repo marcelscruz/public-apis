@@ -1,5 +1,5 @@
 {
-"count": 2000,
+"count": 2001,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5903,6 +5903,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://mailvalid.io",
+        "Category": "Email"
+    },
+    {
+        "API": "MailVeri",
+        "Description": "Email verification API: SMTP, catch-all, disposable and role detection for single and bulk checks",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://mailveri.com/docs",
         "Category": "Email"
     },
     {
