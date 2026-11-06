@@ -1,5 +1,5 @@
 {
-"count": 2002,
+"count": 2003,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3095,6 +3095,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://cambio-uruguay.com",
+        "Category": "Currency Exchange"
+    },
+    {
+        "API": "Canjean",
+        "Description": "Daily exchange rates for 150+ currencies in JSON, CSV and plain text",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://canjean.com/exchange-rate-api",
         "Category": "Currency Exchange"
     },
     {
