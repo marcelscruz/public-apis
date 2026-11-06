@@ -2260,6 +2260,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [1pt](https://github.com/1pt-co/api/blob/main/README.md) | A simple URL shortener | No | Yes |
+| [Appy](https://appy.to) | Create device-aware app links and read click analytics through a REST API; API key with a Business or Enterprise plan required | `apiKey` | No |
 | [Bitly](https://dev.bitly.com/get_started.html) | URL shortener and link management | `OAuth` | Unknown |
 | [Bly.to](https://blyto.com/docs) | URL shortening service with analytics and tracking capabilities | `apiKey` | Yes |
 | [CleanURI](https://cleanuri.com/docs) | URL shortener service | No | Yes |
