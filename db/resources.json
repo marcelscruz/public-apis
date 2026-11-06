@@ -1,5 +1,5 @@
 {
-"count": 1997,
+"count": 1998,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14975,6 +14975,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://github.com/1pt-co/api/blob/main/README.md",
+        "Category": "URL Shorteners"
+    },
+    {
+        "API": "Appy",
+        "Description": "Create device-aware app links and read click analytics through a REST API; API key with a Business or Enterprise plan required",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://appy.to",
         "Category": "URL Shorteners"
     },
     {
