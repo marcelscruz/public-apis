@@ -1,5 +1,5 @@
 {
-"count": 2001,
+"count": 2002,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10367,6 +10367,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://docs.worklittle.com",
+        "Category": "Jobs"
+    },
+    {
+        "API": "YubHub",
+        "Description": "Live job listings from employers' own careers pages, with salary, skills and hiring statistics; read endpoints need no key",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://yubhub.co/api/",
         "Category": "Jobs"
     },
     {
