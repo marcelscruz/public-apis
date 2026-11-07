@@ -1,5 +1,5 @@
 {
-"count": 2003,
+"count": 2004,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1935,6 +1935,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://restosignals.com",
+        "Category": "Business"
+    },
+    {
+        "API": "Skael",
+        "Description": "German commercial register data, new registrations, Google Maps businesses and job boards as B2B lead lists with verified work emails",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://api.skael.de/en/",
         "Category": "Business"
     },
     {
