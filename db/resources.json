@@ -1,5 +1,5 @@
 {
-"count": 2006,
+"count": 2007,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6591,6 +6591,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://drillr.ai",
+        "Category": "Finance"
+    },
+    {
+        "API": "Duceus",
+        "Description": "European insider (PDMR) transactions and major shareholding notifications from national registers, normalized into one JSON schema with links to each filing",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://duceusapi.com",
         "Category": "Finance"
     },
     {
