@@ -589,6 +589,7 @@
 | [RealMarketAPI](https://realmarketapi.com/docs) | Access real-time gold, forex, crypto, and stock market data with ultra-low latency and simple REST endpoints | `apiKey` | Unknown |
 | [Unirate](https://unirateapi.com) | Free Exchange Rates and Currency Conversion | `apiKey` | Yes |
 | [VATComply.com](https://www.vatcomply.com/documentation) | Exchange rates, geolocation and VAT number validation | No | Yes |
+| [VeriApi.Pro](https://veriapi.pro) | Turkish exchange rates (TCMB and market), gold prices, fuel prices, prayer times and earthquakes | `apiKey` | Yes |
 
 **[⬆ Back to Index](#index)**
 
