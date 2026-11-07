@@ -1,5 +1,5 @@
 {
-"count": 2005,
+"count": 2006,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8159,6 +8159,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "WOK",
+        "Description": "Steam inventories and item prices for eight games, plus public player profiles and bans",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://woksteamapi.com",
         "Category": "Games & Comics"
     },
     {
