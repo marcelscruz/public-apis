@@ -974,6 +974,7 @@
 | [Corporate Buzz Words](https://github.com/sameerkumar18/corporate-bs-generator-api) | REST API for Corporate Buzz Words | No | Yes |
 | [Deny By Default as a Service](https://dbdaas.rajathjaiprakash.com/help) | Random creative rejection and acceptance reasons | No | Yes |
 | [elonmu.sh](https://elonmu.sh/) | Get random news article featuring Elon Musk | No | Unknown |
+| [EscortFox](https://escortfox.com) | Escort, agency and venue listing summaries by city, plus countries, cities, districts and services | No | Yes |
 | [Imgflip](https://imgflip.com/api) | Gets an array of popular memes | No | Unknown |
 | [JokeAPI](https://jokeapi.dev/) | Jokes in multiple formats | No | Yes |
 | [Keanu Reeves Whoa](https://whoa.onrender.com/) | JSON API for every "whoa" said by actor Keanu Reeves in his movies | No | Unknown |
