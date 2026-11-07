@@ -658,7 +658,7 @@
 | [CDNJS](https://api.cdnjs.com/libraries/jquery) | Library info on CDNJS | No | Unknown |
 | [Ciprand](https://github.com/polarspetroll/ciprand) | Secure random string generator | No | No |
 | [Citability](https://citability.ai) | AI visibility scoring for domains: ADP, llms.txt, Schema.org, MCP endpoints | No | Yes |
-| [cloro](https://cloro.dev) | Google results with the AI Overview, and ChatGPT, Google AI Mode and Gemini answers with their cited sources, by country | `apiKey` | Yes |
+| [cloro](https://cloro.dev) | Google results with the AI Overview, and ChatGPT, Google AI Mode, Bing AI Mode and Gemini answers with their cited sources, by country | `apiKey` | Yes |
 | [Cloudflare Trace](https://github.com/fawazahmed0/cloudflare-trace-api) | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More | No | Yes |
 | [Cohesivity](https://cohesivity.ai) | Headless infra for agents: Postgres, hosting, email, storage, LLMs and third-party APIs through one API, with no signup to start | `apiKey` | Yes |
 | [Contentful Images](https://www.contentful.com/developers/docs/references/images-api/) | Used to retrieve and apply transformations to images | `apiKey` | Yes |
