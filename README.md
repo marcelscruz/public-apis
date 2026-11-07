@@ -148,6 +148,7 @@
 | [RouterBase API](https://routerbase.com) | One OpenAI-compatible API for accessing 200+ AI models from OpenAI, Anthropic, Google, Meta, xAI, DeepSeek, and more | `apiKey` | Unknown |
 | [SkyBiometry](https://skybiometry.com/documentation/) | Face Detection, Face Recognition and Face Grouping | `apiKey` | Unknown |
 | [Spam Hunter](https://spam-hunter.ru/) | Free service to classify text as spam using ML | `apiKey` | Yes |
+| [Standard Compute](https://standardcompute.com) | OpenAI- and Anthropic-compatible LLM router for AI coding agents that sends each step to the cheapest capable model, on monthly plans from $19 | `apiKey` | Yes |
 | [Summarize Text with AI](https://apyhub.com/utility/ai-summarize) | This API generates customizable summaries of text and web pages using AI | `apiKey` | Yes |
 | [Suprsonic](https://suprsonic.ai) | One API key for AI agents: web search, scraping, company and people data, speech, images and research. 200 free credits, no card needed | `apiKey` | No |
 | [Synap](https://synap.linkrra.com) | OpenAI-compatible API for open-weight models: chat completions, streaming, tool calling and JSON-schema output, billed per token | `apiKey` | No |
