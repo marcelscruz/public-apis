@@ -1,5 +1,5 @@
 {
-"count": 2004,
+"count": 2005,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -383,6 +383,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://spam-hunter.ru/",
+        "Category": "AI"
+    },
+    {
+        "API": "Standard Compute",
+        "Description": "OpenAI- and Anthropic-compatible LLM router for AI coding agents that sends each step to the cheapest capable model, on monthly plans from $19",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://standardcompute.com",
         "Category": "AI"
     },
     {
