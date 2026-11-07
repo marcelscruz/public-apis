@@ -3747,7 +3747,7 @@
     },
     {
         "API": "cloro",
-        "Description": "Google results with the AI Overview, and ChatGPT, Google AI Mode and Gemini answers with their cited sources, by country",
+        "Description": "Google results with the AI Overview, and ChatGPT, Google AI Mode, Bing AI Mode and Gemini answers with their cited sources, by country",
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://cloro.dev",
