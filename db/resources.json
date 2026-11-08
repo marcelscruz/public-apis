@@ -1,5 +1,5 @@
 {
-"count": 2008,
+"count": 2009,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12975,6 +12975,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developer.olx.pl/api/doc#section/",
+        "Category": "Shopping"
+    },
+    {
+        "API": "OpenAxia",
+        "Description": "Blind, shutter, awning and door motor specifications with source-linked certification records",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://openaxia.com",
         "Category": "Shopping"
     },
     {
