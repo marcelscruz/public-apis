@@ -1942,6 +1942,7 @@
 | [PhishStats](https://phishstats.info/) | Phishing database | No | Unknown |
 | [Portscan](https://portscan.com) | Scans the requesting client's IP for open TCP ports with fast or deep modes on IPv4/IPv6 | No | Yes |
 | [Privacy.com](https://privacy.com/developer/docs) | Generate merchant-specific and one-time use credit card numbers that link back to your bank | `apiKey` | Unknown |
+| [Profundis](https://profundis.io) | Search DNS records, hosts, TLS certificates and WHOIS to investigate domains and related infrastructure | `apiKey` | No |
 | [Pulsedive](https://pulsedive.com/api/) | Scan, search and collect threat intelligence data in real-time | `apiKey` | Unknown |
 | [SecurityTrails](https://securitytrails.com/corp/api) | Domain and IP related information such as current and historical WHOIS and DNS records | `apiKey` | Unknown |
 | [Shodan](https://developer.shodan.io/) | Search engine for Internet connected devices | `apiKey` | Unknown |
