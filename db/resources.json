@@ -1,5 +1,5 @@
 {
-"count": 2009,
+"count": 2010,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6831,6 +6831,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://metal-sentinel.com",
+        "Category": "Finance"
+    },
+    {
+        "API": "MetalCharts",
+        "Description": "Live and historical gold, silver, platinum and base metal prices, COMEX inventory, CFTC positioning and Shanghai premiums",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://metalcharts.org/metals-api",
         "Category": "Finance"
     },
     {
