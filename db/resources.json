@@ -1,5 +1,5 @@
 {
-"count": 2010,
+"count": 2011,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5759,6 +5759,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://atomicmail.ai",
+        "Category": "Email"
+    },
+    {
+        "API": "Autentify Verify",
+        "Description": "Brazilian email verification: deliverable, undeliverable, risky or unknown, with the reason",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.autentify.com.br/verify/",
         "Category": "Email"
     },
     {
