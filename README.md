@@ -928,6 +928,7 @@
 | [Academic Email API](https://apyhub.com/utility/validator-academic-email) | This API allows you to verify whether an email belongs to a recognized educational institution | `apiKey` | Yes |
 | [anon.li](https://anon.li) | Create and manage anonymous email aliases, forwarding recipients, custom domains and end-to-end encrypted file drops | `apiKey` | No |
 | [Atomic Mail](https://atomicmail.ai) | Email for AI agents with programmatic inbox creation and send/receive over the open JMAP standard | `apiKey` | Unknown |
+| [Autentify Verify](https://www.autentify.com.br/verify/) | Brazilian email verification: deliverable, undeliverable, risky or unknown, with the reason | `apiKey` | No |
 | [Cloudmersive Validate](https://cloudmersive.com/validate-api) | Validate email addresses, phone numbers, VAT numbers and domain names | `apiKey` | Yes |
 | [Disify](https://www.disify.com/) | Validate and detect disposable and temporary email addresses | No | Yes |
 | [DropMail](https://dropmail.me/api/#live-demo) | GraphQL API for creating and managing ephemeral e-mail inboxes | No | Unknown |
