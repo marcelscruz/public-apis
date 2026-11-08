@@ -1,5 +1,5 @@
 {
-"count": 2011,
+"count": 2012,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13079,6 +13079,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://soldfetch.com",
+        "Category": "Shopping"
+    },
+    {
+        "API": "Soldgraph",
+        "Description": "Sold prices and live resale listings from eBay, Poshmark, Mercari and more via REST and MCP; not affiliated with the marketplaces",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://soldgraph.com",
         "Category": "Shopping"
     },
     {
