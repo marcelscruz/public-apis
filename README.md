@@ -1968,6 +1968,7 @@
 | [Lazada](https://open.lazada.com/doc/doc.htm) | Retrieve product ratings and seller performance metrics | `apiKey` | Unknown |
 | [Mercadolibre](https://developers.mercadolibre.cl/es_ar/api-docs-es) | Manage sales, ads, products, services and Shops | `apiKey` | Unknown |
 | [OLX Poland](https://developer.olx.pl/api/doc#section/) | Integrate with local sites by posting, managing adverts and communicating with OLX users | `apiKey` | Unknown |
+| [OpenAxia](https://openaxia.com) | Blind, shutter, awning and door motor specifications with source-linked certification records | No | Yes |
 | [Platzi Fake Store](https://fakeapi.platzi.com/) | A fake store API for your e-commerce or shopping website prototype. For testing and learning | `apiKey` | Unknown |
 | [Printful](https://developers.printful.com) | Printful's official API to manage and integrate their services | `OAuth` | Unknown |
 | [Printify](https://developers.printify.com/) | Printify's official API to manage and integrate their services | `OAuth` | Unknown |
