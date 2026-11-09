@@ -1,5 +1,5 @@
 {
-"count": 2014,
+"count": 2015,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13399,6 +13399,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://api.producthunt.com/v2/docs",
+        "Category": "Social"
+    },
+    {
+        "API": "Publora",
+        "Description": "Schedule and publish posts to 10 social networks through one REST API",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://publora.com",
         "Category": "Social"
     },
     {
