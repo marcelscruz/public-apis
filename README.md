@@ -1066,6 +1066,7 @@
 | [Filingrail](https://filingrail.hudsonenterprisesllc.com) | SEC EDGAR filings, XBRL financials, Form 4 insider trades, 8-K events and 13F holdings, each record linked to its source filing | `apiKey` | Unknown |
 | [Finage](https://finage.co.uk) | Finage is a stock, currency, cryptocurrency, indices, and ETFs real-time & historical data provider | `apiKey` | Unknown |
 | [Financial Data](https://financialdata.net/documentation) | Stock market and financial data | `apiKey` | Unknown |
+| [FinLexicon](https://finlexicon.org/verify) | Structured financial encyclopedia, Basel III/ISDA entity knowledge graph, and supervisory licence verification REST API (OpenAPI 3.1 at https://finlexicon.org/.well-known/openapi.json) | No | Yes |
 | [Financial Modeling Prep](https://site.financialmodelingprep.com/developer/docs) | Realtime and historical stock data | `apiKey` | Unknown |
 | [FinancialFilings](https://financialfilings.com) | Annual and interim reports, ad-hoc disclosures and ESEF/XBRL filings from securities regulators in about 60 markets, plus XBRL financials | `apiKey` | No |
 | [FinFeedAPI](https://finfeedapi.com) | Developer-first market data API | `apiKey` | Unknown |
@@ -1108,6 +1109,7 @@
 | [ReceiptEdit Sales Tax API](https://receiptedit.com) | Free sales-tax lookup API covering all US states + zip-level city/county rates. No signup, no rate limit. Also supports Canadian GST/HST/PST and Indian GST slabs. Ideal for building expense-reimbursement flows, invoicing SaaS demos, receipt OCR pipelines, or seeding accounting tools. Full docs at https://receiptedit.com/developers | No | Yes |
 | [RentCast](https://developers.rentcast.io) | Retrieve real-time property and rental data for real estate in the United States | `apiKey` | Yes |
 | [Roic AI](https://www.roic.ai/) | Fundamentals, financial ratios and earnings call transcripts for 68k+ companies | `apiKey` | Unknown |
+| [RegTech Codex](https://regtechcodex.org/verify) | Global financial regulatory licence verification, clone-firm domain safety checks, and 6D institutional compliance scorecards REST API (OpenAPI 3.1 at https://regtechcodex.org/.well-known/openapi.json) | No | Yes |
 | [Salary API](https://jobicy.com/salary-api) | The REST API returns structured JSON responses containing salary ranges, hourly rates, compensation benchmarks, required skills, market demand, and regional employment insights | `apiKey` | Yes |
 | [Salary API](https://jobicy.com) | The REST API returns structured JSON responses containing salary ranges, hourly rates, compensation benchmarks, required skills, market demand, and regional emp | `apiKey` | Yes |
 | [SEC EDGAR Data](https://www.sec.gov/search-filings/edgar-application-programming-interfaces) | API to access annual reports of public US companies | No | Yes |
