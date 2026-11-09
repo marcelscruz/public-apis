@@ -1012,6 +1012,7 @@
 | [PM2.5 Open Data Portal](https://pm25.lass-net.org/#apis) | Open low-cost PM2.5 sensor data | No | Unknown |
 | [Smartatest](https://smartatest.se/api) | Calculators for home energy cost, lighting, air quality limits and GS1 barcode prefixes, in Swedish | No | Yes |
 | [Solematica](https://www.solematica.it/sviluppatori) | Compare Italian solar installer offers, energy prices (PUN/ARERA) and satellite roof data | No | No |
+| [Spotwatts](https://spotwatts.com) | Day-ahead electricity prices for the 15 Nordic and Baltic price areas, 15-minute and hourly, with and without VAT, history since 2023 | No | Yes |
 | [Srp Energy](https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html) | Hourly usage energy report for Srp customers | `apiKey` | No |
 | [Strømpriser i dag](https://strompriseridag.no/api/) | Norwegian electricity prices including VAT and the state subsidy, plus grid tariffs for all 73 grid companies | No | Yes |
 | [Thames Water Open Data](https://data.thameswater.co.uk) | Open Data from the UK's largest water and wastewater services company | `apiKey` | Unknown |
