@@ -554,6 +554,7 @@
 | [WorldCoinIndex](https://www.worldcoinindex.com/apiservice) | Cryptocurrencies Prices | `apiKey` | Unknown |
 | [x402-list](https://x402-list.com) | Directory of paid x402 APIs with per-endpoint USD pricing and live uptime, vetted before an agent pays, backed by on-chain settlement volume | No | Yes |
 | [xAxios](https://xaxios.com/solutions/api) | Solana and Robinhood Chain token rug risk scores over REST, plus a free public WebSocket with live prices, trades and new launches | `apiKey` | Yes |
+| [XMRList](https://xmrlist.com) | Directory of businesses that accept Monero (XMR): listings, KYC policy, grades and stats | No | Yes |
 | [XRPL.to](https://xrpl.to/docs) | XRP Ledger token prices, holders, trades and NFT data | No | Yes |
 | [ZMOK](https://docs.zmok.io) | Ethereum JSON RPC API and Web3 provider | No | Unknown |
 
