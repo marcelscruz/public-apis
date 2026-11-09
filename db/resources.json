@@ -1,5 +1,5 @@
 {
-"count": 2013,
+"count": 2014,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6335,6 +6335,14 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://www.solematica.it/sviluppatori",
+        "Category": "Environment"
+    },
+    {
+        "API": "Spotwatts",
+        "Description": "Day-ahead electricity prices for the 15 Nordic and Baltic price areas, 15-minute and hourly, with and without VAT, history since 2023",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://spotwatts.com",
         "Category": "Environment"
     },
     {
