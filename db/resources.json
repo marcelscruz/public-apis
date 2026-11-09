@@ -1,5 +1,5 @@
 {
-"count": 2015,
+"count": 2016,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1743,6 +1743,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://derrick-app.com",
+        "Category": "Business"
+    },
+    {
+        "API": "Dievio",
+        "Description": "B2B contact search and LinkedIn profile URL lookup using prepaid API credits",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://dievio.com",
         "Category": "Business"
     },
     {
