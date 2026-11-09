@@ -2670,7 +2670,7 @@
         "Description": "Live executed whale trades across 15 exchanges and on-chain DEX with an unusualness radar",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://coinlobster.com/developers",
+        "Link": "https://coinlobster.com",
         "Category": "Cryptocurrency"
     },
     {
