@@ -1,5 +1,5 @@
 {
-"count": 2016,
+"count": 2017,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13855,6 +13855,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://www.kashrock.com",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "LiftRadar",
+        "Description": "Ski resorts across Europe: open lifts and slopes, snow depth and avalanche level, as free JSON with no key",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://liftradar.eu",
         "Category": "Sports & Fitness"
     },
     {
