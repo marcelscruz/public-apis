@@ -2027,6 +2027,7 @@
 | [Pinterest](https://developers.pinterest.com/) | The world's catalog of ideas | `OAuth` | Unknown |
 | [PostEverywhere](https://posteverywhere.ai) | Schedule and publish posts to 12 social networks via one API | `apiKey` | No |
 | [Product Hunt](https://api.producthunt.com/v2/docs) | The best new products in tech | `OAuth` | Unknown |
+| [Publora](https://publora.com) | Schedule and publish posts to 10 social networks through one REST API | `apiKey` | No |
 | [Qovia](https://qovia.ai) | Public posts, comments and creator data from Douyin, Xiaohongshu, Weibo, Bilibili, TikTok, YouTube and more as one JSON API | `apiKey` | No |
 | [Reddit](https://www.reddit.com/dev/api) | Homepage of the internet | `OAuth` | Unknown |
 | [Revolt](https://developers.revolt.chat) | Revolt open source Discord alternative | `apiKey` | Unknown |
