@@ -1,5 +1,5 @@
 {
-"count": 2015,
+"count": 2016,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8047,6 +8047,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developer.riotgames.com/",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "RoWatcher",
+        "Description": "Roblox game stats: live player counts every 5 minutes, daily history, charts and genre trends. Free, no key needed",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://rowatcher.com",
         "Category": "Games & Comics"
     },
     {
