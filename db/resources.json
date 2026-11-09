@@ -12358,7 +12358,7 @@
         "Description": "Moon phases, illumination, moon signs, full/new moon dates (1900–2100), moonrise/moonset by coordinates",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://moonlora.com/developers",
+        "Link": "https://moonlora.com",
         "Category": "Science & Math"
     },
     {
