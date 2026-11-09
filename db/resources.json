@@ -1,5 +1,5 @@
 {
-"count": 2012,
+"count": 2013,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10183,6 +10183,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.careerjet.com/partners/api/",
+        "Category": "Jobs"
+    },
+    {
+        "API": "ClockInToday",
+        "Description": "US jobs and gig apps you can start without an interview, with minimum age, background check, vehicle and payout speed",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://clockintoday.com",
         "Category": "Jobs"
     },
     {
