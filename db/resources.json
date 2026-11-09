@@ -198,7 +198,7 @@
         "Description": "Run coding agent harnesses (Codex, Claude Code, Hermes) behind your product through one API",
         "Auth": "apiKey",
         "Cors": "unknown",
-        "Link": "https://harnessrouter.ai/docs",
+        "Link": "https://harnessrouter.ai",
         "Category": "AI"
     },
     {
