@@ -1,5 +1,5 @@
 {
-"count": 2017,
+"count": 2015,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -927,14 +927,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://docs.scanii.com/",
-        "Category": "Anti-Malware"
-    },
-    {
-        "API": "ScanMalware",
-        "Description": "Scan URLs in a sandboxed browser and search past scans by domain, IP, ASN, JARM or favicon hash",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://scanmalware.com",
         "Category": "Anti-Malware"
     },
     {
@@ -14799,14 +14791,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://stayingapi.com",
-        "Category": "Transportation"
-    },
-    {
-        "API": "Strait of Hormuz Ship Monitor",
-        "Description": "Live AIS vessel traffic, crossings and oil flow through the Strait of Hormuz",
-        "Auth": "",
-        "Cors": "no",
-        "Link": "https://hormuz.data-tracking.net/llms.txt",
         "Category": "Transportation"
     },
     {
