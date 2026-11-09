@@ -1,5 +1,5 @@
 {
-"count": 2016,
+"count": 2017,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3055,6 +3055,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://xaxios.com/solutions/api",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "XMRList",
+        "Description": "Directory of businesses that accept Monero (XMR): listings, KYC policy, grades and stats",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://xmrlist.com",
         "Category": "Cryptocurrency"
     },
     {
