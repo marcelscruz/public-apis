@@ -1249,6 +1249,7 @@
 | [RAWG.io](https://rawg.io/apidocs) | 500,000+ games for 50 platforms including mobiles | `apiKey` | Unknown |
 | [Rick and Morty](https://rickandmortyapi.com) | All the Rick and Morty information, including images | No | Yes |
 | [Riot Games](https://developer.riotgames.com/) | League of Legends, Teamfight Tactics, Legends of Runetera and Valorant information | `apiKey` | Unknown |
+| [RoWatcher](https://rowatcher.com) | Roblox game stats: live player counts every 5 minutes, daily history, charts and genre trends. Free, no key needed | No | No |
 | [RuneScape](https://runescape.wiki/w/Application_programming_interface) | RuneScape and OSRS RPGs information | No | No |
 | [Sakura CardCaptor](https://github.com/JessVel/sakura-card-captor-api) | Sakura CardCaptor Cards Information | No | Unknown |
 | [Scryfall](https://scryfall.com/docs/api) | Magic: The Gathering database | No | Yes |
