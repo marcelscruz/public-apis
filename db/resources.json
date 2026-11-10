@@ -1,5 +1,5 @@
 {
-"count": 2024,
+"count": 2025,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1711,6 +1711,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://auregistre.fr",
+        "Category": "Business"
+    },
+    {
+        "API": "CEA Digital",
+        "Description": "Real estate LLC skip trace, short-form video hook transcripts, eBay sold comps and building permits",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://ceadigital.io",
         "Category": "Business"
     },
     {
