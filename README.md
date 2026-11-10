@@ -367,6 +367,7 @@
 | [Crustdata](https://docs.crustdata.com) | People and company data covering profiles, headcount, funding and contacts | `apiKey` | Yes |
 | [Derrick](https://derrick-app.com) | B2B contact and company enrichment: verified work emails, mobile numbers, firmographics, technologies in use and hiring signals | `apiKey` | No |
 | [Dievio](https://dievio.com) | B2B contact search and LinkedIn profile URL lookup using prepaid API credits | `apiKey` | No |
+| [Dispola](https://dispola.ca) | Open appointment spots today and this week at salons and clinics in Quebec (hair, nails, massage, physio), with booking links | No | Yes |
 | [Domainsdb.info](https://domainsdb.info/) | Registered Domain Names Search | No | No |
 | [ESA Vendors](https://esavendors.fyi) | Learning vendors that education funds reimburse | No | Yes |
 | [FalcoScan](https://falcoscan.com) | Data on 7,000+ AI products across 29 markets, with market scores and shut-down and acquisition records | `apiKey` | No |
