@@ -1,5 +1,5 @@
 {
-"count": 2018,
+"count": 2019,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -207,6 +207,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://hol.org/docs/registry-broker/",
+        "Category": "AI"
+    },
+    {
+        "API": "Imagera",
+        "Description": "One API key for 328 image, video and audio models plus 320+ language models on an OpenAI-compatible endpoint, paid from a prepaid balance",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://imagera.ai/developers",
         "Category": "AI"
     },
     {
