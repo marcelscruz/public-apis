@@ -1,5 +1,5 @@
 {
-"count": 2030,
+"count": 2031,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3799,6 +3799,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://api.cdnjs.com/libraries/jquery",
+        "Category": "Development"
+    },
+    {
+        "API": "ChartQuery",
+        "Description": "Generate charts, diagrams, QR codes, barcodes and shipping labels as PNG, SVG or PDF",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.chartquery.com",
         "Category": "Development"
     },
     {
