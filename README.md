@@ -1871,6 +1871,7 @@
 |---|---|---|---|
 | [arcsecond.io](https://api.arcsecond.io/) | Multiple astronomy data sources | `apiKey` | Unknown |
 | [arXiv](https://arxiv.org/help/api) | Curated research-sharing platform: physics, mathematics, quantitative finance, and economics | No | Unknown |
+| [Astroletra](https://astroletra.com/datos/api/) | Moon phase and sign, aspects, retrogrades and next lunation by time zone | No | Yes |
 | [Bootprint](https://bootprint.space/) | Random facts and images of space | No | Yes |
 | [CelesTrak](https://celestrak.org/) | Satellite orbital TLE catalog, collision forecasts and space environment datasets | No | Yes |
 | [CodeCogs](https://editor.codecogs.com/docs/4-LaTeX_rendering.php) | Generate LaTeX equations as PNG, SVG, and GIF images | No | Unknown |
