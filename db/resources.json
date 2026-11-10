@@ -1,5 +1,5 @@
 {
-"count": 2027,
+"count": 2028,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12311,6 +12311,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://arxiv.org/help/api",
+        "Category": "Science & Math"
+    },
+    {
+        "API": "Astroletra",
+        "Description": "Moon phase and sign, aspects, retrogrades and next lunation by time zone",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://astroletra.com/datos/api/",
         "Category": "Science & Math"
     },
     {
