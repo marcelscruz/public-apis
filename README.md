@@ -127,6 +127,7 @@
 | [HarnessRouter](https://harnessrouter.ai) | Run coding agent harnesses (Codex, Claude Code, Hermes) behind your product through one API | `apiKey` | Unknown |
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Discovery API for AI agents & MCP servers (search, verify, UAID, chat) | `apiKey` | Yes |
 | [HopBase](https://hop-base.com) | Text, image and video models such as Claude, GPT, Gemini, DeepSeek and Qwen through one OpenAI-, Anthropic- and Gemini-compatible API | `apiKey` | Yes |
+| [Imagera](https://imagera.ai/developers) | One API key for 328 image, video and audio models plus 320+ language models on an OpenAI-compatible endpoint, paid from a prepaid balance | `apiKey` | Yes |
 | [Imagga](https://imagga.com/) | Image Recognition Solutions like Tagging, Visual Search, NSFW moderation | `apiKey` | Unknown |
 | [Inferdo](https://rapidapi.com/user/inferdo) | Computer Vision services like Facial detection, Image labeling, NSFW classification | `apiKey` | Unknown |
 | [Irisnet](https://irisnet.de/api/) | Realtime content moderation API that blocks or blurs unwanted images in real-time | `apiKey` | Yes |
@@ -368,6 +369,7 @@
 | [Crustdata](https://docs.crustdata.com) | People and company data covering profiles, headcount, funding and contacts | `apiKey` | Yes |
 | [Derrick](https://derrick-app.com) | B2B contact and company enrichment: verified work emails, mobile numbers, firmographics, technologies in use and hiring signals | `apiKey` | No |
 | [Dievio](https://dievio.com) | B2B contact search and LinkedIn profile URL lookup using prepaid API credits | `apiKey` | No |
+| [Dispola](https://dispola.ca) | Open appointment spots today and this week at salons and clinics in Quebec (hair, nails, massage, physio), with booking links | No | Yes |
 | [Domainsdb.info](https://domainsdb.info/) | Registered Domain Names Search | No | No |
 | [ESA Vendors](https://esavendors.fyi) | Learning vendors that education funds reimburse | No | Yes |
 | [FalcoScan](https://falcoscan.com) | Data on 7,000+ AI products across 29 markets, with market scores and shut-down and acquisition records | `apiKey` | No |
