@@ -1958,6 +1958,7 @@
 | [Spyse](https://spyse-dev.readme.io/reference/quick-start) | Access data on all Internet assets and build powerful attack surface management applications | `apiKey` | Unknown |
 | [ThreatCluster](https://threatcluster.io/api/public/v1/docs) | Threat intelligence API: incident clusters from 20,000 sources, validated IOCs, CVEs with KEV/EPSS status, ransomware leak-site victims | `apiKey` | No |
 | [UK Police](https://data.police.uk/docs/) | UK Police data | No | Unknown |
+| [Veille](https://www.veille.io) | Validate emails, domains, IPs, phone numbers, VAT numbers and IBANs to block fake sign-ups and fraud | `apiKey` | No |
 | [Virus and Malware Scan API by attachmentAV](https://attachmentav.com/solution/virus-malware-scan-api/) | Scan files for viruses, worms, trojans, ransomware, and other kinds of malware by sending them to the attachmentAV API powered by Sophos | `apiKey` | No |
 | [VulDB](https://vuldb.com/) | VulDB API allows to initiate queries for one or more items along with transactional bots | `apiKey` | Unknown |
 | [Whoisfreaks](https://whoisfreaks.com/) | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security | `apiKey` | No |
