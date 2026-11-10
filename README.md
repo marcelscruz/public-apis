@@ -663,6 +663,7 @@
 | [BrowserCat](https://www.browsercat.com/) | Headless browser API for automation, scraping, and more | `apiKey` | Yes |
 | [BrowserSolver](https://www.browsersolver.com) | Web unlocker API that fetches pages behind Cloudflare and DataDome, with JS rendering, crawling and screenshots | `apiKey` | No |
 | [Browshot](https://browshot.com/api/documentation) | Easily make screenshots of web pages in any screen size, as any device | `apiKey` | Yes |
+| [CaptureKit](https://www.capturekit.dev) | Screenshot API (PNG, JPEG, WebP, PDF) plus page content as Markdown and AI page analysis | `apiKey` | No |
 | [CDNJS](https://api.cdnjs.com/libraries/jquery) | Library info on CDNJS | No | Unknown |
 | [Ciprand](https://github.com/polarspetroll/ciprand) | Secure random string generator | No | No |
 | [Citability](https://citability.ai) | AI visibility scoring for domains: ADP, llms.txt, Schema.org, MCP endpoints | No | Yes |
