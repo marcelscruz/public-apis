@@ -1,5 +1,5 @@
 {
-"count": 2017,
+"count": 2018,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1751,6 +1751,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://dievio.com",
+        "Category": "Business"
+    },
+    {
+        "API": "Dispola",
+        "Description": "Open appointment spots today and this week at salons and clinics in Quebec (hair, nails, massage, physio), with booking links",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://dispola.ca",
         "Category": "Business"
     },
     {
