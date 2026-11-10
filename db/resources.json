@@ -1,5 +1,5 @@
 {
-"count": 2021,
+"count": 2022,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -15791,6 +15791,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://trakt.docs.apiary.io/",
+        "Category": "Video"
+    },
+    {
+        "API": "Transcript Dock",
+        "Description": "Transcripts from YouTube, TikTok and Instagram links or uploaded media, with timed segments and SRT, VTT, JSON and TXT exports",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.transcriptdock.com",
         "Category": "Video"
     },
     {
