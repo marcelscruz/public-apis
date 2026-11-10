@@ -2128,6 +2128,7 @@
 | [TheSportsDB](https://www.thesportsdb.com/api.php) | Crowd-Sourced Sports Data and Artwork | `apiKey` | Yes |
 | [TipsAudit](https://tipsaudit.com/api) | Football fair odds (bookmaker margin removed) and bookmaker margin index | No | Yes |
 | [Tredict](https://www.tredict.com/blog/oauth_docs/) | Get and set activities, health data and more | `OAuth` | Unknown |
+| [UFCalendar Fight Data](https://www.ufcalendar.com/developers) | UFC, PFL, OKTAGON, BKFC and RIZIN events, results, round stats, rankings history | `apiKey` | Yes |
 | [Wger](https://wger.de/en/software/api) | Workout manager data as exercises, muscles or equipment | `apiKey` | Unknown |
 | [Your Move - Exercise API](https://ymove.app/exercise-api) | Exercise library and fitness API for your app. 2,005+ professional HD exercise videos with instructions, workout generation and program builder. | `apiKey` | Yes |
 
