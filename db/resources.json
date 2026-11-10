@@ -1,5 +1,5 @@
 {
-"count": 2032,
+"count": 2033,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13016,6 +13016,14 @@
         "Cors": "no",
         "Link": "https://whoisfreaks.com/",
         "Category": "Security"
+    },
+    {
+        "API": "Asin",
+        "Description": "Track Amazon products and prices across 11 marketplaces, with price history, offers and alerts",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.asin.dev",
+        "Category": "Shopping"
     },
     {
         "API": "Best Buy",
