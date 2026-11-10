@@ -2038,6 +2038,7 @@
 | [Reddit](https://www.reddit.com/dev/api) | Homepage of the internet | `OAuth` | Unknown |
 | [Revolt](https://developers.revolt.chat) | Revolt open source Discord alternative | `apiKey` | Unknown |
 | [Rumoro](https://rumoro.dev) | Social listening API: brand, competitor and topic mentions from 16 sources, scored for relevance, sentiment and intent | `apiKey` | No |
+| [Schedchie](https://www.schedchie.com) | Social media scheduler API: schedule posts, import media, run approvals and read analytics on Instagram, TikTok, LinkedIn, Bluesky and more | `apiKey` | No |
 | [ShapelessAI](https://shapelessai.com) | Schedule and publish posts to LinkedIn, X, Instagram, TikTok, YouTube, Facebook, Threads and Bluesky, plus AI images and video | `apiKey` | No |
 | [ShortsIntel](https://www.shortsintel.com) | Short-form video and ad intelligence API and MCP server: TikTok, Instagram Reels, YouTube Shorts and Meta ad library data with AI video analysis | `apiKey` | No |
 | [Signals](https://signals.sh) | Marketplace API to quote, place, and track Reddit and Quora promotion orders, with catalog and wallet endpoints | `apiKey` | No |
