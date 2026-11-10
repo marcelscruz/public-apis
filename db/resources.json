@@ -1,5 +1,5 @@
 {
-"count": 2028,
+"count": 2029,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3767,6 +3767,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.browsercat.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "BrowserSolver",
+        "Description": "Web unlocker API that fetches pages behind Cloudflare and DataDome, with JS rendering, crawling and screenshots",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.browsersolver.com",
         "Category": "Development"
     },
     {
