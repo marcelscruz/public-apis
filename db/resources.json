@@ -1,5 +1,5 @@
 {
-"count": 2025,
+"count": 2026,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14167,6 +14167,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://www.tredict.com/blog/oauth_docs/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "UFCalendar Fight Data",
+        "Description": "UFC, PFL, OKTAGON, BKFC and RIZIN events, results, round stats, rankings history",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.ufcalendar.com/developers",
         "Category": "Sports & Fitness"
     },
     {
