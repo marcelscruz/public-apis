@@ -370,6 +370,7 @@
 | [Dievio](https://dievio.com) | B2B contact search and LinkedIn profile URL lookup using prepaid API credits | `apiKey` | No |
 | [Dispola](https://dispola.ca) | Open appointment spots today and this week at salons and clinics in Quebec (hair, nails, massage, physio), with booking links | No | Yes |
 | [Domainsdb.info](https://domainsdb.info/) | Registered Domain Names Search | No | No |
+| [EnrichGrid](https://enrichgrid.com) | LinkedIn profile and company scraper API: person, company and school data as JSON, plus people search | `apiKey` | No |
 | [ESA Vendors](https://esavendors.fyi) | Learning vendors that education funds reimburse | No | Yes |
 | [FalcoScan](https://falcoscan.com) | Data on 7,000+ AI products across 29 markets, with market scores and shut-down and acquisition records | `apiKey` | No |
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | `OAuth` | Unknown |
