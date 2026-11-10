@@ -126,6 +126,7 @@
 | [Gladia](https://docs.gladia.io) | Artificial intelligence API's | `apiKey` | No |
 | [HarnessRouter](https://harnessrouter.ai) | Run coding agent harnesses (Codex, Claude Code, Hermes) behind your product through one API | `apiKey` | Unknown |
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Discovery API for AI agents & MCP servers (search, verify, UAID, chat) | `apiKey` | Yes |
+| [Imagera](https://imagera.ai/developers) | One API key for 328 image, video and audio models plus 320+ language models on an OpenAI-compatible endpoint, paid from a prepaid balance | `apiKey` | Yes |
 | [Imagga](https://imagga.com/) | Image Recognition Solutions like Tagging, Visual Search, NSFW moderation | `apiKey` | Unknown |
 | [Inferdo](https://rapidapi.com/user/inferdo) | Computer Vision services like Facial detection, Image labeling, NSFW classification | `apiKey` | Unknown |
 | [Irisnet](https://irisnet.de/api/) | Realtime content moderation API that blocks or blurs unwanted images in real-time | `apiKey` | Yes |
