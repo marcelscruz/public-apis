@@ -1,5 +1,5 @@
 {
-"count": 2031,
+"count": 2032,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12983,6 +12983,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://data.police.uk/docs/",
+        "Category": "Security"
+    },
+    {
+        "API": "Veille",
+        "Description": "Validate emails, domains, IPs, phone numbers, VAT numbers and IBANs to block fake sign-ups and fraud",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.veille.io",
         "Category": "Security"
     },
     {
