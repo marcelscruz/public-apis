@@ -1,5 +1,5 @@
 {
-"count": 2029,
+"count": 2030,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3783,6 +3783,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://browshot.com/api/documentation",
+        "Category": "Development"
+    },
+    {
+        "API": "CaptureKit",
+        "Description": "Screenshot API (PNG, JPEG, WebP, PDF) plus page content as Markdown and AI page analysis",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.capturekit.dev",
         "Category": "Development"
     },
     {
