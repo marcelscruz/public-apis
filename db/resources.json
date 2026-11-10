@@ -1,5 +1,5 @@
 {
-"count": 2020,
+"count": 2021,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13151,6 +13151,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developer.tokopedia.com/openapi/guide/#/",
+        "Category": "Shopping"
+    },
+    {
+        "API": "uglyHD",
+        "Description": "Cost per TB of new, used and refurbished enterprise drives and per GB of server RAM, from eBay and retailers; free tier needs no key",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://uglyhd.com",
         "Category": "Shopping"
     },
     {
