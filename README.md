@@ -2109,6 +2109,7 @@
 | [Oddsmagnet](https://oddsmagnet.com/oddsdata) | Odds history from multiple UK bookmakers | No | Yes |
 | [OddsRelay](https://oddsrelay.io) | Pre-match odds from UK and Irish bookmakers, bet365 included, with Betfair, Smarkets, Matchbook and BETDAQ lay prices | `apiKey` | No |
 | [OpenLigaDB](https://www.openligadb.de) | Crowd sourced sports league results | No | Yes |
+| [PinnFeed](https://pinnfeed.io) | Real-time Pinnacle odds over REST and WebSocket, with no-vig prices, drops and closing lines | `apiKey` | Yes |
 | [Premier League Standings ](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | All Current Premier League Standings and Statistics | `apiKey` | Unknown |
 | [PropLine](https://prop-line.com) | Player props and game odds from 118 sportsbooks and exchanges across 59 sports, with every prop graded against official box scores | `apiKey` | No |
 | [Racing Alpha](https://racingalpha.co.uk/developers) | AI win-probability scores, fair prices and draw-bias stats for UK & Irish horse racing | No | Yes |
