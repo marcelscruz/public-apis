@@ -362,6 +362,7 @@
 | [Apache Superset](https://superset.apache.org/docs/api) | API to manage your BI dashboards and data sources on Superset | `apiKey` | Yes |
 | [ArvanCloud](https://www.arvancloud.ir/en/dev/sdk) | Enables you to use ArvanCloud services | `apiKey` | No |
 | [Auregistre](https://auregistre.fr) | Dated history of every French company from the official BODACC gazette: changes, insolvency proceedings and filings | No | Yes |
+| [CEA Digital](https://ceadigital.io) | Real estate LLC skip trace, short-form video hook transcripts, eBay sold comps and building permits | `apiKey` | Yes |
 | [Charity Search](https://charityapi.orghunter.com/) | Non-profit charity data | `apiKey` | Unknown |
 | [CompanyEnrich](https://companyenrich.com) | API for B2B company data enrichment, domain enrichment, and website enrichment | `apiKey` | Yes |
 | [Comunicate.eu](https://comunicate.eu) | Catalogue of 3,800+ news sites for press releases and advertorials: niches, authority, prices | No | Yes |
