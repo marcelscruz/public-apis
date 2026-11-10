@@ -1433,6 +1433,7 @@
 | [Federal Register](https://www.federalregister.gov/reader-aids/developer-resources/rest-api) | The Daily Journal of the United States Government | No | Unknown |
 | [FIRMSapi](https://firmsapi.com) | Look up, search and validate US CBP FIRMS facility codes for piers, container freight stations, bonded warehouses and FTZs | `apiKey` | Yes |
 | [Gazette Data, UK](https://www.thegazette.co.uk/data) | UK official public record API | `OAuth` | Unknown |
+| [Global law](https://lexifina.com/api/global-law) | Legislation of 200+ countries as a dated history: find a provision by citation, read it as it stood on a given date, and search a country's law | `apiKey` | No |
 | [Interpol Red Notices](https://interpol.api.bund.dev/) | Access and search Interpol Red Notices | No | Unknown |
 | [Istanbul (İBB) Open Data](https://data.ibb.gov.tr) | Data sets from the İstanbul Metropolitan Municipality (İBB) | No | Unknown |
 | [ITINAgents](https://itinagents.fyi) | Directory of IRS ITIN acceptance agents | No | Yes |
