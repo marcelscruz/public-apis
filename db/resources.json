@@ -1,5 +1,5 @@
 {
-"count": 2023,
+"count": 2024,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1775,6 +1775,14 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://domainsdb.info/",
+        "Category": "Business"
+    },
+    {
+        "API": "EnrichGrid",
+        "Description": "LinkedIn profile and company scraper API: person, company and school data as JSON, plus people search",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://enrichgrid.com",
         "Category": "Business"
     },
     {
