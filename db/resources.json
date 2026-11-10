@@ -1,5 +1,5 @@
 {
-"count": 2019,
+"count": 2020,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3943,6 +3943,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://developer.firedash.us/",
+        "Category": "Development"
+    },
+    {
+        "API": "FlashData",
+        "Description": "Google search results, YouTube search, metadata, existing captions and async media delivery to customer storage; paid credits",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://flashdata.dev",
         "Category": "Development"
     },
     {
