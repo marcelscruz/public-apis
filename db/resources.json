@@ -1,5 +1,5 @@
 {
-"count": 2022,
+"count": 2023,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13487,6 +13487,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://rumoro.dev",
+        "Category": "Social"
+    },
+    {
+        "API": "Schedchie",
+        "Description": "Social media scheduler API: schedule posts, import media, run approvals and read analytics on Instagram, TikTok, LinkedIn, Bluesky and more",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.schedchie.com",
         "Category": "Social"
     },
     {
