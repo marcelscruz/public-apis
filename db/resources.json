@@ -1,5 +1,5 @@
 {
-"count": 2026,
+"count": 2027,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1927,6 +1927,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://nioleads.com/apidoc",
+        "Category": "Business"
+    },
+    {
+        "API": "Prisma Reviews",
+        "Description": "Read and reply to reviews from Google, the App Store, Google Play, Trustpilot and 60+ platforms in one JSON format",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://prismareviews.com",
         "Category": "Business"
     },
     {
