@@ -419,7 +419,7 @@
 ### Calendar
 | API | Description | Auth | CORS |
 |---|---|---|---|
-| [Abstract Public Holidays](https://www.abstractapi.com/holidays-api) | Data on national, regional, and religious holidays via API | `apiKey` | Yes |
+| [Abstract Public Holidays](https://www.abstractapi.com/holidays-api) | National, regional, and religious holidays. 100 free requests on signup | `apiKey` | Yes |
 | [Bankday](https://bankday.dev) | Business days, bank holidays and settlement dates for ACH, Fedwire, TARGET2, Bacs, Payments Canada, 28 stock exchanges and 247 countries | `apiKey` | Yes |
 | [Business Box](https://marubox.jp) | Booking API for small businesses in Japan: event types, open slots, bookings, invite links and webhooks, with API keys on the free plan | `apiKey` | Yes |
 | [Calendarific](https://calendarific.com/) | Worldwide Holidays | `apiKey` | Unknown |
@@ -630,7 +630,7 @@
 |---|---|---|---|
 | [24 Pull Requests](https://24pullrequests.com/api) | Project to promote open source collaboration during December | No | Yes |
 | [Abacus](https://abacus.jasoncameron.dev/) | Free and simple counting service. You can use it to track page hits and specific events | No | Yes |
-| [Abstract Screenshot](https://www.abstractapi.com/website-screenshot-api) | Take programmatic screenshots of web pages from any website | `apiKey` | Yes |
+| [Abstract Screenshot](https://www.abstractapi.com/website-screenshot-api) | Programmatic screenshots of a web page. 100 free requests on signup | `apiKey` | Yes |
 | [Agent Gateway](https://agent-gateway-kappa.vercel.app) | 34+ AI agent infrastructure services including memory, wallets, and scheduling | `apiKey` | Yes |
 | [Agent Nexus](https://agentnexus.app) | Continuously probed registry of APIs, MCP servers and CLIs callable by agents | No | Yes |
 | [AgentDeals](https://agentdeals.dev/api) | Search and compare developer free tiers, startup credits, and pricing changes | No | Yes |
@@ -937,7 +937,7 @@
 ### Email
 | API | Description | Auth | CORS |
 |---|---|---|---|
-| [Abstract Email Validation](https://www.abstractapi.com/email-verification-validation-api) | Validate email addresses for deliverability and spam | `apiKey` | Yes |
+| [Abstract Email Validation](https://www.abstractapi.com/email-verification-validation-api) | Validate email deliverability. 100 free requests on signup | `apiKey` | Yes |
 | [Academic Email API](https://apyhub.com/utility/validator-academic-email) | This API allows you to verify whether an email belongs to a recognized educational institution | `apiKey` | Yes |
 | [anon.li](https://anon.li) | Create and manage anonymous email aliases, forwarding recipients, custom domains and end-to-end encrypted file drops | `apiKey` | No |
 | [Atomic Mail](https://atomicmail.ai) | Email for AI agents with programmatic inbox creation and send/receive over the open JMAP standard | `apiKey` | Unknown |
@@ -1047,7 +1047,7 @@
 ### Finance
 | API | Description | Auth | CORS |
 |---|---|---|---|
-| [Abstract VAT Validation](https://www.abstractapi.com/vat-validation-rates-api) | Validate VAT numbers and calculate VAT rates | `apiKey` | Yes |
+| [Abstract VAT Validation](https://www.abstractapi.com/vat-validation-rates-api) | Validate VAT numbers and return VAT rates. 100 free requests on signup | `apiKey` | Yes |
 | [Adanos](https://adanos.org/) | Stock and crypto sentiment from Reddit, X, financial news, and Polymarket | `apiKey` | Yes |
 | [Agent Toolbelt](https://www.agenttoolbelt.live) | AI-generated stock analysis (investment thesis, valuation, insider signal, earnings) from live fundamentals, as structured JSON | `apiKey` | Unknown |
 | [Agent Wallet Index](https://agentwalletindex.fyi) | Wallets, payment protocols and card rails for AI agents with source-linked facts | No | Yes |
@@ -1296,7 +1296,7 @@
 ### Geocoding
 | API | Description | Auth | CORS |
 |---|---|---|---|
-| [Abstract IP Geolocation](https://www.abstractapi.com/ip-geolocation-api) | Geolocate website visitors from their IPs | `apiKey` | Yes |
+| [Abstract IP Geolocation](https://www.abstractapi.com/ip-geolocation-api) | City, region, and country for any IP. 100 free requests on signup | `apiKey` | Yes |
 | [Actinia Grass GIS](https://actinia.mundialis.de/api_docs/) | Actinia is an open source REST API for geographical data that uses GRASS GIS | `apiKey` | Unknown |
 | [administrative-divisons-db](https://github.com/kamikazechaser/administrative-divisions-db) | Get all administrative divisions of a country | No | Yes |
 | [adresse.data.gouv.fr](https://adresse.data.gouv.fr) | Address database of France, geocoding and reverse | No | Unknown |
@@ -1790,7 +1790,7 @@
 ### Phone
 | API | Description | Auth | CORS |
 |---|---|---|---|
-| [Abstract Phone Validation](https://www.abstractapi.com/phone-validation-api) | Validate phone numbers globally | `apiKey` | Yes |
+| [Abstract Phone Validation](https://www.abstractapi.com/phone-validation-api) | Validate phone numbers, carrier, and line type. 100 free requests on signup | `apiKey` | Yes |
 | [CheckThatPhone](https://checkthatphone.com) | Real-time phone validation API for US & Canada: carrier and line type from live carrier data, portability, deliverability, GeoIP and TCPA litigator scrub | `apiKey` | Unknown |
 | [Cloudmersive Validate](https://cloudmersive.com/phone-number-validation-API) | Validate international phone numbers | `apiKey` | Yes |
 | [Fax for Agents](https://faxforagents.com) | Fax API, hosted MCP server and SDKs built so AI agents can send and receive faxes, with a free sandbox | `apiKey` | No |
