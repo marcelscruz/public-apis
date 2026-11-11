@@ -1,5 +1,5 @@
 {
-"count": 2038,
+"count": 2039,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -63,6 +63,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apimodels.app",
+        "Category": "AI"
+    },
+    {
+        "API": "AtmoRouter",
+        "Description": "OpenAI- and Anthropic-compatible LLM API: one key for chat completions, streaming and tools, billed per token from a prepaid balance",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://atmorouter.dev",
         "Category": "AI"
     },
     {
