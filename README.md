@@ -2206,6 +2206,7 @@
 |---|---|---|---|
 | [Aftership](https://developers.aftership.com/reference/quick-start) | API to update, manage and track shipment efficiently | `apiKey` | Yes |
 | [Correios](https://cws.correios.com.br/ajuda) | Integration to provide information and prepare shipments using Correio's services | `apiKey` | Unknown |
+| [lastscanned](https://lastscanned.com) | Parcel and ocean-container tracking across 549 carriers with webhooks and a free tier | `apiKey` | No |
 | [Pixela](https://pixe.la) | API for recording and tracking habits or effort, routines | `X-Mashape-Key` | Yes |
 | [PostNord](https://developer.postnord.com/apis) | Provides information about parcels in transport for Sweden and Denmark | `apiKey` | Unknown |
 | [UPS](https://www.ups.com/upsdeveloperkit) | Shipment and Address information | `apiKey` | Unknown |
