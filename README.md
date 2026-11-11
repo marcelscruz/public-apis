@@ -363,6 +363,7 @@
 | [Apache Superset](https://superset.apache.org/docs/api) | API to manage your BI dashboards and data sources on Superset | `apiKey` | Yes |
 | [ArvanCloud](https://www.arvancloud.ir/en/dev/sdk) | Enables you to use ArvanCloud services | `apiKey` | No |
 | [Auregistre](https://auregistre.fr) | Dated history of every French company from the official BODACC gazette: changes, insolvency proceedings and filings | No | Yes |
+| [CEA Digital](https://ceadigital.io) | Real estate LLC skip trace, short-form video hook transcripts, eBay sold comps and building permits | `apiKey` | Yes |
 | [Charity Search](https://charityapi.orghunter.com/) | Non-profit charity data | `apiKey` | Unknown |
 | [CompanyEnrich](https://companyenrich.com) | API for B2B company data enrichment, domain enrichment, and website enrichment | `apiKey` | Yes |
 | [Comunicate.eu](https://comunicate.eu) | Catalogue of 3,800+ news sites for press releases and advertorials: niches, authority, prices | No | Yes |
@@ -371,6 +372,7 @@
 | [Dievio](https://dievio.com) | B2B contact search and LinkedIn profile URL lookup using prepaid API credits | `apiKey` | No |
 | [Dispola](https://dispola.ca) | Open appointment spots today and this week at salons and clinics in Quebec (hair, nails, massage, physio), with booking links | No | Yes |
 | [Domainsdb.info](https://domainsdb.info/) | Registered Domain Names Search | No | No |
+| [EnrichGrid](https://enrichgrid.com) | LinkedIn profile and company scraper API: person, company and school data as JSON, plus people search | `apiKey` | No |
 | [ESA Vendors](https://esavendors.fyi) | Learning vendors that education funds reimburse | No | Yes |
 | [FalcoScan](https://falcoscan.com) | Data on 7,000+ AI products across 29 markets, with market scores and shut-down and acquisition records | `apiKey` | No |
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | `OAuth` | Unknown |
@@ -388,6 +390,7 @@
 | [markerapi](https://markerapi.com) | Trademark Search | No | Unknown |
 | [Mydentify](https://mydentify.com) | Startup-directory research and weekly product leaderboard data | No | Yes |
 | [NioLeads](https://nioleads.com/apidoc) | LinkedIn Email Finder and Email Verifier | `apiKey` | Yes |
+| [Prisma Reviews](https://prismareviews.com) | Read and reply to reviews from Google, the App Store, Google Play, Trustpilot and 60+ platforms in one JSON format | `apiKey` | No |
 | [Privatus Analytics](https://privatusanalytics.com) | Cookieless website analytics. Read visitors, pages, sources, goals and funnels for your sites | `apiKey` | Yes |
 | [Project Cost Estimator](https://projectcostestimator.com/api-docs) | Cost, timeline and complexity estimates for website, ecommerce and app projects | `apiKey` | Yes |
 | [Public Adjusters Directory](https://publicadjusters.fyi) | Public adjusters, so you can check a licence before you hire one | No | Yes |
@@ -659,8 +662,11 @@
 | [Brand.dev](https://www.brand.dev/) | API to personalize your product with logos, colors, and company info from any domain | `apiKey` | Yes |
 | [Brave Search API](https://brave.com/search/api/) | An index of billions of pages in a single call | `apiKey` | No |
 | [BrowserCat](https://www.browsercat.com/) | Headless browser API for automation, scraping, and more | `apiKey` | Yes |
+| [BrowserSolver](https://www.browsersolver.com) | Web unlocker API that fetches pages behind Cloudflare and DataDome, with JS rendering, crawling and screenshots | `apiKey` | No |
 | [Browshot](https://browshot.com/api/documentation) | Easily make screenshots of web pages in any screen size, as any device | `apiKey` | Yes |
+| [CaptureKit](https://www.capturekit.dev) | Screenshot API (PNG, JPEG, WebP, PDF) plus page content as Markdown and AI page analysis | `apiKey` | No |
 | [CDNJS](https://api.cdnjs.com/libraries/jquery) | Library info on CDNJS | No | Unknown |
+| [ChartQuery](https://www.chartquery.com) | Generate charts, diagrams, QR codes, barcodes and shipping labels as PNG, SVG or PDF | `apiKey` | No |
 | [Ciprand](https://github.com/polarspetroll/ciprand) | Secure random string generator | No | No |
 | [Citability](https://citability.ai) | AI visibility scoring for domains: ADP, llms.txt, Schema.org, MCP endpoints | No | Yes |
 | [cloro](https://cloro.dev) | Google results with the AI Overview, and ChatGPT, Google AI Mode, Bing AI Mode and Gemini answers with their cited sources, by country | `apiKey` | Yes |
@@ -1871,6 +1877,7 @@
 |---|---|---|---|
 | [arcsecond.io](https://api.arcsecond.io/) | Multiple astronomy data sources | `apiKey` | Unknown |
 | [arXiv](https://arxiv.org/help/api) | Curated research-sharing platform: physics, mathematics, quantitative finance, and economics | No | Unknown |
+| [Astroletra](https://astroletra.com/datos/api/) | Moon phase and sign, aspects, retrogrades and next lunation by time zone | No | Yes |
 | [Bootprint](https://bootprint.space/) | Random facts and images of space | No | Yes |
 | [CelesTrak](https://celestrak.org/) | Satellite orbital TLE catalog, collision forecasts and space environment datasets | No | Yes |
 | [CodeCogs](https://editor.codecogs.com/docs/4-LaTeX_rendering.php) | Generate LaTeX equations as PNG, SVG, and GIF images | No | Unknown |
@@ -1957,6 +1964,7 @@
 | [Spyse](https://spyse-dev.readme.io/reference/quick-start) | Access data on all Internet assets and build powerful attack surface management applications | `apiKey` | Unknown |
 | [ThreatCluster](https://threatcluster.io/api/public/v1/docs) | Threat intelligence API: incident clusters from 20,000 sources, validated IOCs, CVEs with KEV/EPSS status, ransomware leak-site victims | `apiKey` | No |
 | [UK Police](https://data.police.uk/docs/) | UK Police data | No | Unknown |
+| [Veille](https://www.veille.io) | Validate emails, domains, IPs, phone numbers, VAT numbers and IBANs to block fake sign-ups and fraud | `apiKey` | No |
 | [Virus and Malware Scan API by attachmentAV](https://attachmentav.com/solution/virus-malware-scan-api/) | Scan files for viruses, worms, trojans, ransomware, and other kinds of malware by sending them to the attachmentAV API powered by Sophos | `apiKey` | No |
 | [VulDB](https://vuldb.com/) | VulDB API allows to initiate queries for one or more items along with transactional bots | `apiKey` | Unknown |
 | [Whoisfreaks](https://whoisfreaks.com/) | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security | `apiKey` | No |
@@ -1966,6 +1974,7 @@
 ### Shopping
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [Asin](https://www.asin.dev) | Track Amazon products and prices across 11 marketplaces, with price history, offers and alerts | `apiKey` | No |
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce | `apiKey` | Unknown |
 | [Canopy](https://www.canopyapi.co/) | A modern API for Amazon Data | `apiKey` | Unknown |
 | [Clickwise](https://partners.clickwise.net/) | Affiliate product search by GTIN with tracked links, affiliate programs and deals; free sandbox key | `apiKey` | No |
@@ -1991,6 +2000,7 @@
 | [SoldFetch](https://soldfetch.com) | eBay sold and active listings via REST and MCP; not affiliated with eBay | `apiKey` | Yes |
 | [Soldgraph](https://soldgraph.com) | Sold prices and live resale listings from eBay, Poshmark, Mercari and more via REST and MCP; not affiliated with the marketplaces | `apiKey` | No |
 | [Tokopedia](https://developer.tokopedia.com/openapi/guide/#/) | Tokopedia's Official API for integration of various services from Tokopedia | `OAuth` | Unknown |
+| [uglyHD](https://uglyhd.com) | Cost per TB of new, used and refurbished enterprise drives and per GB of server RAM, from eBay and retailers; free tier needs no key | No | Yes |
 | [VantaSpec](https://vantaspec.com) | UK PC hardware prices, price history and specs across UK retailers | No | Yes |
 | [WooCommerce](https://woocommerce.github.io/woocommerce-rest-api-docs/) | WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format | `apiKey` | Yes |
 | [Zinc](https://www.zinc.com) | Place, track and return orders at Amazon, Walmart, Target and other online retailers | `apiKey` | No |
@@ -2038,6 +2048,7 @@
 | [Reddit](https://www.reddit.com/dev/api) | Homepage of the internet | `OAuth` | Unknown |
 | [Revolt](https://developers.revolt.chat) | Revolt open source Discord alternative | `apiKey` | Unknown |
 | [Rumoro](https://rumoro.dev) | Social listening API: brand, competitor and topic mentions from 16 sources, scored for relevance, sentiment and intent | `apiKey` | No |
+| [Schedchie](https://www.schedchie.com) | Social media scheduler API: schedule posts, import media, run approvals and read analytics on Instagram, TikTok, LinkedIn, Bluesky and more | `apiKey` | No |
 | [ShapelessAI](https://shapelessai.com) | Schedule and publish posts to LinkedIn, X, Instagram, TikTok, YouTube, Facebook, Threads and Bluesky, plus AI images and video | `apiKey` | No |
 | [ShortsIntel](https://www.shortsintel.com) | Short-form video and ad intelligence API and MCP server: TikTok, Instagram Reels, YouTube Shorts and Meta ad library data with AI video analysis | `apiKey` | No |
 | [Signals](https://signals.sh) | Marketplace API to quote, place, and track Reddit and Quora promotion orders, with catalog and wallet endpoints | `apiKey` | No |
@@ -2126,6 +2137,7 @@
 | [TheSportsDB](https://www.thesportsdb.com/api.php) | Crowd-Sourced Sports Data and Artwork | `apiKey` | Yes |
 | [TipsAudit](https://tipsaudit.com/api) | Football fair odds (bookmaker margin removed) and bookmaker margin index | No | Yes |
 | [Tredict](https://www.tredict.com/blog/oauth_docs/) | Get and set activities, health data and more | `OAuth` | Unknown |
+| [UFCalendar Fight Data](https://www.ufcalendar.com/developers) | UFC, PFL, OKTAGON, BKFC and RIZIN events, results, round stats, rankings history | `apiKey` | Yes |
 | [Wger](https://wger.de/en/software/api) | Workout manager data as exercises, muscles or equipment | `apiKey` | Unknown |
 | [Your Move - Exercise API](https://ymove.app/exercise-api) | Exercise library and fitness API for your app. 2,005+ professional HD exercise videos with instructions, workout generation and program builder. | `apiKey` | Yes |
 
@@ -2374,6 +2386,7 @@
 | [ThronesApi](https://thronesapi.com/) | Game Of Thrones Characters Data with imagery | No | Unknown |
 | [TMDb](https://www.themoviedb.org/documentation/api) | Community-based movie data | `apiKey` | Unknown |
 | [Trakt](https://trakt.docs.apiary.io/) | Movie and TV Data | `apiKey` | Yes |
+| [Transcript Dock](https://www.transcriptdock.com) | Transcripts from YouTube, TikTok and Instagram links or uploaded media, with timed segments and SRT, VTT, JSON and TXT exports | `apiKey` | No |
 | [TranscriptAPI](https://transcriptapi.com) | YouTube video transcripts as JSON with timestamps, search and playlist endpoints | `apiKey` | Unknown |
 | [TranscriptYT](https://transcript-yt.com) | YouTube transcripts as JSON, text, SRT or VTT, with playlist, channel, search and translation endpoints, plus an MCP server | `apiKey` | Yes |
 | [TVDB](https://thetvdb.com/api-information) | Television data | `apiKey` | Unknown |

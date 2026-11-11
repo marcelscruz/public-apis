@@ -1,5 +1,5 @@
 {
-"count": 2017,
+"count": 2033,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -207,6 +207,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://hol.org/docs/registry-broker/",
+        "Category": "AI"
+    },
+    {
+        "API": "Imagera",
+        "Description": "One API key for 328 image, video and audio models plus 320+ language models on an OpenAI-compatible endpoint, paid from a prepaid balance",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://imagera.ai/developers",
         "Category": "AI"
     },
     {
@@ -1706,6 +1714,14 @@
         "Category": "Business"
     },
     {
+        "API": "CEA Digital",
+        "Description": "Real estate LLC skip trace, short-form video hook transcripts, eBay sold comps and building permits",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://ceadigital.io",
+        "Category": "Business"
+    },
+    {
         "API": "Charity Search",
         "Description": "Non-profit charity data",
         "Auth": "apiKey",
@@ -1754,11 +1770,27 @@
         "Category": "Business"
     },
     {
+        "API": "Dispola",
+        "Description": "Open appointment spots today and this week at salons and clinics in Quebec (hair, nails, massage, physio), with booking links",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://dispola.ca",
+        "Category": "Business"
+    },
+    {
         "API": "Domainsdb.info",
         "Description": "Registered Domain Names Search",
         "Auth": "",
         "Cors": "no",
         "Link": "https://domainsdb.info/",
+        "Category": "Business"
+    },
+    {
+        "API": "EnrichGrid",
+        "Description": "LinkedIn profile and company scraper API: person, company and school data as JSON, plus people search",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://enrichgrid.com",
         "Category": "Business"
     },
     {
@@ -1895,6 +1927,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://nioleads.com/apidoc",
+        "Category": "Business"
+    },
+    {
+        "API": "Prisma Reviews",
+        "Description": "Read and reply to reviews from Google, the App Store, Google Play, Trustpilot and 60+ platforms in one JSON format",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://prismareviews.com",
         "Category": "Business"
     },
     {
@@ -3730,6 +3770,14 @@
         "Category": "Development"
     },
     {
+        "API": "BrowserSolver",
+        "Description": "Web unlocker API that fetches pages behind Cloudflare and DataDome, with JS rendering, crawling and screenshots",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.browsersolver.com",
+        "Category": "Development"
+    },
+    {
         "API": "Browshot",
         "Description": "Easily make screenshots of web pages in any screen size, as any device",
         "Auth": "apiKey",
@@ -3738,11 +3786,27 @@
         "Category": "Development"
     },
     {
+        "API": "CaptureKit",
+        "Description": "Screenshot API (PNG, JPEG, WebP, PDF) plus page content as Markdown and AI page analysis",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.capturekit.dev",
+        "Category": "Development"
+    },
+    {
         "API": "CDNJS",
         "Description": "Library info on CDNJS",
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://api.cdnjs.com/libraries/jquery",
+        "Category": "Development"
+    },
+    {
+        "API": "ChartQuery",
+        "Description": "Generate charts, diagrams, QR codes, barcodes and shipping labels as PNG, SVG or PDF",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.chartquery.com",
         "Category": "Development"
     },
     {
@@ -3927,6 +3991,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://developer.firedash.us/",
+        "Category": "Development"
+    },
+    {
+        "API": "FlashData",
+        "Description": "Google search results, YouTube search, metadata, existing captions and async media delivery to customer storage; paid credits",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://flashdata.dev",
         "Category": "Development"
     },
     {
@@ -12266,6 +12338,14 @@
         "Category": "Science & Math"
     },
     {
+        "API": "Astroletra",
+        "Description": "Moon phase and sign, aspects, retrogrades and next lunation by time zone",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://astroletra.com/datos/api/",
+        "Category": "Science & Math"
+    },
+    {
         "API": "Bootprint",
         "Description": "Random facts and images of space",
         "Auth": "",
@@ -12906,6 +12986,14 @@
         "Category": "Security"
     },
     {
+        "API": "Veille",
+        "Description": "Validate emails, domains, IPs, phone numbers, VAT numbers and IBANs to block fake sign-ups and fraud",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.veille.io",
+        "Category": "Security"
+    },
+    {
         "API": "Virus and Malware Scan API by attachmentAV",
         "Description": "Scan files for viruses, worms, trojans, ransomware, and other kinds of malware by sending them to the attachmentAV API powered by Sophos",
         "Auth": "apiKey",
@@ -12928,6 +13016,14 @@
         "Cors": "no",
         "Link": "https://whoisfreaks.com/",
         "Category": "Security"
+    },
+    {
+        "API": "Asin",
+        "Description": "Track Amazon products and prices across 11 marketplaces, with price history, offers and alerts",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.asin.dev",
+        "Category": "Shopping"
     },
     {
         "API": "Best Buy",
@@ -13127,6 +13223,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developer.tokopedia.com/openapi/guide/#/",
+        "Category": "Shopping"
+    },
+    {
+        "API": "uglyHD",
+        "Description": "Cost per TB of new, used and refurbished enterprise drives and per GB of server RAM, from eBay and retailers; free tier needs no key",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://uglyhd.com",
         "Category": "Shopping"
     },
     {
@@ -13455,6 +13559,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://rumoro.dev",
+        "Category": "Social"
+    },
+    {
+        "API": "Schedchie",
+        "Description": "Social media scheduler API: schedule posts, import media, run approvals and read analytics on Instagram, TikTok, LinkedIn, Bluesky and more",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.schedchie.com",
         "Category": "Social"
     },
     {
@@ -14111,6 +14223,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://www.tredict.com/blog/oauth_docs/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "UFCalendar Fight Data",
+        "Description": "UFC, PFL, OKTAGON, BKFC and RIZIN events, results, round stats, rankings history",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.ufcalendar.com/developers",
         "Category": "Sports & Fitness"
     },
     {
@@ -15759,6 +15879,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://trakt.docs.apiary.io/",
+        "Category": "Video"
+    },
+    {
+        "API": "Transcript Dock",
+        "Description": "Transcripts from YouTube, TikTok and Instagram links or uploaded media, with timed segments and SRT, VTT, JSON and TXT exports",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.transcriptdock.com",
         "Category": "Video"
     },
     {
