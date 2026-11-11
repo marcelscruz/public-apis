@@ -1180,6 +1180,7 @@
 | [What's on the menu?](https://nypl.github.io/menus-api/) | NYPL human-transcribed historical menu collection | `apiKey` | Unknown |
 | [WhiskyHunter](https://whiskyhunter.net/api/) | Past online whisky auctions statistical data | No | Unknown |
 | [Your Move - Nutrition API](https://ymove.app/nutrition-api) | A complete nutrition API. Search foods, get nutrition facts and values. Generate meal plans and look up packaged products from 180+ countries worldwide. | `apiKey` | Yes |
+| [Your Move - Recipe API](https://ymove.app/recipe-api) | Recipe API with full per-serving nutrition, per-ingredient USDA mapping, diet, cuisine and macro-target search, and CDN-served images. | `apiKey` | Yes |
 | [Zestful](https://zestfuldata.com/) | Parse recipe ingredients | `apiKey` | Yes |
 
 **[⬆ Back to Index](#index)**
