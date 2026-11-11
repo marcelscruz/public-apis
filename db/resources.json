@@ -1,5 +1,5 @@
 {
-"count": 2040,
+"count": 2041,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3431,6 +3431,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://www.purgomalum.com",
+        "Category": "Data Validation"
+    },
+    {
+        "API": "RFCCheck",
+        "Description": "Validates a Mexican RFC against SAT and returns the registered name and postal code",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://rfccheck.com",
         "Category": "Data Validation"
     },
     {
