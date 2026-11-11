@@ -1,5 +1,5 @@
 {
-"count": 2035,
+"count": 2036,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7047,6 +7047,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://priorcase.com",
+        "Category": "Finance"
+    },
+    {
+        "API": "Quotelinks",
+        "Description": "Free SEC EDGAR financial statements, filings and company profiles by ticker or CIK, plus ECB exchange rates since 1999",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://www.quotelinks.com/api/",
         "Category": "Finance"
     },
     {
