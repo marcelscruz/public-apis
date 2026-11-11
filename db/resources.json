@@ -1,5 +1,5 @@
 {
-"count": 2041,
+"count": 2042,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3383,6 +3383,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://developers.brevo.com/",
+        "Category": "Data Validation"
+    },
+    {
+        "API": "CURPCheck",
+        "Description": "Looks up a Mexican CURP in RENAPO and finds a CURP from personal data",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://curpcheck.com",
         "Category": "Data Validation"
     },
     {
