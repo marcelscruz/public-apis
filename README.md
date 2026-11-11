@@ -609,6 +609,7 @@
 | [Brevo Suit](https://developers.brevo.com/) | Connection for brevo CRM suite | `apiKey` | Yes |
 | [CURPCheck](https://curpcheck.com) | Looks up a Mexican CURP in RENAPO and finds a CURP from personal data | `apiKey` | No |
 | [EuroValidate](https://eurovalidate.com) | EU VAT (VIES), IBAN and EORI validation with company name & address lookup | `apiKey` | Yes |
+| [INECheck](https://inecheck.com) | Checks whether a Mexican voter ID is current in INE Lista Nominal | `apiKey` | No |
 | [invowerk](https://invowerk.dev) | Validate e-invoices (ZUGFeRD, Factur-X, XRechnung, Peppol BIS) and get a validation report | `apiKey` | Unknown |
 | [Lob.com](https://lob.com/) | US Address Verification | `apiKey` | Unknown |
 | [Nonprofit Check Plus](https://pactman.org/nonprofitcheckplus-api/landing) | Verify charities via EIN using IRS, PUB78, BMF & OFAC data for compliance and legitimacy | `apiKey` | Unknown |
