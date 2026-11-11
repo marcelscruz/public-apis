@@ -1,5 +1,5 @@
 {
-"count": 2037,
+"count": 2038,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -207,6 +207,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://hol.org/docs/registry-broker/",
+        "Category": "AI"
+    },
+    {
+        "API": "HopBase",
+        "Description": "Text, image and video models such as Claude, GPT, Gemini, DeepSeek and Qwen through one OpenAI-, Anthropic- and Gemini-compatible API",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://hop-base.com",
         "Category": "AI"
     },
     {
