@@ -1,5 +1,5 @@
 {
-"count": 2043,
+"count": 2044,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14103,6 +14103,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://gitlab.com/dword4/nhlapi",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "Odds-API.io",
+        "Description": "Pre-match and live betting odds from 450+ bookmakers across 34 sports over REST and WebSocket",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://odds-api.io",
         "Category": "Sports & Fitness"
     },
     {
