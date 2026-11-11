@@ -1113,6 +1113,7 @@
 | [Polymarket](https://docs.polymarket.com) | Prediction market data including markets, prices, and order book | `apiKey` | Yes |
 | [Portfolio Optimizer](https://portfoliooptimizer.io/) | Portfolio analysis and optimization | No | Yes |
 | [Priorcase](https://priorcase.com) | Precedent search for markets: past moments that look like a given one, with what followed each | `apiKey` | No |
+| [Quotelinks](https://www.quotelinks.com/api/) | Free SEC EDGAR financial statements, filings and company profiles by ticker or CIK, plus ECB exchange rates since 1999 | No | Yes |
 | [Razorpay IFSC](https://razorpay.com/docs/) | Indian Financial Systems Code (Bank Branch Codes) | No | Unknown |
 | [Real Time Finance](https://github.com/Real-time-finance/finance-websocket-API/) | Websocket API to access realtime stock data | `apiKey` | Unknown |
 | [Realie Property Data API](https://www.realie.ai/real-estate-data-api) | Realie's property data is directly sourced from local municipalities and contains over 100 data fields. Realie covers the entire USA with 180 million parcels. | `apiKey` | No |
