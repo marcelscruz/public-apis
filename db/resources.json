@@ -1,5 +1,5 @@
 {
-"count": 2036,
+"count": 2037,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5583,6 +5583,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.notion.com/docs/getting-started",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Nutrient Data Extraction API",
+        "Description": "Extract AI-ready JSON or Markdown from PDFs, scans, images, and Office files with OCR, schemas, source citations, confidence scores, and layout data",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://www.nutrient.io/api/data-extraction-api/",
         "Category": "Documents & Productivity"
     },
     {
