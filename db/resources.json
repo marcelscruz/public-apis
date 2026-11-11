@@ -1,5 +1,5 @@
 {
-"count": 2044,
+"count": 2045,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4791,6 +4791,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://github.com/ayusharma/RSS-to-JSON",
+        "Category": "Development"
+    },
+    {
+        "API": "Scrape.ly",
+        "Description": "Run ready-made scrapers for sites like Google Maps, Amazon and LinkedIn in the cloud and fetch structured JSON results",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://scrape.ly",
         "Category": "Development"
     },
     {
