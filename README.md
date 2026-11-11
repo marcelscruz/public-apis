@@ -789,6 +789,7 @@
 | [Render API](https://render.com/docs/api) | Lets you programmatically manage your Render services (web apps, APIs, and static sites) including deployments, scaling, and configuration | `apiKey` | Unknown |
 | [ReqRes](https://reqres.in/) | A hosted REST-API ready to respond to your AJAX requests | No | Unknown |
 | [RSS to JSON](https://github.com/ayusharma/RSS-to-JSON) | Returns RSS feed in JSON format using feed URL | No | Yes |
+| [Scrape.ly](https://scrape.ly) | Run ready-made scrapers for sites like Google Maps, Amazon and LinkedIn in the cloud and fetch structured JSON results | `apiKey` | Yes |
 | [ScrapeNinja](https://scrapeninja.net) | Scraping API with Chrome fingerprint and residential proxies | `apiKey` | Unknown |
 | [ScraperApi](https://www.scraperapi.com) | Easily build scalable web scrapers | `apiKey` | Unknown |
 | [scraperBox](https://scraperbox.com/) | Undetectable web scraping API | `apiKey` | Yes |
