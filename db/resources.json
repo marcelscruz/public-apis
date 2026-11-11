@@ -1,5 +1,5 @@
 {
-"count": 2042,
+"count": 2043,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3399,6 +3399,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://eurovalidate.com",
+        "Category": "Data Validation"
+    },
+    {
+        "API": "INECheck",
+        "Description": "Checks whether a Mexican voter ID is current in INE Lista Nominal",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://inecheck.com",
         "Category": "Data Validation"
     },
     {
