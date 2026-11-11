@@ -2123,7 +2123,7 @@
     },
     {
         "API": "Abstract Public Holidays",
-        "Description": "Data on national, regional, and religious holidays via API",
+        "Description": "National, regional, and religious holidays. 100 free requests on signup",
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.abstractapi.com/holidays-api",
@@ -3547,7 +3547,7 @@
     },
     {
         "API": "Abstract Screenshot",
-        "Description": "Take programmatic screenshots of web pages from any website",
+        "Description": "Programmatic screenshots of a web page. 100 free requests on signup",
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.abstractapi.com/website-screenshot-api",
@@ -5859,7 +5859,7 @@
     },
     {
         "API": "Abstract Email Validation",
-        "Description": "Validate email addresses for deliverability and spam",
+        "Description": "Validate email deliverability. 100 free requests on signup",
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.abstractapi.com/email-verification-validation-api",
@@ -6547,7 +6547,7 @@
     },
     {
         "API": "Abstract VAT Validation",
-        "Description": "Validate VAT numbers and calculate VAT rates",
+        "Description": "Validate VAT numbers and return VAT rates. 100 free requests on signup",
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.abstractapi.com/vat-validation-rates-api",
@@ -8395,7 +8395,7 @@
     },
     {
         "API": "Abstract IP Geolocation",
-        "Description": "Geolocate website visitors from their IPs",
+        "Description": "City, region, and country for any IP. 100 free requests on signup",
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.abstractapi.com/ip-geolocation-api",
@@ -11867,7 +11867,7 @@
     },
     {
         "API": "Abstract Phone Validation",
-        "Description": "Validate phone numbers globally",
+        "Description": "Validate phone numbers, carrier, and line type. 100 free requests on signup",
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.abstractapi.com/phone-validation-api",
