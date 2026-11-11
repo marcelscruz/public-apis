@@ -1,5 +1,5 @@
 {
-"count": 2039,
+"count": 2040,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14639,6 +14639,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://cws.correios.com.br/ajuda",
+        "Category": "Tracking"
+    },
+    {
+        "API": "lastscanned",
+        "Description": "Parcel and ocean-container tracking across 549 carriers with webhooks and a free tier",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://lastscanned.com",
         "Category": "Tracking"
     },
     {
