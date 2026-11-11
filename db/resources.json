@@ -1,5 +1,5 @@
 {
-"count": 2034,
+"count": 2035,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9447,6 +9447,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://www.thegazette.co.uk/data",
+        "Category": "Government"
+    },
+    {
+        "API": "Global law",
+        "Description": "Legislation of 200+ countries as a dated history: find a provision by citation, read it as it stood on a given date, and search a country's law",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://lexifina.com/api/global-law",
         "Category": "Government"
     },
     {
