@@ -1,5 +1,5 @@
 {
-"count": 2033,
+"count": 2034,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14063,6 +14063,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://www.openligadb.de",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "PinnFeed",
+        "Description": "Real-time Pinnacle odds over REST and WebSocket, with no-vig prices, drops and closing lines",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://pinnfeed.io",
         "Category": "Sports & Fitness"
     },
     {
