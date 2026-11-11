@@ -2081,6 +2081,7 @@
 | [Weir](https://weirapp.io) | Public Reddit and X (Twitter) data: search posts, read comment threads, profiles and followers, and run scheduled monitors with webhooks | `apiKey` | No |
 | [WoopSocial](https://woopsocial.com) | Schedule and publish posts across social media platforms | `apiKey` | No |
 | [xdataapi.io](https://xdataapi.io) | Read-only public X (Twitter) data: profiles, tweets, threads, followers and search with x.com operators, plus a hosted MCP server. Not affiliated with X Corp | `apiKey` | No |
+| [Xproapi](https://xproapi.com) | X (Twitter) data: profiles, followers, followings, tweets, replies, quotes, retweeters, articles and advanced search | `apiKey` | Yes |
 | [Xquik API](https://xquik.com) | Search X posts, profiles, followers, trends, and communities through 128 REST operations, MCP, webhooks, SDKs, and exports. Not affiliated with X Corp | `apiKey` | Unknown |
 | [Zoom](https://developers.zoom.us/docs/api) | Video communication, web conferencing, chat, and webinars | `OAuth` | Unknown |
 
