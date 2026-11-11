@@ -900,6 +900,7 @@
 | [MConverter](https://dev.mconverter.eu/) | File converter and PDF compressor. Extract images from video, convert documents, Markdown and more | `apiKey` | Unknown |
 | [Monday](https://developer.monday.com/) | Programmatically access and update data inside a monday.com account | `apiKey` | Unknown |
 | [Notion](https://developers.notion.com/docs/getting-started) | Integrate with Notion | `OAuth` | Unknown |
+| [Nutrient Data Extraction API](https://www.nutrient.io/api/data-extraction-api/) | Extract AI-ready JSON or Markdown from PDFs, scans, images, and Office files with OCR, schemas, source citations, confidence scores, and layout data | `apiKey` | Unknown |
 | [Optiic](https://optiic.dev) | OCR API that extracts text from images and PDFs, sent as a file or a URL, with optional translation of the result | `apiKey` | Yes |
 | [PandaDoc](https://developers.pandadoc.com) | DocGen and eSignatures API | `apiKey` | No |
 | [PaperClean](https://paperclean.ip1.cc/api/docs) | Clean document photos for printing, remove shadows and fix lighting | `apiKey` | Yes |
