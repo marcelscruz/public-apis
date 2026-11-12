@@ -160,7 +160,7 @@
 | [TranscriptFetch](https://transcriptfetch.com) | The transcript API for social media video. Get transcripts at scale from YouTube, TikTok or Instagram. | `apiKey` | Yes |
 | [TranslateMyImage](https://translatemyimage.com) | Translate the text inside JPG, PNG or WEBP images into 9 languages and get the translated image back | `apiKey` | No |
 | [UberLLM](https://uberllm.dev) | OpenAI- and Anthropic-compatible API for GPT, Claude, Gemini, DeepSeek and uncensored models plus image, video and music, billed at provider cost | `apiKey` | Yes |
-| [UnoRouter](https://unorouter.com) | OpenAI-compatible gateway routing chat/completions across 500+ models with a free tier | `apiKey` | Yes |
+| [UnoRouter](https://unorouter.com) | OpenAI compatible gateway with one key for every major model provider, automatic failover and a free tier | `apiKey` | Yes |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Unknown |
 | [UpRes](https://upres.ai) | Image, video and speech restoration up to 8K through a self-serve REST API | `apiKey` | No |
 | [Voxell Forge](https://voxell.ai/forge) | OpenAI-compatible text embeddings API. The turbo model is free forever with no credit card; pro and ultra are paid | `apiKey` | No |
