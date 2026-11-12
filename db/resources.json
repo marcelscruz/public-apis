@@ -1,5 +1,5 @@
 {
-"count": 2046,
+"count": 2047,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1727,6 +1727,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://auregistre.fr",
+        "Category": "Business"
+    },
+    {
+        "API": "CarbonSutra - Carbon Footprint Estimation for Organizations",
+        "Description": "Carbon footprint for business travel, hotel stays, vehicles, freight, shipments, fuel and electricity with supplementary APIs on airports and locations",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://www.carbonsutra.com/",
         "Category": "Business"
     },
     {
