@@ -1,5 +1,5 @@
 {
-"count": 2048,
+"count": 2049,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -327,6 +327,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://nlpcloud.io",
+        "Category": "AI"
+    },
+    {
+        "API": "nRouter",
+        "Description": "LLM gateway API — one OpenAI-compatible API key for every model, with smart routing, automatic fallbacks, per-key budgets and guardrails.",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://nrouter.ai",
         "Category": "AI"
     },
     {
