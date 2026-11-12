@@ -75,7 +75,7 @@
     },
     {
         "API": "Audo",
-        "Description": "Noise removal, speech restoration, transcription and audio/video editing with a recurring free tier",
+        "Description": "Audio/video toolkit: speech generation, voice cloning, cleanup, transcription and editing",
         "Auth": "",
         "Cors": "no",
         "Link": "https://audo.ai",
