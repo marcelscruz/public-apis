@@ -1,5 +1,5 @@
 {
-"count": 2049,
+"count": 2050,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7079,6 +7079,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.ambeteco.com/ParityVend/",
+        "Category": "Finance"
+    },
+    {
+        "API": "pdata",
+        "Description": "Prediction-market prices, 24h volume, price history and resolved results from Polymarket, Kalshi and 6 more venues in one schema",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://pdata.world",
         "Category": "Finance"
     },
     {
