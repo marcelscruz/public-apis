@@ -483,7 +483,7 @@
     },
     {
         "API": "UnoRouter",
-        "Description": "OpenAI-compatible gateway routing chat/completions across 500+ models with a free tier",
+        "Description": "OpenAI compatible gateway with one key for every major model provider, automatic failover and a free tier",
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://unorouter.com",
