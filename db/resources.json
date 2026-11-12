@@ -1,5 +1,5 @@
 {
-"count": 2051,
+"count": 2052,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3215,6 +3215,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/currency-conversion-multiple",
+        "Category": "Currency Exchange"
+    },
+    {
+        "API": "Crystal Ball Markets",
+        "Description": "Free exchange rates for 60 currencies, gold prices in 69 countries and 212 market quotes",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://crystalballmarkets.com/markets/rates-api",
         "Category": "Currency Exchange"
     },
     {
