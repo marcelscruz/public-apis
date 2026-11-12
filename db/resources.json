@@ -1,5 +1,5 @@
 {
-"count": 2047,
+"count": 2048,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -16063,6 +16063,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://videoupscaler.co",
+        "Category": "Video"
+    },
+    {
+        "API": "Vidmoat",
+        "Description": "Video editing API on the same engine as the Vidmoat editor, with free test keys",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.vidmoat.com",
         "Category": "Video"
     },
     {
