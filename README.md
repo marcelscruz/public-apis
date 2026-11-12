@@ -1117,6 +1117,7 @@
 | [OpenFIGI](https://www.openfigi.com/api) | Equity, index, futures, options symbology from Bloomberg LP | `apiKey` | Yes |
 | [outcometick](https://outcometick.com) | Historical tick data for Polymarket and Predict.fun crypto Up/Down markets: Chainlink settlement feeds, order books, strikes and outcomes | `apiKey` | No |
 | [ParityVend](https://www.ambeteco.com/ParityVend/) | Globalize your business by auto-adapting pricing for each visitor with Purchasing Power Parity | `apiKey` | Yes |
+| [pdata](https://pdata.world) | Prediction-market prices, 24h volume, price history and resolved results from Polymarket, Kalshi and 6 more venues in one schema | No | Yes |
 | [Plaid](https://plaid.com/) | Connect with user's bank accounts and access transaction data | `apiKey` | Unknown |
 | [Polygon](https://polygon.io/) | Historical stock market data | `apiKey` | Unknown |
 | [Polymarket](https://docs.polymarket.com) | Prediction market data including markets, prices, and order book | `apiKey` | Yes |
