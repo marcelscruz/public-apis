@@ -141,6 +141,7 @@
 | [MessengerX.io](https://messengerx.rtfd.io) | A FREE API for developers to build and monetize personalized ML based chat apps | `apiKey` | Yes |
 | [Neuronto](https://neuronto.com) | Free search over MCP servers, A2A agents, skills and APIs across Agentic Resource Discovery registries | No | Yes |
 | [NLP Cloud](https://nlpcloud.io) | NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more | `apiKey` | Unknown |
+| [nRouter](https://nrouter.ai) | LLM gateway API — one OpenAI-compatible API key for every model, with smart routing, automatic fallbacks, per-key budgets and guardrails. | `apiKey` | Unknown |
 | [Obscurify AI](https://obscurify.ai) | Anonymous OpenAI-compatible API for 200+ LLMs. Accounts are a random number, no email; pay with Monero, Bitcoin or card | `apiKey` | Yes |
 | [OpenAI](https://openai.com/index/openai-api) | Use AI models such as ChatGPT or DALL-E to experience the capabilities of AI | `apiKey` | Yes |
 | [Perspective](https://perspectiveapi.com) | NLP API to return probability that if text is toxic, obscene, insulting or threatening | `apiKey` | Unknown |
