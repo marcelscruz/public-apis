@@ -1,5 +1,5 @@
 {
-"count": 2050,
+"count": 2051,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -71,6 +71,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://atmorouter.dev",
+        "Category": "AI"
+    },
+    {
+        "API": "Audo",
+        "Description": "Noise removal, speech restoration, transcription and audio/video editing with a recurring free tier",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://audo.ai",
         "Category": "AI"
     },
     {
