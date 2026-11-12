@@ -364,6 +364,7 @@
 | [Apache Superset](https://superset.apache.org/docs/api) | API to manage your BI dashboards and data sources on Superset | `apiKey` | Yes |
 | [ArvanCloud](https://www.arvancloud.ir/en/dev/sdk) | Enables you to use ArvanCloud services | `apiKey` | No |
 | [Auregistre](https://auregistre.fr) | Dated history of every French company from the official BODACC gazette: changes, insolvency proceedings and filings | No | Yes |
+| [CarbonSutra - Carbon Footprint Estimation for Organizations](https://www.carbonsutra.com/) | Carbon footprint for business travel, hotel stays, vehicles, freight, shipments, fuel and electricity with supplementary APIs on airports and locations | No | No |
 | [CEA Digital](https://ceadigital.io) | Real estate LLC skip trace, short-form video hook transcripts, eBay sold comps and building permits | `apiKey` | Yes |
 | [Charity Search](https://charityapi.orghunter.com/) | Non-profit charity data | `apiKey` | Unknown |
 | [CompanyEnrich](https://companyenrich.com) | API for B2B company data enrichment, domain enrichment, and website enrichment | `apiKey` | Yes |
