@@ -1971,6 +1971,7 @@
 | [Shodan](https://developer.shodan.io/) | Search engine for Internet connected devices | `apiKey` | Unknown |
 | [Spyse](https://spyse-dev.readme.io/reference/quick-start) | Access data on all Internet assets and build powerful attack surface management applications | `apiKey` | Unknown |
 | [ThreatCluster](https://threatcluster.io/api/public/v1/docs) | Threat intelligence API: incident clusters from 20,000 sources, validated IOCs, CVEs with KEV/EPSS status, ransomware leak-site victims | `apiKey` | No |
+| [TrustedMCP](https://trustedmcp.io) | A-D grades for MCP servers from public signals: look up a server, check an MCP config, find graded alternatives | No | Yes |
 | [UK Police](https://data.police.uk/docs/) | UK Police data | No | Unknown |
 | [Veille](https://www.veille.io) | Validate emails, domains, IPs, phone numbers, VAT numbers and IBANs to block fake sign-ups and fraud | `apiKey` | No |
 | [Virus and Malware Scan API by attachmentAV](https://attachmentav.com/solution/virus-malware-scan-api/) | Scan files for viruses, worms, trojans, ransomware, and other kinds of malware by sending them to the attachmentAV API powered by Sophos | `apiKey` | No |
