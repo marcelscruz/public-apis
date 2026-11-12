@@ -2408,6 +2408,7 @@
 | [Video Thumbnail API](https://apyhub.com/utility/job-video-thumbnail) | Create Video Thumbnails from any video or URL | `apiKey` | Yes |
 | [VideoGen](https://videogen.io/) | Generate videos from scripts, voiceovers, or slideshows with visuals, narration, and captions | `apiKey` | Unknown |
 | [VideoUpscaler](https://videoupscaler.co) | AI video upscaling, denoising, stabilization, and frame interpolation to 4K | `apiKey` | Yes |
+| [Vidmoat](https://www.vidmoat.com) | Video editing API on the same engine as the Vidmoat editor, with free test keys | `apiKey` | No |
 | [Vimeo](https://developer.vimeo.com/) | Vimeo Developer API | `OAuth` | Unknown |
 | [Watchmode](https://api.watchmode.com/) | API for finding out the streaming availability of movies & shows | `apiKey` | Unknown |
 | [YouTube](https://developers.google.com/youtube/) | Add YouTube functionality to your sites and apps | `OAuth` | Unknown |
