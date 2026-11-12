@@ -1,5 +1,5 @@
 {
-"count": 2045,
+"count": 2046,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13047,6 +13047,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://threatcluster.io/api/public/v1/docs",
+        "Category": "Security"
+    },
+    {
+        "API": "TrustedMCP",
+        "Description": "A-D grades for MCP servers from public signals: look up a server, check an MCP config, find graded alternatives",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://trustedmcp.io",
         "Category": "Security"
     },
     {
