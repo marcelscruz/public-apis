@@ -1138,6 +1138,7 @@
 | [SiftingIO](https://sifting.io/) | Market data for stocks, forex, crypto, commodities and DEX | `apiKey` | Yes |
 | [Silicon Floor](https://siliconfloor.com) | Ownership, insider trades and filed fundamentals of listed AI and semiconductor companies, sourced from SEC and FINRA filings | No | No |
 | [SmartAPI](https://smartapi.angelbroking.com/) | Gain access to set of <SmartAPI> and create end-to-end broking services | `apiKey` | Unknown |
+| [SmarterDividends](https://smarterdividends.com) | Free dividend data for U.S. stocks and ETFs: yield, payment history, ex-dividend calendar, raises and cuts, safety grades. JSON or CSV | No | Yes |
 | [Statistics of the World](https://statisticsoftheworld.com/api-docs) | GDP, population, inflation & 440+ indicators for 218 countries | No | Yes |
 | [StockData](https://www.StockData.org) | Real-Time, Intraday & Historical Market Data, News and Sentiment API | `apiKey` | Yes |
 | [Stripe](https://stripe.com/docs/api) | Payment processing, subscriptions, and financial management | `apiKey` | Unknown |
