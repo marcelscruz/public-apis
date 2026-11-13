@@ -1,5 +1,5 @@
 {
-"count": 2056,
+"count": 2057,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1295,6 +1295,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://clerk.com",
+        "Category": "Authentication & Authorization"
+    },
+    {
+        "API": "ContaShare",
+        "Description": "Contact details a customer chose to share, read over OAuth, with a signed webhook when they change",
+        "Auth": "OAuth",
+        "Cors": "yes",
+        "Link": "https://contashare.com",
         "Category": "Authentication & Authorization"
     },
     {
