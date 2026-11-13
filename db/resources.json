@@ -1,5 +1,5 @@
 {
-"count": 2053,
+"count": 2054,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1167,6 +1167,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://lordicon.com/",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "Luw",
+        "Description": "AI design for architecture and interiors: redesign rooms, exteriors and gardens from a photo, render sketches, edit images, make video and 3D",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://luw.ai",
         "Category": "Art & Design"
     },
     {
