@@ -1,5 +1,5 @@
 {
-"count": 2054,
+"count": 2055,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2815,6 +2815,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://coinxview.com",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "Cookin",
+        "Description": "Pump.fun and Solana memecoin quality scores, bundle detection, trader stats and live trades over REST and WebSocket",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://cookin.fun/api",
         "Category": "Cryptocurrency"
     },
     {
