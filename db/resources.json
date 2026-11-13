@@ -1,5 +1,5 @@
 {
-"count": 2057,
+"count": 2058,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -407,6 +407,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://routerbase.com",
+        "Category": "AI"
+    },
+    {
+        "API": "SFW",
+        "Description": "Nudity detection for images, GIFs and videos with four content levels and an optional blocking policy, 500 free credits a month",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://sfwapi.dev",
         "Category": "AI"
     },
     {
