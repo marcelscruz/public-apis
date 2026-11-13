@@ -292,6 +292,7 @@
 |---|---|---|---|
 | [Auth0](https://auth0.com) | Easy to implement, adaptable authentication and authorization platform | `apiKey` | Yes |
 | [Clerk](https://clerk.com) | Drop-in React components for authentication and authorization | `apiKey` | Yes |
+| [ContaShare](https://contashare.com) | Contact details a customer chose to share, read over OAuth, with a signed webhook when they change | `OAuth` | Yes |
 | [Corbado](https://corbado.com) | Passkey-first authentication | `apiKey` | Yes |
 | [GetOTP](https://otp.dev/en/docs/) | Implement OTP flow quickly | `apiKey` | No |
 | [Kinde](https://kinde.com) | Authentication for modern applications. Integrates in minutes and free up to 7,500 MAU | `OAuth` | No |
