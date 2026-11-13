@@ -1,5 +1,5 @@
 {
-"count": 2058,
+"count": 2059,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7287,6 +7287,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://smartapi.angelbroking.com/",
+        "Category": "Finance"
+    },
+    {
+        "API": "SmarterDividends",
+        "Description": "Free dividend data for U.S. stocks and ETFs: yield, payment history, ex-dividend calendar, raises and cuts, safety grades. JSON or CSV",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://smarterdividends.com",
         "Category": "Finance"
     },
     {
