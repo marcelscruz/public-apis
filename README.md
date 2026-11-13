@@ -270,6 +270,7 @@
 | [Ink Studio AI](https://inkstudioai.com) | Generate AI tattoo designs from text prompts in 13 styles and search a public tattoo gallery. One free design per new account, then one-time plans | `apiKey` | No |
 | [Logotypes](https://logotypes.dev/) | Logotypes of the world in multiples format | No | Yes |
 | [Lordicon](https://lordicon.com/) | Icons with predone Animations | No | Yes |
+| [Luw Studio](https://studio.luw.ai) | OpenAI-compatible API to an AI agent that builds and changes 3D building projects: rooms, doors, windows, stairs and furniture | `apiKey` | No |
 | [Magnific Icons API](https://docs.magnific.com/api-reference/icons/icons-api) | Icon search and download API by Freepik (formerly Iconfinder) | `apiKey` | Unknown |
 | [Metropolitan Museum of Art](https://metmuseum.github.io/) | Met Museum of Art | No | No |
 | [Noun Project](https://api.thenounproject.com/index.html) | Icons | `OAuth` | Unknown |
