@@ -1,5 +1,5 @@
 {
-"count": 2055,
+"count": 2056,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -15535,6 +15535,14 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://deividfortuna.github.io/fipe/",
+        "Category": "Vehicle"
+    },
+    {
+        "API": "Car List API",
+        "Description": "Vehicle data API for year, make, model, trim, engine specs, powersports, make logos and VIN decoding, built for developers and automotive apps",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://carlistapi.com/",
         "Category": "Vehicle"
     },
     {
