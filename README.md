@@ -151,6 +151,7 @@
 | [Requesty](https://www.requesty.ai) | OpenAI-compatible gateway that routes requests to 600+ models from 30+ providers, with fallbacks, caching and spend tracking | `apiKey` | Yes |
 | [Roboflow Universe](https://universe.roboflow.com) | Pre-trained computer vision models | `apiKey` | Yes |
 | [RouterBase API](https://routerbase.com) | One OpenAI-compatible API for accessing 200+ AI models from OpenAI, Anthropic, Google, Meta, xAI, DeepSeek, and more | `apiKey` | Unknown |
+| [SFW](https://sfwapi.dev) | Nudity detection for images, GIFs and videos with four content levels and an optional blocking policy, 500 free credits a month | `apiKey` | Yes |
 | [SkyBiometry](https://skybiometry.com/documentation/) | Face Detection, Face Recognition and Face Grouping | `apiKey` | Unknown |
 | [Spam Hunter](https://spam-hunter.ru/) | Free service to classify text as spam using ML | `apiKey` | Yes |
 | [Standard Compute](https://standardcompute.com) | OpenAI- and Anthropic-compatible LLM router for AI coding agents that sends each step to the cheapest capable model, on monthly plans from $19 | `apiKey` | Yes |
