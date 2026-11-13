@@ -523,6 +523,7 @@
 | [Coinremitter](https://coinremitter.com/docs) | Cryptocurrencies Payment & Prices | `apiKey` | Unknown |
 | [CoinStats](https://coinstats.app/api-docs/) | Blockchain and DeFi across 120+ chains, market, historical data, portfolio tracking, news, sentiment, MCP, and agent skills | `apiKey` | Yes |
 | [CoinXview](https://coinxview.com) | Crypto prices aggregated from 22 exchanges, OHLC history, Fear & Greed index and per-coin risk score | No | Yes |
+| [Cookin](https://cookin.fun/api) | Pump.fun and Solana memecoin quality scores, bundle detection, trader stats and live trades over REST and WebSocket | `apiKey` | No |
 | [CryptAPI](https://docs.cryptapi.io/) | Cryptocurrency Payment Processor | No | Unknown |
 | [CryptoCompare](https://www.cryptocompare.com/api#) | Cryptocurrencies Comparison | No | Unknown |
 | [CryptoKeyhole](https://cryptokeyhole.com) | On-chain and market metrics for Bitcoin, Ethereum and more, calculated from its own nodes; Free charts need no key | No | No |
