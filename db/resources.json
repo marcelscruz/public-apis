@@ -1,5 +1,5 @@
 {
-"count": 2060,
+"count": 2061,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8383,6 +8383,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://tetr.io/about/api/",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "The Trivia",
+        "Description": "Random multiple choice trivia questions in 10 categories, filterable by difficulty, tag and region",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://the-trivia-api.com",
         "Category": "Games & Comics"
     },
     {
