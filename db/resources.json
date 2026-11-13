@@ -1,5 +1,5 @@
 {
-"count": 2061,
+"count": 2062,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -15039,6 +15039,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://k-agentpay.com/",
+        "Category": "Transportation"
+    },
+    {
+        "API": "Kardinal",
+        "Description": "Route optimization API for delivery fleets: multi-vehicle routing with time windows and vehicle capacities, self-serve with a free tier",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://kardinal.ai/",
         "Category": "Transportation"
     },
     {
