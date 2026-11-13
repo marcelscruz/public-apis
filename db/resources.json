@@ -1,5 +1,5 @@
 {
-"count": 2059,
+"count": 2060,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13903,6 +13903,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://www.wapio.io",
+        "Category": "Social"
+    },
+    {
+        "API": "Wavegrain",
+        "Description": "Upload images and videos, post them to connected social accounts now or at a set time, and read each post's state",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://wavegrain.com",
         "Category": "Social"
     },
     {
