@@ -1,5 +1,5 @@
 {
-"count": 2062,
+"count": 2063,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12631,6 +12631,14 @@
         "Auth": "OAuth",
         "Cors": "yes",
         "Link": "https://ui.adsabs.harvard.edu/help/api/api-docs.html",
+        "Category": "Science & Math"
+    },
+    {
+        "API": "Natal Chart Lab",
+        "Description": "Tropical zodiac positions of the Sun, Moon and planets for any time 1800–2200, live Moon phase, void-of-course windows and retrogrades",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://natalchartlab.com",
         "Category": "Science & Math"
     },
     {
