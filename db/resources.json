@@ -1,5 +1,5 @@
 {
-"count": 2063,
+"count": 2064,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -359,6 +359,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://openai.com/index/openai-api",
+        "Category": "AI"
+    },
+    {
+        "API": "Outrun",
+        "Description": "Prepaid OpenAI-compatible API with one key for GPT, Claude, Gemini, Grok, DeepSeek and more, plus Anthropic and Gemini formats and published per-token prices",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://outrun.to",
         "Category": "AI"
     },
     {
