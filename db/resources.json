@@ -1,5 +1,5 @@
 {
-"count": 2069,
+"count": 2070,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3623,6 +3623,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://24pullrequests.com/api",
+        "Category": "Development"
+    },
+    {
+        "API": "500Toolbox",
+        "Description": "REST API and MCP endpoint exposing 30 PDF, image, converter, calculator and developer tools. API key, 100 free credits a month and 200 welcome credits.",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://www.500toolbox.com/",
         "Category": "Development"
     },
     {
