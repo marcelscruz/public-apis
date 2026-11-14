@@ -936,6 +936,7 @@
 | [ReportForge](https://reportforge-api.vercel.app) | Generate styled HTML reports from CSV or JSON data with built-in templates | No | Yes |
 | [Restpack](https://restpack.io/) | Provides screenshot, HTML to PDF and content extraction APIs | `apiKey` | Unknown |
 | [Stellary](https://stellary.co) | Project management for teams and AI agents via hosted MCP (boards, cards, missions, approvals) | `apiKey` | Unknown |
+| [Tanod](https://tanod.dev/) | Pay-per-call PDF, Office, image and audio APIs; x402 or prepaid keys | `apiKey` | Yes |
 | [Todoist](https://developer.todoist.com) | Todo Lists | `OAuth` | Unknown |
 | [URL to Markdown](https://github.com/macsplit/urltomarkdown) | Convert web page to MarkDown | No | Yes |
 | [Vector Express v2.0](https://vector.express) | Free vector file converting API | No | No |
