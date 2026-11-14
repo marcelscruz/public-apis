@@ -1,5 +1,5 @@
 {
-"count": 2074,
+"count": 2075,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13127,6 +13127,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://offendersearch.app",
+        "Category": "Security"
+    },
+    {
+        "API": "OffSeq Threat Radar",
+        "Description": "CVE, CISA KEV, EPSS and exploit intelligence, IOC checks, and SBOM or lockfile scans with patch prioritization",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://radar.offseq.com",
         "Category": "Security"
     },
     {
