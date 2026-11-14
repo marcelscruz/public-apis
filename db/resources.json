@@ -1,5 +1,5 @@
 {
-"count": 2067,
+"count": 2068,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -63,6 +63,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apimodels.app",
+        "Category": "AI"
+    },
+    {
+        "API": "Asyntai",
+        "Description": "AI customer support agent for business websites: a chat API that answers from your own site content, plus knowledge base, conversations and leads",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://asyntai.com",
         "Category": "AI"
     },
     {
