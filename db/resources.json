@@ -1,5 +1,5 @@
 {
-"count": 2068,
+"count": 2069,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2079,6 +2079,14 @@
         "Auth": "OAuth",
         "Cors": "no",
         "Link": "https://smartsheet.redoc.ly/",
+        "Category": "Business"
+    },
+    {
+        "API": "SONAR KYB",
+        "Description": "Official company register lookups and KYB screening (sanctions, PEP, ICIJ Offshore Leaks, adverse media) as JSON with a source per finding",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://getsonar.report/developers",
         "Category": "Business"
     },
     {
