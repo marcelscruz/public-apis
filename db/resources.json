@@ -1,5 +1,5 @@
 {
-"count": 2064,
+"count": 2065,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4015,6 +4015,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://curlshot.com",
+        "Category": "Development"
+    },
+    {
+        "API": "Data and APIs",
+        "Description": "128 data APIs behind one key: sanctions screening, IP intelligence, email and phone validation, vehicles, holidays, currency rates and more. Free tier",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://dataandapis.com",
         "Category": "Development"
     },
     {
