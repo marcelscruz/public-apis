@@ -1,5 +1,5 @@
 {
-"count": 2073,
+"count": 2074,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -15879,6 +15879,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/thumbnail-from-video",
+        "Category": "Video"
+    },
+    {
+        "API": "GetTranscript",
+        "Description": "YouTube Transcripts Extractor via REST API (TXT, SRT, VTT, JSON, CSV).",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://gettranscript.app",
         "Category": "Video"
     },
     {
