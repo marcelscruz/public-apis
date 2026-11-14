@@ -1913,6 +1913,7 @@
 | [Moonlora](https://moonlora.com) | Moon phases, illumination, moon signs, full/new moon dates (1900–2100), moonrise/moonset by coordinates | No | Yes |
 | [NASA](https://api.nasa.gov) | NASA data, including imagery | No | No |
 | [NASA ADS](https://ui.adsabs.harvard.edu/help/api/api-docs.html) | NASA Astrophysics Data System | `OAuth` | Yes |
+| [Natal Chart Lab](https://natalchartlab.com) | Tropical zodiac positions of the Sun, Moon and planets for any time 1800–2200, live Moon phase, void-of-course windows and retrogrades | No | Yes |
 | [Newton](https://newton.vercel.app) | Symbolic and Arithmetic Math Calculator | No | No |
 | [Noctua](https://api.noctuasky.com/api/v1/swaggerdoc/) | REST API used to access NoctuaSky features | No | Unknown |
 | [Numbers](https://math.tools/api/numbers/) | Number of the day, random number, number facts and anything else you want to do with numbers | `apiKey` | No |
