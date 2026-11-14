@@ -147,6 +147,7 @@
 | [Obscurify AI](https://obscurify.ai) | Anonymous OpenAI-compatible API for 200+ LLMs. Accounts are a random number, no email; pay with Monero, Bitcoin or card | `apiKey` | Yes |
 | [OpenAI](https://openai.com/index/openai-api) | Use AI models such as ChatGPT or DALL-E to experience the capabilities of AI | `apiKey` | Yes |
 | [Outrun](https://outrun.to) | Prepaid OpenAI-compatible API with one key for GPT, Claude, Gemini, Grok, DeepSeek and more, plus Anthropic and Gemini formats and published per-token prices | `apiKey` | Yes |
+| [Peeve](https://peeve.ai) | AI customer support agent for SaaS: REST API for sessions, contacts, hand-offs, usage, guardrails, webhooks and answers | `apiKey` | No |
 | [Perspective](https://perspectiveapi.com) | NLP API to return probability that if text is toxic, obscene, insulting or threatening | `apiKey` | Unknown |
 | [Pictograph](https://pictograph.io) | Label images with SAM3, train RF-DETR and YOLOX detectors, and run them on GPU endpoints that take live RTSP and WebRTC video | `apiKey` | No |
 | [Prismix Status API](https://prismix.dev/api-docs) | Real-time uptime and incident status for 75+ AI services (OpenAI, Anthropic, Cursor, Gemini) | No | Yes |
@@ -390,6 +391,7 @@
 | [Google Analytics](https://developers.google.com/analytics/) | Collect, configure and analyze your data to reach the right audience | `OAuth` | Unknown |
 | [Hexvan](https://hexvan.com) | Contacts, quotes, invoices and receipts of a small trade business (plumbers, electricians, roofers) | `apiKey` | No |
 | [Instatus](https://instatus.com/help/api) | Post to and update maintenance and incidents on your status page through an HTTP REST API | `apiKey` | Unknown |
+| [Linkedcamp](https://www.linkedcamp.com) | LinkedIn and email outreach automation: campaigns, leads, conversations, webhooks and agency sub-accounts | `apiKey` | Yes |
 | [Listings API](https://listingsapi.com) | Manage business locations, sync listings across publishers, respond to reviews, publish posts, and pull local search analytics | `apiKey` | Unknown |
 | [Logo.dev](https://www.logo.dev) | Automated company logo API that updates daily. Transform any domain or company name into verified logos. | `apiKey` | Yes |
 | [logoapi.sh](https://logoapi.sh) | Company logo as SVG by domain, with name search and white, black, grey and dark variants. No key or signup. Free for 1M requests a month per site | No | Yes |
@@ -553,6 +555,7 @@
 | [Messari](https://messari.io/api) | Provides API endpoints for thousands of crypto assets | No | Unknown |
 | [Mobula](https://mobula.io) | Real-time onchain market data, wallet portfolios, and trading streams across multiple chains | `apiKey` | Yes |
 | [Nexchange](https://nexchange2.docs.apiary.io/) | Automated cryptocurrency exchange service | No | Yes |
+| [NoncePay](https://noncepay.app) | Non-custodial crypto payment API: a deposit address per payment, forwarded to your wallet, with signed callbacks and payment links | No | Yes |
 | [NovaDax](https://doc.novadax.com/en-US/#introduction) | NovaDAX API to access all market data, trading management endpoints | `apiKey` | Unknown |
 | [OKEx](https://okx.com/okx-api) | Cryptocurrency exchange based in Seychelles | `apiKey` | Unknown |
 | [OpenSea](https://docs.opensea.io/reference/api-overview) | The Largest NFT Marketplace | `apiKey` | No |
