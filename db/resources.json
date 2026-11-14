@@ -1,5 +1,5 @@
 {
-"count": 2071,
+"count": 2072,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -375,6 +375,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://outrun.to",
+        "Category": "AI"
+    },
+    {
+        "API": "Peeve",
+        "Description": "AI customer support agent for SaaS: REST API for sessions, contacts, hand-offs, usage, guardrails, webhooks and answers",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://peeve.ai",
         "Category": "AI"
     },
     {
