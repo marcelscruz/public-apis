@@ -1402,6 +1402,7 @@
 | [PostalCodes](https://postalcodes.info/api) | Global postal code search, country exports and address validation data | No | No |
 | [Postali](https://postali.app/api) | Mexico Zip Codes API | No | Yes |
 | [Postcodes.io](https://postcodes.io) | Postcode lookup & Geolocation for the UK | No | Yes |
+| [Postio](https://postio.co.uk) | UK address and postcode lookup on Royal Mail PAF data, with email and phone validation | `apiKey` | Yes |
 | [Proweblook IP Checker](https://proweblook.com/ipapi) | Proweblook lookup & Geolocation | `apiKey` | Yes |
 | [REST Countries](https://restcountries.com) | Get information about countries via a RESTful API | No | Yes |
 | [Rwanda Locations](https://rapidapi.com/victorkarangwa4/api/rwanda) | Rwanda Provinces, Districts, Cities, Capital City, Sector, cells, villages and streets | No | Unknown |
