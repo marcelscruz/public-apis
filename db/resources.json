@@ -1,5 +1,5 @@
 {
-"count": 2075,
+"count": 2076,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9215,6 +9215,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://postcodes.io",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "Postio",
+        "Description": "UK address and postcode lookup on Royal Mail PAF data, with email and phone validation",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://postio.co.uk",
         "Category": "Geocoding"
     },
     {
