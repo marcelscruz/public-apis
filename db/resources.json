@@ -1,5 +1,5 @@
 {
-"count": 2066,
+"count": 2067,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4183,6 +4183,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://screenshotapi.to",
+        "Category": "Development"
+    },
+    {
+        "API": "SocialScrape",
+        "Description": "Scrape profiles, posts, comments and transcripts from 29 platforms through one API. 100 free credits, no card",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://socialscrape.dev",
         "Category": "Development"
     },
     {
