@@ -328,6 +328,7 @@
 | [The Graph](https://thegraph.com) | Indexing protocol for querying networks like Ethereum with GraphQL | `apiKey` | Unknown |
 | [Watchdata](https://docs.watchdata.io) | Provide simple and reliable API access to Ethereum blockchain | `apiKey` | Unknown |
 | [WealthVille](https://wealthville.net) | Liquidity pool scores and Enter/Hold/Exit verdicts for Solana and EVM chains | No | Yes |
+| [链小知区块链 (Lianxiaozhi)](https://lianxiaozhi.com) | Chinese blockchain news, event timelines, knowledge guides and onchain tool tutorials | No | Yes |
 
 **[⬆ Back to Index](#index)**
 
