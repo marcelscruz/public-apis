@@ -1,5 +1,5 @@
 {
-"count": 2065,
+"count": 2066,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5887,6 +5887,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://stellary.co",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Tanod",
+        "Description": "Pay-per-call PDF, Office, image and audio APIs; x402 or prepaid keys",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://tanod.dev/",
         "Category": "Documents & Productivity"
     },
     {
