@@ -553,6 +553,7 @@
 | [Messari](https://messari.io/api) | Provides API endpoints for thousands of crypto assets | No | Unknown |
 | [Mobula](https://mobula.io) | Real-time onchain market data, wallet portfolios, and trading streams across multiple chains | `apiKey` | Yes |
 | [Nexchange](https://nexchange2.docs.apiary.io/) | Automated cryptocurrency exchange service | No | Yes |
+| [NoncePay](https://noncepay.app) | Non-custodial crypto payment API: a deposit address per payment, forwarded to your wallet, with signed callbacks and payment links | No | Yes |
 | [NovaDax](https://doc.novadax.com/en-US/#introduction) | NovaDAX API to access all market data, trading management endpoints | `apiKey` | Unknown |
 | [OKEx](https://okx.com/okx-api) | Cryptocurrency exchange based in Seychelles | `apiKey` | Unknown |
 | [OpenSea](https://docs.opensea.io/reference/api-overview) | The Largest NFT Marketplace | `apiKey` | No |
