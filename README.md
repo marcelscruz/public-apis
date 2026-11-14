@@ -408,6 +408,7 @@
 | [RestoSignals](https://restosignals.com) | US restaurants and bars 1-6 months before opening, fused from liquor-license, food-permit and business filings and scored | `apiKey` | No |
 | [Skael](https://api.skael.de/en/) | German commercial register data, new registrations, Google Maps businesses and job boards as B2B lead lists with verified work emails | `apiKey` | Yes |
 | [Smartsheet](https://smartsheet.redoc.ly/) | Allows you to programmatically access and Smartsheet data and account information | `OAuth` | No |
+| [SONAR KYB](https://getsonar.report/developers) | Official company register lookups and KYB screening (sanctions, PEP, ICIJ Offshore Leaks, adverse media) as JSON with a source per finding | `apiKey` | No |
 | [Square](https://developer.squareup.com/reference/square) | Easy way to take payments, manage refunds, and help customers checkout online | `OAuth` | Unknown |
 | [StackScan](https://www.stackscan.com) | Technology stack of any website, and every site running a given technology, across 399M+ sites | `apiKey` | Yes |
 | [SwiftKanban](https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi) | Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity | `apiKey` | Unknown |
