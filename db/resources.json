@@ -1,5 +1,5 @@
 {
-"count": 2072,
+"count": 2073,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3063,6 +3063,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://nexchange2.docs.apiary.io/",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "NoncePay",
+        "Description": "Non-custodial crypto payment API: a deposit address per payment, forwarded to your wallet, with signed callbacks and payment links",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://noncepay.app",
         "Category": "Cryptocurrency"
     },
     {
