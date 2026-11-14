@@ -1,5 +1,5 @@
 {
-"count": 2076,
+"count": 2077,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -15903,6 +15903,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://gettranscript.app",
+        "Category": "Video"
+    },
+    {
+        "API": "GetYouTubeTranscript",
+        "Description": "YouTube transcripts in any caption language as JSON, plus search, channel, playlist and batch endpoints. Credit-based, free credits on signup",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://getyoutubetranscript.com/youtube-transcript-api",
         "Category": "Video"
     },
     {
