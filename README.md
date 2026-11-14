@@ -691,6 +691,7 @@
 | [CrustAPI](https://crustapi.com) | Live public Google and LinkedIn data as clean JSON | `apiKey` | Yes |
 | [CSV to JSON API](https://apyhub.com/utility/converter-csv-json) | Convert CSV files to JSON with this API. Ideal for developers who want to automate data workflows and integrate structured data | `apiKey` | Yes |
 | [CurlShot](https://curlshot.com) | Screenshot API: any URL, HTML or Markdown to PNG, JPEG, WebP, PDF or scrolling video, with full page, devices, dark mode and ad blocking | `apiKey` | Yes |
+| [Data and APIs](https://dataandapis.com) | 128 data APIs behind one key: sanctions screening, IP intelligence, email and phone validation, vehicles, holidays, currency rates and more. Free tier | `apiKey` | No |
 | [Databricks](https://docs.databricks.com/dev-tools/api/latest/index.html) | Service to manage your databricks account,clusters, notebooks, jobs and workspaces | `apiKey` | Yes |
 | [DATPAQ](https://datpaq.com) | Developer-first APIs. Enterprise-ready infrastructure. Sampla data, avatars, image processing and a lot more. | `apiKey` | Yes |
 | [Deed](https://deed.page) | Publish HTML or a static folder to a permanent HTTPS subdomain with one PUT and no signup; also served as a remote MCP server | No | Yes |
