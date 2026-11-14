@@ -1,5 +1,5 @@
 {
-"count": 2070,
+"count": 2071,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1935,6 +1935,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://instatus.com/help/api",
+        "Category": "Business"
+    },
+    {
+        "API": "Linkedcamp",
+        "Description": "LinkedIn and email outreach automation: campaigns, leads, conversations, webhooks and agency sub-accounts",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.linkedcamp.com",
         "Category": "Business"
     },
     {
