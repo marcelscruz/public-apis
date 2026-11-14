@@ -643,6 +643,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [24 Pull Requests](https://24pullrequests.com/api) | Project to promote open source collaboration during December | No | Yes |
+| [500Toolbox](https://www.500toolbox.com/) | REST API and MCP endpoint exposing 30 PDF, image, converter, calculator and developer tools. API key, 100 free credits a month and 200 welcome credits. | `apiKey` | Unknown |
 | [Abacus](https://abacus.jasoncameron.dev/) | Free and simple counting service. You can use it to track page hits and specific events | No | Yes |
 | [Abstract Screenshot](https://www.abstractapi.com/website-screenshot-api) | Programmatic screenshots of a web page. 100 free requests on signup | `apiKey` | Yes |
 | [Agent Gateway](https://agent-gateway-kappa.vercel.app) | 34+ AI agent infrastructure services including memory, wallets, and scheduling | `apiKey` | Yes |
