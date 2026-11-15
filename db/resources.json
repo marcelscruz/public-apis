@@ -1,5 +1,5 @@
 {
-"count": 2078,
+"count": 2079,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11687,6 +11687,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://sofiaplan.bg/api/",
+        "Category": "Open Data"
+    },
+    {
+        "API": "StackRates",
+        "Description": "VPS and cloud server prices from 98 providers, read daily from their own pricing pages and APIs, each with its read date and source link",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://stackrates.ai",
         "Category": "Open Data"
     },
     {
