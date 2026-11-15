@@ -142,7 +142,7 @@
 | [Magic Hour](https://magichour.ai/api) | Generate and edit AI videos, images, and audio through a self-serve REST API | `apiKey` | Yes |
 | [MessengerX.io](https://messengerx.rtfd.io) | A FREE API for developers to build and monetize personalized ML based chat apps | `apiKey` | Yes |
 | [Neuronto](https://neuronto.com) | Free search over MCP servers, A2A agents, skills and APIs across Agentic Resource Discovery registries | No | Yes |
-| [NLP Cloud](https://nlpcloud.io) | NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more | `apiKey` | Unknown |
+| [NLP Cloud](https://nlpcloud.com/) | NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more | `apiKey` | Unknown |
 | [nRouter](https://nrouter.ai) | LLM gateway API — one OpenAI-compatible API key for every model, with smart routing, automatic fallbacks, per-key budgets and guardrails. | `apiKey` | Unknown |
 | [Obscurify AI](https://obscurify.ai) | Anonymous OpenAI-compatible API for 200+ LLMs. Accounts are a random number, no email; pay with Monero, Bitcoin or card | `apiKey` | Yes |
 | [OpenAI](https://openai.com/index/openai-api) | Use AI models such as ChatGPT or DALL-E to experience the capabilities of AI | `apiKey` | Yes |
@@ -222,7 +222,7 @@
 | [Shikimori](https://shikimori.one/api/doc) | Anime discovery, tracking, forum, rates | `OAuth` | Unknown |
 | [Tenrai](https://tenrai.org) | Tenrai is a free Unofficial public REST API for the full MyAnimeList public catalogue. Anime, manga, characters, people, producers, seasons, and more | No | Yes |
 | [Trace Moe](https://soruly.github.io/trace.moe-api/#/) | A useful tool to get the exact scene of an anime from a screenshot | No | No |
-| [Waifu.im](https://waifu.im/docs) | Get waifu pictures from an archive of over 4000 images and multiple tags | No | Yes |
+| [Waifu.im](https://waifu.im/) | Get waifu pictures from an archive of over 4000 images and multiple tags | No | Yes |
 
 **[⬆ Back to Index](#index)**
 
@@ -269,7 +269,7 @@
 | [Favicondl](https://favicondl.com) | Get any website's favicon by URL (SVG/PNG/ICO), with JSON metadata and fallbacks | No | Yes |
 | [GetGenAI (Packaging Compliance Review)](https://www.getgen.ai/build) | Compliance review API for product labels and marketing assets — automated checks against regulations, retailer specs, and brand guidelines, always up to date | `apiKey` | No |
 | [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) | Art | `apiKey` | Unknown |
-| [Icon Horse](https://icon.horse/usage) | Favicons for any website, with fallbacks | No | Yes |
+| [Icon Horse](https://icon.horse) | Favicons for any website, with fallbacks | No | Yes |
 | [Icons8](https://img.icons8.com/) | Icons (find "search icon" hyperlink in page) | No | Unknown |
 | [Ink Studio AI](https://inkstudioai.com) | Generate AI tattoo designs from text prompts in 13 styles and search a public tattoo gallery. One free design per new account, then one-time plans | `apiKey` | No |
 | [Logotypes](https://logotypes.dev/) | Logotypes of the world in multiples format | No | Yes |
@@ -377,7 +377,7 @@
 | [Charity Search](https://charityapi.orghunter.com/) | Non-profit charity data | `apiKey` | Unknown |
 | [CompanyEnrich](https://companyenrich.com) | API for B2B company data enrichment, domain enrichment, and website enrichment | `apiKey` | Yes |
 | [Comunicate.eu](https://comunicate.eu) | Catalogue of 3,800+ news sites for press releases and advertorials: niches, authority, prices | No | Yes |
-| [Crustdata](https://docs.crustdata.com) | People and company data covering profiles, headcount, funding and contacts | `apiKey` | Yes |
+| [Crustdata](https://docs.crustdata.com/general/introduction) | People and company data covering profiles, headcount, funding and contacts | `apiKey` | Yes |
 | [Derrick](https://derrick-app.com) | B2B contact and company enrichment: verified work emails, mobile numbers, firmographics, technologies in use and hiring signals | `apiKey` | No |
 | [Dievio](https://dievio.com) | B2B contact search and LinkedIn profile URL lookup using prepaid API credits | `apiKey` | No |
 | [Dispola](https://dispola.ca) | Open appointment spots today and this week at salons and clinics in Quebec (hair, nails, massage, physio), with booking links | No | Yes |
@@ -529,7 +529,7 @@
 | [Coinpaprika](https://api.coinpaprika.com) | Cryptocurrencies prices, volume and more | No | Yes |
 | [CoinRanking](https://developers.coinranking.com/api/documentation) | Live Cryptocurrency data | `apiKey` | Unknown |
 | [Coinremitter](https://coinremitter.com/docs) | Cryptocurrencies Payment & Prices | `apiKey` | Unknown |
-| [CoinStats](https://coinstats.app/api-docs/) | Blockchain and DeFi across 120+ chains, market, historical data, portfolio tracking, news, sentiment, MCP, and agent skills | `apiKey` | Yes |
+| [CoinStats](https://coinstats.app/api-docs) | Blockchain and DeFi across 120+ chains, market, historical data, portfolio tracking, news, sentiment, MCP, and agent skills | `apiKey` | Yes |
 | [CoinXview](https://coinxview.com) | Crypto prices aggregated from 22 exchanges, OHLC history, Fear & Greed index and per-coin risk score | No | Yes |
 | [Cookin](https://cookin.fun/api) | Pump.fun and Solana memecoin quality scores, bundle detection, trader stats and live trades over REST and WebSocket | `apiKey` | No |
 | [CryptAPI](https://docs.cryptapi.io/) | Cryptocurrency Payment Processor | No | Unknown |
@@ -550,7 +550,7 @@
 | [Kraken](https://docs.kraken.com/rest/) | Cryptocurrencies Exchange | `apiKey` | Unknown |
 | [KuCoin](https://docs.kucoin.com/) | Cryptocurrency Trading Platform | `apiKey` | Unknown |
 | [MadeOnSol](https://madeonsol.com) | Real-time Solana and Robinhood Chain data - KOL trades, deployer reputation, token risk, DEX streams | `apiKey` | Yes |
-| [Mempool](https://mempool.space/api) | Bitcoin API Service focusing on the transaction fee | No | No |
+| [Mempool](https://mempool.space/docs/api) | Bitcoin API Service focusing on the transaction fee | No | No |
 | [MercadoBitcoin](https://api.mercadobitcoin.net/api/v4/docs) | Brazilian Cryptocurrency Information | No | Unknown |
 | [Messari](https://messari.io/api) | Provides API endpoints for thousands of crypto assets | No | Unknown |
 | [Mobula](https://mobula.io) | Real-time onchain market data, wallet portfolios, and trading streams across multiple chains | `apiKey` | Yes |
@@ -601,7 +601,7 @@
 | [Exchange-Rate](https://exchange-rateapi.com) | Live currency exchange rates and conversion for 160+ currencies | `apiKey` | Yes |
 | [ExchangeRate-API](https://www.exchangerate-api.com) | Free currency conversion | `apiKey` | Yes |
 | [Exchangerate.host](https://exchangerate.host) | Free foreign exchange & crypto rates API | `apiKey` | Unknown |
-| [Frankfurter](https://www.frankfurter.app/docs) | Exchange rates, currency conversion and time series | No | Yes |
+| [Frankfurter](https://frankfurter.dev/) | Exchange rates, currency conversion and time series | No | Yes |
 | [FxFeed.io](https://fxfeed.io) | Foreign exchange rates, currency conversion and time series data | `apiKey` | Yes |
 | [FxRatesAPI](https://fxratesapi.com/) | Real-time exchange rates, historical rates and currency conversion | `apiKey` | No |
 | [Manyapis](https://manyapis.com/products/currency/usd-to-eur-rate) | Exchange rates and currency conversion with free plan 50 requests/day | `apiKey` | Yes |
@@ -824,7 +824,7 @@
 | [SearXNG](https://docs.searxng.org/dev/search_api.html) | Open-source meta-search engine aggregating results from multiple sources | No | Yes |
 | [Sent.dm](https://sent.dm) | Sent is a unified API for messaging across SMS and apps like WhatsApp | `apiKey` | Yes |
 | [SEO Score](https://seoscoreapi.com) | Comprehensive SEO audit with 28 checks, scoring, and prioritized recommendations | `apiKey` | Yes |
-| [SEO Tags Generator API](https://apyhub.com/utility/sharpapi-generate-seo-tags) | The Generate SEO Tags API generates all the most important META tags based on any content | `apiKey` | Yes |
+| [SEO Tags Generator API](https://apyhub.com/sharpapi/service/generate-seo-tags) | The Generate SEO Tags API generates all the most important META tags based on any content | `apiKey` | Yes |
 | [Serialif Color](https://color.serialif.com/) | Color conversion, complementary, grayscale and contrasted text | No | No |
 | [SERP Rank Checker](https://apyhub.com/utility/serp-rank) | Check realtime Google SERP Rank of any keywords | `apiKey` | Yes |
 | [SerpApi - Search API](https://serpapi.com/) | SerpApi's Search API makes it easy and fast to scrape Google and other search engines | `apiKey` | No |
@@ -991,7 +991,7 @@
 | [NoParam](https://noparam.com) | Email validation API for real-time & bulk checking | `apiKey` | Unknown |
 | [Notilify](https://documenter.getpostman.com/view/32462468/2s9YsT6ong) | A seamless messaging platform & API to send all types of SMS | `apiKey` | Yes |
 | [Proweblook Email Checker](https://proweblook.com/email-verifier) | Validate email addresses without sending | `apiKey` | Yes |
-| [Resend](https://resend.com/docs/) | Email API for developers | `apiKey` | Yes |
+| [Resend](https://resend.com/docs/introduction) | Email API for developers | `apiKey` | Yes |
 | [Sendgrid](https://docs.sendgrid.com/api-reference/) | A cloud-based SMTP provider that allows you to send emails without having to maintain email servers | `apiKey` | Unknown |
 | [Sendinblue](https://developers.sendinblue.com/docs) | A service that provides solutions relating to marketing and/or transactional email and/or SMS | `apiKey` | Unknown |
 | [SendRaven](https://sendraven.ai) | Email API for AI agents: send from your own domain, receive replies as threads, and cap or hold sends for approval per API key | `apiKey` | No |
@@ -1118,7 +1118,6 @@
 | [IIN API](https://iinapi.com) | IIN API allows you to accurately identify the issuing bank, card type, country of origin, and other details from a credit or debit card number. This is essential for fraud prevention, payment processing, and customer verification. | `apiKey` | Yes |
 | [Indian Mutual Fund](https://www.mfapi.in/) | Get complete history of India Mutual Funds Data | No | Unknown |
 | [Intrinio](https://intrinio.com/) | A wide selection of financial data feeds | `apiKey` | Unknown |
-| [KeepRule](https://github.com/henu-wang/keeprule-api) | Investment principles and quotes from Buffett, Munger, and other masters | No | Yes |
 | [Kite Connect](https://kite.trade/docs/connect/v3/) | Stock market investment and trading platform | `apiKey` | No |
 | [Klarna](https://docs.klarna.com/klarna-payments/api/payments-api/) | Klarna payment and shopping service | `apiKey` | Unknown |
 | [LiquiLens](https://liquilens.in) | Public-record bank and lender failure-risk evidence | No | Yes |
@@ -1323,7 +1322,7 @@
 ### Geocoding
 | API | Description | Auth | CORS |
 |---|---|---|---|
-| [Abstract IP Geolocation](https://www.abstractapi.com/ip-geolocation-api) | City, region, and country for any IP. 100 free requests on signup | `apiKey` | Yes |
+| [Abstract IP Geolocation](https://www.abstractapi.com/api/ip-geolocation-api) | City, region, and country for any IP. 100 free requests on signup | `apiKey` | Yes |
 | [Actinia Grass GIS](https://actinia.mundialis.de/api_docs/) | Actinia is an open source REST API for geographical data that uses GRASS GIS | `apiKey` | Unknown |
 | [administrative-divisons-db](https://github.com/kamikazechaser/administrative-divisions-db) | Get all administrative divisions of a country | No | Yes |
 | [adresse.data.gouv.fr](https://adresse.data.gouv.fr) | Address database of France, geocoding and reverse | No | Unknown |
@@ -1386,7 +1385,7 @@
 | [Mapbase](https://mapbase.dev/) | Location registry API for official locations, zones, hierarchy, and geometry | `apiKey` | Yes |
 | [Mapbox](https://docs.mapbox.com/) | Create/customize beautiful digital maps | `apiKey` | Unknown |
 | [MapQuest](https://developer.mapquest.com/) | To access tools and resources to map the world | `apiKey` | No |
-| [Metadapi Zip Code](https://www.metadapi.com/API-Products/Zip-Code-API) | Enhanced United States zip code information. Census, IRS, demographics, radius, distances and more | `apiKey` | Yes |
+| [Metadapi Zip Code](https://www.metadapi.com/API-Directory/Zip-Code-API) | Enhanced United States zip code information. Census, IRS, demographics, radius, distances and more | `apiKey` | Yes |
 | [Mexico](https://github.com/IcaliaLabs/sepomex) | Mexico RESTful zip codes API | No | Unknown |
 | [Network Data Labs](https://www.networkdatalabs.com/) | IP geolocation with ASN, timezone and risk flags | `apiKey` | No |
 | [Nominatim](https://nominatim.org/release-docs/latest/api/Overview/) | Provides worldwide forward / reverse geocoding | No | Yes |
@@ -1455,7 +1454,7 @@
 | [Contratero](https://contratero.es/docs) | Spanish public tenders and awards from the official PLACSP platform, updated hourly, with buyer and winner per contract | `apiKey` | No |
 | [Conversor IAE CNAE](https://conversoriaecnae.es) | Spanish IAE/CNAE tax activity codes, 2009→2025 crosswalk and AEAT obligations | `apiKey` | No |
 | [Court Rules](https://www.courtrules.app/api) | Free reference for U.S. federal court rules, local rules, judge standing orders and court holidays, with a deadline calculator, a public API and an MCP server. | `apiKey` | No |
-| [Data USA](https://datausa.io/about/api/) | US Public Data | No | Unknown |
+| [Data USA](https://datausa.io/about/api) | US Public Data | No | Unknown |
 | [Data.gov](https://api.data.gov/) | US Government Data | `apiKey` | Unknown |
 | [Data.parliament.uk](https://explore.data.parliament.uk/) | Contains live datasets including information about petitions, bills, MP votes, attendance and more | No | Unknown |
 | [Dedline.io API](https://github.com/dedline-io/dedline-api) | Data for US state voter registration deadlines and details, for primaries and general elections | No | Yes |
@@ -1688,7 +1687,7 @@
 | [NewsData](https://newsdata.io/docs) | News data API for live-breaking news and headlines from reputed news sources | `apiKey` | Unknown |
 | [NewsDataHub](https://newsdatahub.com) | NewsDataHub provides a production-ready REST API delivering near-real-time global news data at scale | `apiKey` | Yes |
 | [NewsMesh](https://newsmesh.co) | Access the news articles from trusted sources with real-time updates & powerful search capabilities | `apiKey` | Yes |
-| [NewsX](https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/) | Get or Search Latest Breaking News with ML Powered Summaries 🤖 | `apiKey` | Unknown |
+| [NewsX](https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx) | Get or Search Latest Breaking News with ML Powered Summaries 🤖 | `apiKey` | Unknown |
 | [Sonto](https://sonto.tech) | Tech and AI news as JSON or RSS, with translated feeds in EN, DE, ES, FR, JA | No | Yes |
 | [Spaceflight News](https://spaceflightnewsapi.net) | Spaceflight related news 🚀 | No | Yes |
 | [Substack API Wrapper](https://github.com/NHagar/substack_api) | Substack's newsletter platform now has an API wrapper, for easy access to latest posts | No | Unknown |
@@ -2051,7 +2050,7 @@
 | [Blogger](https://developers.google.com/blogger/) | The Blogger APIs allows client applications to view and update Blogger content | `OAuth` | Unknown |
 | [Breakreach](https://www.breakreach.com) | Schedule and publish posts to 19 social networks with one REST API, SDKs and a hosted MCP server | `apiKey` | No |
 | [BulkPublish](https://www.bulkpublish.com) | Schedule and publish posts to 15 social networks | `apiKey` | Yes |
-| [Discord](https://discord.com/developers/docs/intro) | Make bots for Discord, integrate Discord onto an external platform | `OAuth` | Unknown |
+| [Discord](https://docs.discord.com/developers/intro) | Make bots for Discord, integrate Discord onto an external platform | `OAuth` | Unknown |
 | [Disqus](https://disqus.com/api/docs/auth/) | Communicate with Disqus data | `OAuth` | Unknown |
 | [Facebook](https://developers.facebook.com/) | Facebook Login, Share on FB, Social Plugins, Analytics and more | `OAuth` | Unknown |
 | [Feedframer](https://feedframer.com) | Instagram feed posts as JSON, GraphQL or RSS with automatic token refresh | `apiKey` | Yes |
@@ -2094,7 +2093,7 @@
 | [TamTam](https://dev.tamtam.chat/) | Bot API to interact with TamTam | `apiKey` | Unknown |
 | [Telegram Bot](https://core.telegram.org/bots/api) | Simplified HTTP version of the MTProto API for bots | `apiKey` | Unknown |
 | [Telegram MTProto](https://core.telegram.org/api#getting-started) | Read and write Telegram data | `OAuth` | Unknown |
-| [TikTok](https://developers.tiktok.com/doc/login-kit-web) | Fetches user info and user's video posts on TikTok platform | `OAuth` | Unknown |
+| [TikTok](https://developers.tiktok.com/docs/en/login-kit-web) | Fetches user info and user's video posts on TikTok platform | `OAuth` | Unknown |
 | [TikTok LIVE](https://rngrow.com/api-docs) | TikTok LIVE creator data: recruitable creators, league boards, rankings and top gifters | `apiKey` | Yes |
 | [Trash Nothing](https://trashnothing.com/developer) | A freecycling community with thousands of free items posted every day | `OAuth` | Yes |
 | [Tumblr](https://www.tumblr.com/docs/en/api/v2) | Read and write Tumblr Data | `OAuth` | Unknown |
@@ -2218,7 +2217,7 @@
 | [Code Detection API](https://codedetectionapi.runtime.dev) | Detect, label, format and enrich the code in your app or in your data pipeline | `OAuth` | Unknown |
 | [Convert Text to Speech API](https://apyhub.com/utility/text-to-speech/) | This API converts any text to speech automatically | `apiKey` | Yes |
 | [Detect Language](https://detectlanguage.com/) | Detects text language | `apiKey` | Unknown |
-| [Detect Language API](https://apyhub.com/utility/language-detector) | This API detects the language from any text (+ 50 languages supported) | `apiKey` | Yes |
+| [Detect Language API](https://apyhub.com/apyhub/service/detect-language) | This API detects the language from any text (+ 50 languages supported) | `apiKey` | Yes |
 | [ELI](https://nlp.insightera.co.th/docs/v1.0) | Natural Language Processing Tools for Thai Language | `apiKey` | Unknown |
 | [Fuzzy Text Search API](https://apyhub.com/utility/search-fuzzy-text) | The Fuzzy Text Search API finds close matches for user queries, handling typos and partial inputs to deliver relevant results quickly and accurately | `apiKey` | Yes |
 | [Google Cloud Natural](https://cloud.google.com/natural-language/docs/) | Natural language understanding technology, including sentiment, entity and syntax analysis | `apiKey` | Unknown |
@@ -2292,7 +2291,7 @@
 | [Swedavia Airports](https://apideveloper.swedavia.se/) | Airport and flight information of Swedish Airports operated by Swedavia | `apiKey` | No |
 | [Tankerkoenig](https://creativecommons.tankerkoenig.de/swagger/) | German realtime gas/diesel prices | `apiKey` | Yes |
 | [Trackr TMS](https://rapidapi.com/jccm6/api/trackr-tms) | Trackr API makes it easy to create, assign, and track shipments, with driver support, movement history, and more | `apiKey` | No |
-| [TransitLand](https://www.transit.land/documentation/datastore/api-endpoints.html) | Transit Aggregation | No | Unknown |
+| [TransitLand](https://www.transit.land/documentation/datastore/api-endpoints) | Transit Aggregation | No | Unknown |
 | [Transport for Atlanta, US](https://www.itsmarta.com/app-developer-resources.aspx) | Marta | No | Unknown |
 | [Transport for Auckland, New Zealand](https://dev-portal.at.govt.nz/) | Auckland Transport | No | Unknown |
 | [Transport for Belgium](https://docs.irail.be/) | The iRail API is a third-party API for Belgian public transport by train | No | Yes |
@@ -2461,7 +2460,7 @@
 | [GISTDA](https://disaster.gistda.or.th/services/open-api) | Thailand natural disaster information | `apiKey` | Unknown |
 | [GribStream](https://gribstream.com/) | Global weather forecast API for any use. Leverage the NBM and GFS models. Great for bulk pulls | `apiKey` | Unknown |
 | [Grill Index](https://grillindex.cblabs.app/) | Scores grilling conditions 0–100 for any location: best cook window, week ahead, charcoal/gas/smoker tuning. No key needed | No | No |
-| [HG Weather](https://hgbrasil.com/status/weather) | Provides weather forecast data for cities in Brazil | `apiKey` | Yes |
+| [HG Weather](https://hgbrasil.com/weather/) | Provides weather forecast data for cities in Brazil | `apiKey` | Yes |
 | [Hong Kong Obervatory](https://www.hko.gov.hk/en/abouthko/opendata_intro.htm) | Provide weather information, earthquake information, and climate data | No | Unknown |
 | [Korea Meteorological Administration](https://apihub.kma.go.kr/) | Weather and climate data from KMA | `apiKey` | Unknown |
 | [Met Office DataPoint](https://www.metoffice.gov.uk/services/data/datapoint/) | Weather data for the UK | `apiKey` | Unknown |
