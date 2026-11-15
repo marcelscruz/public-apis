@@ -1,5 +1,5 @@
 {
-"count": 2082,
+"count": 2083,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7591,6 +7591,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developer.edamam.com/edamam-docs-recipe-api",
+        "Category": "Food & Drink"
+    },
+    {
+        "API": "Fast Food Index",
+        "Description": "US fast food menu prices: chain medians, Big Mac Index by state and verified price changes",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://fastfoodindex.com/api/",
         "Category": "Food & Drink"
     },
     {
