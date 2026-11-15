@@ -159,6 +159,7 @@
 | [UberLLM](https://uberllm.dev) | OpenAI- and Anthropic-compatible API for GPT, Claude, Gemini, DeepSeek and uncensored models plus image, video and music, billed at provider cost | `apiKey` | Yes |
 | [UnoRouter](https://unorouter.com) | OpenAI compatible gateway with one key for every major model provider, automatic failover and a free tier | `apiKey` | Yes |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Unknown |
+| [UplinkSwitch](https://uplinkswitch.ai) | One key and one OpenAI- or Anthropic-compatible base URL for 350 chat, embedding, rerank and transcription models from OpenAI, Anthropic, Google and the open-weight labs, billed per million tokens against prepaid credit. The model catalog and prices are readable without a key | `apiKey` | Yes |
 | [UpRes](https://upres.ai) | Image, video and speech restoration up to 8K through a self-serve REST API | `apiKey` | No |
 | [Voxell Forge](https://voxell.ai/forge) | OpenAI-compatible text embeddings API. The turbo model is free forever with no credit card; pro and ultra are paid | `apiKey` | No |
 | [WaveSpeedAI](https://wavespeed.ai) | Generate images, video and audio from 900+ open and commercial models (FLUX, Seedream, Kling, Wan) through one async REST API | `apiKey` | Yes |
