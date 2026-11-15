@@ -1,5 +1,5 @@
 {
-"count": 2079,
+"count": 2080,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10687,6 +10687,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.juju.com/publisher/spec/",
+        "Category": "Jobs"
+    },
+    {
+        "API": "Microworker",
+        "Description": "Micro-task marketplace: post and fund small online tasks, track automatic payments and review workers' submissions",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://microworker.app",
         "Category": "Jobs"
     },
     {
