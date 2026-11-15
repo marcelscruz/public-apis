@@ -1647,6 +1647,7 @@
 | [Mixcloud](https://www.mixcloud.com/developers/) | Music | `OAuth` | Yes |
 | [Mubert AI Music API](https://landing.mubert.com) | Integrate AI music into your app, game or service | `apiKey` | Unknown |
 | [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) | Music | No | Unknown |
+| [No Stairs Please MCP](https://nostairsplease.com/mcp) | Live-music venues, capacities, and booking contacts across all 50 US states, DC, and BC (MCP) | No | Yes |
 | [MusicGPT](https://musicgpt.com/api) | AI Music Generator with text-to-speech, voice changer, remix & 20+ music features. | `apiKey` | Yes |
 | [Musixmatch](https://www.musixmatch.com/pro/api/) | Access lyrics, subtitles and music data | `apiKey` | Yes |
 | [Openwhyd](https://openwhyd.github.io/openwhyd/API) | Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...) | No | No |
