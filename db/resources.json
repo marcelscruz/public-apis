@@ -1,5 +1,5 @@
 {
-"count": 2077,
+"count": 2078,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5759,6 +5759,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developer.monday.com/",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "MyLastWill",
+        "Description": "Drafts U.S. wills, codicils and charity beneficiary wording, and returns each state's will-signing rules and estate tax estimates",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://mylastwill.org",
         "Category": "Documents & Productivity"
     },
     {
