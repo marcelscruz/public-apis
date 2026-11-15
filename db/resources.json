@@ -1,5 +1,5 @@
 {
-"count": 2084,
+"count": 2085,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14543,6 +14543,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://strava.github.io/api/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "StrikerAPI",
+        "Description": "Soccer data for 17 leagues: lineups, match events with shot locations and xG, standings and sportsbook odds",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://strikerapi.com",
         "Category": "Sports & Fitness"
     },
     {
