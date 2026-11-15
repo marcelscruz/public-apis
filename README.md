@@ -1179,6 +1179,7 @@
 | [Dish Directory](https://dishdirectory.com) | Restaurants with their dishes, prices and hours, by city | No | Yes |
 | [Edamam nutrition](https://developer.edamam.com/edamam-docs-nutrition-api) | Nutrition Analysis | `apiKey` | Unknown |
 | [Edamam recipes](https://developer.edamam.com/edamam-docs-recipe-api) | Recipe Search | `apiKey` | Unknown |
+| [Fast Food Index](https://fastfoodindex.com/api/) | US fast food menu prices: chain medians, Big Mac Index by state and verified price changes | No | Yes |
 | [FiberUp Fiber Database](https://fiberup.app/data/) | Dietary fiber per serving and per 100 g, split into soluble and insoluble, for ~200 common foods | No | Yes |
 | [Foodish](https://github.com/surhud004/Foodish#readme) | Random pictures of food dishes | No | Yes |
 | [GustoQR](https://www.gustoqr.com) | QR code menus for restaurants and cafés: read and change menus, items and prices, read orders, tables and the activity log | `apiKey` | Yes |
