@@ -2167,6 +2167,7 @@
 | [SportStatsAPI](https://sportstatsapi.com/) | Live scores, fixtures, standings and historical data across 10 sports; free tier: 300 requests/day | `apiKey` | Unknown |
 | [Squiggle](https://api.squiggle.com.au) | Fixtures, results and predictions for Australian Football League matches | No | Yes |
 | [Strava](https://strava.github.io/api/) | Connect with athletes, activities and more | `OAuth` | Unknown |
+| [StrikerAPI](https://strikerapi.com) | Soccer data for 17 leagues: lineups, match events with shot locations and xG, standings and sportsbook odds | `apiKey` | Yes |
 | [Table Tennis API](https://tabletennis-api.com) | The best table tennis API, including stats, predictions, rankings (also ELO), odds, live scores, point by point. Table Tennis websocket also available | `apiKey` | Yes |
 | [Tennis API](https://tennis-api.com) | Premium tennis API with free plan also available. Tennis stats, predictions, odds, live scores, point by point. Tennis websocket also available. | `apiKey` | Yes |
 | [TheSportsDB](https://www.thesportsdb.com/api.php) | Crowd-Sourced Sports Data and Artwork | `apiKey` | Yes |
