@@ -1,5 +1,5 @@
 {
-"count": 2083,
+"count": 2084,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14199,6 +14199,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://cricket-api.net",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "DunkAPI",
+        "Description": "NBA, WNBA and NCAA basketball: play-by-play with shot locations, box scores, player props and sportsbook odds",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://dunkapi.com",
         "Category": "Sports & Fitness"
     },
     {
