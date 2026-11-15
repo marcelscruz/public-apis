@@ -2084,6 +2084,7 @@
 | [ShortsIntel](https://www.shortsintel.com) | Short-form video and ad intelligence API and MCP server: TikTok, Instagram Reels, YouTube Shorts and Meta ad library data with AI video analysis | `apiKey` | No |
 | [Signals](https://signals.sh) | Marketplace API to quote, place, and track Reddit and Quora promotion orders, with catalog and wallet endpoints | `apiKey` | No |
 | [Slack](https://api.slack.com/) | Team Instant Messaging | `OAuth` | Unknown |
+| [Social Fetch](https://www.socialfetch.dev) | Public posts, profiles, comments, transcripts and search from TikTok, Instagram, LinkedIn, X, YouTube, Reddit and more | `apiKey` | Yes |
 | [Social Media Management API](https://omnisocials.com/) | Schedule and publish posts, upload media, and fetch analytics across 11 social platforms like Instagram, TikTok, LinkedIn, and X, from one REST API | `apiKey` | No |
 | [SocialClaw](https://getsocialclaw.com/) | Unified API to schedule and publish posts across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, Discord, Telegram, and WordPress | `apiKey` | Yes |
 | [SocialData API](https://socialdata.tools) | Read Twitter data | `apiKey` | No |
