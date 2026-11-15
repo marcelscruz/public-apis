@@ -922,6 +922,7 @@
 | [Mattermost](https://api.mattermost.com/) | An open source platform for developer collaboration | `OAuth` | Unknown |
 | [MConverter](https://dev.mconverter.eu/) | File converter and PDF compressor. Extract images from video, convert documents, Markdown and more | `apiKey` | Unknown |
 | [Monday](https://developer.monday.com/) | Programmatically access and update data inside a monday.com account | `apiKey` | Unknown |
+| [MyLastWill](https://mylastwill.org) | Drafts U.S. wills, codicils and charity beneficiary wording, and returns each state's will-signing rules and estate tax estimates | No | Yes |
 | [Notion](https://developers.notion.com/docs/getting-started) | Integrate with Notion | `OAuth` | Unknown |
 | [Nutrient Data Extraction API](https://www.nutrient.io/api/data-extraction-api/) | Extract AI-ready JSON or Markdown from PDFs, scans, images, and Office files with OCR, schemas, source citations, confidence scores, and layout data | `apiKey` | Unknown |
 | [Optiic](https://optiic.dev) | OCR API that extracts text from images and PDFs, sent as a file or a URL, with optional translation of the result | `apiKey` | Yes |
