@@ -1,5 +1,5 @@
 {
-"count": 2081,
+"count": 2082,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13911,6 +13911,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://api.slack.com/",
+        "Category": "Social"
+    },
+    {
+        "API": "Social Fetch",
+        "Description": "Public posts, profiles, comments, transcripts and search from TikTok, Instagram, LinkedIn, X, YouTube, Reddit and more",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.socialfetch.dev",
         "Category": "Social"
     },
     {
