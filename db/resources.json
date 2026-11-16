@@ -1,5 +1,5 @@
 {
-"count": 2095,
+"count": 2096,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10783,6 +10783,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://openpath.sh",
+        "Category": "Jobs"
+    },
+    {
+        "API": "openradar",
+        "Description": "Open feed of job vacancies and freelance orders; documented no-key REST API (endpoints, parameters, responses), OpenAPI 3.1, RSS and MCP",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://openradar.fun/docs",
         "Category": "Jobs"
     },
     {
