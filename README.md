@@ -121,6 +121,7 @@
 | [GenRelay](https://genrelay.ai) | Unified API for image and video generation models (Nano Banana, Seedance, GPT Image, Veo), pay-as-you-go in USD with free credits | `apiKey` | Yes |
 | [Gladia](https://docs.gladia.io) | Artificial intelligence API's | `apiKey` | No |
 | [HarnessRouter](https://harnessrouter.ai) | Run coding agent harnesses (Codex, Claude Code, Hermes) behind your product through one API | `apiKey` | Unknown |
+| [HiAPI](https://hiapi.ai) | Pay-as-you-go key for image, video, audio and text models (GPT Image, Seedance, Kling, Veo, DeepSeek), OpenAI-compatible text and async media task APIs | `apiKey` | No |
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Discovery API for AI agents & MCP servers (search, verify, UAID, chat) | `apiKey` | Yes |
 | [HopBase](https://hop-base.com) | Text, image and video models such as Claude, GPT, Gemini, DeepSeek and Qwen through one OpenAI-, Anthropic- and Gemini-compatible API | `apiKey` | Yes |
 | [Imagera](https://imagera.ai/developers) | One API key for 328 image, video and audio models plus 320+ language models on an OpenAI-compatible endpoint, paid from a prepaid balance | `apiKey` | Yes |
