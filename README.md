@@ -1525,6 +1525,7 @@
 | [Open Government, West Australia](https://data.wa.gov.au/) | West Australia Open Data | No | Unknown |
 | [OpenRegistry](https://openregistry.sophymarine.com) | Real-time queries to 27 national company registries (UK, FR, DE, IT, ES, KR + 21 more) | `OAuth` | Unknown |
 | [PolitiData](https://politidata.ca) | Canadian political financing, lobbying registrations and communications | `apiKey` | Unknown |
+| [Prawnet](https://prawnet.pl/en/dane/api) | Polish case-law graph: rulings citing each provision, citation network, appeal outcomes, case-number verification and court statistics | `apiKey` | Yes |
 | [PRC Exam Schedule](https://api.whenisthenextboardexam.com/docs/) | Unofficial Philippine Professional Regulation Commission's examination schedule | No | Yes |
 | [ProcureData](https://procuredata.ca) | Canadian federal procurement contracts, tenders and awards | `apiKey` | Unknown |
 | [PublicDataHub](https://publicdatahub.org) | US public schools, hospitals and federal agency budgets as JSON/CSV, with provenance on every record | No | Yes |
