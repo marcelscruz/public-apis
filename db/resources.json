@@ -1,5 +1,5 @@
 {
-"count": 2096,
+"count": 2097,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10815,6 +10815,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://reqbeat.com",
+        "Category": "Jobs"
+    },
+    {
+        "API": "SpaceJobs.Now",
+        "Description": "Open jobs and internships at 200+ space companies, read daily from their own careers sites, with posted pay",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://spacejobs.now/data",
         "Category": "Jobs"
     },
     {
