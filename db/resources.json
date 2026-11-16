@@ -1,5 +1,5 @@
 {
-"count": 2093,
+"count": 2094,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6127,6 +6127,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://emailvalidation.io/email-validation-api/",
+        "Category": "Email"
+    },
+    {
+        "API": "FairValid",
+        "Description": "Verify email addresses or CSV lists, retrieve job results and check workspace credits through a self-serve server API",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://fairvalid.com",
         "Category": "Email"
     },
     {
