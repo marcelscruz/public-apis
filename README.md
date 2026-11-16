@@ -2176,6 +2176,7 @@
 | [TipsAudit](https://tipsaudit.com/api) | Football fair odds (bookmaker margin removed) and bookmaker margin index | No | Yes |
 | [Tredict](https://www.tredict.com/blog/oauth_docs/) | Get and set activities, health data and more | `OAuth` | Unknown |
 | [UFCalendar Fight Data](https://www.ufcalendar.com/developers) | UFC, PFL, OKTAGON, BKFC and RIZIN events, results, round stats, rankings history | `apiKey` | Yes |
+| [UnderdogAPI](https://underdogapi.com) | Unofficial Underdog Fantasy pick'em lines with Higher/Lower multipliers, line history and results | `apiKey` | No |
 | [Wger](https://wger.de/en/software/api) | Workout manager data as exercises, muscles or equipment | `apiKey` | Unknown |
 | [Your Move - Exercise API](https://ymove.app/exercise-api) | Exercise API with 2,200+ real HD exercise videos filmed with trainers. Muscle, equipment and difficulty filters, workout and program generation. | `apiKey` | Yes |
 
