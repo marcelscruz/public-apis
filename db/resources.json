@@ -1,5 +1,5 @@
 {
-"count": 2097,
+"count": 2098,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5735,6 +5735,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://html2pdf.app/",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "HumanPen",
+        "Description": "Document-level humanize (DOCX/PPTX/TXT), condense (DOCX), citation format correction (12 styles), and translation (12 languages)",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://api.humanpen.net/v1/docs.md",
         "Category": "Documents & Productivity"
     },
     {
