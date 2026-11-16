@@ -1353,6 +1353,7 @@
 | [geoPlugin](https://www.geoplugin.com) | IP geolocation and currency conversion | No | Yes |
 | [Google Earth Engine](https://developers.google.com/earth-engine/) | A cloud-based platform for planetary-scale environmental data analysis | `apiKey` | Unknown |
 | [Google Maps](https://developers.google.com/maps/) | Create/customize digital maps based on Google Maps data | `apiKey` | Unknown |
+| [Google Maps Places](https://apify.com/johnvc/google-maps-places-api) | Fast Google Maps places data: business names, addresses, phone numbers, websites, ratings, categories, coordinates, and opening hours as JSON. | `apiKey` | Unknown |
 | [Graph Countries](https://github.com/lennertVanSever/graphcountries) | Country-related data like currencies, languages, flags, regions+subregions and bordering countries | No | Unknown |
 | [HackMyIP](https://hackmyip.com) | IP geolocation and ASN lookup with privacy/VPN scoring, no API key required | No | Yes |
 | [HelloSalut](https://fourtonfish.com/project/hellosalut-api/) | Get hello translation following user language | No | Unknown |
