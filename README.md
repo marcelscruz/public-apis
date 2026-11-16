@@ -354,6 +354,7 @@
 | [Readark](https://readark.app/developers/) | Dark romance books with separate spice and darkness ratings, subgenres, tropes and authors | No | Yes |
 | [Scholar Sidekick](https://scholar-sidekick.com) | Resolve scholarly IDs (DOI, PMID, ISBN, arXiv) and format citations in multiple styles | No | Yes |
 | [Sefaria](https://developers.sefaria.org/reference/getting-started) | Jewish texts | No | Yes |
+| [Sovereign Logos](https://sovereignlogos.com/developers) | Free Bible API: Septuagint, KJV, Geneva and more. No key. Citations on every passage. | No | Yes |
 | [Stephen King](https://stephen-king-api.onrender.com/) | The varied works and characters of the prolific author Stephen King | No | Unknown |
 | [The Bible](https://docs.api.bible) | Everything you need from the Bible in one discoverable place | `apiKey` | Unknown |
 | [Thirukkural](https://api-thirukkural.web.app/) | 1330 Thirukkural poems and explanation in Tamil and English | No | Yes |
