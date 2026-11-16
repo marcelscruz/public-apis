@@ -1,5 +1,5 @@
 {
-"count": 2088,
+"count": 2089,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14455,6 +14455,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://rapidapi.com/heisenbug/api/premier-league-live-scores/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "PrizePicksAPI",
+        "Description": "Unofficial PrizePicks player-prop lines with goblin and demon tiers, line history and graded results",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://prizepicksapi.com",
         "Category": "Sports & Fitness"
     },
     {
