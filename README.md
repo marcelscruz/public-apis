@@ -1806,6 +1806,7 @@
 | [Quotes on Design](https://quotesondesign.com/api/) | Inspirational Quotes | No | Unknown |
 | [Sentino Personality API](https://sentino.org/api/) | AI-powered personality profiling and psychology analysis using NLP and Big 5, NEO, HEXACO, DISC inventories | `apiKey` | No |
 | [Stoicism Quote](https://github.com/tlcheah2/stoic-quote-lambda-public-api) | Quotes about Stoicism | No | Unknown |
+| [Taro's Tarot Card Data](https://tarostarot.com/tarot-card-data) | Free data for all 78 tarot cards as JSON or CSV: meanings, keywords, yes or no answers, astrology and public-domain 1909 card images | No | Yes |
 | [They Said So Quotes](https://theysaidso.com/api/) | Quotes Trusted by many fortune brands around the world | No | Unknown |
 | [Traitify](https://app.traitify.com/developer) | Assess, collect and analyze Personality | No | Unknown |
 | [Udemy(instructor)](https://www.udemy.com/developers/instructor/) | API for instructors on Udemy | `apiKey` | Unknown |
