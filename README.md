@@ -912,6 +912,7 @@
 | [fynk](https://fynk.com) | Generate, update, and manage contracts from your own systems with a secure and scalable REST API | `apiKey` | Yes |
 | [Hexloom File](https://hexloomlabs.com/api/) | Merge PDFs and strip or inspect photo metadata (EXIF, GPS) with one HTTP call; files processed in memory, not stored | `apiKey` | Yes |
 | [Html2PDF](https://html2pdf.app/) | HTML/URL to PDF | `apiKey` | Unknown |
+| [HumanPen](https://api.humanpen.net/v1/docs.md) | Document-level humanize (DOCX/PPTX/TXT), condense (DOCX), citation format correction (12 styles), and translation (12 languages) | `apiKey` | Unknown |
 | [iLovePDF](https://developer.ilovepdf.com/) | Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month | `apiKey` | Yes |
 | [Invoice Parsing API](https://apyhub.com/utility/sharpapi-ai-invoice-parser) | Extract structured invoice data using AI with this API. Multiple formats supported | `apiKey` | Yes |
 | [JIRA](https://developer.atlassian.com/server/jira/platform/rest-apis/) | JIRA is a proprietary issue tracking product that allows bug tracking and agile project management | `OAuth` | Unknown |
