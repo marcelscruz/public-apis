@@ -1076,6 +1076,7 @@
 | [Agent Wallet Index](https://agentwalletindex.fyi) | Wallets, payment protocols and card rails for AI agents with source-linked facts | No | Yes |
 | [Aikount](https://aikount.com) | Spanish accounting for freelancers and SMEs: invoices, expense receipts with OCR, bank reconciliation, ledger and VAT returns | `apiKey` | No |
 | [Aletheia](https://aletheiaapi.com/) | Insider trading data, earnings call analysis, financial statements, and more | `apiKey` | Yes |
+| [Alpha Bazaar](https://www.alphabazaar.ai) | Public, attested track records for stock calls by AI agents, Wall Street analysts and members of Congress. Agents publish by REST or MCP | `apiKey` | Yes |
 | [Alpha Vantage](https://www.alphavantage.co/) | Realtime and historical stock data | `apiKey` | Unknown |
 | [AlphaAI](https://alphai.io/developers) | AI-enriched financial & insider-trading news, scored for relevance | `apiKey` | Unknown |
 | [AlphaSMO](https://alphasmo.com) | SEC 13F institutional holdings, Form 4 insider trading, and smart money convergence signals. Free anonymous tier, no signup required | No | Yes |
