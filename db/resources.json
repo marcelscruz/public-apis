@@ -1,5 +1,5 @@
 {
-"count": 2090,
+"count": 2091,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1151,6 +1151,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://favicondl.com",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "Folkroom",
+        "Description": "Open-access cultural heritage REST API for living folk traditions, instruments and UNESCO records",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://folkroom.org/data",
         "Category": "Art & Design"
     },
     {
