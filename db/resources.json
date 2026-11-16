@@ -1,5 +1,5 @@
 {
-"count": 2099,
+"count": 2100,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1751,6 +1751,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://developers.sefaria.org/reference/getting-started",
+        "Category": "Books"
+    },
+    {
+        "API": "Sovereign Logos",
+        "Description": "Free Bible API: Septuagint, KJV, Geneva and more. No key. Citations on every passage.",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://sovereignlogos.com/developers",
         "Category": "Books"
     },
     {
