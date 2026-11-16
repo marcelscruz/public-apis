@@ -778,6 +778,7 @@
 | [OpenAPIHub](https://hub.openapihub.com/) | The All-in-one API Platform | `X-Mashape-Key` | Unknown |
 | [Openhook](https://openhook.dev) | Capture HTTP, email and DNS callbacks in private inboxes for integration testing, with REST access and cursor-based waiting | `apiKey` | No |
 | [PageBolt](https://pagebolt.dev/) | Screenshot, PDF, video recording, OG image, and page inspection via REST API | `apiKey` | Yes |
+| [Pakish Hosting](https://pakish.net/for-agents) | Shared hosting catalog with plan limits, published charges and renewal terms for automated comparisons | No | Yes |
 | [PayUs-as-a-Service (PUaaS)](https://github.com/sticknologic/payus-as-a-service) | A self-hostable API that returns randomized messages for past-due invoices | No | No |
 | [Piloterr](https://www.piloterr.com/) | Piloterr web scraping API handles headless browsers, rotates proxies for you, and offers json-parsed data extraction | `apiKey` | Yes |
 | [PipeDream](https://docs.pipedream.com) | Pipedream is the fastest way to build powerful applications that connect all the services in your stack | `OAuth` | Unknown |
