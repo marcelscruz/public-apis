@@ -2128,6 +2128,7 @@
 | [Cricket API](https://cricket-api.net) | Comprehensive Cricket API for live scores, fixtures, results, player stats, match data, and smarter digital cricket experiences | `apiKey` | Yes |
 | [DunkAPI](https://dunkapi.com) | NBA, WNBA and NCAA basketball: play-by-play with shot locations, box scores, player props and sportsbook odds | `apiKey` | Yes |
 | [F1 API](https://f1api.dev) | Open F1 API with realtime data | No | Unknown |
+| [FanDuelAPI](https://fanduelapi.com) | Unofficial FanDuel Sportsbook player props and game lines, with line-move history, EV and arbitrage | `apiKey` | No |
 | [Fantasy Premier League](https://github.com/flavnat/fpl-api) | Fantasy Premier League data, including fixtures, teams, and player stats | No | Unknown |
 | [Fitbit](https://dev.fitbit.com/) | Fitbit Information | `OAuth` | Unknown |
 | [Football](https://rapidapi.com/GiulianoCrescimbeni/api/football98/) | A simple Open Source Football API to get squads’ stats, best scorers and more | `X-Mashape-Key` | Unknown |
