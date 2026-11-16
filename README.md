@@ -1453,6 +1453,7 @@
 | [Contratero](https://contratero.es/docs) | Spanish public tenders and awards from the official PLACSP platform, updated hourly, with buyer and winner per contract | `apiKey` | No |
 | [Conversor IAE CNAE](https://conversoriaecnae.es) | Spanish IAE/CNAE tax activity codes, 2009→2025 crosswalk and AEAT obligations | `apiKey` | No |
 | [Court Rules](https://www.courtrules.app/api) | Free reference for U.S. federal court rules, local rules, judge standing orders and court holidays, with a deadline calculator, a public API and an MCP server. | `apiKey` | No |
+| [CourtMesh](https://courtmesh.ai/indian-court-cases-api) | Search 315M+ Indian court cases from the Supreme Court, High Courts and District Courts. REST API with official Python, Node and MCP SDKs | `apiKey` | No |
 | [Data USA](https://datausa.io/about/api/) | US Public Data | No | Unknown |
 | [Data.gov](https://api.data.gov/) | US Government Data | `apiKey` | Unknown |
 | [Data.parliament.uk](https://explore.data.parliament.uk/) | Contains live datasets including information about petitions, bills, MP votes, attendance and more | No | Unknown |
