@@ -1,5 +1,5 @@
 {
-"count": 2089,
+"count": 2090,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14407,6 +14407,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://gitlab.com/dword4/nhlapi",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "NovigAPI",
+        "Description": "Unofficial read-only Novig exchange prices with intraday line history and no-vig fair prices",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://novigapi.com",
         "Category": "Sports & Fitness"
     },
     {
