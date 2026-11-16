@@ -966,6 +966,7 @@
 | [DropMail](https://dropmail.me/api/#live-demo) | GraphQL API for creating and managing ephemeral e-mail inboxes | No | Unknown |
 | [email59](https://email59.com) | Email API for apps and agents: send from a ready @email59.com address with no DNS setup, plus email verification codes, address checks and campaigns | `apiKey` | No |
 | [Emailvalidation](https://emailvalidation.io/email-validation-api/) | E-Mail address validation | `apiKey` | Yes |
+| [FairValid](https://fairvalid.com) | Verify email addresses or CSV lists, retrieve job results and check workspace credits through a self-serve server API | `apiKey` | No |
 | [FreeCustom.Email](https://freecustom.email) | Disposable email inboxes with OTP extraction and real-time WebSocket events | `apiKey` | Yes |
 | [Guerrilla Mail](https://www.guerrillamail.com/GuerrillaMailAPI.html) | Disposable temporary Email addresses | No | Unknown |
 | [Hail](https://hail.so) | Add AI calls, SMS, and email to apps and AI agents through one API | `apiKey` | No |
