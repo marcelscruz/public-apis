@@ -1,5 +1,5 @@
 {
-"count": 2087,
+"count": 2088,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14295,6 +14295,14 @@
         "Auth": "X-Mashape-Key",
         "Cors": "unknown",
         "Link": "https://www.football-data.org",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "GetOdds",
+        "Description": "DraftKings, FanDuel, BetRivers and Pinnacle odds plus pick'em lines, with line history, free tier",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://getoddsapi.com",
         "Category": "Sports & Fitness"
     },
     {
