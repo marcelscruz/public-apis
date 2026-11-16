@@ -1,5 +1,5 @@
 {
-"count": 2092,
+"count": 2093,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -223,6 +223,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://harnessrouter.ai",
+        "Category": "AI"
+    },
+    {
+        "API": "HiAPI",
+        "Description": "Pay-as-you-go key for image, video, audio and text models (GPT Image, Seedance, Kling, Veo, DeepSeek), OpenAI-compatible text and async media task APIs",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://hiapi.ai",
         "Category": "AI"
     },
     {
