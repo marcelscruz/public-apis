@@ -170,6 +170,7 @@
 ### Animals
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [Bird Album](https://birdalbum.com/) | Bird of the day in 15 languages and 11,000+ AI-generated bird illustrations under CC BY 4.0 | No | Yes |
 | [Cat Facts](https://catfact.ninja/) | Random cat facts | No | Yes |
 | [Cataas](https://cataas.com/) | Cat as a service (cats pictures and gifs) | No | No |
 | [Cats](https://developers.thecatapi.com/) | Pictures of cats from Tumblr | `apiKey` | No |
