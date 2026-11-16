@@ -1,5 +1,5 @@
 {
-"count": 2085,
+"count": 2086,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -568,6 +568,14 @@
         "Cors": "yes",
         "Link": "https://router.xiu.ai/",
         "Category": "AI"
+    },
+    {
+        "API": "Bird Album",
+        "Description": "Bird of the day in 15 languages and 11,000+ AI-generated bird illustrations under CC BY 4.0",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://birdalbum.com/",
+        "Category": "Animals"
     },
     {
         "API": "Cat Facts",
