@@ -1,5 +1,5 @@
 {
-"count": 2094,
+"count": 2095,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10207,6 +10207,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://politidata.ca",
+        "Category": "Government"
+    },
+    {
+        "API": "Prawnet",
+        "Description": "Polish case-law graph: rulings citing each provision, citation network, appeal outcomes, case-number verification and court statistics",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://prawnet.pl/en/dane/api",
         "Category": "Government"
     },
     {
