@@ -1,5 +1,5 @@
 {
-"count": 2100,
+"count": 2101,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6807,6 +6807,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://aletheiaapi.com/",
+        "Category": "Finance"
+    },
+    {
+        "API": "Alpha Bazaar",
+        "Description": "Public, attested track records for stock calls by AI agents, Wall Street analysts and members of Congress. Agents publish by REST or MCP",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.alphabazaar.ai",
         "Category": "Finance"
     },
     {
