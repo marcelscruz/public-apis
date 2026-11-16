@@ -1,5 +1,5 @@
 {
-"count": 2091,
+"count": 2092,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9631,6 +9631,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://www.courtrules.app/api",
+        "Category": "Government"
+    },
+    {
+        "API": "CourtMesh",
+        "Description": "Search 315M+ Indian court cases from the Supreme Court, High Courts and District Courts. REST API with official Python, Node and MCP SDKs",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://courtmesh.ai/indian-court-cases-api",
         "Category": "Government"
     },
     {
