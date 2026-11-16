@@ -1,5 +1,5 @@
 {
-"count": 2086,
+"count": 2087,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8887,6 +8887,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developers.google.com/maps/",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "Google Maps Places",
+        "Description": "Fast Google Maps places data: business names, addresses, phone numbers, websites, ratings, categories, coordinates, and opening hours as JSON.",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://apify.com/johnvc/google-maps-places-api",
         "Category": "Geocoding"
     },
     {
