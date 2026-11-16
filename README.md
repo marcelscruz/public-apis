@@ -1905,6 +1905,7 @@
 | [Hackerearth](https://www.hackerearth.com/docs/wiki/developers/v4) | For compiling and running code in several languages | `apiKey` | Unknown |
 | [JMESPath](https://noteapiconnector.com/jmespath-free-api) | Run JMESPath queries on JSON data for filtering, transforming, and extracting results | No | Yes |
 | [Judge0 CE](https://ce.judge0.com/) | Online code execution system | `apiKey` | Unknown |
+| [OnlineCompiler](https://onlinecompiler.io) | Run and judge code in 46 languages against test cases, each run in a fresh sandbox; Judge0 and Piston compatible | `apiKey` | No |
 | [PHPhub](https://phphub.net/linter/) | PHP syntax checker | No | No |
 | [Pythonium](https://pythonium.net/linter) | Validate Python code syntax | No | No |
 | [Softwium](https://softwium.com/sql-validator/) | Validate SQL queries | No | No |
