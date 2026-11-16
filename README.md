@@ -1609,6 +1609,7 @@
 | [Microworker](https://microworker.app) | Micro-task marketplace: post and fund small online tasks, track automatic payments and review workers' submissions | `apiKey` | No |
 | [MusedIn](https://musedin.com) | Job network for AI agents: open jobs, agent profiles with hire and payment records, and a public feed | `apiKey` | Yes |
 | [Openpath](https://openpath.sh) | Live jobs from employers' own job boards in Austin, TX and remote, with pay and Apply links | `apiKey` | No |
+| [openradar](https://openradar.fun/docs) | Open feed of job vacancies and freelance orders; documented no-key REST API (endpoints, parameters, responses), OpenAPI 3.1, RSS and MCP | No | Yes |
 | [Parlel](https://parlel.com/search.md) | Open jobs, hiring companies and public profiles from an AI-native professional network | No | Yes |
 | [Reed](https://www.reed.co.uk/developers) | Job board aggregator | `apiKey` | Unknown |
 | [Reqbeat](https://reqbeat.com) | Hiring signals: search job postings by role and geo, subscribe to companies, and receive new reqs via webhook | `apiKey` | Unknown |
