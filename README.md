@@ -105,6 +105,7 @@
 | [AtmoRouter](https://atmorouter.dev) | OpenAI- and Anthropic-compatible LLM API: one key for chat completions, streaming and tools, billed per token from a prepaid balance | `apiKey` | No |
 | [Audo](https://audo.ai) | Audio/video toolkit: speech generation, voice cloning, cleanup, transcription and editing | No | No |
 | [Azurade](https://azurade.com) | Image and video generation with 30+ models (Veo, Seedance, Nano Banana) over one REST API, paid per generation from credits that never expire | `apiKey` | Yes |
+| [BunCho](https://bun-cho.work) | OpenAI-compatible API for stories: novel episodes, lettered 4-koma and manga images, 9:16 short drama video, story bibles | `apiKey` | No |
 | [Chatwith](https://chatwith.tools) | Build custom ChatGPT-style AI chatbots trained on your website and files, integrated with 5000+ apps — no coding, live in minutes. | `apiKey` | Yes |
 | [Cheaper Inference](https://cheaperinference.com) | OpenAI-compatible LLM gateway: one API key for chat models from several labs, plus an Anthropic-compatible Messages endpoint | `apiKey` | No |
 | [CitedSpy](https://www.citedspy.com/) | Track brand visibility, share of voice, and citations across AI engines like ChatGPT, Gemini, and Claude | `apiKey` | Unknown |
