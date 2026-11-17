@@ -1,5 +1,5 @@
 {
-"count": 2103,
+"count": 2104,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -15927,6 +15927,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://carvector.io/docs",
+        "Category": "Vehicle"
+    },
+    {
+        "API": "Census EV",
+        "Description": "Electric and plug-in hybrid cars for sale in the US, with price, mileage, range and price history",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://censusev.com/api/v1",
         "Category": "Vehicle"
     },
     {
