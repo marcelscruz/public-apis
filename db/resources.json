@@ -4203,7 +4203,7 @@
     },
     {
         "API": "FlashData",
-        "Description": "Google search results, YouTube search, metadata, existing captions and async media delivery to customer storage; paid credits",
+        "Description": "YouTube video and audio downloads, YouTube search, metadata and captions, plus Google Search results. Free trial available.",
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://flashdata.dev",
