@@ -1,5 +1,5 @@
 {
-"count": 2106,
+"count": 2107,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13943,6 +13943,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.naver.com/main/",
+        "Category": "Social"
+    },
+    {
+        "API": "okdata",
+        "Description": "Public posts, comments, accounts, hot lists and transcripts from TikTok, YouTube, X, Reddit, Douyin, Xiaohongshu and WeChat, pay per call",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://okdata.online",
         "Category": "Social"
     },
     {
