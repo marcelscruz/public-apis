@@ -2217,6 +2217,7 @@
 | [Mailsac](https://mailsac.com/docs/api) | Disposable Email | `apiKey` | Unknown |
 | [Mockae](https://mockae.com/) | Fake REST API powered by Lua | No | Yes |
 | [Mockaroo](https://www.mockaroo.com/docs) | Generate fake data to JSON, CSV, TXT, SQL and XML | `apiKey` | Unknown |
+| [Narkis Avatars](https://narkis.ai/developers/avatars) | Seedable placeholder avatars: realistic AI faces of people who don't exist, any size | No | Yes |
 | [Random Identity](https://rapidapi.com/edualc1018/api/random-identity-generator) | Random Identity Generator with custom response format | `apiKey` | Yes |
 | [Random Profiles](https://random-profiles.com) | Fake user profiles and companies with 100+ fields each | `apiKey` | Yes |
 | [Randommer](https://randommer.io/randommer-api) | Random data generator | `apiKey` | Yes |
