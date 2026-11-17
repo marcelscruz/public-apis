@@ -1,5 +1,5 @@
 {
-"count": 2103,
+"count": 2104,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12439,6 +12439,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://picsum.photos/",
+        "Category": "Photography"
+    },
+    {
+        "API": "NexWall",
+        "Description": "Wallpaper API for apps: portrait HD wallpapers up to 4K in 49 categories, free plan (commercial use allowed) and a keyless demo",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://nexwall.kodnextech.com/wallpaper-api",
         "Category": "Photography"
     },
     {
