@@ -1,5 +1,5 @@
 {
-"count": 2104,
+"count": 2105,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6591,6 +6591,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://docs.carboninterface.com/",
+        "Category": "Environment"
+    },
+    {
+        "API": "Carbonmark x402",
+        "Description": "Retire verified carbon credits from an AI agent or any HTTP client: free live quotes, pay per retirement in USDC over x402, public certificate",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://www.carbonmark.com/ai-agents",
         "Category": "Environment"
     },
     {
