@@ -1,5 +1,5 @@
 {
-"count": 2107,
+"count": 2108,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14879,6 +14879,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.mockaroo.com/docs",
+        "Category": "Test Data"
+    },
+    {
+        "API": "Narkis Avatars",
+        "Description": "Seedable placeholder avatars: realistic AI faces of people who don't exist, any size",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://narkis.ai/developers/avatars",
         "Category": "Test Data"
     },
     {
