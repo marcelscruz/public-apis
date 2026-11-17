@@ -1,5 +1,5 @@
 {
-"count": 2102,
+"count": 2103,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5639,6 +5639,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://converthub.com/api",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "ConvertIntoMP4",
+        "Description": "Convert video, audio, image, document, ebook, archive and font files over REST, with async jobs, webhooks, Node.js and Python SDKs and a free tier",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://convertintomp4.com/developers",
         "Category": "Documents & Productivity"
     },
     {
