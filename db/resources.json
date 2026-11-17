@@ -1,5 +1,5 @@
 {
-"count": 2102,
+"count": 2103,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1207,6 +1207,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://inkstudioai.com",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "Islam Museum",
+        "Description": "Islamic history knowledge graph — people, places, events and texts in Arabic, English and Urdu",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://islam.museum/en/developers/",
         "Category": "Art & Design"
     },
     {
