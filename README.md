@@ -1618,7 +1618,6 @@
 | [Parlel](https://parlel.com/search.md) | Open jobs, hiring companies and public profiles from an AI-native professional network | No | Yes |
 | [Reed](https://www.reed.co.uk/developers) | Job board aggregator | `apiKey` | Unknown |
 | [Reqbeat](https://reqbeat.com) | Hiring signals: search job postings by role and geo, subscribe to companies, and receive new reqs via webhook | `apiKey` | Unknown |
-| [SpaceJobs.Now](https://spacejobs.now/data) | Open jobs and internships at 200+ space companies, read daily from their own careers sites, with posted pay | No | Yes |
 | [Techmap's Job Postings](https://jobdatafeeds.com/job-api) | API for International Job postings | `apiKey` | Unknown |
 | [The Jobs](https://thejobsapi.com) | US and Canada job listings from employer career sites, with search filters, full descriptions, apply links and a resumable change feed. | `apiKey` | No |
 | [The Muse](https://www.themuse.com/developers/api/v2) | Job board and company profiles | `apiKey` | Unknown |
@@ -1864,7 +1863,6 @@
 | [Imgur](https://apidocs.imgur.com/) | Images | `OAuth` | Unknown |
 | [localscreenshot](https://localscreenshot.com) | Screenshot or PDF rendering of any public page, from 227 countries | `apiKey` | Yes |
 | [Lorem Picsum](https://picsum.photos/) | Images from Unsplash | No | Unknown |
-| [NexWall](https://nexwall.kodnextech.com/wallpaper-api) | Wallpaper API for apps: portrait HD wallpapers up to 4K in 49 categories, free plan (commercial use allowed) and a keyless demo | `apiKey` | Yes |
 | [ObjectCut](https://objectcut.com/) | Image Background removal | `apiKey` | Yes |
 | [Pexafy](https://docs.pexafy.com) | Semantic image search across 9+ free stock photo sources (Unsplash, Pexels, Pixabay & more), one unified JSON schema, plain-language and reverse image search | `apiKey` | Yes |
 | [Pexels](https://www.pexels.com/api) | Free Stock Photos and Videos | `apiKey` | Yes |
