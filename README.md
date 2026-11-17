@@ -268,7 +268,7 @@
 | [Icon Horse](https://icon.horse/usage) | Favicons for any website, with fallbacks | No | Yes |
 | [Icons8](https://img.icons8.com/) | Icons (find "search icon" hyperlink in page) | No | Unknown |
 | [Ink Studio AI](https://inkstudioai.com) | Generate AI tattoo designs from text prompts in 13 styles and search a public tattoo gallery. One free design per new account, then one-time plans | `apiKey` | No |
-| [Islam Museum](https://api.islam.museum/api/v1/) | Islamic history knowledge graph — people, places, events and texts in Arabic, English and Urdu | No | Unknown |
+| [Islam Museum](https://islam.museum/en/developers/) | Islamic history knowledge graph — people, places, events and texts in Arabic, English and Urdu | No | Yes |
 | [Logotypes](https://logotypes.dev/) | Logotypes of the world in multiples format | No | Yes |
 | [Lordicon](https://lordicon.com/) | Icons with predone Animations | No | Yes |
 | [Luw](https://luw.ai) | AI design for architecture and interiors: redesign rooms, exteriors and gardens from a photo, render sketches, edit images, make video and 3D | `apiKey` | Yes |
