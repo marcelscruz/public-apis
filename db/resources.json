@@ -1,5 +1,5 @@
 {
-"count": 2105,
+"count": 2106,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3143,6 +3143,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://ophis.fi",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "Plaxswap",
+        "Description": "Crypto swap quotes and orders across many networks, plus a payment gateway API with hosted checkout, payment links and signed webhooks",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://plaxswap.com",
         "Category": "Cryptocurrency"
     },
     {
