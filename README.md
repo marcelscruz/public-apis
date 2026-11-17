@@ -1089,6 +1089,7 @@
 | [Banco do Brasil](https://developers.bb.com.br) | All Banco do Brasil financial transaction APIs | `OAuth` | Yes |
 | [BankConv](https://bankconv.com) | Convert bank statement PDFs into JSON transactions, CSV, OFX, QFX, QBO and Xero CSV | `apiKey` | No |
 | [Bargo Congress Trades](https://www.bargo.ai/free-apis/congress) | U.S. Congress STOCK Act stock trades with per-trade performance | No | Yes |
+| [BatchData](https://batchdata.io) | U.S. property data for 169 million+ parcels: property search and details, owner contact data, comparables, address verification and a hosted MCP server | `apiKey` | Unknown |
 | [Billplz](https://www.billplz.com/api) | Payment platform | `apiKey` | Unknown |
 | [Binlist](https://binlist.net/) | Public access to a database of IIN/BIN information | No | Unknown |
 | [biquote](https://biquote.io) | Real-time and historical forex, metals, crypto and stock prices, with a WebSocket stream and an economic calendar | No | Yes |
