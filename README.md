@@ -2378,6 +2378,7 @@
 | [CarAPI](https://carapi.app) | The developer friendly vehicle API. Make, model, trims and more via a RESTFul API | `apiKey` | No |
 | [CarsXE](https://api.carsxe.com/) | CarsXE API provides comprehensive data on vehicles, including VIN decoding & specifications, license plate decoding, images, history and market value. It enables developers to build innovative applications for the automotive industry, such as insurance & roadside assistance tools, ride sharing & grocery delivery apps, inventory management systems, and market analysis platforms. | `apiKey` | No |
 | [CarVector](https://carvector.io/docs) | Vehicle specs, images, federal recalls, and DTC codes for 12,000+ vehicles (1925–2029) | `apiKey` | Yes |
+| [Census EV](https://censusev.com/api/v1) | Electric and plug-in hybrid cars for sale in the US, with price, mileage, range and price history | No | Yes |
 | [Helipaddy sites](https://helipaddy.com/api/) | Helicopter and passenger drone landing site directory, Helipaddy data and much more | `apiKey` | Unknown |
 | [Kelley Blue Book](https://developer.kbb.com/#!/data/1-Default) | Vehicle info, pricing, configuration, plus much more | `apiKey` | No |
 | [Mercedes-Benz](https://developer.mercedes-benz.com/apis) | Telematics data, remotely access vehicle functions, car configurator, locate service dealers | `apiKey` | No |
