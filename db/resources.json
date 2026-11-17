@@ -1,5 +1,5 @@
 {
-"count": 2104,
+"count": 2102,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10858,14 +10858,6 @@
         "Category": "Jobs"
     },
     {
-        "API": "SpaceJobs.Now",
-        "Description": "Open jobs and internships at 200+ space companies, read daily from their own careers sites, with posted pay",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://spacejobs.now/data",
-        "Category": "Jobs"
-    },
-    {
         "API": "Techmap's Job Postings",
         "Description": "API for International Job postings",
         "Auth": "apiKey",
@@ -12439,14 +12431,6 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://picsum.photos/",
-        "Category": "Photography"
-    },
-    {
-        "API": "NexWall",
-        "Description": "Wallpaper API for apps: portrait HD wallpapers up to 4K in 49 categories, free plan (commercial use allowed) and a keyless demo",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://nexwall.kodnextech.com/wallpaper-api",
         "Category": "Photography"
     },
     {
