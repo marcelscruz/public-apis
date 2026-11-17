@@ -1037,6 +1037,7 @@
 | [1ClickImpact](https://1clickimpact.com) | Environmental impact API for tree planting, carbon offsetting and ocean cleanup | `apiKey` | Yes |
 | [BreezoMeter Pollen](https://docs.breezometer.com/api-documentation/pollen-api/v2/) | Daily Forecast pollen conditions data for a specific location | `apiKey` | Unknown |
 | [Carbon Interface](https://docs.carboninterface.com/) | API to calculate carbon (C02) emissions estimates for common C02 emitting activities | `apiKey` | Yes |
+| [Carbonmark x402](https://www.carbonmark.com/ai-agents) | Retire verified carbon credits from an AI agent or any HTTP client: free live quotes, pay per retirement in USDC over x402, public certificate | No | No |
 | [Climatiq](https://docs.climatiq.io) | Calculate the environmental footprint created by a broad range of emission-generating activities | `apiKey` | Yes |
 | [Cloverly](https://www.cloverly.com/carbon-offset-documentation) | API calculates the impact of common carbon-intensive activities in real time | `apiKey` | Unknown |
 | [Danish data service Energi](https://www.energidataservice.dk/) | Open energy data from Energinet to society | No | Unknown |
