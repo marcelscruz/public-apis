@@ -1864,6 +1864,7 @@
 | [Imgur](https://apidocs.imgur.com/) | Images | `OAuth` | Unknown |
 | [localscreenshot](https://localscreenshot.com) | Screenshot or PDF rendering of any public page, from 227 countries | `apiKey` | Yes |
 | [Lorem Picsum](https://picsum.photos/) | Images from Unsplash | No | Unknown |
+| [NexWall](https://nexwall.kodnextech.com/wallpaper-api) | Wallpaper API for apps: portrait HD wallpapers up to 4K in 49 categories, free plan (commercial use allowed) and a keyless demo | `apiKey` | Yes |
 | [ObjectCut](https://objectcut.com/) | Image Background removal | `apiKey` | Yes |
 | [Pexafy](https://docs.pexafy.com) | Semantic image search across 9+ free stock photo sources (Unsplash, Pexels, Pixabay & more), one unified JSON schema, plain-language and reverse image search | `apiKey` | Yes |
 | [Pexels](https://www.pexels.com/api) | Free Stock Photos and Videos | `apiKey` | Yes |
