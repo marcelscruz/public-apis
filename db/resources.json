@@ -1,5 +1,5 @@
 {
-"count": 2111,
+"count": 2112,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1951,6 +1951,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://falcoscan.com",
+        "Category": "Business"
+    },
+    {
+        "API": "Fantastic Forms API",
+        "Description": "REST API for Fantastic Forms — a modern form builder SaaS. Programmatically create forms, list submissions, export data, and manage workspaces / team members",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://fantasticforms.com",
         "Category": "Business"
     },
     {
