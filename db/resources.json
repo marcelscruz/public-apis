@@ -1,5 +1,5 @@
 {
-"count": 2109,
+"count": 2110,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1255,6 +1255,14 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://metmuseum.github.io/",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "Mockupanda",
+        "Description": "Put artwork into realistic mockups: framed wall art and posters in rooms, tees, hoodies, mugs and tote bags. Your own templates work too",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.mockupanda.com/mockup-api",
         "Category": "Art & Design"
     },
     {
