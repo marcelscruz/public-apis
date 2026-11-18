@@ -1,5 +1,5 @@
 {
-"count": 2121,
+"count": 2122,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14463,6 +14463,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://dev.fitbit.com/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "Footalytics",
+        "Description": "AI football match predictions: win/draw/loss probabilities, confidence tiers, over/under 2.5 goals, BTTS and graded past results for the top leagues",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://footalytics.farvor.com",
         "Category": "Sports & Fitness"
     },
     {
