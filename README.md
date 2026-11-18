@@ -274,6 +274,7 @@
 | [Luw](https://luw.ai) | AI design for architecture and interiors: redesign rooms, exteriors and gardens from a photo, render sketches, edit images, make video and 3D | `apiKey` | Yes |
 | [Magnific Icons API](https://docs.magnific.com/api-reference/icons/icons-api) | Icon search and download API by Freepik (formerly Iconfinder) | `apiKey` | Unknown |
 | [Metropolitan Museum of Art](https://metmuseum.github.io/) | Met Museum of Art | No | No |
+| [Mockupanda](https://www.mockupanda.com/mockup-api) | Put artwork into realistic mockups: framed wall art and posters in rooms, tees, hoodies, mugs and tote bags. Your own templates work too | `apiKey` | No |
 | [Noun Project](https://api.thenounproject.com/index.html) | Icons | `OAuth` | Unknown |
 | [OG Stamp](https://ogstamp.com) | Open Graph and social card PNGs from a title or a page URL. One-time credits, no subscription | `apiKey` | Yes |
 | [PHP-Noise](https://php-noise.com/) | Noise Background Image Generator | No | Yes |
