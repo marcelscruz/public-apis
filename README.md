@@ -2105,6 +2105,7 @@
 | [Revolt](https://developers.revolt.chat) | Revolt open source Discord alternative | `apiKey` | Unknown |
 | [Rumoro](https://rumoro.dev) | Social listening API: brand, competitor and topic mentions from 16 sources, scored for relevance, sentiment and intent | `apiKey` | No |
 | [Schedchie](https://www.schedchie.com) | Social media scheduler API: schedule posts, import media, run approvals and read analytics on Instagram, TikTok, LinkedIn, Bluesky and more | `apiKey` | No |
+| [Shager](https://shager.ai) | Publish and schedule posts to YouTube, TikTok, X, LinkedIn, Pinterest and more, with comments, auto-replies and per-post stats | `apiKey` | Yes |
 | [ShapelessAI](https://shapelessai.com) | Schedule and publish posts to LinkedIn, X, Instagram, TikTok, YouTube, Facebook, Threads and Bluesky, plus AI images and video | `apiKey` | No |
 | [ShortsIntel](https://www.shortsintel.com) | Short-form video and ad intelligence API and MCP server: TikTok, Instagram Reels, YouTube Shorts and Meta ad library data with AI video analysis | `apiKey` | No |
 | [Signals](https://signals.sh) | Marketplace API to quote, place, and track Reddit and Quora promotion orders, with catalog and wallet endpoints | `apiKey` | No |
@@ -2141,18 +2142,22 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [5DollarFootballAPI](https://5dollarfootballapi.com) | Football fixtures, live scores, standings and tick-by-tick bet365 odds (+18 more bookmakers) with corner and card lines | `apiKey` | Yes |
+| [AcesAPI](https://acesapi.com) | ATP and WTA tennis since 2007: match results, draws, rankings, head to head, surface Elo and odds | `apiKey` | Yes |
 | [American Football Highlights API](https://highlightly.net/documentation/american-football/) | Real time American Football (NFL/NCAA) highlights | `apiKey` | Unknown |
 | [API-FOOTBALL](https://www.api-football.com/documentation-v3) | Get information about Football Leagues & Cups | `apiKey` | Yes |
 | [balldontlie](https://www.balldontlie.io) | Balldontlie provides access to stats data from the NBA | No | Yes |
 | [Basketball Highlights API](https://highlightly.net/documentation/basketball/) | Real time basketball video highlights | `apiKey` | Unknown |
+| [BirdieAPI](https://birdieapi.com) | PGA Tour golf since 2001: leaderboards, hole-by-hole scores, courses, ratings and major winner odds | `apiKey` | Yes |
 | [Blacktop Motorsport API](https://ocblacktop.com/api) | Motorsport results, standings and schedules, with live timing for F1, NASCAR, IndyCar and WRC | `apiKey` | Yes |
 | [City Bikes](https://api.citybik.es/v2/) | City Bikes around the world | No | Unknown |
 | [Cloudbet](https://www.cloudbet.com/api/) | Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically | `apiKey` | Yes |
 | [CollegeFootballData.com](https://collegefootballdata.com) | Unofficial detailed American college football statistics, records, and results API | `apiKey` | Unknown |
 | [Cricket API](https://cricket-api.net) | Comprehensive Cricket API for live scores, fixtures, results, player stats, match data, and smarter digital cricket experiences | `apiKey` | Yes |
 | [DunkAPI](https://dunkapi.com) | NBA, WNBA and NCAA basketball: play-by-play with shot locations, box scores, player props and sportsbook odds | `apiKey` | Yes |
+| [EndzoneAPI](https://endzoneapi.com) | NFL data since 1999: play-by-play with EPA, stats, schedules, injuries and sportsbook odds; also college football | `apiKey` | Yes |
 | [F1 API](https://f1api.dev) | Open F1 API with realtime data | No | Unknown |
 | [Fantasy Premier League](https://github.com/flavnat/fpl-api) | Fantasy Premier League data, including fixtures, teams, and player stats | No | Unknown |
+| [FastballAPI](https://fastballapi.com) | MLB since 2015 plus college baseball: pitches, plate appearances, box scores and sportsbook odds | `apiKey` | Yes |
 | [FighterAPI](https://fighterapi.com) | UFC fights since 2000: results, round-by-round stat sheets, fighters, ratings and moneyline history | `apiKey` | Yes |
 | [Fitbit](https://dev.fitbit.com/) | Fitbit Information | `OAuth` | Unknown |
 | [Football](https://rapidapi.com/GiulianoCrescimbeni/api/football98/) | A simple Open Source Football API to get squads’ stats, best scorers and more | `X-Mashape-Key` | Unknown |
@@ -2184,6 +2189,7 @@
 | [Premier League Standings ](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | All Current Premier League Standings and Statistics | `apiKey` | Unknown |
 | [PrizePicksAPI](https://prizepicksapi.com) | Unofficial PrizePicks player-prop lines with goblin and demon tiers, line history and graded results | `apiKey` | No |
 | [PropLine](https://prop-line.com) | Player props and game odds from 118 sportsbooks and exchanges across 59 sports, with every prop graded against official box scores | `apiKey` | No |
+| [PuckAPI](https://puckapi.com) | NHL games, stats, play-by-play with shot locations, standings and sportsbook odds; also AHL, PWHL and junior leagues | `apiKey` | Yes |
 | [Racing Alpha](https://racingalpha.co.uk/developers) | AI win-probability scores, fair prices and draw-bias stats for UK & Irish horse racing | No | Yes |
 | [Realtime Sports](https://www.realtimesportsapi.com) | Live scores, play-by-play, box scores, schedules, injuries and odds for NFL, NBA, MLB, NHL, college and 23 soccer leagues, via REST, webhooks and WebSocket | `apiKey` | Yes |
 | [SkipOdds](https://skipodds.com/docs) | De-vigged fair win probabilities across 13 sports, averaged from 69+ bookmakers | `apiKey` | Yes |
