@@ -1,5 +1,5 @@
 {
-"count": 2108,
+"count": 2109,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4935,6 +4935,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://www.qrcode-monkey.com/qr-code-api-with-logo/",
+        "Category": "Development"
+    },
+    {
+        "API": "QRdx",
+        "Description": "QR code images as SVG, PNG, WebP or EPS from one GET request with no key; dynamic codes and scan data need an API key",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://qrdx.dev",
         "Category": "Development"
     },
     {
