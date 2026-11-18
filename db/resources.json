@@ -1,5 +1,5 @@
 {
-"count": 2117,
+"count": 2118,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14431,6 +14431,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://github.com/flavnat/fpl-api",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "FastballAPI",
+        "Description": "MLB since 2015 plus college baseball: pitches, plate appearances, box scores and sportsbook odds",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://fastballapi.com",
         "Category": "Sports & Fitness"
     },
     {
