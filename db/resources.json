@@ -1,5 +1,5 @@
 {
-"count": 2113,
+"count": 2114,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6423,6 +6423,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://en.mailsenpai.com/smtp-senpai/",
+        "Category": "Email"
+    },
+    {
+        "API": "Spare Mailbox",
+        "Description": "Disposable inboxes, verification code extraction and email deliverability checks for automated testing",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://apiwren.com/temp-mail-api",
         "Category": "Email"
     },
     {
