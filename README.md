@@ -175,6 +175,7 @@
 | [Cat Facts](https://catfact.ninja/) | Random cat facts | No | Yes |
 | [Cataas](https://cataas.com/) | Cat as a service (cats pictures and gifs) | No | No |
 | [Cats](https://developers.thecatapi.com/) | Pictures of cats from Tumblr | `apiKey` | No |
+| [Dog Image](https://dogimage.dev) | AI-generated dog breed images: the same nine views of nearly 300 breeds, transparent background. Free previews need no key, full-size PNG is paid | `apiKey` | Yes |
 | [Dog Pics](https://dog.ceo/dog-api/) | Pictures of dogs based on the Stanford Dogs Dataset | No | Yes |
 | [Dogs](https://dogapi.dog/docs/api-v2) | Random facts and breed information about dogs | No | Yes |
 | [eBird](https://documenter.getpostman.com/view/664302/S1ENwy59) | Retrieve recent or notable birding observations within a region | `apiKey` | No |
