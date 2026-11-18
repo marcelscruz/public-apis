@@ -1,5 +1,5 @@
 {
-"count": 2116,
+"count": 2117,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14407,6 +14407,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://dunkapi.com",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "EndzoneAPI",
+        "Description": "NFL data since 1999: play-by-play with EPA, stats, schedules, injuries and sportsbook odds; also college football",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://endzoneapi.com",
         "Category": "Sports & Fitness"
     },
     {
