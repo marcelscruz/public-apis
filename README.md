@@ -2379,6 +2379,7 @@
 ### Vehicle
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [ANKUSI Wheel Fitment](https://ankusiwheels.com/wheel-fitment-api/) | Bolt pattern (PCD), center bore, OE offset and wheel sizes for about 10,000 vehicles | No | Yes |
 | [Auto.dev](https://docs.auto.dev/v2/cli-mcp-sdk) | Automotive data APIs for VIN decoding, vehicle listings, payments, recalls, and specs | `apiKey` | Unknown |
 | [Brazilian Vehicles and Prices](https://deividfortuna.github.io/fipe/) | Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe | No | No |
 | [Car List API](https://carlistapi.com/) | Vehicle data API for year, make, model, trim, engine specs, powersports, make logos and VIN decoding, built for developers and automotive apps | `apiKey` | Yes |
