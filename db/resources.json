@@ -1,5 +1,5 @@
 {
-"count": 2119,
+"count": 2120,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14367,6 +14367,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://highlightly.net/documentation/basketball/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "BirdieAPI",
+        "Description": "PGA Tour golf since 2001: leaderboards, hole-by-hole scores, courses, ratings and major winner odds",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://birdieapi.com",
         "Category": "Sports & Fitness"
     },
     {
