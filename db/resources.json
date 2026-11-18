@@ -1,5 +1,5 @@
 {
-"count": 2120,
+"count": 2121,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14871,6 +14871,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://wger.de/en/software/api",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "YorkerAPI",
+        "Description": "Cricket ball by ball in every format, men's and women's, with players, ratings and match odds",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://yorkerapi.com",
         "Category": "Sports & Fitness"
     },
     {
