@@ -1,5 +1,5 @@
 {
-"count": 2110,
+"count": 2111,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -607,6 +607,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://developers.thecatapi.com/",
+        "Category": "Animals"
+    },
+    {
+        "API": "Dog Image",
+        "Description": "AI-generated dog breed images: the same nine views of nearly 300 breeds, transparent background. Free previews need no key, full-size PNG is paid",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://dogimage.dev",
         "Category": "Animals"
     },
     {
