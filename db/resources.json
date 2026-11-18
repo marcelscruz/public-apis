@@ -1,5 +1,5 @@
 {
-"count": 2114,
+"count": 2115,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14079,6 +14079,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://www.schedchie.com",
+        "Category": "Social"
+    },
+    {
+        "API": "Shager",
+        "Description": "Publish and schedule posts to YouTube, TikTok, X, LinkedIn, Pinterest and more, with comments, auto-replies and per-post stats",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://shager.ai",
         "Category": "Social"
     },
     {
