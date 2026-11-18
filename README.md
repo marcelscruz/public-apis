@@ -2153,6 +2153,7 @@
 | [DunkAPI](https://dunkapi.com) | NBA, WNBA and NCAA basketball: play-by-play with shot locations, box scores, player props and sportsbook odds | `apiKey` | Yes |
 | [F1 API](https://f1api.dev) | Open F1 API with realtime data | No | Unknown |
 | [Fantasy Premier League](https://github.com/flavnat/fpl-api) | Fantasy Premier League data, including fixtures, teams, and player stats | No | Unknown |
+| [FighterAPI](https://fighterapi.com) | UFC fights since 2000: results, round-by-round stat sheets, fighters, ratings and moneyline history | `apiKey` | Yes |
 | [Fitbit](https://dev.fitbit.com/) | Fitbit Information | `OAuth` | Unknown |
 | [Football](https://rapidapi.com/GiulianoCrescimbeni/api/football98/) | A simple Open Source Football API to get squads’ stats, best scorers and more | `X-Mashape-Key` | Unknown |
 | [Football (Soccer) Videos](https://www.scorebat.com/video-api/) | Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more | No | Yes |
