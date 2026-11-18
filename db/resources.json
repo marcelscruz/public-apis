@@ -1,5 +1,5 @@
 {
-"count": 2112,
+"count": 2113,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13504,6 +13504,14 @@
         "Cors": "no",
         "Link": "https://whoisfreaks.com/",
         "Category": "Security"
+    },
+    {
+        "API": "Apiwren Amazon Data",
+        "Description": "Third-party Amazon product search, details, reviews, seller offers and best sellers across 23 marketplaces",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://apiwren.com/amazon-product-api",
+        "Category": "Shopping"
     },
     {
         "API": "Asin",
