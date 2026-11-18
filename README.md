@@ -2155,6 +2155,7 @@
 | [EndzoneAPI](https://endzoneapi.com) | NFL data since 1999: play-by-play with EPA, stats, schedules, injuries and sportsbook odds; also college football | `apiKey` | Yes |
 | [F1 API](https://f1api.dev) | Open F1 API with realtime data | No | Unknown |
 | [Fantasy Premier League](https://github.com/flavnat/fpl-api) | Fantasy Premier League data, including fixtures, teams, and player stats | No | Unknown |
+| [FastballAPI](https://fastballapi.com) | MLB since 2015 plus college baseball: pitches, plate appearances, box scores and sportsbook odds | `apiKey` | Yes |
 | [Fitbit](https://dev.fitbit.com/) | Fitbit Information | `OAuth` | Unknown |
 | [Football](https://rapidapi.com/GiulianoCrescimbeni/api/football98/) | A simple Open Source Football API to get squads’ stats, best scorers and more | `X-Mashape-Key` | Unknown |
 | [Football (Soccer) Videos](https://www.scorebat.com/video-api/) | Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more | No | Yes |
