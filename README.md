@@ -2152,6 +2152,7 @@
 | [CollegeFootballData.com](https://collegefootballdata.com) | Unofficial detailed American college football statistics, records, and results API | `apiKey` | Unknown |
 | [Cricket API](https://cricket-api.net) | Comprehensive Cricket API for live scores, fixtures, results, player stats, match data, and smarter digital cricket experiences | `apiKey` | Yes |
 | [DunkAPI](https://dunkapi.com) | NBA, WNBA and NCAA basketball: play-by-play with shot locations, box scores, player props and sportsbook odds | `apiKey` | Yes |
+| [EndzoneAPI](https://endzoneapi.com) | NFL data since 1999: play-by-play with EPA, stats, schedules, injuries and sportsbook odds; also college football | `apiKey` | Yes |
 | [F1 API](https://f1api.dev) | Open F1 API with realtime data | No | Unknown |
 | [Fantasy Premier League](https://github.com/flavnat/fpl-api) | Fantasy Premier League data, including fixtures, teams, and player stats | No | Unknown |
 | [Fitbit](https://dev.fitbit.com/) | Fitbit Information | `OAuth` | Unknown |
