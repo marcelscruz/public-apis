@@ -2154,6 +2154,7 @@
 | [F1 API](https://f1api.dev) | Open F1 API with realtime data | No | Unknown |
 | [Fantasy Premier League](https://github.com/flavnat/fpl-api) | Fantasy Premier League data, including fixtures, teams, and player stats | No | Unknown |
 | [Fitbit](https://dev.fitbit.com/) | Fitbit Information | `OAuth` | Unknown |
+| [Footalytics](https://footalytics.farvor.com) | AI football match predictions: win/draw/loss probabilities, confidence tiers, over/under 2.5 goals, BTTS and graded past results for the top leagues | `apiKey` | Unknown |
 | [Football](https://rapidapi.com/GiulianoCrescimbeni/api/football98/) | A simple Open Source Football API to get squads’ stats, best scorers and more | `X-Mashape-Key` | Unknown |
 | [Football (Soccer) Videos](https://www.scorebat.com/video-api/) | Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more | No | Yes |
 | [Football Charts](https://www.football-charts.com/developers) | Results, standings, fixtures, goal timing and model probabilities for 93 football leagues | No | Yes |
