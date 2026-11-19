@@ -94,6 +94,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [Advanced Multilanguage AI Translator (RapidAPI)](https://rapidapi.com/vintarok-vintarok-default/api/advanced-multilanguage-ai-translator-api-with-fast-responses) | AI-powered translator supporting multiple languages with fast, context-aware responses | `apiKey` | Yes |
+| [Agentik](https://www.agentik.cc) | Pay-per-call tools for AI agents over MCP and REST: one API key and one prepaid balance for 3,500+ tools from 165 providers | `apiKey` | Yes |
 | [AI Benchmark Index](https://aibenchmarkindex.com) | AI benchmarks with traceable data, licences and scores | No | Yes |
 | [AI For Thai](https://aiforthai.in.th/index.php) | Free Various Thai AI API | `apiKey` | Yes |
 | [AI Learning Engine](https://rapidapi.com/vintarok-vintarok-default/api/ai-learning-engine-task-creation-auto-grading-api) | Create, auto-grade, and analyze learning tasks with AI-based evaluations | `apiKey` | Yes |
