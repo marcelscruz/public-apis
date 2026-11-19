@@ -1,5 +1,5 @@
 {
-"count": 2124,
+"count": 2125,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14375,6 +14375,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://highlightly.net/documentation/basketball/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "Bet Better",
+        "Description": "Free open JSON API for sports model win probabilities and fair odds across 13 leagues. No key required, CC BY 4.0",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://betbetter.world",
         "Category": "Sports & Fitness"
     },
     {
