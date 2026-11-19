@@ -1,5 +1,5 @@
 {
-"count": 2125,
+"count": 2126,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7,6 +7,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://rapidapi.com/vintarok-vintarok-default/api/advanced-multilanguage-ai-translator-api-with-fast-responses",
+        "Category": "AI"
+    },
+    {
+        "API": "Agentik",
+        "Description": "Pay-per-call tools for AI agents over MCP and REST: one API key and one prepaid balance for 3,500+ tools from 165 providers",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.agentik.cc",
         "Category": "AI"
     },
     {
