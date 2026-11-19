@@ -2186,7 +2186,7 @@
 | [NovigAPI](https://novigapi.com) | Unofficial read-only Novig exchange prices with intraday line history and no-vig fair prices | `apiKey` | No |
 | [Odds-API.io](https://odds-api.io) | Pre-match and live betting odds from 450+ bookmakers across 34 sports over REST and WebSocket | `apiKey` | Yes |
 | [Oddsmagnet](https://oddsmagnet.com/oddsdata) | Odds history from multiple UK bookmakers | No | Yes |
-| [OddsRelay](https://oddsrelay.io) | Pre-match odds from UK and Irish bookmakers, bet365 included, with Betfair, Smarkets, Matchbook and BETDAQ lay prices | `apiKey` | No |
+| [OddsRelay](https://oddsrelay.io) | Bookmaker odds for the UK & Ireland and more regions, with UK exchange lay prices | `apiKey` | No |
 | [OpenLigaDB](https://www.openligadb.de) | Crowd sourced sports league results | No | Yes |
 | [PinnFeed](https://pinnfeed.io) | Real-time Pinnacle odds over REST and WebSocket, with no-vig prices, drops and closing lines | `apiKey` | Yes |
 | [Premier League Standings ](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | All Current Premier League Standings and Statistics | `apiKey` | Unknown |
