@@ -1,5 +1,5 @@
 {
-"count": 2126,
+"count": 2127,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13807,6 +13807,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.google.com/blogger/",
+        "Category": "Social"
+    },
+    {
+        "API": "Bluesky Bot Directory",
+        "Description": "Find Bluesky bot accounts and check the availability of bot handles",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://bluesky.bot",
         "Category": "Social"
     },
     {
