@@ -158,6 +158,7 @@
 | [Synap](https://synap.linkrra.com) | OpenAI-compatible API for open-weight models: chat completions, streaming, tool calling and JSON-schema output, billed per token | `apiKey` | No |
 | [TranscriptFetch](https://transcriptfetch.com) | The transcript API for social media video. Get transcripts at scale from YouTube, TikTok or Instagram. | `apiKey` | Yes |
 | [TranslateMyImage](https://translatemyimage.com) | Translate the text inside JPG, PNG or WEBP images into 9 languages and get the translated image back | `apiKey` | No |
+| [TrustedRouter](https://trustedrouter.com) | OpenAI-compatible LLM API gateway that routes requests to models from many vendors through one API key | `apiKey` | Yes |
 | [UberLLM](https://uberllm.dev) | OpenAI- and Anthropic-compatible API for GPT, Claude, Gemini, DeepSeek and uncensored models plus image, video and music, billed at provider cost | `apiKey` | Yes |
 | [UnoRouter](https://unorouter.com) | OpenAI compatible gateway with one key for every major model provider, automatic failover and a free tier | `apiKey` | Yes |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Unknown |
