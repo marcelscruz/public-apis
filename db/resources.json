@@ -1,5 +1,5 @@
 {
-"count": 2127,
+"count": 2128,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9495,6 +9495,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://viacep.com.br",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "VPNDetection",
+        "Description": "VPN, Tor and relay detection for any IP address, with country and ASN; proxy and hosting flags on paid plans",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://vpndetection.io",
         "Category": "Geocoding"
     },
     {
