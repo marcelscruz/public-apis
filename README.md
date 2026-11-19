@@ -94,6 +94,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [Advanced Multilanguage AI Translator (RapidAPI)](https://rapidapi.com/vintarok-vintarok-default/api/advanced-multilanguage-ai-translator-api-with-fast-responses) | AI-powered translator supporting multiple languages with fast, context-aware responses | `apiKey` | Yes |
+| [Agentik](https://www.agentik.cc) | Pay-per-call tools for AI agents over MCP and REST: one API key and one prepaid balance for 3,500+ tools from 165 providers | `apiKey` | Yes |
 | [AI Benchmark Index](https://aibenchmarkindex.com) | AI benchmarks with traceable data, licences and scores | No | Yes |
 | [AI For Thai](https://aiforthai.in.th/index.php) | Free Various Thai AI API | `apiKey` | Yes |
 | [AI Learning Engine](https://rapidapi.com/vintarok-vintarok-default/api/ai-learning-engine-task-creation-auto-grading-api) | Create, auto-grade, and analyze learning tasks with AI-based evaluations | `apiKey` | Yes |
@@ -1429,6 +1430,7 @@
 | [US ZipCode](https://www.smarty.com/docs/cloud/us-zipcode-api) | Validate and append data for any US ZipCode | `apiKey` | Yes |
 | [Utah AGRC](https://api.mapserv.utah.gov) | Utah Web API for geocoding Utah addresses | `apiKey` | Unknown |
 | [ViaCep](https://viacep.com.br) | Brazil RESTful zip codes API | No | Unknown |
+| [VPNDetection](https://vpndetection.io) | VPN, Tor and relay detection for any IP address, with country and ASN; proxy and hosting flags on paid plans | No | Yes |
 | [What3Words](https://what3words.com) | Three words as rememberable and unique coordinates worldwide | `apiKey` | Unknown |
 | [Yandex.Maps Geocoder](https://yandex.com/dev/maps/geocoder) | Use geocoding to get an object's coordinates from its address | `apiKey` | Unknown |
 | [ZipCodeAPI](https://www.zipcodeapi.com) | US zip code distance, radius and location API | `apiKey` | Unknown |
@@ -1757,6 +1759,7 @@
 | [openAFRICA](https://africaopendata.org/) | Large datasets repository of African open data | No | Unknown |
 | [OpenCorporates](https://api.opencorporates.com/documentation/API-Reference) | Data on corporate entities and directors in many countries | `apiKey` | Unknown |
 | [OpenSanctions](https://www.opensanctions.org/docs/api/) | Data on international sanctions, crime and politically exposed persons | No | Yes |
+| [RateDeed City Home Facts](https://www.ratedeed.com/developers/city-data) | Housing age, heating fuel, climate normals, trade wages, licensing boards and permit offices for 724 US cities from Census, NOAA and BLS under CC BY 4.0 | No | Yes |
 | [Recreation Information Database](https://ridb.recreation.gov/) | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US) | `apiKey` | Unknown |
 | [Salary Explorer](https://salarywiki.com/api) | Wages and employment for every US occupation by state and metro area, from Bureau of Labor Statistics survey data, with cost-of-living adjustment | No | Yes |
 | [Scento Perfume API](https://www.scento.com/developers/perfume-api) | Perfume notes, families, houses and raw materials, each tied to a page on scento.com | No | Yes |
@@ -2069,6 +2072,7 @@
 | [Adeli](https://www.tryadeli.com) | Unified API to publish to Instagram, TikTok, X, YouTube, and Facebook | `apiKey` | No |
 | [Ayrshare](https://www.ayrshare.com) | Social media APIs to post, get analytics, and manage multiple users social media accounts | `apiKey` | Yes |
 | [Blogger](https://developers.google.com/blogger/) | The Blogger APIs allows client applications to view and update Blogger content | `OAuth` | Unknown |
+| [Bluesky Bot Directory](https://bluesky.bot) | Find Bluesky bot accounts and check the availability of bot handles | No | Yes |
 | [Breakreach](https://www.breakreach.com) | Schedule and publish posts to 19 social networks with one REST API, SDKs and a hosted MCP server | `apiKey` | No |
 | [BulkPublish](https://www.bulkpublish.com) | Schedule and publish posts to 15 social networks | `apiKey` | Yes |
 | [Discord](https://discord.com/developers/docs/intro) | Make bots for Discord, integrate Discord onto an external platform | `OAuth` | Unknown |
@@ -2147,6 +2151,7 @@
 | [API-FOOTBALL](https://www.api-football.com/documentation-v3) | Get information about Football Leagues & Cups | `apiKey` | Yes |
 | [balldontlie](https://www.balldontlie.io) | Balldontlie provides access to stats data from the NBA | No | Yes |
 | [Basketball Highlights API](https://highlightly.net/documentation/basketball/) | Real time basketball video highlights | `apiKey` | Unknown |
+| [Bet Better](https://betbetter.world) | Free open JSON API for sports model win probabilities and fair odds across 13 leagues. No key required, CC BY 4.0 | No | Yes |
 | [BirdieAPI](https://birdieapi.com) | PGA Tour golf since 2001: leaderboards, hole-by-hole scores, courses, ratings and major winner odds | `apiKey` | Yes |
 | [Blacktop Motorsport API](https://ocblacktop.com/api) | Motorsport results, standings and schedules, with live timing for F1, NASCAR, IndyCar and WRC | `apiKey` | Yes |
 | [City Bikes](https://api.citybik.es/v2/) | City Bikes around the world | No | Unknown |
@@ -2184,7 +2189,7 @@
 | [NovigAPI](https://novigapi.com) | Unofficial read-only Novig exchange prices with intraday line history and no-vig fair prices | `apiKey` | No |
 | [Odds-API.io](https://odds-api.io) | Pre-match and live betting odds from 450+ bookmakers across 34 sports over REST and WebSocket | `apiKey` | Yes |
 | [Oddsmagnet](https://oddsmagnet.com/oddsdata) | Odds history from multiple UK bookmakers | No | Yes |
-| [OddsRelay](https://oddsrelay.io) | Pre-match odds from UK and Irish bookmakers, bet365 included, with Betfair, Smarkets, Matchbook and BETDAQ lay prices | `apiKey` | No |
+| [OddsRelay](https://oddsrelay.io) | Bookmaker odds for the UK & Ireland and more regions, with UK exchange lay prices | `apiKey` | No |
 | [OpenLigaDB](https://www.openligadb.de) | Crowd sourced sports league results | No | Yes |
 | [PinnFeed](https://pinnfeed.io) | Real-time Pinnacle odds over REST and WebSocket, with no-vig prices, drops and closing lines | `apiKey` | Yes |
 | [Premier League Standings ](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | All Current Premier League Standings and Statistics | `apiKey` | Unknown |
@@ -2265,6 +2270,7 @@
 | [Proofread and Grammar Check API](https://apyhub.com/utility/sharpapi-proofread-grammar-check) | The Proofreading and Grammar Check API ensures the provided text is grammatically correct and polished by automatically proofreading and checking for errors | `apiKey` | Yes |
 | [Safe text](https://rapidapi.com/bacloud14/api/safe-text) | Clean short and long texts. It is probably world most complete text-cleaner API! Providing very fast and accurate results. | `apiKey` | Yes |
 | [Semantria](https://semantria.readme.io/docs) | Text Analytics with sentiment analysis, categorization & named entity extraction | `OAuth` | Unknown |
+| [SupWriter](https://supwriter.com) | Humanize, paraphrase and grammar-check text, and score AI likelihood per sentence, in 50+ languages (API keys on Pro and Ultra plans) | `apiKey` | No |
 | [Tisane](https://tisane.ai/) | Text Analytics with focus on detection of abusive content and law enforcement applications | `OAuth` | Yes |
 | [Unprofane](https://unprofane.com) | Profanity and toxicity checks in 17 languages that read leetspeak, look-alike letters and spacing, with a Perspective API compatible endpoint | `apiKey` | Yes |
 | [Watson Natural Language Understanding](https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding) | Natural language processing for advanced text analysis | `OAuth` | Unknown |
@@ -2404,6 +2410,7 @@
 | [Motomarks](https://motomarks.io/) | Manufacturer marks for automotive apps. Badge, wordmark, and full logo from one image CDN, so listings do not keep a local dump. | `apiKey` | Unknown |
 | [NHTSA](https://vpic.nhtsa.dot.gov/api/) | NHTSA Product Information Catalog and Vehicle Listing | No | Unknown |
 | [Smartcar](https://smartcar.com/docs/) | Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars | `OAuth` | Yes |
+| [StickerByVIN](https://stickerbyvin.com) | Original window sticker (Monroney label) PDFs and structured option and MSRP data by VIN, plus decode and availability checks. Free tier | `apiKey` | Yes |
 | [Window Sticker](https://windowsticker.org/api-docs) | Original factory Monroney label PDF and full spec decode by VIN | No | Yes |
 
 **[⬆ Back to Index](#index)**
