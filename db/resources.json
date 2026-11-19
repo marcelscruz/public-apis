@@ -1,5 +1,5 @@
 {
-"count": 2129,
+"count": 2130,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6719,6 +6719,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.iqair.com/air-pollution-data-api",
+        "Category": "Environment"
+    },
+    {
+        "API": "Jour Tempo",
+        "Description": "French EDF Tempo electricity tariff colour for today and tomorrow, EJP and PP peak days, daily history since 2014 (RTE open data)",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://jourtempo.fr",
         "Category": "Environment"
     },
     {
