@@ -2148,6 +2148,7 @@
 | [API-FOOTBALL](https://www.api-football.com/documentation-v3) | Get information about Football Leagues & Cups | `apiKey` | Yes |
 | [balldontlie](https://www.balldontlie.io) | Balldontlie provides access to stats data from the NBA | No | Yes |
 | [Basketball Highlights API](https://highlightly.net/documentation/basketball/) | Real time basketball video highlights | `apiKey` | Unknown |
+| [Bet Better](https://betbetter.world) | Free open JSON API for sports model win probabilities and fair odds across 13 leagues. No key required, CC BY 4.0 | No | Yes |
 | [BirdieAPI](https://birdieapi.com) | PGA Tour golf since 2001: leaderboards, hole-by-hole scores, courses, ratings and major winner odds | `apiKey` | Yes |
 | [Blacktop Motorsport API](https://ocblacktop.com/api) | Motorsport results, standings and schedules, with live timing for F1, NASCAR, IndyCar and WRC | `apiKey` | Yes |
 | [City Bikes](https://api.citybik.es/v2/) | City Bikes around the world | No | Unknown |
