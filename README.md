@@ -2160,6 +2160,7 @@
 | [FastballAPI](https://fastballapi.com) | MLB since 2015 plus college baseball: pitches, plate appearances, box scores and sportsbook odds | `apiKey` | Yes |
 | [FighterAPI](https://fighterapi.com) | UFC fights since 2000: results, round-by-round stat sheets, fighters, ratings and moneyline history | `apiKey` | Yes |
 | [Fitbit](https://dev.fitbit.com/) | Fitbit Information | `OAuth` | Unknown |
+| [Footalytics](https://footalytics.farvor.com) | AI football match predictions: win/draw/loss probabilities, confidence tiers, over/under 2.5 goals, BTTS and graded past results for the top leagues | `apiKey` | Unknown |
 | [Football](https://rapidapi.com/GiulianoCrescimbeni/api/football98/) | A simple Open Source Football API to get squads’ stats, best scorers and more | `X-Mashape-Key` | Unknown |
 | [Football (Soccer) Videos](https://www.scorebat.com/video-api/) | Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more | No | Yes |
 | [Football Charts](https://www.football-charts.com/developers) | Results, standings, fixtures, goal timing and model probabilities for 93 football leagues | No | Yes |
@@ -2211,6 +2212,7 @@
 | [Tredict](https://www.tredict.com/blog/oauth_docs/) | Get and set activities, health data and more | `OAuth` | Unknown |
 | [UFCalendar Fight Data](https://www.ufcalendar.com/developers) | UFC, PFL, OKTAGON, BKFC and RIZIN events, results, round stats, rankings history | `apiKey` | Yes |
 | [Wger](https://wger.de/en/software/api) | Workout manager data as exercises, muscles or equipment | `apiKey` | Unknown |
+| [YorkerAPI](https://yorkerapi.com) | Cricket ball by ball in every format, men's and women's, with players, ratings and match odds | `apiKey` | Yes |
 | [Your Move - Exercise API](https://ymove.app/exercise-api) | Exercise API with 2,200+ real HD exercise videos filmed with trainers. Muscle, equipment and difficulty filters, workout and program generation. | `apiKey` | Yes |
 
 **[⬆ Back to Index](#index)**
