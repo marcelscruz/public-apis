@@ -1053,6 +1053,7 @@
 | [Elpriser i dag](https://elprisernaidag.se/api/) | Swedish electricity spot prices including VAT and energy tax, in 15-minute intervals | No | Yes |
 | [GrünstromIndex](https://gruenstromindex.de/) | Green Power Index for Germany (Grünstromindex/GSI) | No | Yes |
 | [IQAir](https://www.iqair.com/air-pollution-data-api) | Air quality and weather data | `apiKey` | Unknown |
+| [Jour Tempo](https://jourtempo.fr) | French EDF Tempo electricity tariff colour for today and tomorrow, EJP and PP peak days, daily history since 2014 (RTE open data) | No | Yes |
 | [Luchtmeetnet](https://api-docs.luchtmeetnet.nl/) | Predicted and actual air quality components for The Netherlands (RIVM) | No | Unknown |
 | [National Grid ESO](https://data.nationalgrideso.com/) | Open data from Great Britain’s Electricity System Operator | No | Unknown |
 | [OpenAQ](https://docs.openaq.org/) | Open air quality data | `apiKey` | Unknown |
