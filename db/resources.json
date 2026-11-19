@@ -1,5 +1,5 @@
 {
-"count": 2123,
+"count": 2124,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11823,6 +11823,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://www.opensanctions.org/docs/api/",
+        "Category": "Open Data"
+    },
+    {
+        "API": "RateDeed City Home Facts",
+        "Description": "Housing age, heating fuel, climate normals, trade wages, licensing boards and permit offices for 724 US cities from Census, NOAA and BLS under CC BY 4.0",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://www.ratedeed.com/developers/city-data",
         "Category": "Open Data"
     },
     {
