@@ -1,5 +1,5 @@
 {
-"count": 2122,
+"count": 2123,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -16127,6 +16127,14 @@
         "Auth": "OAuth",
         "Cors": "yes",
         "Link": "https://smartcar.com/docs/",
+        "Category": "Vehicle"
+    },
+    {
+        "API": "StickerByVIN",
+        "Description": "Original window sticker (Monroney label) PDFs and structured option and MSRP data by VIN, plus decode and availability checks. Free tier",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://stickerbyvin.com",
         "Category": "Vehicle"
     },
     {
