@@ -14683,7 +14683,7 @@
     },
     {
         "API": "OddsRelay",
-        "Description": "Pre-match odds from UK and Irish bookmakers, bet365 included, with Betfair, Smarkets, Matchbook and BETDAQ lay prices",
+        "Description": "Bookmaker odds for the UK & Ireland and more regions, with UK exchange lay prices",
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://oddsrelay.io",
