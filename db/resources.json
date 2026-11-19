@@ -1,5 +1,5 @@
 {
-"count": 2130,
+"count": 2131,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -519,6 +519,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://translatemyimage.com",
+        "Category": "AI"
+    },
+    {
+        "API": "TrustedRouter",
+        "Description": "OpenAI-compatible LLM API gateway that routes requests to models from many vendors through one API key",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://trustedrouter.com",
         "Category": "AI"
     },
     {
