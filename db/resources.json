@@ -1,5 +1,5 @@
 {
-"count": 2128,
+"count": 2129,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -15247,6 +15247,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://semantria.readme.io/docs",
+        "Category": "Text Analysis"
+    },
+    {
+        "API": "SupWriter",
+        "Description": "Humanize, paraphrase and grammar-check text, and score AI likelihood per sentence, in 50+ languages (API keys on Pro and Ultra plans)",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://supwriter.com",
         "Category": "Text Analysis"
     },
     {
