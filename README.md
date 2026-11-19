@@ -1757,6 +1757,7 @@
 | [openAFRICA](https://africaopendata.org/) | Large datasets repository of African open data | No | Unknown |
 | [OpenCorporates](https://api.opencorporates.com/documentation/API-Reference) | Data on corporate entities and directors in many countries | `apiKey` | Unknown |
 | [OpenSanctions](https://www.opensanctions.org/docs/api/) | Data on international sanctions, crime and politically exposed persons | No | Yes |
+| [RateDeed City Home Facts](https://www.ratedeed.com/developers/city-data) | Housing age, heating fuel, climate normals, trade wages, licensing boards and permit offices for 724 US cities from Census, NOAA and BLS under CC BY 4.0 | No | Yes |
 | [Recreation Information Database](https://ridb.recreation.gov/) | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US) | `apiKey` | Unknown |
 | [Salary Explorer](https://salarywiki.com/api) | Wages and employment for every US occupation by state and metro area, from Bureau of Labor Statistics survey data, with cost-of-living adjustment | No | Yes |
 | [Scento Perfume API](https://www.scento.com/developers/perfume-api) | Perfume notes, families, houses and raw materials, each tied to a page on scento.com | No | Yes |
