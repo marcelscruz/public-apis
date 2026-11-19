@@ -208,6 +208,7 @@
 | [Danbooru Anime](https://danbooru.donmai.us/wiki_pages/help:api) | Thousands of anime artist database to find good anime art | `apiKey` | Yes |
 | [Dattebayo API](https://api-dattebayo.vercel.app/) | Dattebayo: Your Ultimate Naruto Anime API | No | No |
 | [Dragon Ball](https://web.dragonball-api.com) | An easy to use Dragon Ball API | No | No |
+| [FillerLists](https://fillerlists.com/data) | Episode filler, mixed and canon labels for 13 long anime (JSON and CSV) | No | Yes |
 | [Jikan](https://jikan.moe) | Unofficial MyAnimeList API | No | Yes |
 | [Kitsu](https://kitsu.docs.apiary.io/) | Anime discovery platform | `OAuth` | Yes |
 | [MangaDex](https://api.mangadex.org/docs/) | Manga Database and Community | `apiKey` | Unknown |
