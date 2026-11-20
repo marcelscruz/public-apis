@@ -1,5 +1,5 @@
 {
-"count": 2131,
+"count": 2132,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13935,6 +13935,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://mukeshsolanki.gitbook.io/hashtag-api/",
+        "Category": "Social"
+    },
+    {
+        "API": "Hermoso",
+        "Description": "Make ads, publish to social channels and run ad campaigns from one API",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://hermoso.ai",
         "Category": "Social"
     },
     {
