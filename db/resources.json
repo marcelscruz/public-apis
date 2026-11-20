@@ -1,5 +1,5 @@
 {
-"count": 2136,
+"count": 2137,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -831,6 +831,14 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://web.dragonball-api.com",
+        "Category": "Anime"
+    },
+    {
+        "API": "FillerLists",
+        "Description": "Query anime filler, mixed and canon episodes by show, ID, type or range",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://fillerlists.com/data#api",
         "Category": "Anime"
     },
     {
