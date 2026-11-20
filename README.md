@@ -1381,6 +1381,7 @@
 | [HelloSalut](https://fourtonfish.com/project/hellosalut-api/) | Get hello translation following user language | No | Unknown |
 | [HERE Maps](https://developer.here.com) | Create/customize digital maps based on HERE Maps data | `apiKey` | Unknown |
 | [IBGE](https://servicodados.ibge.gov.br/api/docs/) | Aggregate services of IBGE (Brazilian Institute of Geography and Statistics) | No | Unknown |
+| [InternetData](https://internetdata.io) | IP geolocation, ASN and company data for any IP address, AS or domain, free with no key; city, coordinates and VPN and proxy detection on paid plans | No | Yes |
 | [IP 2 Country](https://ip2country.info) | Map an IP to a country | No | Unknown |
 | [IP Address Details](https://ipinfo.io/) | Find geolocation with ip address | No | Unknown |
 | [ip-api](https://ip-api.com/docs) | Find location with IP address or domain | No | Unknown |
