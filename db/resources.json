@@ -1,5 +1,5 @@
 {
-"count": 2139,
+"count": 2140,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -8599,6 +8599,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://scryfall.com/docs/api",
+        "Category": "Games & Comics"
+    },
+    {
+        "API": "ServerRoam",
+        "Description": "Live player counts, votes and tags of Minecraft, FiveM and RedM servers. Free, no key needed",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://serverroam.com",
         "Category": "Games & Comics"
     },
     {
