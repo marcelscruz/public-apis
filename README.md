@@ -783,6 +783,7 @@
 | [Neon](https://neon.com) | Serverless PostgreSQL with a REST API to manage projects, branches and run SQL over HTTP | `apiKey` | Yes |
 | [Netlify](https://docs.netlify.com/api/get-started/) | Netlify is a hosting service for the programmable web | `OAuth` | Unknown |
 | [NetworkCalc](https://networkcalc.com/api/docs) | Network calculators, including subnets, DNS, binary, and security tools | No | Yes |
+| [NodeRings](https://noderings.com) | Compare hosting plans across providers and manage virtual machines, one-click apps and GeoDNS | `apiKey` | Unknown |
 | [NoneCap](https://nonecap.com) | hCaptcha solver API: submit a sitekey and page URL, get back a valid hCaptcha token. Supports regular, invisible and enterprise sitekeys | `apiKey` | Yes |
 | [npm Registry](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md) | Query information about your favorite Node.js libraries programmatically | No | Unknown |
 | [Olostep](https://www.olostep.com) | AI-native web search, scraping, and crawling API that delivers clean, structured, real-time web data. Used by top AI companies | `apiKey` | Yes |
