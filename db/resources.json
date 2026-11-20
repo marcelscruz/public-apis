@@ -1,5 +1,5 @@
 {
-"count": 2141,
+"count": 2142,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10887,6 +10887,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://jobicy.com/jobs-rss-feed",
+        "Category": "Jobs"
+    },
+    {
+        "API": "Jobs Every Hour",
+        "Description": "Open jobs read every hour from employers' own career pages, as keyless JSON by skill, category, place and company, plus an MCP server",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://jobseveryhour.com/api/",
         "Category": "Jobs"
     },
     {
