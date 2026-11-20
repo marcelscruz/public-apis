@@ -1,5 +1,5 @@
 {
-"count": 2132,
+"count": 2133,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6223,6 +6223,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://fairvalid.com",
+        "Category": "Email"
+    },
+    {
+        "API": "Fake Email",
+        "Description": "Disposable inboxes for automated email tests: long-poll for the email and get its OTP code and confirmation link, free key, npm and PyPI SDKs",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://fake-email.pro/api",
         "Category": "Email"
     },
     {
