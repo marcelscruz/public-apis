@@ -1,5 +1,5 @@
 {
-"count": 2137,
+"count": 2138,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13575,6 +13575,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://vuldb.com/",
+        "Category": "Security"
+    },
+    {
+        "API": "Who Got Hacked",
+        "Description": "Data breach records, each linked to a US regulator filing or Have I Been Pwned. Search organizations, check a domain or name, list recent incidents",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://whogothacked.com",
         "Category": "Security"
     },
     {
