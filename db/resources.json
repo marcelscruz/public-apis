@@ -1,5 +1,5 @@
 {
-"count": 2134,
+"count": 2135,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13871,6 +13871,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.bulkpublish.com",
+        "Category": "Social"
+    },
+    {
+        "API": "DataXAPI",
+        "Description": "Public posts, comments, creators, ads and search trends from Douyin, Xiaohongshu, WeChat, TikTok, X, YouTube and more, pay per call",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://dataxapi.com",
         "Category": "Social"
     },
     {
