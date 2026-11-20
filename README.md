@@ -99,6 +99,7 @@
 | [AI For Thai](https://aiforthai.in.th/index.php) | Free Various Thai AI API | `apiKey` | Yes |
 | [AI Learning Engine](https://rapidapi.com/vintarok-vintarok-default/api/ai-learning-engine-task-creation-auto-grading-api) | Create, auto-grade, and analyze learning tasks with AI-based evaluations | `apiKey` | Yes |
 | [AI/ML](https://aimlapi.com) | Access 100+ curated AI Models over 1 API | `apiKey` | Yes |
+| [aicharts](https://aicharts.io) | Terminal-Bench scores, cost per task, Epoch AI scores and API prices for Claude, GPT and Gemini models, with each source's license | No | Yes |
 | [API Route](https://www.api-route.com) | OpenAI-compatible multi-model gateway for chat completions with API keys and usage-based billing | `apiKey` | Yes |
 | [APIClaw](https://apiclaw.biz) | Flat-rate OpenAI-compatible gateway for Claude, GPT, DeepSeek, Qwen, Kimi and GLM models | `apiKey` | Yes |
 | [APIModels](https://apimodels.app) | OpenAI-compatible API for 150+ image, video, audio and LLM models: automatic channel failover, failed calls not billed, most prices below official rates | `apiKey` | Yes |
