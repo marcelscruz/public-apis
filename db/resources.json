@@ -1,5 +1,5 @@
 {
-"count": 2138,
+"count": 2139,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11927,6 +11927,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.scoop.it/dev",
+        "Category": "Open Data"
+    },
+    {
+        "API": "Signal Lab",
+        "Description": "Free data source catalog, updated daily, with licence, sign-up and reachability notes, as a keyless JSON/CSV feed and remote MCP server",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://signal-lab.qdt.ai",
         "Category": "Open Data"
     },
     {
