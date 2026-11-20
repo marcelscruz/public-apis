@@ -1,5 +1,5 @@
 {
-"count": 2133,
+"count": 2134,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -47,6 +47,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://aimlapi.com",
+        "Category": "AI"
+    },
+    {
+        "API": "aicharts",
+        "Description": "Terminal-Bench scores, cost per task, Epoch AI scores and API prices for Claude, GPT and Gemini models, with each source's license",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://aicharts.io",
         "Category": "AI"
     },
     {
