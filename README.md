@@ -2079,6 +2079,7 @@
 | [Bluesky Bot Directory](https://bluesky.bot) | Find Bluesky bot accounts and check the availability of bot handles | No | Yes |
 | [Breakreach](https://www.breakreach.com) | Schedule and publish posts to 19 social networks with one REST API, SDKs and a hosted MCP server | `apiKey` | No |
 | [BulkPublish](https://www.bulkpublish.com) | Schedule and publish posts to 15 social networks | `apiKey` | Yes |
+| [DataXAPI](https://dataxapi.com) | Public posts, comments, creators, ads and search trends from Douyin, Xiaohongshu, WeChat, TikTok, X, YouTube and more, pay per call | `apiKey` | No |
 | [Discord](https://discord.com/developers/docs/intro) | Make bots for Discord, integrate Discord onto an external platform | `OAuth` | Unknown |
 | [Disqus](https://disqus.com/api/docs/auth/) | Communicate with Disqus data | `OAuth` | Unknown |
 | [Facebook](https://developers.facebook.com/) | Facebook Login, Share on FB, Social Plugins, Analytics and more | `OAuth` | Unknown |
