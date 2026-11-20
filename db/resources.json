@@ -1,5 +1,5 @@
 {
-"count": 2140,
+"count": 2141,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13927,6 +13927,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://discord.com/developers/docs/intro",
+        "Category": "Social"
+    },
+    {
+        "API": "disdex",
+        "Description": "Search millions of public Discord servers by name, language, guild tag and size, with member history and invite checks",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://disdex.io",
         "Category": "Social"
     },
     {
