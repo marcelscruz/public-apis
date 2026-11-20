@@ -1,5 +1,5 @@
 {
-"count": 2135,
+"count": 2136,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9103,6 +9103,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://servicodados.ibge.gov.br/api/docs/",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "InternetData",
+        "Description": "IP geolocation, ASN and company data for any IP address, AS or domain, free with no key; city, coordinates and VPN and proxy detection on paid plans",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://internetdata.io",
         "Category": "Geocoding"
     },
     {
