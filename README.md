@@ -1770,6 +1770,7 @@
 | [Salary Explorer](https://salarywiki.com/api) | Wages and employment for every US occupation by state and metro area, from Bureau of Labor Statistics survey data, with cost-of-living adjustment | No | Yes |
 | [Scento Perfume API](https://www.scento.com/developers/perfume-api) | Perfume notes, families, houses and raw materials, each tied to a page on scento.com | No | Yes |
 | [Scoop.it](https://www.scoop.it/dev) | Content Curation Service | `apiKey` | Unknown |
+| [Signal Lab](https://signal-lab.qdt.ai) | Free data source catalog, updated daily, with licence, sign-up and reachability notes, as a keyless JSON/CSV feed and remote MCP server | No | Yes |
 | [SlashYear](https://slashyear.com) | History by year, date and country, plus world leaders, historical prices and No. 1 songs, each line cited to a Wikipedia revision | No | Yes |
 | [Socrata](https://dev.socrata.com/) | Access to Open Data from Governments, Non-profits and NGOs around the world | `OAuth` | Yes |
 | [Sofiaplan](https://sofiaplan.bg/api/) | Access to urban research data for the Bulgarian capital Sofia | No | Yes |
