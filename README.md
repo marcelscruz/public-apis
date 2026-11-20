@@ -2029,6 +2029,7 @@
 | [Veille](https://www.veille.io) | Validate emails, domains, IPs, phone numbers, VAT numbers and IBANs to block fake sign-ups and fraud | `apiKey` | No |
 | [Virus and Malware Scan API by attachmentAV](https://attachmentav.com/solution/virus-malware-scan-api/) | Scan files for viruses, worms, trojans, ransomware, and other kinds of malware by sending them to the attachmentAV API powered by Sophos | `apiKey` | No |
 | [VulDB](https://vuldb.com/) | VulDB API allows to initiate queries for one or more items along with transactional bots | `apiKey` | Unknown |
+| [Who Got Hacked](https://whogothacked.com) | Data breach records, each linked to a US regulator filing or Have I Been Pwned. Search organizations, check a domain or name, list recent incidents | No | Yes |
 | [Whoisfreaks](https://whoisfreaks.com/) | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security | `apiKey` | No |
 
 **[⬆ Back to Index](#index)**
