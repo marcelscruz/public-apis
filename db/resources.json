@@ -1,5 +1,5 @@
 {
-"count": 2146,
+"count": 2147,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14855,6 +14855,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://pinnfeed.io",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "PinnRadar",
+        "Description": "Real-time Pinnacle odds, live and prematch, over REST, WebSocket and SSE with dropping-odds alerts",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://pinnradar.com",
         "Category": "Sports & Fitness"
     },
     {
