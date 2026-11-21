@@ -373,6 +373,7 @@
 ### Business
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [akta.pro](https://akta.pro/) | Private company data, news signals and alternative data on 20M+ companies via one API | `apiKey` | Yes |
 | [Apache Superset](https://superset.apache.org/docs/api) | API to manage your BI dashboards and data sources on Superset | `apiKey` | Yes |
 | [ArvanCloud](https://www.arvancloud.ir/en/dev/sdk) | Enables you to use ArvanCloud services | `apiKey` | No |
 | [Auregistre](https://auregistre.fr) | Dated history of every French company from the official BODACC gazette: changes, insolvency proceedings and filings | No | Yes |
