@@ -573,6 +573,7 @@
 | [send21](https://send21.io) | Crypto pay links and API for people and AI agents: non-custodial BTC, Lightning, USDC, USDT, EURC, SOL and ETH payment requests | `apiKey` | No |
 | [Sharpe](https://sharpe.ai) | Crypto market data for funding, futures, options, arbitrage, narratives, and news | No | No |
 | [SoChain](https://sochain.com) | Bitcoin, Litecoin, Dogecoin and Zcash balances, transactions and blocks | No | Yes |
+| [SODAX](https://sodax.com) | Cross-network swap quotes, intents, oracle prices and protocol stats | No | Yes |
 | [Solana JSON RPC](https://docs.solana.com/developing/clients/jsonrpc-api) | Provides various endpoints to interact with the Solana Blockchain | No | Unknown |
 | [The River](https://theriver.markets) | Tokenized US stocks on Base and Robinhood Chain: live prices across issuers, wallet holdings and P&L, and unsigned trade and limit-order transactions | No | Yes |
 | [Trading View](https://www.tradingview.com/rest-api-spec/) | Market price, data, graph for brokers and traders | `OAuth` | Unknown |
