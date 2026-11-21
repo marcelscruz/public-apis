@@ -210,6 +210,7 @@
 | [Danbooru Anime](https://danbooru.donmai.us/wiki_pages/help:api) | Thousands of anime artist database to find good anime art | `apiKey` | Yes |
 | [Dattebayo API](https://api-dattebayo.vercel.app/) | Dattebayo: Your Ultimate Naruto Anime API | No | No |
 | [Dragon Ball](https://web.dragonball-api.com) | An easy to use Dragon Ball API | No | No |
+| [FillerLists](https://fillerlists.com/data#api) | Query anime filler, mixed and canon episodes by show, ID, type or range | No | Yes |
 | [Jikan](https://jikan.moe) | Unofficial MyAnimeList API | No | Yes |
 | [Kitsu](https://kitsu.docs.apiary.io/) | Anime discovery platform | `OAuth` | Yes |
 | [MangaDex](https://api.mangadex.org/docs/) | Manga Database and Community | `apiKey` | Unknown |
@@ -373,6 +374,7 @@
 ### Business
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [akta.pro](https://akta.pro/) | Private company data, news signals and alternative data on 20M+ companies via one API | `apiKey` | Yes |
 | [Apache Superset](https://superset.apache.org/docs/api) | API to manage your BI dashboards and data sources on Superset | `apiKey` | Yes |
 | [ArvanCloud](https://www.arvancloud.ir/en/dev/sdk) | Enables you to use ArvanCloud services | `apiKey` | No |
 | [Auregistre](https://auregistre.fr) | Dated history of every French company from the official BODACC gazette: changes, insolvency proceedings and filings | No | Yes |
@@ -1312,6 +1314,7 @@
 | [RuneScape](https://runescape.wiki/w/Application_programming_interface) | RuneScape and OSRS RPGs information | No | No |
 | [Sakura CardCaptor](https://github.com/JessVel/sakura-card-captor-api) | Sakura CardCaptor Cards Information | No | Unknown |
 | [Scryfall](https://scryfall.com/docs/api) | Magic: The Gathering database | No | Yes |
+| [ServerRoam](https://serverroam.com) | Live player counts, votes and tags of Minecraft, FiveM and RedM servers. Free, no key needed | No | Yes |
 | [SFXMint](https://sfxmint.com/) | Free CC0 AI-generated or synthesized sound effects by description, event or set, with direct WAV/MP3 URLs; no key for library access | No | Yes |
 | [slot.report](https://slot.report/api/) | Online slot machine data: RTP, volatility, max win and features for 6,000+ games | No | Yes |
 | [SpaceTradersAPI](https://spacetraders.io) | A playable inter-galactic space trading MMOAPI | `OAuth` | Yes |
@@ -1621,6 +1624,7 @@
 | [Job Opportunities API (JOA)](https://jobopportunitiesapi.org) | Employer-direct job postings from company career sites and ATSs, with per-field provenance and closure dates. Free key, no card. | `apiKey` | Yes |
 | [jobdata API](https://jobdataapi.com/) | Simple Job Data API | `apiKey` | Unknown |
 | [Jobicy](https://jobicy.com/jobs-rss-feed) | Remote Jobs API Feed | No | Unknown |
+| [Jobs Every Hour](https://jobseveryhour.com/api/) | Open jobs read every hour from employers' own career pages, as keyless JSON by skill, category, place and company, plus an MCP server | No | Yes |
 | [Jobspipe](https://jobspipe.dev/) | Jobspipe a unified jobs data API powering access to over 300 million public job postings worldwide. We aggregate, normalize, and enrich job data | `apiKey` | Unknown |
 | [Jobven](https://jobven.com) | Job postings collected directly from employer career pages, not job boards. Structured JSON over REST, with webhooks when listings change | `apiKey` | Yes |
 | [Jobvetta](https://jobvetta.com) | Live, vetted job listings from official employer sources across India | `apiKey` | Yes |
@@ -1770,6 +1774,7 @@
 | [Salary Explorer](https://salarywiki.com/api) | Wages and employment for every US occupation by state and metro area, from Bureau of Labor Statistics survey data, with cost-of-living adjustment | No | Yes |
 | [Scento Perfume API](https://www.scento.com/developers/perfume-api) | Perfume notes, families, houses and raw materials, each tied to a page on scento.com | No | Yes |
 | [Scoop.it](https://www.scoop.it/dev) | Content Curation Service | `apiKey` | Unknown |
+| [Signal Lab](https://signal-lab.qdt.ai) | Free data source catalog, updated daily, with licence, sign-up and reachability notes, as a keyless JSON/CSV feed and remote MCP server | No | Yes |
 | [SlashYear](https://slashyear.com) | History by year, date and country, plus world leaders, historical prices and No. 1 songs, each line cited to a Wikipedia revision | No | Yes |
 | [Socrata](https://dev.socrata.com/) | Access to Open Data from Governments, Non-profits and NGOs around the world | `OAuth` | Yes |
 | [Sofiaplan](https://sofiaplan.bg/api/) | Access to urban research data for the Bulgarian capital Sofia | No | Yes |
@@ -1846,6 +1851,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [Abstract Phone Validation](https://www.abstractapi.com/phone-validation-api) | Validate phone numbers, carrier, and line type. 100 free requests on signup | `apiKey` | Yes |
+| [CallForMe](https://callforme.tel) | Phone US and Canada businesses from an AI agent: REST API and MCP server, handles hold and phone menus, returns answers and a transcript. Pay per call | `apiKey` | Yes |
 | [CheckThatPhone](https://checkthatphone.com) | Real-time phone validation API for US & Canada: carrier and line type from live carrier data, portability, deliverability, GeoIP and TCPA litigator scrub | `apiKey` | Unknown |
 | [Cloudmersive Validate](https://cloudmersive.com/phone-number-validation-API) | Validate international phone numbers | `apiKey` | Yes |
 | [Fax for Agents](https://faxforagents.com) | Fax API, hosted MCP server and SDKs built so AI agents can send and receive faxes, with a free sandbox | `apiKey` | No |
@@ -2030,6 +2036,7 @@
 | [Veille](https://www.veille.io) | Validate emails, domains, IPs, phone numbers, VAT numbers and IBANs to block fake sign-ups and fraud | `apiKey` | No |
 | [Virus and Malware Scan API by attachmentAV](https://attachmentav.com/solution/virus-malware-scan-api/) | Scan files for viruses, worms, trojans, ransomware, and other kinds of malware by sending them to the attachmentAV API powered by Sophos | `apiKey` | No |
 | [VulDB](https://vuldb.com/) | VulDB API allows to initiate queries for one or more items along with transactional bots | `apiKey` | Unknown |
+| [Who Got Hacked](https://whogothacked.com) | Data breach records, each linked to a US regulator filing or Have I Been Pwned. Search organizations, check a domain or name, list recent incidents | No | Yes |
 | [Whoisfreaks](https://whoisfreaks.com/) | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security | `apiKey` | No |
 
 **[⬆ Back to Index](#index)**
@@ -2083,6 +2090,7 @@
 | [BulkPublish](https://www.bulkpublish.com) | Schedule and publish posts to 15 social networks | `apiKey` | Yes |
 | [DataXAPI](https://dataxapi.com) | Public posts, comments, creators, ads and search trends from Douyin, Xiaohongshu, WeChat, TikTok, X, YouTube and more, pay per call | `apiKey` | No |
 | [Discord](https://discord.com/developers/docs/intro) | Make bots for Discord, integrate Discord onto an external platform | `OAuth` | Unknown |
+| [disdex](https://disdex.io) | Search millions of public Discord servers by name, language, guild tag and size, with member history and invite checks | No | Yes |
 | [Disqus](https://disqus.com/api/docs/auth/) | Communicate with Disqus data | `OAuth` | Unknown |
 | [Facebook](https://developers.facebook.com/) | Facebook Login, Share on FB, Social Plugins, Analytics and more | `OAuth` | Unknown |
 | [Feedframer](https://feedframer.com) | Instagram feed posts as JSON, GraphQL or RSS with automatic token refresh | `apiKey` | Yes |
@@ -2144,6 +2152,7 @@
 | [Webex](https://developer.webex.com) | Team collaboration software | `OAuth` | Yes |
 | [Weir](https://weirapp.io) | Public Reddit and X (Twitter) data: search posts, read comment threads, profiles and followers, and run scheduled monitors with webhooks | `apiKey` | No |
 | [WoopSocial](https://woopsocial.com) | Schedule and publish posts across social media platforms | `apiKey` | No |
+| [XCROP](https://xcrop.io) | X/Twitter data API: profiles, tweets, search, followers, plus one-call follow, retweet, reply and quote checks | `apiKey` | No |
 | [xdataapi.io](https://xdataapi.io) | Read-only public X (Twitter) data: profiles, tweets, threads, followers and search with x.com operators, plus a hosted MCP server. Not affiliated with X Corp | `apiKey` | No |
 | [Xquik API](https://xquik.com) | Search X posts, profiles, followers, trends, and communities through 128 REST operations, MCP, webhooks, SDKs, and exports. Not affiliated with X Corp | `apiKey` | Unknown |
 | [Zoom](https://developers.zoom.us/docs/api) | Video communication, web conferencing, chat, and webinars | `OAuth` | Unknown |
