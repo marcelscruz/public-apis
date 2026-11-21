@@ -1,5 +1,5 @@
 {
-"count": 2149,
+"count": 2150,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5951,6 +5951,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://optiic.dev",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "pagespool",
+        "Description": "Hosted Docling, MarkItDown, WeasyPrint, Gotenberg, OCRmyPDF, veraPDF and EPUBCheck; free tier",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://pagespool.com",
         "Category": "Documents & Productivity"
     },
     {
