@@ -2207,6 +2207,7 @@
 | [OddsRelay](https://oddsrelay.io) | Bookmaker odds for the UK & Ireland and more regions, with UK exchange lay prices | `apiKey` | No |
 | [OpenLigaDB](https://www.openligadb.de) | Crowd sourced sports league results | No | Yes |
 | [PinnFeed](https://pinnfeed.io) | Real-time Pinnacle odds over REST and WebSocket, with no-vig prices, drops and closing lines | `apiKey` | Yes |
+| [PinnRadar](https://pinnradar.com) | Real-time Pinnacle odds, live and prematch, over REST, WebSocket and SSE with dropping-odds alerts | `apiKey` | Yes |
 | [Premier League Standings ](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | All Current Premier League Standings and Statistics | `apiKey` | Unknown |
 | [PrizePicksAPI](https://prizepicksapi.com) | Unofficial PrizePicks player-prop lines with goblin and demon tiers, line history and graded results | `apiKey` | No |
 | [PropLine](https://prop-line.com) | Player props and game odds from 118 sportsbooks and exchanges across 59 sports, with every prop graded against official box scores | `apiKey` | No |
