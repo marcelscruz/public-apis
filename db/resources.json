@@ -1,5 +1,5 @@
 {
-"count": 2147,
+"count": 2148,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3263,6 +3263,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://sochain.com",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "SODAX",
+        "Description": "Cross-network swap quotes, intents, oracle prices and protocol stats",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://sodax.com",
         "Category": "Cryptocurrency"
     },
     {
