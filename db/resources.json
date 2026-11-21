@@ -1,5 +1,5 @@
 {
-"count": 2148,
+"count": 2149,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12471,6 +12471,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://proweblook.com/whatsapp-number-checker",
+        "Category": "Phone"
+    },
+    {
+        "API": "SMSTunnel",
+        "Description": "REST API that sends texts from your own Android phone and number. Needs the SMSTunnel app on that phone. Free plan, paid plans from $9 a month",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://smstunnel.io",
         "Category": "Phone"
     },
     {
