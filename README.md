@@ -100,6 +100,7 @@
 | [AI Learning Engine](https://rapidapi.com/vintarok-vintarok-default/api/ai-learning-engine-task-creation-auto-grading-api) | Create, auto-grade, and analyze learning tasks with AI-based evaluations | `apiKey` | Yes |
 | [AI/ML](https://aimlapi.com) | Access 100+ curated AI Models over 1 API | `apiKey` | Yes |
 | [aicharts](https://aicharts.io) | Terminal-Bench scores, cost per task, Epoch AI scores and API prices for Claude, GPT and Gemini models, with each source's license | No | Yes |
+| [AIGROW](https://aigrow.gg/ai-api) | OpenAI-compatible API for genuine Claude, GPT, Gemini, Grok, Qwen and Kimi models on one prepaid key; models and per-token prices listed without a key | `apiKey` | Yes |
 | [API Route](https://www.api-route.com) | OpenAI-compatible multi-model gateway for chat completions with API keys and usage-based billing | `apiKey` | Yes |
 | [APIClaw](https://apiclaw.biz) | Flat-rate OpenAI-compatible gateway for Claude, GPT, DeepSeek, Qwen, Kimi and GLM models | `apiKey` | Yes |
 | [APIModels](https://apimodels.app) | OpenAI-compatible API for 150+ image, video, audio and LLM models: automatic channel failover, failed calls not billed, most prices below official rates | `apiKey` | Yes |
