@@ -939,6 +939,7 @@
 | [Notion](https://developers.notion.com/docs/getting-started) | Integrate with Notion | `OAuth` | Unknown |
 | [Nutrient Data Extraction API](https://www.nutrient.io/api/data-extraction-api/) | Extract AI-ready JSON or Markdown from PDFs, scans, images, and Office files with OCR, schemas, source citations, confidence scores, and layout data | `apiKey` | Unknown |
 | [Optiic](https://optiic.dev) | OCR API that extracts text from images and PDFs, sent as a file or a URL, with optional translation of the result | `apiKey` | Yes |
+| [pagespool](https://pagespool.com) | Hosted Docling, MarkItDown, WeasyPrint, Gotenberg, OCRmyPDF, veraPDF and EPUBCheck; free tier | `apiKey` | Unknown |
 | [PandaDoc](https://developers.pandadoc.com) | DocGen and eSignatures API | `apiKey` | No |
 | [PaperClean](https://paperclean.ip1.cc/api/docs) | Clean document photos for printing, remove shadows and fix lighting | `apiKey` | Yes |
 | [Paraphrase Text API](https://apyhub.com/utility/sharpapi-paraphrase-text) | The Paraphrase Text Generator API generates a paraphrased version of the provided text | `apiKey` | Yes |
