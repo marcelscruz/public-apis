@@ -1,5 +1,5 @@
 {
-"count": 2142,
+"count": 2143,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14431,6 +14431,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://woopsocial.com",
+        "Category": "Social"
+    },
+    {
+        "API": "XCROP",
+        "Description": "X/Twitter data API: profiles, tweets, search, followers, plus one-call follow, retweet, reply and quote checks",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://xcrop.io",
         "Category": "Social"
     },
     {
