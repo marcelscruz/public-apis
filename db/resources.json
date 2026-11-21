@@ -1,5 +1,5 @@
 {
-"count": 2143,
+"count": 2144,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1856,6 +1856,14 @@
         "Cors": "unknown",
         "Link": "https://wolnelektury.pl/api/",
         "Category": "Books"
+    },
+    {
+        "API": "akta.pro",
+        "Description": "Private company data, news signals and alternative data on 20M+ companies via one API",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://akta.pro/",
+        "Category": "Business"
     },
     {
         "API": "Apache Superset",
