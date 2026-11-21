@@ -1,5 +1,5 @@
 {
-"count": 2145,
+"count": 2146,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -55,6 +55,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://aicharts.io",
+        "Category": "AI"
+    },
+    {
+        "API": "AIGROW",
+        "Description": "OpenAI-compatible API for genuine Claude, GPT, Gemini, Grok, Qwen and Kimi models on one prepaid key; models and per-token prices listed without a key",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://aigrow.gg/ai-api",
         "Category": "AI"
     },
     {
