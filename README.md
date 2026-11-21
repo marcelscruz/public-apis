@@ -1850,6 +1850,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [Abstract Phone Validation](https://www.abstractapi.com/phone-validation-api) | Validate phone numbers, carrier, and line type. 100 free requests on signup | `apiKey` | Yes |
+| [CallForMe](https://callforme.tel) | Phone US and Canada businesses from an AI agent: REST API and MCP server, handles hold and phone menus, returns answers and a transcript. Pay per call | `apiKey` | Yes |
 | [CheckThatPhone](https://checkthatphone.com) | Real-time phone validation API for US & Canada: carrier and line type from live carrier data, portability, deliverability, GeoIP and TCPA litigator scrub | `apiKey` | Unknown |
 | [Cloudmersive Validate](https://cloudmersive.com/phone-number-validation-API) | Validate international phone numbers | `apiKey` | Yes |
 | [Fax for Agents](https://faxforagents.com) | Fax API, hosted MCP server and SDKs built so AI agents can send and receive faxes, with a free sandbox | `apiKey` | No |
