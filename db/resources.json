@@ -1,5 +1,5 @@
 {
-"count": 2144,
+"count": 2145,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12375,6 +12375,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.abstractapi.com/phone-validation-api",
+        "Category": "Phone"
+    },
+    {
+        "API": "CallForMe",
+        "Description": "Phone US and Canada businesses from an AI agent: REST API and MCP server, handles hold and phone menus, returns answers and a transcript. Pay per call",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://callforme.tel",
         "Category": "Phone"
     },
     {
