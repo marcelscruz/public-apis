@@ -1,5 +1,5 @@
 {
-"count": 2155,
+"count": 2156,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -16663,6 +16663,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.omdbapi.com/",
+        "Category": "Video"
+    },
+    {
+        "API": "PennyCompute",
+        "Description": "Pay-per-job API for FFmpeg, Remotion rendering and MiniMax H3 video",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://pennycompute.com",
         "Category": "Video"
     },
     {
