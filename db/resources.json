@@ -1,5 +1,5 @@
 {
-"count": 2150,
+"count": 2151,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11863,6 +11863,14 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://kuenstlerfinanzen.de/entwickler.html",
+        "Category": "Open Data"
+    },
+    {
+        "API": "Lantern Works",
+        "Description": "GPU cloud rental prices, price changes and deals as keyless JSON feeds under CC BY 4.0, plus a read-only MCP server",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://thelanternworks.com",
         "Category": "Open Data"
     },
     {
