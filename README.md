@@ -397,6 +397,7 @@
 | [Fantastic Forms API](https://fantasticforms.com) | REST API for Fantastic Forms — a modern form builder SaaS. Programmatically create forms, list submissions, export data, and manage workspaces / team members | No | Yes |
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | `OAuth` | Unknown |
 | [FuneralCompare](https://funeralcompare.fyi) | Funeral homes and cremation providers, compared by the fees they publish | No | Yes |
+| [GlobalEntity API](https://www.globalentityapi.com) | Official company data from 50+ countries and 66 business registries: verification, UBO, directors, corporate structure, sanctions, VAT and LEI | `apiKey` | Yes |
 | [Gmail](https://developers.google.com/gmail/api/) | Flexible, RESTful access to the user's inbox | `OAuth` | Unknown |
 | [Google Analytics](https://developers.google.com/analytics/) | Collect, configure and analyze your data to reach the right audience | `OAuth` | Unknown |
 | [Hexvan](https://hexvan.com) | Contacts, quotes, invoices and receipts of a small trade business (plumbers, electricians, roofers) | `apiKey` | No |
