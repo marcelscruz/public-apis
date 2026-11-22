@@ -2476,6 +2476,7 @@
 | [Mutator](https://mutator.app) | Make short vertical videos, photo slideshows and product photos for TikTok and Instagram from a product photo or website | `apiKey` | No |
 | [Mux](https://www.mux.com/) | Mux Video is an API that enables developers to build unique live and on-demand video experiences | `apiKey` | Unknown |
 | [Open Movie Database](https://www.omdbapi.com/) | Movie information | `apiKey` | Unknown |
+| [PennyCompute](https://pennycompute.com) | Pay-per-job API for FFmpeg, Remotion rendering and MiniMax H3 video | `apiKey` | No |
 | [Rendi](https://rendi.dev) | FFmpeg API | `apiKey` | No |
 | [Rendobar](https://rendobar.com) | Serverless FFmpeg in the cloud for video and audio transcoding, trimming and conversion | `apiKey` | No |
 | [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television | No | Unknown |
