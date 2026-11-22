@@ -1,5 +1,5 @@
 {
-"count": 2152,
+"count": 2153,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1895,6 +1895,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://auregistre.fr",
+        "Category": "Business"
+    },
+    {
+        "API": "BizStats.me",
+        "Description": "Montenegro company financials, CRPS registry, public tenders and state treasury payments",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://bizstats.me",
         "Category": "Business"
     },
     {
