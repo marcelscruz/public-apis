@@ -1,5 +1,5 @@
 {
-"count": 2158,
+"count": 2159,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14591,6 +14591,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.api-football.com/documentation-v3",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "AsianScore",
+        "Description": "Free keyless JSON API for live football & NBA scores, Dixon-Coles xG probabilities, and SHA-256 verifiable prediction ledger",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://asianscore.com/api-docs.html",
         "Category": "Sports & Fitness"
     },
     {
