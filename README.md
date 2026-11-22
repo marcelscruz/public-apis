@@ -1604,6 +1604,7 @@
 | [RRM Academy Research Library](https://rrmacademy.org/connect/) | Physician-curated restorative reproductive medicine research: endometriosis, PCOS, NaProTechnology, fertility awareness | `apiKey` | No |
 | [Verified Supplement Data](https://verifiedsupplementdata.com) | Supplement dosing, form comparisons and drug-nutrient interactions with PubMed citations | No | Yes |
 | [Vitalityfit](https://vitality-fit.de/api/) | Current prices of medicines, supplements and care products from German online pharmacies and shops, by name, PZN or EAN | No | Yes |
+| [WIMSTA Formula Registry](https://wimsta.com/registry/) | Source-verified body-composition and energy formulas (BMI, body fat, BMR, max heart rate) with coefficients and primary sources, as JSON | No | Yes |
 
 **[⬆ Back to Index](#index)**
 
