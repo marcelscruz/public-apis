@@ -2308,6 +2308,7 @@
 | [lastscanned](https://lastscanned.com) | Parcel and ocean-container tracking across 549 carriers with webhooks and a free tier | `apiKey` | No |
 | [Pixela](https://pixe.la) | API for recording and tracking habits or effort, routines | `X-Mashape-Key` | Yes |
 | [PostNord](https://developer.postnord.com/apis) | Provides information about parcels in transport for Sweden and Denmark | `apiKey` | Unknown |
+| [ShipmentTrackingAPI](https://shipmenttrackingapi.com) | Free USPS, UPS, FedEx and DHL package tracking, normalized to nine statuses | `apiKey` | Yes |
 | [UPS](https://www.ups.com/upsdeveloperkit) | Shipment and Address information | `apiKey` | Unknown |
 | [WeCanTrack](https://docs.wecantrack.com) | Automatically place subids in affiliate links to attribute affiliate conversions to click data | `apiKey` | Yes |
 | [WhatPulse](https://developer.whatpulse.org/#web-api) | Small application that measures your keyboard/mouse usage | No | Unknown |
