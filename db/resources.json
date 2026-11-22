@@ -1,5 +1,5 @@
 {
-"count": 2151,
+"count": 2152,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1895,6 +1895,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://auregistre.fr",
+        "Category": "Business"
+    },
+    {
+        "API": "Bolagskvarnen",
+        "Description": "Swedish company data: profile, board, signatories, history and financials; free sandbox",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://bolagskvarnen.se",
         "Category": "Business"
     },
     {
