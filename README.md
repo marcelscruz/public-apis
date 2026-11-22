@@ -450,6 +450,7 @@
 | [Hebrew Calendar](https://www.hebcal.com/home/developer-apis) | Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc | No | Unknown |
 | [Holidays](https://holidayapi.com/) | Historical data regarding holidays | `apiKey` | Unknown |
 | [LectServe](https://www.lectserve.com) | Protestant liturgical calendar | No | Unknown |
+| [Mother's Day Calendar](https://mothersdaycalendar.com) | Mother's Day dates, country rules and sources for 130+ countries as static JSON and CSV | No | Yes |
 | [Nager.Date](https://date.nager.at) | Public holidays for more than 90 countries | No | No |
 | [Namedays Calendar](https://nameday.abalin.net) | Provides namedays for multiple countries | No | Yes |
 | [Non-Working Days](https://github.com/gadael/icsdb) | Database of ICS files for non working days | No | Unknown |
