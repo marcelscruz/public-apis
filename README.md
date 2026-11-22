@@ -1619,6 +1619,7 @@
 | [ClockInToday](https://clockintoday.com) | US jobs and gig apps you can start without an interview, with minimum age, background check, vehicle and payout speed | No | Yes |
 | [CV - Job match score API](https://apyhub.com/utility/sharpapi-resume-job-match-score) | This API use multiple criteria to evaluate how well a candidate fits a job position | `apiKey` | Yes |
 | [DevITjobs UK](https://devitjobs.uk/job_feed.xml) | Jobs with GraphQL | No | Yes |
+| [EuroJobs](https://eurojobs.ai) | Live IT jobs in the EU, EEA, UK and Switzerland, read hourly from employers' own job boards, with visa, remote and salary filters | No | Yes |
 | [Fantastic.jobs](https://fantastic.jobs/api) | Access over 14 million jobs per month directly from company career sites and leading job boards. We refresh jobs every hour with several AI enriched job and company fields. | `apiKey` | Yes |
 | [Findwork](https://findwork.dev/developers/) | Job board | `apiKey` | Unknown |
 | [Himalayas](https://himalayas.app/api) | Remote job listings with salary, timezone, and location data | No | No |
