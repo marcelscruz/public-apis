@@ -2174,6 +2174,7 @@
 | [AcesAPI](https://acesapi.com) | ATP and WTA tennis since 2007: match results, draws, rankings, head to head, surface Elo and odds | `apiKey` | Yes |
 | [American Football Highlights API](https://highlightly.net/documentation/american-football/) | Real time American Football (NFL/NCAA) highlights | `apiKey` | Unknown |
 | [API-FOOTBALL](https://www.api-football.com/documentation-v3) | Get information about Football Leagues & Cups | `apiKey` | Yes |
+| [AsianScore](https://asianscore.com/api-docs.html) | Free keyless JSON API for live football & NBA scores, Dixon-Coles xG probabilities, and SHA-256 verifiable prediction ledger | No | Yes |
 | [balldontlie](https://www.balldontlie.io) | Balldontlie provides access to stats data from the NBA | No | Yes |
 | [Basketball Highlights API](https://highlightly.net/documentation/basketball/) | Real time basketball video highlights | `apiKey` | Unknown |
 | [Bet Better](https://betbetter.world) | Free open JSON API for sports model win probabilities and fair odds across 13 leagues. No key required, CC BY 4.0 | No | Yes |
