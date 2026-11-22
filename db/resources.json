@@ -1,5 +1,5 @@
 {
-"count": 2157,
+"count": 2158,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3719,6 +3719,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://rfccheck.com",
+        "Category": "Data Validation"
+    },
+    {
+        "API": "TrustComponent VAT Checker",
+        "Description": "Look up EU VAT numbers in bulk, up to 1,000 per request",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://www.trustcomponent.com/en/products/vat-checker",
         "Category": "Data Validation"
     },
     {
