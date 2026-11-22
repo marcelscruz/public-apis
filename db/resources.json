@@ -1,5 +1,5 @@
 {
-"count": 2153,
+"count": 2154,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -15511,6 +15511,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developer.postnord.com/apis",
+        "Category": "Tracking"
+    },
+    {
+        "API": "ShipmentTrackingAPI",
+        "Description": "Free USPS, UPS, FedEx and DHL package tracking, normalized to nine statuses",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://shipmenttrackingapi.com",
         "Category": "Tracking"
     },
     {
