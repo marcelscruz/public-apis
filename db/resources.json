@@ -1,5 +1,5 @@
 {
-"count": 2154,
+"count": 2155,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10863,6 +10863,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://devitjobs.uk/job_feed.xml",
+        "Category": "Jobs"
+    },
+    {
+        "API": "EuroJobs",
+        "Description": "Live IT jobs in the EU, EEA, UK and Switzerland, read hourly from employers' own job boards, with visa, remote and salary filters",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://eurojobs.ai",
         "Category": "Jobs"
     },
     {
