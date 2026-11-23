@@ -1710,6 +1710,7 @@
 | [Chronicling America](https://chroniclingamerica.loc.gov/about/api/) | Provides access to millions of pages of historic US newspapers from the Library of Congress | No | Unknown |
 | [Currents](https://currentsapi.services/) | Latest news published in various news sources, blogs and forums | `apiKey` | Yes |
 | [daily.dev](https://daily.dev) | Developer news feeds, posts, bookmarks, tags and search from daily.dev | `apiKey` | No |
+| [Digest AI](https://digestai.news) | AI news with every source linked: latest stories, daily briefing, categories and each story as JSON or Markdown, no key | No | Yes |
 | [Feedbin](https://github.com/feedbin/feedbin-api) | RSS reader | `OAuth` | Unknown |
 | [Finlight](https://finlight.me) | Realtime financial news with sentiment and article content | `apiKey` | Unknown |
 | [FlowFeed](https://flowfeed.cc) | Real-time macro, forex and crypto news and economic calendar, over MCP | `OAuth` | Unknown |
