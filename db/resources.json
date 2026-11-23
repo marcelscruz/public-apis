@@ -1,5 +1,5 @@
 {
-"count": 2159,
+"count": 2160,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3255,6 +3255,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://docs.poloniex.com",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "PunkPrice",
+        "Description": "CryptoPunks floor price since 2017 replayed from the marketplace contract, daily floors per trait and a valuation per punk",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://punkprice.com",
         "Category": "Cryptocurrency"
     },
     {
