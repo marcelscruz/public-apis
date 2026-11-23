@@ -1,5 +1,5 @@
 {
-"count": 2160,
+"count": 2161,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4863,6 +4863,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://networkcalc.com/api/docs",
+        "Category": "Development"
+    },
+    {
+        "API": "NoctHost",
+        "Description": "Create and manage hourly-billed cloud servers on Hetzner, Vultr, DigitalOcean, Linode and OVHcloud from one prepaid balance",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://nocthost.com",
         "Category": "Development"
     },
     {
