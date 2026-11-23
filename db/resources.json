@@ -1,5 +1,5 @@
 {
-"count": 2164,
+"count": 2165,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11495,6 +11495,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://daily.dev",
+        "Category": "News"
+    },
+    {
+        "API": "Digest AI",
+        "Description": "AI news with every source linked: latest stories, daily briefing, categories and each story as JSON or Markdown, no key",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://digestai.news",
         "Category": "News"
     },
     {
