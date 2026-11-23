@@ -1,5 +1,5 @@
 {
-"count": 2162,
+"count": 2163,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12503,6 +12503,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://faxforagents.com",
+        "Category": "Phone"
+    },
+    {
+        "API": "HumanCalls",
+        "Description": "A trained person phones a US or Canadian business for your AI agent and returns typed answers, a summary, recording and transcript. REST API and MCP server",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://humancalls.ai",
         "Category": "Phone"
     },
     {
