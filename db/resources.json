@@ -1,5 +1,5 @@
 {
-"count": 2165,
+"count": 2166,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2063,6 +2063,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.google.com/analytics/",
+        "Category": "Business"
+    },
+    {
+        "API": "Govseer",
+        "Description": "EU CLP hazard label elements from a safety data sheet PDF, in the 24 official EU languages",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://govseer.com",
         "Category": "Business"
     },
     {
