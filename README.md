@@ -1864,6 +1864,7 @@
 | [CheckThatPhone](https://checkthatphone.com) | Real-time phone validation API for US & Canada: carrier and line type from live carrier data, portability, deliverability, GeoIP and TCPA litigator scrub | `apiKey` | Unknown |
 | [Cloudmersive Validate](https://cloudmersive.com/phone-number-validation-API) | Validate international phone numbers | `apiKey` | Yes |
 | [Fax for Agents](https://faxforagents.com) | Fax API, hosted MCP server and SDKs built so AI agents can send and receive faxes, with a free sandbox | `apiKey` | No |
+| [HumanCalls](https://humancalls.ai) | A trained person phones a US or Canadian business for your AI agent and returns typed answers, a summary, recording and transcript. REST API and MCP server | `apiKey` | No |
 | [MobileAPI](https://mobileapi.dev/docs/) | Smartphone, tablet, and wearable device specifications | `apiKey` | Yes |
 | [NumlookupAPI](https://numlookupapi.com) | Worldwide Phone Number Lookup & Verification API | `apiKey` | Yes |
 | [Phone Specification](https://github.com/azharimm/phone-specs-api) | Rest Api for Phone specifications | No | Yes |
