@@ -1712,6 +1712,7 @@
 | [daily.dev](https://daily.dev) | Developer news feeds, posts, bookmarks, tags and search from daily.dev | `apiKey` | No |
 | [Feedbin](https://github.com/feedbin/feedbin-api) | RSS reader | `OAuth` | Unknown |
 | [Finlight](https://finlight.me) | Realtime financial news with sentiment and article content | `apiKey` | Unknown |
+| [FlowFeed](https://flowfeed.cc) | Real-time macro, forex and crypto news and economic calendar, over MCP | `OAuth` | Unknown |
 | [Free News API](https://freenewsapi.io) | Search and retrieve news articles with full-text search, filters and cursor pagination | `apiKey` | No |
 | [GNews](https://gnews.io/) | Search for news from various sources | `apiKey` | Yes |
 | [GridNews](https://gridnews.io) | Market news, press releases, and sentiment analysis tagged by ticker symbol | `apiKey` | Yes |
