@@ -1,5 +1,5 @@
 {
-"count": 2161,
+"count": 2162,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10823,6 +10823,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://vitality-fit.de/api/",
+        "Category": "Health"
+    },
+    {
+        "API": "WIMSTA Formula Registry",
+        "Description": "Source-verified body-composition formulas queryable by id, plus calculation endpoints returning BMI, body fat, BMR, TDEE and max heart rate as ranges",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://wimsta.com/registry/",
         "Category": "Health"
     },
     {
