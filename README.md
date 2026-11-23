@@ -399,6 +399,7 @@
 | [FuneralCompare](https://funeralcompare.fyi) | Funeral homes and cremation providers, compared by the fees they publish | No | Yes |
 | [Gmail](https://developers.google.com/gmail/api/) | Flexible, RESTful access to the user's inbox | `OAuth` | Unknown |
 | [Google Analytics](https://developers.google.com/analytics/) | Collect, configure and analyze your data to reach the right audience | `OAuth` | Unknown |
+| [Govseer](https://govseer.com) | EU CLP hazard label elements from a safety data sheet PDF, in the 24 official EU languages | `apiKey` | No |
 | [Hexvan](https://hexvan.com) | Contacts, quotes, invoices and receipts of a small trade business (plumbers, electricians, roofers) | `apiKey` | No |
 | [Instatus](https://instatus.com/help/api) | Post to and update maintenance and incidents on your status page through an HTTP REST API | `apiKey` | Unknown |
 | [Linkedcamp](https://www.linkedcamp.com) | LinkedIn and email outreach automation: campaigns, leads, conversations, webhooks and agency sub-accounts | `apiKey` | Yes |
