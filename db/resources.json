@@ -1,5 +1,5 @@
 {
-"count": 2163,
+"count": 2164,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11511,6 +11511,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://finlight.me",
+        "Category": "News"
+    },
+    {
+        "API": "FlowFeed",
+        "Description": "Real-time macro, forex and crypto news and economic calendar, over MCP",
+        "Auth": "OAuth",
+        "Cors": "unknown",
+        "Link": "https://flowfeed.cc",
         "Category": "News"
     },
     {
