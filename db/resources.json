@@ -1,5 +1,5 @@
 {
-"count": 2174,
+"count": 2176,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -527,6 +527,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://synap.linkrra.com",
+        "Category": "AI"
+    },
+    {
+        "API": "TeamoRouter",
+        "Description": "OpenAI- and Anthropic-compatible API gateway for Claude, GPT, Gemini, DeepSeek, GLM, Kimi and Qwen on one prepaid pay-as-you-go key",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://teamorouter.com",
         "Category": "AI"
     },
     {
@@ -3263,6 +3271,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://ophis.fi",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "Paymos",
+        "Description": "Stablecoin (USDT, USDC, USD1, DAI) and gold-backed XAUT payment gateway API across 13 networks with hosted checkout and signed webhooks",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://paymos.io",
         "Category": "Cryptocurrency"
     },
     {
