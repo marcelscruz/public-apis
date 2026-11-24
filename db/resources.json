@@ -1,5 +1,5 @@
 {
-"count": 2167,
+"count": 2168,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3263,6 +3263,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://docs.poloniex.com",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "Pulse Verity",
+        "Description": "Signed crypto index prices, each checkable against a published public key; BTC, ETH and SOL samples need no key",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://thepulse.markets/developers",
         "Category": "Cryptocurrency"
     },
     {
