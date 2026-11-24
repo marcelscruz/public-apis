@@ -1,5 +1,5 @@
 {
-"count": 2173,
+"count": 2174,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -15727,6 +15727,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.amadeus.com/self-service",
+        "Category": "Transportation"
+    },
+    {
+        "API": "AQX Logistics",
+        "Description": "International air freight quotes, volumetric package consolidation, and corridor transit data",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://aqxlogistics.com/developers",
         "Category": "Transportation"
     },
     {
