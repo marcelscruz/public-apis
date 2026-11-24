@@ -1,5 +1,5 @@
 {
-"count": 2168,
+"count": 2169,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12047,6 +12047,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://www.opensanctions.org/docs/api/",
+        "Category": "Open Data"
+    },
+    {
+        "API": "Prince George Pulse",
+        "Description": "Local data for Prince George, BC: events, businesses, weather, transit and civic services, with source attribution",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://princegeorgepulse.ca",
         "Category": "Open Data"
     },
     {
