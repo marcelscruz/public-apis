@@ -573,6 +573,7 @@
 | [OnchainCheck](https://onchaincheck.dev) | Pay-per-call onchain data for agents: token rug-risk scores, wallet profiles, whale trades and new pools on six chains, Polymarket and Hyperliquid trader data; paid in USDC via x402 | No | Yes |
 | [OpenSea](https://docs.opensea.io/reference/api-overview) | The Largest NFT Marketplace | `apiKey` | No |
 | [Ophis](https://ophis.fi) | Natural-language intent parser for DEX swaps across 11 EVM chains | No | Unknown |
+| [Paymos](https://paymos.io) | Stablecoin (USDT, USDC, USD1, DAI) and gold-backed XAUT payment gateway API across 13 networks with hosted checkout and signed webhooks | `apiKey` | No |
 | [Plaxswap](https://plaxswap.com) | Crypto swap quotes and orders across many networks, plus a payment gateway API with hosted checkout, payment links and signed webhooks | `apiKey` | No |
 | [Poloniex](https://docs.poloniex.com) | US based digital asset exchange | `apiKey` | Unknown |
 | [Pulse Verity](https://thepulse.markets/developers) | Signed crypto index prices, each checkable against a published public key; BTC, ETH and SOL samples need no key | `apiKey` | No |
