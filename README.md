@@ -2095,6 +2095,7 @@
 | [Tokopedia](https://developer.tokopedia.com/openapi/guide/#/) | Tokopedia's Official API for integration of various services from Tokopedia | `OAuth` | Unknown |
 | [uglyHD](https://uglyhd.com) | Cost per TB of new, used and refurbished enterprise drives and per GB of server RAM, from eBay and retailers; free tier needs no key | No | Yes |
 | [VantaSpec](https://vantaspec.com) | UK PC hardware prices, price history and specs across UK retailers | No | Yes |
+| [within](https://shopwithin.co) | Live stock at independent fashion boutiques: sizes, prices, delivered cost with duty and tax, and boutiques in 140+ cities; also an MCP server | No | Yes |
 | [WooCommerce](https://woocommerce.github.io/woocommerce-rest-api-docs/) | WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format | `apiKey` | Yes |
 | [Zinc](https://www.zinc.com) | Place, track and return orders at Amazon, Walmart, Target and other online retailers | `apiKey` | No |
 
