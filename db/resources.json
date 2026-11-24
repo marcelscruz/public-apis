@@ -1,5 +1,5 @@
 {
-"count": 2169,
+"count": 2170,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3231,6 +3231,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://okx.com/okx-api",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "OnchainCheck",
+        "Description": "Pay-per-call onchain data for agents: token rug-risk scores, wallet profiles, whale trades and new pools on six chains, Polymarket and Hyperliquid trader data; paid in USDC via x402",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://onchaincheck.dev",
         "Category": "Cryptocurrency"
     },
     {
