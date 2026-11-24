@@ -1121,6 +1121,7 @@
 | [Casheva](https://casheva.com) | Financial data for Argentina, Spain and Mexico: USD rates, inflation, Euribor, ICL | No | Yes |
 | [Citi](https://sandbox.developerhub.citi.com/api-catalog-list) | All Citigroup account and statement data APIs | `apiKey` | Unknown |
 | [CreditUnions](https://creditunions.fyi) | US credit union eligibility and NCUA call-report data | No | Yes |
+| [DataQuant](https://app.dataquant.trade) | Historical market data API for A-shares, HK, US stocks, crypto, indices and ETFs, plus macro data, in one schema | `apiKey` | Unknown |
 | [DolarAPI](https://dolarapi.com/docs/) | Real-time exchange rates for Latin American currencies | No | Yes |
 | [Drillr](https://drillr.ai) | Fundamentals, filings, filing full-text search, earnings, ownership, events and analyst data for US, China and Japan equities, linked to source filings | `apiKey` | No |
 | [Duceus](https://duceusapi.com) | European insider (PDMR) transactions and major shareholding notifications from national registers, normalized into one JSON schema with links to each filing | `apiKey` | No |
