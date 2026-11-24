@@ -1,5 +1,5 @@
 {
-"count": 2166,
+"count": 2167,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7167,6 +7167,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://creditunions.fyi",
+        "Category": "Finance"
+    },
+    {
+        "API": "DataQuant",
+        "Description": "Historical market data API for A-shares, HK, US stocks, crypto, indices and ETFs, plus macro data, in one schema",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://app.dataquant.trade",
         "Category": "Finance"
     },
     {
