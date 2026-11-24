@@ -1,5 +1,5 @@
 {
-"count": 2170,
+"count": 2171,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -391,6 +391,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://obscurify.ai",
+        "Category": "AI"
+    },
+    {
+        "API": "onomeo",
+        "Description": "OpenAI- and Anthropic-compatible API for Claude, GPT, Gemini and DeepSeek models on one pay-as-you-go key, with free open models for new accounts",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://onomeo.com",
         "Category": "AI"
     },
     {
