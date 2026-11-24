@@ -1,5 +1,5 @@
 {
-"count": 2171,
+"count": 2172,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7191,6 +7191,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://creditunions.fyi",
+        "Category": "Finance"
+    },
+    {
+        "API": "CrowdWisdom Trading",
+        "Description": "Crowd sentiment score from -100 to +100 and the count of pro traders per ticker, daily and weekly. Free endpoints need no key; paid calls via x402 on Base",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://www.crowdwisdomtrading.com",
         "Category": "Finance"
     },
     {
