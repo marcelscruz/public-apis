@@ -1791,7 +1791,7 @@
 | [Prince George Pulse](https://princegeorgepulse.ca) | Local data for Prince George, BC: events, businesses, weather, transit and civic services, with source attribution | No | Yes |
 | [RateDeed City Home Facts](https://www.ratedeed.com/developers/city-data) | Housing age, heating fuel, climate normals, trade wages, licensing boards and permit offices for 724 US cities from Census, NOAA and BLS under CC BY 4.0 | No | Yes |
 | [Recreation Information Database](https://ridb.recreation.gov/) | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US) | `apiKey` | Unknown |
-| [Salary Explorer](https://salarywiki.com/api) | Wages and employment for every US occupation by state and metro area, from Bureau of Labor Statistics survey data, with cost-of-living adjustment | No | Yes |
+| [Salary Explorer](https://salarywiki.com) | Wages and employment for every US occupation by state and metro area, from Bureau of Labor Statistics survey data, with cost-of-living adjustment | No | Yes |
 | [Scento Perfume API](https://www.scento.com/developers/perfume-api) | Perfume notes, families, houses and raw materials, each tied to a page on scento.com | No | Yes |
 | [Scoop.it](https://www.scoop.it/dev) | Content Curation Service | `apiKey` | Unknown |
 | [Signal Lab](https://signal-lab.qdt.ai) | Free data source catalog, updated daily, with licence, sign-up and reachability notes, as a keyless JSON/CSV feed and remote MCP server | No | Yes |
