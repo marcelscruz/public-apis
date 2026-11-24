@@ -446,7 +446,7 @@
         "Description": "Real-time uptime and incident status for 75+ AI services (OpenAI, Anthropic, Cursor, Gemini)",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://prismix.dev/api-docs",
+        "Link": "https://prismix.dev",
         "Category": "AI"
     },
     {
@@ -12102,7 +12102,7 @@
         "Description": "Wages and employment for every US occupation by state and metro area, from Bureau of Labor Statistics survey data, with cost-of-living adjustment",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://salarywiki.com/api",
+        "Link": "https://salarywiki.com",
         "Category": "Open Data"
     },
     {
