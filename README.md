@@ -148,7 +148,7 @@
 | [Peeve](https://peeve.ai) | AI customer support agent for SaaS: REST API for sessions, contacts, hand-offs, usage, guardrails, webhooks and answers | `apiKey` | No |
 | [Perspective](https://perspectiveapi.com) | NLP API to return probability that if text is toxic, obscene, insulting or threatening | `apiKey` | Unknown |
 | [Pictograph](https://pictograph.io) | Label images with SAM3, train RF-DETR and YOLOX detectors, and run them on GPU endpoints that take live RTSP and WebRTC video | `apiKey` | No |
-| [Prismix Status API](https://prismix.dev/api-docs) | Real-time uptime and incident status for 75+ AI services (OpenAI, Anthropic, Cursor, Gemini) | No | Yes |
+| [Prismix Status API](https://prismix.dev) | Real-time uptime and incident status for 75+ AI services (OpenAI, Anthropic, Cursor, Gemini) | No | Yes |
 | [Requesty](https://www.requesty.ai) | OpenAI-compatible gateway that routes requests to 600+ models from 30+ providers, with fallbacks, caching and spend tracking | `apiKey` | Yes |
 | [Roboflow Universe](https://universe.roboflow.com) | Pre-trained computer vision models | `apiKey` | Yes |
 | [RouterBase API](https://routerbase.com) | One OpenAI-compatible API for accessing 200+ AI models from OpenAI, Anthropic, Google, Meta, xAI, DeepSeek, and more | `apiKey` | Unknown |
