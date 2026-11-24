@@ -1601,6 +1601,7 @@
 | [Lexigram](https://docs.lexigram.io/) | NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology | `apiKey` | Unknown |
 | [Longevity World Cup](https://longevityworldcup.com/swagger/index.html) | Public longevity athlete data, biological age calculators and rankings | No | Yes |
 | [Makeup](https://makeup-api.herokuapp.com/) | Makeup Information | No | Unknown |
+| [MedCE Hub](https://medcehub.com) | US CME/CE conferences and state CE license renewal requirements for 14 health professions, static JSON, CC BY 4.0 | No | Yes |
 | [MemoryCareHomes](https://memorycarehomes.fyi) | Memory care homes, checkable against the public register | No | Yes |
 | [MyVaccination](https://documenter.getpostman.com/view/16605343/Tzm8GG7u) | Vaccination data for Malaysia | No | Unknown |
 | [NPPES](https://npiregistry.cms.hhs.gov/registry/help-api) | National Plan & Provider Enumeration System, info on healthcare providers registered in US | No | Unknown |
