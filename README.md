@@ -573,6 +573,7 @@
 | [Ophis](https://ophis.fi) | Natural-language intent parser for DEX swaps across 11 EVM chains | No | Unknown |
 | [Plaxswap](https://plaxswap.com) | Crypto swap quotes and orders across many networks, plus a payment gateway API with hosted checkout, payment links and signed webhooks | `apiKey` | No |
 | [Poloniex](https://docs.poloniex.com) | US based digital asset exchange | `apiKey` | Unknown |
+| [Pulse Verity](https://thepulse.markets/developers) | Signed crypto index prices, each checkable against a published public key; BTC, ETH and SOL samples need no key | `apiKey` | No |
 | [PunkPrice](https://punkprice.com) | CryptoPunks floor price since 2017 replayed from the marketplace contract, daily floors per trait and a valuation per punk | No | Yes |
 | [RealCryptoCap](https://realcryptocap.com/api) | Real crypto market cap without stables, wrapped or tokenized assets: native Top 500, coin lookup and market briefs (paid Pro/Ultra) | `apiKey` | Yes |
 | [send21](https://send21.io) | Crypto pay links and API for people and AI agents: non-custodial BTC, Lightning, USDC, USDT, EURC, SOL and ETH payment requests | `apiKey` | No |
