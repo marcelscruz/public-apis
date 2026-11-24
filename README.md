@@ -569,6 +569,7 @@
 | [NoncePay](https://noncepay.app) | Non-custodial crypto payment API: a deposit address per payment, forwarded to your wallet, with signed callbacks and payment links | No | Yes |
 | [NovaDax](https://doc.novadax.com/en-US/#introduction) | NovaDAX API to access all market data, trading management endpoints | `apiKey` | Unknown |
 | [OKEx](https://okx.com/okx-api) | Cryptocurrency exchange based in Seychelles | `apiKey` | Unknown |
+| [OnchainCheck](https://onchaincheck.dev) | Pay-per-call onchain data for agents: token rug-risk scores, wallet profiles, whale trades and new pools on six chains, Polymarket and Hyperliquid trader data; paid in USDC via x402 | No | Yes |
 | [OpenSea](https://docs.opensea.io/reference/api-overview) | The Largest NFT Marketplace | `apiKey` | No |
 | [Ophis](https://ophis.fi) | Natural-language intent parser for DEX swaps across 11 EVM chains | No | Unknown |
 | [Plaxswap](https://plaxswap.com) | Crypto swap quotes and orders across many networks, plus a payment gateway API with hosted checkout, payment links and signed webhooks | `apiKey` | No |
