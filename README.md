@@ -575,6 +575,7 @@
 | [OpenSea](https://docs.opensea.io/reference/api-overview) | The Largest NFT Marketplace | `apiKey` | No |
 | [Ophis](https://ophis.fi) | Natural-language intent parser for DEX swaps across 11 EVM chains | No | Unknown |
 | [Paymos](https://paymos.io) | Stablecoin (USDT, USDC, USD1, DAI) and gold-backed XAUT payment gateway API across 13 networks with hosted checkout and signed webhooks | `apiKey` | No |
+| [PerpSpread](https://perpspread.com) | Live and 7D settled crypto perpetual funding rate spreads across 7 CEX and DEX venues | No | No |
 | [Plaxswap](https://plaxswap.com) | Crypto swap quotes and orders across many networks, plus a payment gateway API with hosted checkout, payment links and signed webhooks | `apiKey` | No |
 | [Poloniex](https://docs.poloniex.com) | US based digital asset exchange | `apiKey` | Unknown |
 | [Pulse Verity](https://thepulse.markets/developers) | Signed crypto index prices, each checkable against a published public key; BTC, ETH and SOL samples need no key | `apiKey` | No |
