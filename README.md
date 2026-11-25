@@ -714,6 +714,7 @@
 | [Docker Hub](https://docs.docker.com/docker-hub/api/latest/) | Interact with Docker Hub | `apiKey` | Yes |
 | [DomainDb Info](https://api.domainsdb.info/) | Domain name search to find all domains containing particular words/phrases/etc | No | Unknown |
 | [DownStatus](https://isitdownstatus.com) | Real-time status for GitHub, AWS, Discord and 90+ services | No | Yes |
+| [EnrichedNow](https://enrichednow.com) | Web scraping API: 450+ ready-made scrapers across 200+ sites returning structured JSON records. 1,000 free units a month. | `apiKey` | No |
 | [EveryInfra](https://everyinfra.com) | Structured data from 90 platforms (RedNote, Douyin, TikTok, Amazon and more), web search and CAPTCHA solving via REST or MCP | `apiKey` | No |
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | A simple JSON store API | No | Yes |
 | [FireDash Fire Hydrant Public API](https://developer.firedash.us/) | Live fire hydrant data: location, flow rate in GPM, and whether each hydrant is in or out of service. Sourced from the fire departments that maintain them | `apiKey` | Yes |
