@@ -1,5 +1,5 @@
 {
-"count": 2139,
+"count": 2140,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4247,6 +4247,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://isitdownstatus.com",
+        "Category": "Development"
+    },
+    {
+        "API": "EnrichedNow",
+        "Description": "Web scraping API: 450+ ready-made scrapers across 200+ sites returning structured JSON records. 1,000 free units a month.",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://enrichednow.com",
         "Category": "Development"
     },
     {
