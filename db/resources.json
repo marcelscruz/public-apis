@@ -1,5 +1,5 @@
 {
-"count": 2181,
+"count": 2182,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12199,6 +12199,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://stackrates.ai",
+        "Category": "Open Data"
+    },
+    {
+        "API": "Todo Resuelto",
+        "Description": "Home-repair prices in 16 Latin American countries, each from a business, guild or public body's own page with a source link, as a keyless JSON API and remote MCP server",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://todoresuelto.com/api",
         "Category": "Open Data"
     },
     {
