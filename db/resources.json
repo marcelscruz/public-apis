@@ -1,5 +1,5 @@
 {
-"count": 2176,
+"count": 2177,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -16951,6 +16951,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://lidiakovac.github.io/supernatural-api",
+        "Category": "Video"
+    },
+    {
+        "API": "SurgeShorts",
+        "Description": "Rank the moments a YouTube, Twitch or Kick stream's chat reacted to and export them as 9:16 shorts or 16:9 MP4s",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://surgeshorts.com",
         "Category": "Video"
     },
     {
