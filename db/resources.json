@@ -1,5 +1,5 @@
 {
-"count": 2177,
+"count": 2178,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -4127,6 +4127,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.brand.dev/",
+        "Category": "Development"
+    },
+    {
+        "API": "Brandfetch Logo API",
+        "Description": "Brand logo api for designed for developers supports over 5 million brands",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://brandfetch.com",
         "Category": "Development"
     },
     {
