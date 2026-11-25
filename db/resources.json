@@ -1,5 +1,5 @@
 {
-"count": 2179,
+"count": 2180,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -391,6 +391,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://obscurify.ai",
+        "Category": "AI"
+    },
+    {
+        "API": "OllaStack",
+        "Description": "Discover AI tools, SaaS products, and digital resources in one place. Find useful tools for productivity, business, development, and more",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://ollastack.com/",
         "Category": "AI"
     },
     {
