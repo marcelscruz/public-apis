@@ -2562,7 +2562,7 @@
 | [Met Office DataPoint](https://www.metoffice.gov.uk/services/data/datapoint/) | Weather data for the UK | `apiKey` | Unknown |
 | [Meteoblue](https://content.meteoblue.com/en/business-solutions/weather-apis) | Global weather data with 100+ weather variables, 14 days ahead and 4 days of history data. | `apiKey` | Yes |
 | [Meteorologisk Institutt](https://api.met.no/weatherapi/documentation) | Weather and climate data | `User-Agent` | Unknown |
-| [Meteosource](https://www.meteosource.com/) | Global weather forecasts based on machine learning and historical data | `apiKey` | Unknown |
+| [Meteosource](https://www.meteosource.com/) | Weather forecasts, official alerts, 20 years of history, air quality, and solar and wind production for any location | `apiKey` | Yes |
 | [NOAA NGDC](https://www.ngdc.noaa.gov/) | Natural hazards data including earthquakes, tsunamis, and volcanic eruptions | No | Unknown |
 | [Oikolab](https://docs.oikolab.com) | 70+ years of global, hourly historical and forecast weather data from NOAA and ECMWF | `apiKey` | Yes |
 | [Open-Meteo](https://open-meteo.com/) | Global weather forecast API for non-commercial use | No | Yes |
