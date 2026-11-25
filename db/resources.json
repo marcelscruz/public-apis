@@ -1,5 +1,5 @@
 {
-"count": 2180,
+"count": 2181,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13895,6 +13895,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://partners.clickwise.net/",
+        "Category": "Shopping"
+    },
+    {
+        "API": "CosmeScan",
+        "Description": "Decode cosmetic & perfume batch codes and search 2,375 beauty brands",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://cosmescan.com/api-docs/",
         "Category": "Shopping"
     },
     {
