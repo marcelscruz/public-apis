@@ -2076,6 +2076,7 @@
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce | `apiKey` | Unknown |
 | [Canopy](https://www.canopyapi.co/) | A modern API for Amazon Data | `apiKey` | Unknown |
 | [Clickwise](https://partners.clickwise.net/) | Affiliate product search by GTIN with tracked links, affiliate programs and deals; free sandbox key | `apiKey` | No |
+| [CosmeScan](https://cosmescan.com/api-docs/) | Decode cosmetic & perfume batch codes and search 2,375 beauty brands | No | Yes |
 | [DeX](https://dex.sy) | Syrian online store builder: manage products, variants, stock, categories and orders of a DeX store via REST API and webhooks | `apiKey` | No |
 | [Digi-Key](https://www.digikey.com/en/resources/api-solutions) | Retrieve price and inventory of electronic components as well as place orders | `OAuth` | Unknown |
 | [E-Commerce APIs](https://apyhub.com/catalog/commerce-quick-tools) | All around e-commerce APIs. Generate QR codes, product categories and thumbnails, barcodes and many more. | `apiKey` | Yes |
