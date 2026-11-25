@@ -1,5 +1,5 @@
 {
-"count": 2182,
+"count": 2183,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1999,6 +1999,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://docs.crustdata.com",
+        "Category": "Business"
+    },
+    {
+        "API": "Deedz",
+        "Description": "French company, director and trademark autocomplete with SIREN, SIRET, VAT number and activity",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.deedz.fr",
         "Category": "Business"
     },
     {
