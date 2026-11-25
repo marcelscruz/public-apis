@@ -699,6 +699,7 @@
 | [Blynk-Cloud](https://blynkapi.docs.apiary.io/#) | Control IoT Devices from Blynk IoT Cloud | `apiKey` | Unknown |
 | [Bowmark](https://bowmark.ai) | Typed functions for live websites (LinkedIn, Amazon, YouTube, Reddit and more) for agents and cron jobs, like daily price checks or lead lists. Free $10 | `apiKey` | Yes |
 | [Brand.dev](https://www.brand.dev/) | API to personalize your product with logos, colors, and company info from any domain | `apiKey` | Yes |
+| [Brandfetch Logo API](https://brandfetch.com) | Brand logo api for designed for developers supports over 5 million brands | `apiKey` | Yes |
 | [Brave Search API](https://brave.com/search/api/) | An index of billions of pages in a single call | `apiKey` | No |
 | [BrowserCat](https://www.browsercat.com/) | Headless browser API for automation, scraping, and more | `apiKey` | Yes |
 | [BrowserSolver](https://www.browsersolver.com) | Web unlocker API that fetches pages behind Cloudflare and DataDome, with JS rendering, crawling and screenshots | `apiKey` | No |
