@@ -1,5 +1,5 @@
 {
-"count": 2183,
+"count": 2136,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -50,14 +50,6 @@
         "Category": "AI"
     },
     {
-        "API": "aicharts",
-        "Description": "Terminal-Bench scores, cost per task, Epoch AI scores and API prices for Claude, GPT and Gemini models, with each source's license",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://aicharts.io",
-        "Category": "AI"
-    },
-    {
         "API": "AIGROW",
         "Description": "OpenAI-compatible API for genuine Claude, GPT, Gemini, Grok, Qwen and Kimi models on one prepaid key; models and per-token prices listed without a key",
         "Auth": "apiKey",
@@ -87,14 +79,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://apimodels.app",
-        "Category": "AI"
-    },
-    {
-        "API": "Asyntai",
-        "Description": "AI customer support agent for business websites: a chat API that answers from your own site content, plus knowledge base, conversations and leads",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://asyntai.com",
         "Category": "AI"
     },
     {
@@ -538,14 +522,6 @@
         "Category": "AI"
     },
     {
-        "API": "Synap",
-        "Description": "OpenAI-compatible API for open-weight models: chat completions, streaming, tool calling and JSON-schema output, billed per token",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://synap.linkrra.com",
-        "Category": "AI"
-    },
-    {
         "API": "TeamoRouter",
         "Description": "OpenAI- and Anthropic-compatible API gateway for Claude, GPT, Gemini, DeepSeek, GLM, Kimi and Qwen on one prepaid pay-as-you-go key",
         "Auth": "apiKey",
@@ -640,14 +616,6 @@
         "Cors": "yes",
         "Link": "https://router.xiu.ai/",
         "Category": "AI"
-    },
-    {
-        "API": "Bird Album",
-        "Description": "Bird of the day in 15 languages and 11,000+ AI-generated bird illustrations under CC BY 4.0",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://birdalbum.com/",
-        "Category": "Animals"
     },
     {
         "API": "Cat Facts",
@@ -1290,14 +1258,6 @@
         "Category": "Art & Design"
     },
     {
-        "API": "Ink Studio AI",
-        "Description": "Generate AI tattoo designs from text prompts in 13 styles and search a public tattoo gallery. One free design per new account, then one-time plans",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://inkstudioai.com",
-        "Category": "Art & Design"
-    },
-    {
         "API": "Islam Museum",
         "Description": "Islamic history knowledge graph — people, places, events and texts in Arabic, English and Urdu",
         "Auth": "",
@@ -1319,14 +1279,6 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://lordicon.com/",
-        "Category": "Art & Design"
-    },
-    {
-        "API": "Luw",
-        "Description": "AI design for architecture and interiors: redesign rooms, exteriors and gardens from a photo, render sketches, edit images, make video and 3D",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://luw.ai",
         "Category": "Art & Design"
     },
     {
@@ -1415,14 +1367,6 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://www.thecolorapi.com/",
-        "Category": "Art & Design"
-    },
-    {
-        "API": "WAODAO",
-        "Description": "Read-only access to a daily Human + AI art archive and NFT metadata",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://waodao.ai/",
         "Category": "Art & Design"
     },
     {
@@ -1631,14 +1575,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.layer4.app/api-docs",
-        "Category": "Blockchain"
-    },
-    {
-        "API": "MELEK",
-        "Description": "Graphene social blockchain (Steem/Hive/Blurt family): public condenser_api JSON-RPC for posts, accounts, votes and blocks",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://melek.salon",
         "Category": "Blockchain"
     },
     {
@@ -1930,14 +1866,6 @@
         "Category": "Business"
     },
     {
-        "API": "Auregistre",
-        "Description": "Dated history of every French company from the official BODACC gazette: changes, insolvency proceedings and filings",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://auregistre.fr",
-        "Category": "Business"
-    },
-    {
         "API": "BizStats.me",
         "Description": "Montenegro company financials, CRPS registry, public tenders and state treasury payments",
         "Auth": "",
@@ -1986,14 +1914,6 @@
         "Category": "Business"
     },
     {
-        "API": "Comunicate.eu",
-        "Description": "Catalogue of 3,800+ news sites for press releases and advertorials: niches, authority, prices",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://comunicate.eu",
-        "Category": "Business"
-    },
-    {
         "API": "Crustdata",
         "Description": "People and company data covering profiles, headcount, funding and contacts",
         "Auth": "apiKey",
@@ -2023,14 +1943,6 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://dievio.com",
-        "Category": "Business"
-    },
-    {
-        "API": "Dispola",
-        "Description": "Open appointment spots today and this week at salons and clinics in Quebec (hair, nails, massage, physio), with booking links",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://dispola.ca",
         "Category": "Business"
     },
     {
@@ -2103,22 +2015,6 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://developers.google.com/analytics/",
-        "Category": "Business"
-    },
-    {
-        "API": "Govseer",
-        "Description": "EU CLP hazard label elements from a safety data sheet PDF, in the 24 official EU languages",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://govseer.com",
-        "Category": "Business"
-    },
-    {
-        "API": "Hexvan",
-        "Description": "Contacts, quotes, invoices and receipts of a small trade business (plumbers, electricians, roofers)",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://hexvan.com",
         "Category": "Business"
     },
     {
@@ -2378,14 +2274,6 @@
         "Category": "Business"
     },
     {
-        "API": "Zaptu",
-        "Description": "Remote MCP server and REST API that send consented contact requests to local US home-service pros (plumbing, cleaning, pest). Not a booking",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://zaptu.ai",
-        "Category": "Business"
-    },
-    {
         "API": "Zillapi",
         "Description": "US property data API — Zestimate, photos, taxes, price history",
         "Auth": "apiKey",
@@ -2423,14 +2311,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://calendarific.com/",
-        "Category": "Calendar"
-    },
-    {
-        "API": "CountdownsHQ",
-        "Description": "Dates and timezone-correct live countdowns for 150+ holidays and observances in 18 countries",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://countdownshq.com",
         "Category": "Calendar"
     },
     {
@@ -2543,14 +2423,6 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://github.com/egno/work-calendar",
-        "Category": "Calendar"
-    },
-    {
-        "API": "SalahTable",
-        "Description": "Islamic prayer times for 400+ cities: today, the next 7 days or a whole month, six calculation methods, Hanafi or Shafi'i Asr",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://salahtable.com",
         "Category": "Calendar"
     },
     {
@@ -2815,14 +2687,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://github.com/binance/binance-spot-api-docs",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "Bitculator",
-        "Description": "Crypto prices, OHLCV history, sentiment, technical indicators, exchanges and liquidations",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://bitculator.com",
         "Category": "Cryptocurrency"
     },
     {
@@ -3386,14 +3250,6 @@
         "Category": "Cryptocurrency"
     },
     {
-        "API": "The River",
-        "Description": "Tokenized US stocks on Base and Robinhood Chain: live prices across issuers, wallet holdings and P&L, and unsigned trade and limit-order transactions",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://theriver.markets",
-        "Category": "Cryptocurrency"
-    },
-    {
         "API": "Trading View",
         "Description": "Market price, data, graph for brokers and traders",
         "Auth": "OAuth",
@@ -3447,14 +3303,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://xaxios.com/solutions/api",
-        "Category": "Cryptocurrency"
-    },
-    {
-        "API": "XMRList",
-        "Description": "Directory of businesses that accept Monero (XMR): listings, KYC policy, grades and stats",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://xmrlist.com",
         "Category": "Cryptocurrency"
     },
     {
@@ -5770,14 +5618,6 @@
         "Category": "Documents & Productivity"
     },
     {
-        "API": "Bookfolio Fixer",
-        "Description": "Validate and repair EPUB ebooks, returns JSON store-readiness verdicts",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://fixer.bookfolio.io",
-        "Category": "Documents & Productivity"
-    },
-    {
         "API": "Chave Móvel Digital",
         "Description": "Remote MCP server that stores a PDF and returns a page to sign it with Portugal's Chave Móvel Digital. No account.",
         "Auth": "",
@@ -6047,14 +5887,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developer.monday.com/",
-        "Category": "Documents & Productivity"
-    },
-    {
-        "API": "MyLastWill",
-        "Description": "Drafts U.S. wills, codicils and charity beneficiary wording, and returns each state's will-signing rules and estate tax estimates",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://mylastwill.org",
         "Category": "Documents & Productivity"
     },
     {
@@ -6914,14 +6746,6 @@
         "Category": "Environment"
     },
     {
-        "API": "Jour Tempo",
-        "Description": "French EDF Tempo electricity tariff colour for today and tomorrow, EJP and PP peak days, daily history since 2014 (RTE open data)",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://jourtempo.fr",
-        "Category": "Environment"
-    },
-    {
         "API": "Luchtmeetnet",
         "Description": "Predicted and actual air quality components for The Netherlands (RIVM)",
         "Auth": "",
@@ -6967,14 +6791,6 @@
         "Auth": "",
         "Cors": "no",
         "Link": "https://www.solematica.it/sviluppatori",
-        "Category": "Environment"
-    },
-    {
-        "API": "Spotwatts",
-        "Description": "Day-ahead electricity prices for the 15 Nordic and Baltic price areas, 15-minute and hourly, with and without VAT, history since 2023",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://spotwatts.com",
         "Category": "Environment"
     },
     {
@@ -7159,14 +6975,6 @@
         "Auth": "OAuth",
         "Cors": "yes",
         "Link": "https://developers.bb.com.br",
-        "Category": "Finance"
-    },
-    {
-        "API": "BankConv",
-        "Description": "Convert bank statement PDFs into JSON transactions, CSV, OFX, QFX, QBO and Xero CSV",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://bankconv.com",
         "Category": "Finance"
     },
     {
@@ -7978,14 +7786,6 @@
         "Category": "Food & Drink"
     },
     {
-        "API": "GustoQR",
-        "Description": "QR code menus for restaurants and cafés: read and change menus, items and prices, read orders, tables and the activity log",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://www.gustoqr.com",
-        "Category": "Food & Drink"
-    },
-    {
         "API": "Jelly Belly Wiki",
         "Description": "Data about Jelly Belly beans- flavores, facts, history and more endpoints",
         "Auth": "",
@@ -8215,14 +8015,6 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://codapi.dev/",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "CardZ Marketcap",
-        "Description": "Daily PSA 10 market cap, reference prices and population data for graded Pokémon TCG and One Piece Card Game cards",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://cardzmarketcap.com",
         "Category": "Games & Comics"
     },
     {
@@ -8743,14 +8535,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developer.riotgames.com/",
-        "Category": "Games & Comics"
-    },
-    {
-        "API": "RoWatcher",
-        "Description": "Roblox game stats: live player counts every 5 minutes, daily history, charts and genre trends. Free, no key needed",
-        "Auth": "",
-        "Cors": "no",
-        "Link": "https://rowatcher.com",
         "Category": "Games & Comics"
     },
     {
@@ -10154,22 +9938,6 @@
         "Category": "Government"
     },
     {
-        "API": "Kranli",
-        "Description": "Demandes de permis de construire suisses des 90 derniers jours, par commune et métier",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://kranli.ch/",
-        "Category": "Government"
-    },
-    {
-        "API": "Kurtaxe",
-        "Description": "German tourist tax (Kurtaxe) rates of more than 250 municipalities as JSON and CSV, every figure quoted from the municipal statute with its source",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://keyset.cloud/kurtaxe/",
-        "Category": "Government"
-    },
-    {
         "API": "MarriageLicense",
         "Description": "Where to give notice of marriage or get a marriage licence, by country",
         "Auth": "",
@@ -10946,14 +10714,6 @@
         "Category": "Jobs"
     },
     {
-        "API": "AI Trainer Work",
-        "Description": "Open AI training jobs (RLHF, data annotation, expert evaluation) from 20+ platforms, with pay, countries and listing dates",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://aitrainer.work",
-        "Category": "Jobs"
-    },
-    {
         "API": "Arbeitnow",
         "Description": "API for Job board aggregator in Europe / Remote",
         "Auth": "",
@@ -10978,14 +10738,6 @@
         "Category": "Jobs"
     },
     {
-        "API": "ClockInToday",
-        "Description": "US jobs and gig apps you can start without an interview, with minimum age, background check, vehicle and payout speed",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://clockintoday.com",
-        "Category": "Jobs"
-    },
-    {
         "API": "CV - Job match score API",
         "Description": "This API use multiple criteria to evaluate how well a candidate fits a job position",
         "Auth": "apiKey",
@@ -10999,14 +10751,6 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://devitjobs.uk/job_feed.xml",
-        "Category": "Jobs"
-    },
-    {
-        "API": "EuroJobs",
-        "Description": "Live IT jobs in the EU, EEA, UK and Switzerland, read hourly from employers' own job boards, with visa, remote and salary filters",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://eurojobs.ai",
         "Category": "Jobs"
     },
     {
@@ -11138,14 +10882,6 @@
         "Category": "Jobs"
     },
     {
-        "API": "Microworker",
-        "Description": "Micro-task marketplace: post and fund small online tasks, track automatic payments and review workers' submissions",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://microworker.app",
-        "Category": "Jobs"
-    },
-    {
         "API": "MusedIn",
         "Description": "Job network for AI agents: open jobs, agent profiles with hire and payment records, and a public feed",
         "Auth": "apiKey",
@@ -11239,14 +10975,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://developer.usajobs.gov/",
-        "Category": "Jobs"
-    },
-    {
-        "API": "Wadifa Info",
-        "Description": "Open public-sector recruitment exams in Morocco with deadlines and official notices, civil-service pay by grade and holidays",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://www.wadifa-info.com",
         "Category": "Jobs"
     },
     {
@@ -11543,14 +11271,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.theaudiodb.com/free_music_api",
-        "Category": "Music"
-    },
-    {
-        "API": "Words into Music",
-        "Description": "Generate songs from ideas or lyrics in five languages, track jobs and read your own song library",
-        "Auth": "apiKey",
-        "Cors": "no",
-        "Link": "https://wordsintomusic.com/",
         "Category": "Music"
     },
     {
@@ -12002,14 +11722,6 @@
         "Category": "Open Data"
     },
     {
-        "API": "hexplace",
-        "Description": "800 towns in Portugal: monthly climate normals (ERA5-Land 1991-2020), rents and home prices, amenities within a walk, transport, hazards and rankings",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://hexplace.org",
-        "Category": "Open Data"
-    },
-    {
         "API": "InfraNode",
         "Description": "Unified German city open data: weather, air quality, EV chargers, transit, demographics",
         "Auth": "",
@@ -12055,14 +11767,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://www.linkpreview.net",
-        "Category": "Open Data"
-    },
-    {
-        "API": "Lottizen",
-        "Description": "Lottery draw results and number statistics for Canada, US and Europe, plus Canadian scratch-ticket remaining prizes",
-        "Auth": "X-Mashape-Key",
-        "Cors": "yes",
-        "Link": "https://lottizen.com",
         "Category": "Open Data"
     },
     {
@@ -12119,14 +11823,6 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://www.opensanctions.org/docs/api/",
-        "Category": "Open Data"
-    },
-    {
-        "API": "Prince George Pulse",
-        "Description": "Local data for Prince George, BC: events, businesses, weather, transit and civic services, with source attribution",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://princegeorgepulse.ca",
         "Category": "Open Data"
     },
     {
@@ -12199,14 +11895,6 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://sofiaplan.bg/api/",
-        "Category": "Open Data"
-    },
-    {
-        "API": "StackRates",
-        "Description": "VPS and cloud server prices from 98 providers, read daily from their own pricing pages and APIs, each with its read date and source link",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://stackrates.ai",
         "Category": "Open Data"
     },
     {
@@ -13290,14 +12978,6 @@
         "Category": "Science & Math"
     },
     {
-        "API": "Natal Chart Lab",
-        "Description": "Tropical zodiac positions of the Sun, Moon and planets for any time 1800–2200, live Moon phase, void-of-course windows and retrogrades",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://natalchartlab.com",
-        "Category": "Science & Math"
-    },
-    {
         "API": "Newton",
         "Description": "Symbolic and Arithmetic Math Calculator",
         "Auth": "",
@@ -14098,22 +13778,6 @@
         "Category": "Shopping"
     },
     {
-        "API": "uglyHD",
-        "Description": "Cost per TB of new, used and refurbished enterprise drives and per GB of server RAM, from eBay and retailers; free tier needs no key",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://uglyhd.com",
-        "Category": "Shopping"
-    },
-    {
-        "API": "VantaSpec",
-        "Description": "UK PC hardware prices, price history and specs across UK retailers",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://vantaspec.com",
-        "Category": "Shopping"
-    },
-    {
         "API": "WooCommerce",
         "Description": "WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format",
         "Auth": "apiKey",
@@ -14199,14 +13863,6 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://discord.com/developers/docs/intro",
-        "Category": "Social"
-    },
-    {
-        "API": "disdex",
-        "Description": "Search millions of public Discord servers by name, language, guild tag and size, with member history and invite checks",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://disdex.io",
         "Category": "Social"
     },
     {
@@ -14887,14 +14543,6 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://dev.fitbit.com/",
-        "Category": "Sports & Fitness"
-    },
-    {
-        "API": "Footalytics",
-        "Description": "AI football match predictions: win/draw/loss probabilities, confidence tiers, over/under 2.5 goals, BTTS and graded past results for the top leagues",
-        "Auth": "apiKey",
-        "Cors": "unknown",
-        "Link": "https://footalytics.farvor.com",
         "Category": "Sports & Fitness"
     },
     {
@@ -15922,14 +15570,6 @@
         "Category": "Transportation"
     },
     {
-        "API": "HaulierScope",
-        "Description": "Great Britain goods vehicle and PSV operator licences, change history and public inquiries",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://haulierscope.co.uk",
-        "Category": "Transportation"
-    },
-    {
         "API": "Icelandic APIs",
         "Description": "Open APIs that deliver services in or regarding Iceland",
         "Auth": "",
@@ -16586,14 +16226,6 @@
         "Category": "Vehicle"
     },
     {
-        "API": "StickerByVIN",
-        "Description": "Original window sticker (Monroney label) PDFs and structured option and MSRP data by VIN, plus decode and availability checks. Free tier",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://stickerbyvin.com",
-        "Category": "Vehicle"
-    },
-    {
         "API": "TrafficEye.AI",
         "Description": "ANPR/ALPR and vehicle recognition API for license plate OCR, country, make, model, generation, color and vehicle attributes from images",
         "Auth": "apiKey",
@@ -17135,14 +16767,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://videogen.io/",
-        "Category": "Video"
-    },
-    {
-        "API": "VideoUpscaler",
-        "Description": "AI video upscaling, denoising, stabilization, and frame interpolation to 4K",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://videoupscaler.co",
         "Category": "Video"
     },
     {
