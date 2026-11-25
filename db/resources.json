@@ -1,5 +1,5 @@
 {
-"count": 2180,
+"count": 2181,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -223,6 +223,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://geekflare.com",
+        "Category": "AI"
+    },
+    {
+        "API": "GenMagic",
+        "Description": "One OpenAI-compatible API key for 100+ image, video and audio models (Veo, Seedance, FLUX, Nano Banana) and 350+ text models, pay per result",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://genmagic.co",
         "Category": "AI"
     },
     {
