@@ -16955,9 +16955,9 @@
     },
     {
         "API": "Meteosource",
-        "Description": "Global weather forecasts based on machine learning and historical data",
+        "Description": "Weather forecasts, official alerts, 20 years of history, air quality, and solar and wind production for any location",
         "Auth": "apiKey",
-        "Cors": "unknown",
+        "Cors": "yes",
         "Link": "https://www.meteosource.com/",
         "Category": "Weather"
     },
