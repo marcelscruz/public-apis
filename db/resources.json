@@ -1,5 +1,5 @@
 {
-"count": 2178,
+"count": 2179,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -16559,6 +16559,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://stickerbyvin.com",
+        "Category": "Vehicle"
+    },
+    {
+        "API": "TrafficEye.AI",
+        "Description": "ANPR/ALPR and vehicle recognition API for license plate OCR, country, make, model, generation, color and vehicle attributes from images",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://www.trafficeye.ai/",
         "Category": "Vehicle"
     },
     {
