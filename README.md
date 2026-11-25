@@ -142,6 +142,7 @@
 | [NLP Cloud](https://nlpcloud.io) | NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more | `apiKey` | Unknown |
 | [nRouter](https://nrouter.ai) | LLM gateway API — one OpenAI-compatible API key for every model, with smart routing, automatic fallbacks, per-key budgets and guardrails. | `apiKey` | Unknown |
 | [Obscurify AI](https://obscurify.ai) | Anonymous OpenAI-compatible API for 200+ LLMs. Accounts are a random number, no email; pay with Monero, Bitcoin or card | `apiKey` | Yes |
+| [OllaStack](https://ollastack.com/) | Discover AI tools, SaaS products, and digital resources in one place. Find useful tools for productivity, business, development, and more | No | No |
 | [onomeo](https://onomeo.com) | OpenAI- and Anthropic-compatible API for Claude, GPT, Gemini and DeepSeek models on one pay-as-you-go key, with free open models for new accounts | `apiKey` | Yes |
 | [OpenAI](https://openai.com/index/openai-api) | Use AI models such as ChatGPT or DALL-E to experience the capabilities of AI | `apiKey` | Yes |
 | [Outrun](https://outrun.to) | Prepaid OpenAI-compatible API with one key for GPT, Claude, Gemini, Grok, DeepSeek and more, plus Anthropic and Gemini formats and published per-token prices | `apiKey` | Yes |
