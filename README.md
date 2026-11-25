@@ -2512,6 +2512,7 @@
 | [Stranger Things Quotes](https://github.com/shadowoff09/strangerthings-quotes) | Returns Stranger Things quotes | No | Unknown |
 | [Stromberg Quotes](https://www.stromberg-api.de/) | Returns Stromberg quotes and more | No | Unknown |
 | [Supernatural Quotes](https://lidiakovac.github.io/supernatural-api) | 100+ Supernatural quotes | No | Unknown |
+| [SurgeShorts](https://surgeshorts.com) | Rank the moments a YouTube, Twitch or Kick stream's chat reacted to and export them as 9:16 shorts or 16:9 MP4s | `apiKey` | No |
 | [SWAPI](https://swapi.dev/) | All the Star Wars data you've ever wanted | No | Yes |
 | [SWAPI](https://www.swapi.tech) | All things Star Wars | No | Yes |
 | [SWAPI GraphQL](https://graphql.org/swapi-graphql) | Star Wars GraphQL API | No | Unknown |
