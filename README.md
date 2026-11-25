@@ -2457,6 +2457,7 @@
 | [NHTSA](https://vpic.nhtsa.dot.gov/api/) | NHTSA Product Information Catalog and Vehicle Listing | No | Unknown |
 | [Smartcar](https://smartcar.com/docs/) | Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars | `OAuth` | Yes |
 | [StickerByVIN](https://stickerbyvin.com) | Original window sticker (Monroney label) PDFs and structured option and MSRP data by VIN, plus decode and availability checks. Free tier | `apiKey` | Yes |
+| [TrafficEye.AI](https://www.trafficeye.ai/) | ANPR/ALPR and vehicle recognition API for license plate OCR, country, make, model, generation, color and vehicle attributes from images | `apiKey` | Unknown |
 | [Window Sticker](https://windowsticker.org/api-docs) | Original factory Monroney label PDF and full spec decode by VIN | No | Yes |
 
 **[⬆ Back to Index](#index)**
