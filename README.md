@@ -2322,6 +2322,7 @@
 | [Grab](https://developer.grab.com/docs/) | Track deliveries, ride fares, payments and loyalty points | `OAuth` | Unknown |
 | [GraphHopper](https://docs.graphhopper.com/) | A-to-B routing with turn-by-turn instructions | `apiKey` | Unknown |
 | [Icelandic APIs](https://docs.apis.is/) | Open APIs that deliver services in or regarding Iceland | No | Unknown |
+| [iQuota](https://iquota.io) | Live availability, rates and direct booking at independent hotels and holiday rentals, as REST, OTA XML and a remote MCP server | `apiKey` | Unknown |
 | [Izi](https://api-docs.izi.travel/) | Audio guide for travellers | `apiKey` | Unknown |
 | [K-AgentPay](https://k-agentpay.com/) | Korea travel live data in English/Japanese/Korean: Seoul subway arrivals, Incheon Airport wait times, Seoul crowds and weather, K-pop concerts | `apiKey` | Yes |
 | [Kardinal](https://kardinal.ai/) | Route optimization API for delivery fleets: multi-vehicle routing with time windows and vehicle capacities, self-serve with a free tier | `apiKey` | Yes |
