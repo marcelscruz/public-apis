@@ -2073,6 +2073,7 @@
 |---|---|---|---|
 | [Apiwren Amazon Data](https://apiwren.com/amazon-product-api) | Third-party Amazon product search, details, reviews, seller offers and best sellers across 23 marketplaces | `apiKey` | Yes |
 | [Asin](https://www.asin.dev) | Track Amazon products and prices across 11 marketplaces, with price history, offers and alerts | `apiKey` | No |
+| [Barcodes.GG](https://barcodes.gg) | Sneaker and streetwear barcodes: resolve a UPC, EAN or GTIN to product, size, style code, colorway and retail price; 7-day free trial | `apiKey` | Yes |
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce | `apiKey` | Unknown |
 | [Canopy](https://www.canopyapi.co/) | A modern API for Amazon Data | `apiKey` | Unknown |
 | [Clickwise](https://partners.clickwise.net/) | Affiliate product search by GTIN with tracked links, affiliate programs and deals; free sandbox key | `apiKey` | No |
