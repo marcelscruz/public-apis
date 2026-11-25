@@ -1764,6 +1764,7 @@
 | [Callook.info](https://callook.info) | United States ham radio callsigns | No | Unknown |
 | [CARTO](https://carto.com/) | Location Information Prediction | `apiKey` | Unknown |
 | [CollegeScoreCard.ed.gov](https://collegescorecard.ed.gov/data/) | Data on higher education institutions in the United States | No | Unknown |
+| [CosmeScan](https://github.com/guillaumefric0-del/cosmescan-open-api) | Cosmetic & perfume batch code metadata for 2,375 brands | No | Yes |
 | [CoworkingView](https://coworkingview.com) | Coworking spaces and flexible offices in European and UAE cities, with operator-listed prices and a per-city price index under CC BY 4.0 | No | No |
 | [CrawlGraph](https://crawlgraph.com) | Backlink and domain-link data from Common Crawl's open web graph | `apiKey` | No |
 | [DataStream](https://github.com/datastreamapp/api-docs) | An open access platform for sharing Canadian water quality data | `apiKey` | Yes |
