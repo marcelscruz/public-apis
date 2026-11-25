@@ -277,7 +277,6 @@
 | [Islam Museum](https://islam.museum/en/developers/) | Islamic history knowledge graph — people, places, events and texts in Arabic, English and Urdu | No | Yes |
 | [Logotypes](https://logotypes.dev/) | Logotypes of the world in multiples format | No | Yes |
 | [Lordicon](https://lordicon.com/) | Icons with predone Animations | No | Yes |
-| [Luw](https://luw.ai) | AI design for architecture and interiors: redesign rooms, exteriors and gardens from a photo, render sketches, edit images, make video and 3D | `apiKey` | Yes |
 | [Luw Studio](https://studio.luw.ai) | OpenAI-compatible API to an AI agent that builds and changes 3D building projects: rooms, doors, windows, stairs and furniture | `apiKey` | No |
 | [Magnific Icons API](https://docs.magnific.com/api-reference/icons/icons-api) | Icon search and download API by Freepik (formerly Iconfinder) | `apiKey` | Unknown |
 | [Metropolitan Museum of Art](https://metmuseum.github.io/) | Met Museum of Art | No | No |
@@ -1207,7 +1206,6 @@
 | [Fast Food Index](https://fastfoodindex.com/api/) | US fast food menu prices: chain medians, Big Mac Index by state and verified price changes | No | Yes |
 | [FiberUp Fiber Database](https://fiberup.app/data/) | Dietary fiber per serving and per 100 g, split into soluble and insoluble, for ~200 common foods | No | Yes |
 | [Foodish](https://github.com/surhud004/Foodish#readme) | Random pictures of food dishes | No | Yes |
-| [GustoQR](https://www.gustoqr.com) | QR code menus for restaurants and cafés: read and change menus, items and prices, read orders, tables and the activity log | `apiKey` | Yes |
 | [Jelly Belly Wiki](https://jelly-belly-wiki.netlify.app/) | Data about Jelly Belly beans- flavores, facts, history and more endpoints | No | Yes |
 | [Kroger](https://developer.kroger.com/reference) | Supermarket Data | `apiKey` | Unknown |
 | [LCBO](https://lcbo.dev/) | Alcohol | No | Yes |
