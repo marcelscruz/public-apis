@@ -1,5 +1,5 @@
 {
-"count": 2140,
+"count": 2138,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1279,14 +1279,6 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://lordicon.com/",
-        "Category": "Art & Design"
-    },
-    {
-        "API": "Luw",
-        "Description": "AI design for architecture and interiors: redesign rooms, exteriors and gardens from a photo, render sketches, edit images, make video and 3D",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://luw.ai",
         "Category": "Art & Design"
     },
     {
@@ -7807,14 +7799,6 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://github.com/surhud004/Foodish#readme",
-        "Category": "Food & Drink"
-    },
-    {
-        "API": "GustoQR",
-        "Description": "QR code menus for restaurants and cafés: read and change menus, items and prices, read orders, tables and the activity log",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://www.gustoqr.com",
         "Category": "Food & Drink"
     },
     {
