@@ -13666,14 +13666,6 @@
         "Category": "URL Shorteners"
     },
     {
-        "API": "Spoo.me",
-        "Description": "Free URL shortener with custom alias, max-clicks, password protection and advanced analytics support",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://spoo.me/api",
-        "Category": "URL Shorteners"
-    },
-    {
         "API": "T.LY",
         "Description": "URL shortener and link management service",
         "Auth": "apiKey",
