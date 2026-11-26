@@ -1,5 +1,5 @@
 {
-"count": 2138,
+"count": 2139,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -1455,6 +1455,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://www.reqkey.com",
+        "Category": "Authentication & Authorization"
+    },
+    {
+        "API": "Scalekit",
+        "Description": "Auth for AI agents: per-user OAuth tool calls across 1,100+ apps and 55,000+ tools, plus MCP server auth, SSO and SCIM for B2B apps",
+        "Auth": "OAuth",
+        "Cors": "no",
+        "Link": "https://www.scalekit.com",
         "Category": "Authentication & Authorization"
     },
     {
