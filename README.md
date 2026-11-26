@@ -2122,7 +2122,6 @@
 | [Linkly](https://linklyhq.com/url-shortener-api) | URL shortener API with branded domains, click tracking, smart redirects, and webhooks | `apiKey` | Yes |
 | [Manyapis](https://manyapis.com/products/short-url) | Free URL shortener API with up to 10 requests per day | `apiKey` | Yes |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` | Unknown |
-| [Spoo.me](https://spoo.me/api) | Free URL shortener with custom alias, max-clicks, password protection and advanced analytics support | No | Yes |
 | [T.LY](https://t.ly/docs) | URL shortener and link management service | `apiKey` | Yes |
 | [TinyURL](https://tinyurl.com/app/dev) | Shorten long URLs | `apiKey` | No |
 | [Urlmskr](https://github.com/Axorax/urlmskr#urlmskr-api) | Easy and fast masked, shortened link creation | No | Unknown |
