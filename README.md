@@ -2025,6 +2025,7 @@
 | [Privacy.com](https://privacy.com/developer/docs) | Generate merchant-specific and one-time use credit card numbers that link back to your bank | `apiKey` | Unknown |
 | [Pulsedive](https://pulsedive.com/api/) | Scan, search and collect threat intelligence data in real-time | `apiKey` | Unknown |
 | [SecurityTrails](https://securitytrails.com/corp/api) | Domain and IP related information such as current and historical WHOIS and DNS records | `apiKey` | Unknown |
+| [ShipBastion](https://shipbastion.com/docs) | Free read-only web security, TLS, leaked client keys, Supabase/Firebase, and SPF/DKIM/DMARC audit API | No | Yes |
 | [Shodan](https://developer.shodan.io/) | Search engine for Internet connected devices | `apiKey` | Unknown |
 | [Spyse](https://spyse-dev.readme.io/reference/quick-start) | Access data on all Internet assets and build powerful attack surface management applications | `apiKey` | Unknown |
 | [The Network Tools](https://thenetworktools.com) | Domain and network diagnostics API for DNS records, SSL certs, SPF/DKIM/DMARC, WHOIS/RDAP and IP blacklists | `apiKey` | No |
