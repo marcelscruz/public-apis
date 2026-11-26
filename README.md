@@ -2094,6 +2094,7 @@
 | [Full Contact](https://docs.fullcontact.com/) | Get Social Media profiles and contact Information | `OAuth` | Unknown |
 | [GetXAPI](https://getxapi.com) | Twitter scraping and posting — 44 endpoints from $0.001 per call | `apiKey` | No |
 | [HackerNews](https://github.com/HackerNews/API) | Social news for CS and entrepreneurship | No | Unknown |
+| [Handles](https://handlesapi.com) | Public profile, post and audience data from X, Instagram, TikTok, YouTube, Telegram, Bluesky, Twitch, Kick and LinkedIn with one API key | `apiKey` | No |
 | [Hashnode](https://hashnode.com) | A blogging platform built for developers | No | Unknown |
 | [Hashtag](https://mukeshsolanki.gitbook.io/hashtag-api/) | Generate Hashtags using a keyword or an Image | `apiKey` | Unknown |
 | [Hermoso](https://hermoso.ai) | Make ads, publish to social channels and run ad campaigns from one API | `apiKey` | No |
