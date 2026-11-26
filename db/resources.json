@@ -1,5 +1,5 @@
 {
-"count": 2143,
+"count": 2144,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3655,6 +3655,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://www.purgomalum.com",
+        "Category": "Data Validation"
+    },
+    {
+        "API": "Qelka",
+        "Description": "Validate phone numbers, verify emails, analyze IPs, and check IBAN, EU VAT, VIN, LEI and sanctions lists with one key",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://qelka.com",
         "Category": "Data Validation"
     },
     {
