@@ -159,6 +159,7 @@
 | [Summarize Text with AI](https://apyhub.com/utility/ai-summarize) | This API generates customizable summaries of text and web pages using AI | `apiKey` | Yes |
 | [Suprsonic](https://suprsonic.ai) | One API key for AI agents: web search, scraping, company and people data, speech, images and research. 200 free credits, no card needed | `apiKey` | No |
 | [TeamoRouter](https://teamorouter.com) | OpenAI- and Anthropic-compatible API gateway for Claude, GPT, Gemini, DeepSeek, GLM, Kimi and Qwen on one prepaid pay-as-you-go key | `apiKey` | Yes |
+| [TokenCalc AI](https://tokencalcai.com) | Cross-provider LLM API token pricing index, live model latency pings, and GitHub SVG price badges | No | Yes |
 | [TranscriptFetch](https://transcriptfetch.com) | The transcript API for social media video. Get transcripts at scale from YouTube, TikTok or Instagram. | `apiKey` | Yes |
 | [TranslateMyImage](https://translatemyimage.com) | Translate the text inside JPG, PNG or WEBP images into 9 languages and get the translated image back | `apiKey` | No |
 | [TrustedRouter](https://trustedrouter.com) | OpenAI-compatible LLM API gateway that routes requests to models from many vendors through one API key | `apiKey` | Yes |
