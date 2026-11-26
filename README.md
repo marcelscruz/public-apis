@@ -1982,6 +1982,7 @@
 | [Botd](https://github.com/fingerprintjs/botd) | Botd is a browser library for JavaScript bot detection | `apiKey` | Yes |
 | [Bugcrowd](https://docs.bugcrowd.com/api/getting-started/) | Bugcrowd API for interacting and tracking the reported issues programmatically | `apiKey` | Unknown |
 | [Censys](https://search.censys.io/api) | Search engine for Internet connected host and devices | `apiKey` | No |
+| [CheckLeaked](https://checkleaked.cc/developers) | Data breach search by email, username, phone, domain, password or hash, with the source breach named | `apiKey` | Yes |
 | [Classify](https://github.com/cheatsnake/classify) | Encrypting & decrypting text messages | No | Yes |
 | [ClawSearch](https://api.clawsearch.cc) | Security-first search engine API for AI agent skills with Trust Score | No | Yes |
 | [Complete Criminal Checks](https://completecriminalchecks.com/Developers) | Provides data of offenders from all U.S. States and Puerto Rico | `apiKey` | Yes |
