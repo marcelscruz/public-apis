@@ -1735,6 +1735,7 @@
 | [BotsArchive](https://botsarchive.com/docs.html) | JSON formatted details about Telegram Bots available in database | No | Unknown |
 | [Callook.info](https://callook.info) | United States ham radio callsigns | No | Unknown |
 | [CARTO](https://carto.com/) | Location Information Prediction | `apiKey` | Unknown |
+| [Charitology](https://charitology.com/tools/public-api/) | Open 31-country Global Charity Index (3.34M official records), 48 funding flows, and 65 verified free nonprofit tools | No | Yes |
 | [CollegeScoreCard.ed.gov](https://collegescorecard.ed.gov/data/) | Data on higher education institutions in the United States | No | Unknown |
 | [CoworkingView](https://coworkingview.com) | Coworking spaces and flexible offices in European and UAE cities, with operator-listed prices and a per-city price index under CC BY 4.0 | No | No |
 | [CrawlGraph](https://crawlgraph.com) | Backlink and domain-link data from Common Crawl's open web graph | `apiKey` | No |
