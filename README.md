@@ -1105,6 +1105,7 @@
 | [Binlist](https://binlist.net/) | Public access to a database of IIN/BIN information | No | Unknown |
 | [biquote](https://biquote.io) | Real-time and historical forex, metals, crypto and stock prices, with a WebSocket stream and an economic calendar | No | Yes |
 | [Boleto.Cloud](https://boleto.cloud/) | A api to generate boletos in Brazil | `apiKey` | Unknown |
+| [Borbur](https://borbur.net/developers/) | Free salary and tax calculators: Spain net salary and IRPF 2026 by region, Beckham Law, pensions, UAE gratuity, 20-country tax comparison | No | Yes |
 | [Bullbear Advisors](https://rapidapi.com/otha1920/api/bullbear-advisor) | See strong buy and sell signals the day they occur. Get today's stocks that closed with a strong Bullish or Bearish candlestick. | No | No |
 | [Casheva](https://casheva.com) | Financial data for Argentina, Spain and Mexico: USD rates, inflation, Euribor, ICL | No | Yes |
 | [Citi](https://sandbox.developerhub.citi.com/api-catalog-list) | All Citigroup account and statement data APIs | `apiKey` | Unknown |
