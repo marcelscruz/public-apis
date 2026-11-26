@@ -1891,6 +1891,7 @@
 | [Readme typing SVG](https://github.com/DenverCoder1/readme-typing-svg) | Customizable typing and deleting text SVG | No | Unknown |
 | [Remove Background from Images API](https://apyhub.com/utility/image-processor-remove-background) | This API helps you remove background from any image | `apiKey` | Yes |
 | [Remove.bg](https://www.remove.bg/api) | Image Background removal | `apiKey` | Unknown |
+| [RemoveAC](https://remove.ac) | Automated image background removal up to 50 MP with transparent PNG, WebP, JPG and ZIP output | `apiKey` | Yes |
 | [ReSmush.it](https://resmush.it/api) | Photo optimization | No | Unknown |
 | [ShotOG](https://shotog.2214962083.workers.dev/docs) | Open-source OG image generation with 8 templates, custom fonts, and batch generation | `apiKey` | Yes |
 | [shutterstock](https://api-reference.shutterstock.com/) | Stock Photos and Videos | `OAuth` | Unknown |
