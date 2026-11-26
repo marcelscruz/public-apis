@@ -474,6 +474,14 @@
         "Category": "AI"
     },
     {
+        "API": "Scalekit",
+        "Description": "AI agent integrations platform and MCP gateway: agents call 55,000+ tools across 1,100+ apps with per-user credentials, scoped tool calls and audit logs",
+        "Auth": "OAuth",
+        "Cors": "no",
+        "Link": "https://www.scalekit.com",
+        "Category": "AI"
+    },
+    {
         "API": "SFW",
         "Description": "Nudity detection for images, GIFs and videos with four content levels and an optional blocking policy, 500 free credits a month",
         "Auth": "apiKey",
@@ -1455,14 +1463,6 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://www.reqkey.com",
-        "Category": "Authentication & Authorization"
-    },
-    {
-        "API": "Scalekit",
-        "Description": "Auth for AI agents: per-user OAuth tool calls across 1,100+ apps and 55,000+ tools, plus MCP server auth, SSO and SCIM for B2B apps",
-        "Auth": "OAuth",
-        "Cors": "no",
-        "Link": "https://www.scalekit.com",
         "Category": "Authentication & Authorization"
     },
     {
