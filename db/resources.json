@@ -1,5 +1,5 @@
 {
-"count": 2144,
+"count": 2145,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3752,6 +3752,14 @@
         "Cors": "yes",
         "Link": "https://wisepim.com/developers/open-data",
         "Category": "Data Validation"
+    },
+    {
+        "API": "12happy",
+        "Description": "Uptime monitoring and status pages: create monitors and read incidents, uptime and response times",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.12hpy.com",
+        "Category": "Development"
     },
     {
         "API": "24 Pull Requests",
