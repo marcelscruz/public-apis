@@ -1,5 +1,5 @@
 {
-"count": 2139,
+"count": 2140,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7039,6 +7039,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://boleto.cloud/",
+        "Category": "Finance"
+    },
+    {
+        "API": "Borbur",
+        "Description": "Free salary and tax calculators: Spain net salary and IRPF 2026 by region, Beckham Law, pensions, UAE gratuity, 20-country tax comparison",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://borbur.net/developers/",
         "Category": "Finance"
     },
     {
