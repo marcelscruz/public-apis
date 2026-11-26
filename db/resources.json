@@ -1,5 +1,5 @@
 {
-"count": 2142,
+"count": 2143,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13535,6 +13535,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://spyse-dev.readme.io/reference/quick-start",
+        "Category": "Security"
+    },
+    {
+        "API": "The Network Tools",
+        "Description": "Domain and network diagnostics API for DNS records, SSL certs, SPF/DKIM/DMARC, WHOIS/RDAP and IP blacklists",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://thenetworktools.com",
         "Category": "Security"
     },
     {
