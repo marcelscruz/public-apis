@@ -2025,6 +2025,7 @@
 | [SecurityTrails](https://securitytrails.com/corp/api) | Domain and IP related information such as current and historical WHOIS and DNS records | `apiKey` | Unknown |
 | [Shodan](https://developer.shodan.io/) | Search engine for Internet connected devices | `apiKey` | Unknown |
 | [Spyse](https://spyse-dev.readme.io/reference/quick-start) | Access data on all Internet assets and build powerful attack surface management applications | `apiKey` | Unknown |
+| [The Network Tools](https://thenetworktools.com) | Domain and network diagnostics API for DNS records, SSL certs, SPF/DKIM/DMARC, WHOIS/RDAP and IP blacklists | `apiKey` | No |
 | [ThreatCluster](https://threatcluster.io/api/public/v1/docs) | Threat intelligence API: incident clusters from 20,000 sources, validated IOCs, CVEs with KEV/EPSS status, ransomware leak-site victims | `apiKey` | No |
 | [TrustedMCP](https://trustedmcp.io) | A-D grades for MCP servers from public signals: look up a server, check an MCP config, find graded alternatives | No | Yes |
 | [UK Police](https://data.police.uk/docs/) | UK Police data | No | Unknown |
