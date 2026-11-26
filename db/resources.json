@@ -1,5 +1,5 @@
 {
-"count": 2143,
+"count": 2142,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10559,14 +10559,6 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://fdc.nal.usda.gov/",
-        "Category": "Health"
-    },
-    {
-        "API": "GLP1Prices",
-        "Description": "Daily US cash prices of tirzepatide and semaglutide by provider, compounded and brand, each with its source page and date",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://glp1pricesco.founden.co/developers",
         "Category": "Health"
     },
     {
