@@ -651,6 +651,7 @@
 ### Development
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [12happy](https://www.12hpy.com) | Uptime monitoring and status pages: create monitors and read incidents, uptime and response times | `apiKey` | Yes |
 | [24 Pull Requests](https://24pullrequests.com/api) | Project to promote open source collaboration during December | No | Yes |
 | [500Toolbox](https://www.500toolbox.com/) | REST API and MCP endpoint exposing 30 PDF, image, converter, calculator and developer tools. API key, 100 free credits a month and 200 welcome credits. | `apiKey` | Unknown |
 | [Abacus](https://abacus.jasoncameron.dev/) | Free and simple counting service. You can use it to track page hits and specific events | No | Yes |
