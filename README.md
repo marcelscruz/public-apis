@@ -2016,6 +2016,7 @@
 | [openshield](https://www.openshield.dev) | Image and text moderation API (accept, review or reject) and fraud scoring for sign-ups, logins and payments, EU-hosted, free monthly tier | `apiKey` | No |
 | [Opsis](https://useopsis.com) | Check which of 1,000+ sites an email address or username is registered on, with profile details and the source for each result | `apiKey` | No |
 | [OWASP ZAP](https://www.zaproxy.org/docs/api/) | Automated security testing API for web apps | No | Unknown |
+| [Party VPN](https://partyvpn.com/developers) | Create, list and delete WireGuard and AmneziaWG VPNs and get their configs and QR codes, paid in crypto by the connected hour | `apiKey` | No |
 | [Passwordinator](https://github.com/fawazsullia/password-generator/) | Generate random passwords of varying complexities | No | Yes |
 | [Patronus Protect](https://api.patronus.studio/) | Detect prompt injection in text, public webpages and documents for AI agents and RAG pipelines | `apiKey` | No |
 | [PhishStats](https://phishstats.info/) | Phishing database | No | Unknown |
