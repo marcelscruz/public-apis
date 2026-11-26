@@ -10883,7 +10883,7 @@
     },
     {
         "API": "Jobvetta",
-        "Description": "Live, vetted job listings from official employer sources across India",
+        "Description": "Search 6.5M+ live jobs from 238K+ official employer career sites worldwide",
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://jobvetta.com",
