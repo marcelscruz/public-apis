@@ -1621,7 +1621,7 @@
 | [Jobs Every Hour](https://jobseveryhour.com/api/) | Open jobs read every hour from employers' own career pages, as keyless JSON by skill, category, place and company, plus an MCP server | No | Yes |
 | [Jobspipe](https://jobspipe.dev/) | Jobspipe a unified jobs data API powering access to over 300 million public job postings worldwide. We aggregate, normalize, and enrich job data | `apiKey` | Unknown |
 | [Jobven](https://jobven.com) | Job postings collected directly from employer career pages, not job boards. Structured JSON over REST, with webhooks when listings change | `apiKey` | Yes |
-| [Jobvetta](https://jobvetta.com) | Live, vetted job listings from official employer sources across India | `apiKey` | Yes |
+| [Jobvetta](https://jobvetta.com) | Search 6.5M+ live jobs from 238K+ official employer career sites worldwide | `apiKey` | Yes |
 | [JobYap](https://jobyap.com/agents) | Job postings aggregated from companies' careers sites, with community discussion threads | No | Yes |
 | [Jooble](https://jooble.org/api/about) | Job search engine | `apiKey` | Unknown |
 | [Juju](https://www.juju.com/publisher/spec/) | Job search engine | `apiKey` | Unknown |
