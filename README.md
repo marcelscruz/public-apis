@@ -152,6 +152,7 @@
 | [Requesty](https://www.requesty.ai) | OpenAI-compatible gateway that routes requests to 600+ models from 30+ providers, with fallbacks, caching and spend tracking | `apiKey` | Yes |
 | [Roboflow Universe](https://universe.roboflow.com) | Pre-trained computer vision models | `apiKey` | Yes |
 | [RouterBase API](https://routerbase.com) | One OpenAI-compatible API for accessing 200+ AI models from OpenAI, Anthropic, Google, Meta, xAI, DeepSeek, and more | `apiKey` | Unknown |
+| [Scalekit](https://www.scalekit.com) | AI agent integrations platform and MCP gateway: agents call 55,000+ tools across 1,100+ apps with per-user credentials, scoped tool calls and audit logs | `OAuth` | No |
 | [SFW](https://sfwapi.dev) | Nudity detection for images, GIFs and videos with four content levels and an optional blocking policy, 500 free credits a month | `apiKey` | Yes |
 | [SkyBiometry](https://skybiometry.com/documentation/) | Face Detection, Face Recognition and Face Grouping | `apiKey` | Unknown |
 | [Spam Hunter](https://spam-hunter.ru/) | Free service to classify text as spam using ML | `apiKey` | Yes |
@@ -305,7 +306,6 @@
 | [Kinde](https://kinde.com) | Authentication for modern applications. Integrates in minutes and free up to 7,500 MAU | `OAuth` | No |
 | [MojoAuth](https://mojoauth.com) | Secure and modern passwordless authentication platform | `apiKey` | Yes |
 | [ReqKey](https://www.reqkey.com) | ReqKey validates API keys, meters credits, enforces rate limits, and logs every request — from a single SDK call inside your own middleware | `apiKey` | No |
-| [Scalekit](https://www.scalekit.com) | Auth for AI agents: per-user OAuth tool calls across 1,100+ apps and 55,000+ tools, plus MCP server auth, SSO and SCIM for B2B apps | `OAuth` | No |
 | [SignOps](https://signops.dev/docs/) | Push notifications, login approval, passkeys, authenticator codes and email OTP on one API key | `apiKey` | Yes |
 | [Stytch](https://stytch.com/) | User infrastructure for modern applications | `apiKey` | No |
 | [Warrant](https://docs.warrant.dev/) | APIs for authorization and access control | `apiKey` | Yes |
