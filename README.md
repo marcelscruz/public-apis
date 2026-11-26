@@ -634,6 +634,7 @@
 | [Nonprofit Check Plus](https://pactman.org/nonprofitcheckplus-api/landing) | Verify charities via EIN using IRS, PUB78, BMF & OFAC data for compliance and legitimacy | `apiKey` | Unknown |
 | [Postman Echo](https://www.postman-echo.com) | Test api server to receive and return value from HTTP method | No | Unknown |
 | [PurgoMalum](https://www.purgomalum.com) | Content validator against profanity & obscenity | No | Unknown |
+| [Qelka](https://qelka.com) | Validate phone numbers, verify emails, analyze IPs, and check IBAN, EU VAT, VIN, LEI and sanctions lists with one key | `apiKey` | No |
 | [RFCCheck](https://rfccheck.com) | Validates a Mexican RFC against SAT and returns the registered name and postal code | `apiKey` | No |
 | [TrustComponent VAT Checker](https://www.trustcomponent.com/en/products/vat-checker) | Look up EU VAT numbers in bulk, up to 1,000 per request | `apiKey` | Unknown |
 | [US Autocomplete](https://www.smarty.com/docs/cloud/us-autocomplete-pro-api) | Enter address data quickly with real-time address suggestions | `apiKey` | Yes |
