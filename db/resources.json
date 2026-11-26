@@ -1,5 +1,5 @@
 {
-"count": 2140,
+"count": 2141,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -12655,6 +12655,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://www.remove.bg/api",
+        "Category": "Photography"
+    },
+    {
+        "API": "RemoveAC",
+        "Description": "Automated image background removal up to 50 MP with transparent PNG, WebP, JPG and ZIP output",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://remove.ac",
         "Category": "Photography"
     },
     {
