@@ -1,5 +1,5 @@
 {
-"count": 2145,
+"count": 2146,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13991,6 +13991,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://github.com/HackerNews/API",
+        "Category": "Social"
+    },
+    {
+        "API": "Handles",
+        "Description": "Public profile, post and audience data from X, Instagram, TikTok, YouTube, Telegram, Bluesky, Twitch, Kick and LinkedIn with one API key",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://handlesapi.com",
         "Category": "Social"
     },
     {
