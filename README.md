@@ -2219,6 +2219,7 @@
 | [PrizePicksAPI](https://prizepicksapi.com) | Unofficial PrizePicks player-prop lines with goblin and demon tiers, line history and graded results | `apiKey` | No |
 | [PropLine](https://prop-line.com) | Player props and game odds from 118 sportsbooks and exchanges across 59 sports, with every prop graded against official box scores | `apiKey` | No |
 | [PuckAPI](https://puckapi.com) | NHL games, stats, play-by-play with shot locations, standings and sportsbook odds; also AHL, PWHL and junior leagues | `apiKey` | Yes |
+| [QiuXiaoCe Football](https://www.qiuxiaoce.com/data-docs/) | Football fixtures, standings, team profiles, xG tactical stats and AI match packs (free tier available) | `apiKey` | Yes |
 | [Racing Alpha](https://racingalpha.co.uk/developers) | AI win-probability scores, fair prices and draw-bias stats for UK & Irish horse racing | No | Yes |
 | [Realtime Sports](https://www.realtimesportsapi.com) | Live scores, play-by-play, box scores, schedules, injuries and odds for NFL, NBA, MLB, NHL, college and 23 soccer leagues, via REST, webhooks and WebSocket | `apiKey` | Yes |
 | [SkipOdds](https://skipodds.com/docs) | De-vigged fair win probabilities across 13 sports, averaged from 69+ bookmakers | `apiKey` | Yes |
