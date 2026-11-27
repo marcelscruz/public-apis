@@ -1,5 +1,5 @@
 {
-"count": 2155,
+"count": 2156,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14943,6 +14943,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://puckapi.com",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "QiuXiaoCe Football",
+        "Description": "Football fixtures, standings, team profiles, xG tactical stats and AI match packs (free tier available)",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://www.qiuxiaoce.com/data-docs/",
         "Category": "Sports & Fitness"
     },
     {
