@@ -1012,6 +1012,7 @@
 | [Notilify](https://documenter.getpostman.com/view/32462468/2s9YsT6ong) | A seamless messaging platform & API to send all types of SMS | `apiKey` | Yes |
 | [Proweblook Email Checker](https://proweblook.com/email-verifier) | Validate email addresses without sending | `apiKey` | Yes |
 | [Resend](https://resend.com/docs/) | Email API for developers | `apiKey` | Yes |
+| [Sendfinery](https://sendfinery.com) | Check a domain's SPF, DKIM, DMARC and MX records, look up DNS and analyze email headers | No | Yes |
 | [Sendgrid](https://docs.sendgrid.com/api-reference/) | A cloud-based SMTP provider that allows you to send emails without having to maintain email servers | `apiKey` | Unknown |
 | [Sendinblue](https://developers.sendinblue.com/docs) | A service that provides solutions relating to marketing and/or transactional email and/or SMS | `apiKey` | Unknown |
 | [SendRaven](https://sendraven.ai) | Email API for AI agents: send from your own domain, receive replies as threads, and cap or hold sends for approval per API key | `apiKey` | No |
