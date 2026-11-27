@@ -1119,6 +1119,7 @@
 | [DolarAPI](https://dolarapi.com/docs/) | Real-time exchange rates for Latin American currencies | No | Yes |
 | [Drillr](https://drillr.ai) | Fundamentals, filings, filing full-text search, earnings, ownership, events and analyst data for US, China and Japan equities, linked to source filings | `apiKey` | No |
 | [Duceus](https://duceusapi.com) | European insider (PDMR) transactions and major shareholding notifications from national registers, normalized into one JSON schema with links to each filing | `apiKey` | No |
+| [Earnings Call Transcript](https://apify.com/johnvc/earnings-call-transcript-api) | Speaker-tagged earnings call transcripts with Q&A, plus SEC 8-K filings parsed from EDGAR, with keyword search across US filers. | `apiKey` | Unknown |
 | [Earnings Feed](https://earningsfeed.com/api/docs) | SEC filings, insider transactions, institutional holdings | `apiKey` | No |
 | [Econdb](https://www.econdb.com/api/) | Global macroeconomic data | No | Yes |
 | [eunormia E-Invoice API](https://eunormia.com) | eunormia turns your invoice data into a ZUGFeRD/Factur-X PDF/A-3 per EN 16931 — and validates every result before it is delivered | `apiKey` | Unknown |
