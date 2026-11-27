@@ -983,6 +983,7 @@
 | [Cloudmersive Validate](https://cloudmersive.com/validate-api) | Validate email addresses, phone numbers, VAT numbers and domain names | `apiKey` | Yes |
 | [Disify](https://www.disify.com/) | Validate and detect disposable and temporary email addresses | No | Yes |
 | [DropMail](https://dropmail.me/api/#live-demo) | GraphQL API for creating and managing ephemeral e-mail inboxes | No | Unknown |
+| [Email Validation](https://email-validation.org) | Validate one email address or bulk lists: valid, invalid, catch-all, unknown or disposable, with a reason and a recommended action | `apiKey` | Yes |
 | [email59](https://email59.com) | Email API for apps and agents: send from a ready @email59.com address with no DNS setup, plus email verification codes, address checks and campaigns | `apiKey` | No |
 | [Emailvalidation](https://emailvalidation.io/email-validation-api/) | E-Mail address validation | `apiKey` | Yes |
 | [FairValid](https://fairvalid.com) | Verify email addresses or CSV lists, retrieve job results and check workspace credits through a self-serve server API | `apiKey` | No |
