@@ -1,5 +1,5 @@
 {
-"count": 2148,
+"count": 2149,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -14367,6 +14367,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://tweetapi.com",
+        "Category": "Social"
+    },
+    {
+        "API": "TwexAPI",
+        "Description": "Read public X (Twitter) data: search, profiles, timelines, followers and replies, billed per result",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://twexapi.io",
         "Category": "Social"
     },
     {
