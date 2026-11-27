@@ -1401,6 +1401,7 @@
 | [IP99](https://ip99.com/) | IP geolocation with proxy, VPN and datacenter risk, each verdict carrying the age of the evidence behind it | No | Yes |
 | [ipapi.co](https://ipapi.co/api/#introduction) | Find IP address location information | No | Yes |
 | [ipapi.is](https://ipapi.is) | IP geolocation, ASN and company data with VPN, proxy, Tor and datacenter detection | `apiKey` | Yes |
+| [IPDatum](https://www.ipdatum.com) | Free IPv4/IPv6 geolocation, ASN, and 12-signal VPN/proxy/Tor/cloud/anycast/abuser lookup API with batch support (1,000/day keyless, 50,000/day free key) | No | Yes |
 | [IPGEO](https://api.techniknews.net/ipgeo/) | Unlimited free IP Address API with useful information | No | Unknown |
 | [IPGeolocation](https://ipgeolocation.io/) | Accurate IP geolocation, basic ASN, time zones and user-agent parsing. Free plan: 1,000 API credits/day. Paid plans add company information and IP security. | `apiKey` | Yes |
 | [IPInfoDB](https://www.ipinfodb.com/api) | Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address | `apiKey` | Unknown |
