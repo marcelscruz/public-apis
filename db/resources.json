@@ -1,5 +1,5 @@
 {
-"count": 2152,
+"count": 2153,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -327,6 +327,14 @@
         "Auth": "apiKey",
         "Cors": "unknown",
         "Link": "https://keenable.ai",
+        "Category": "AI"
+    },
+    {
+        "API": "Kunavo",
+        "Description": "Prepaid AI model API with client key groups, per-key usage reporting and CSV cost exports",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://kunavo.com",
         "Category": "AI"
     },
     {
