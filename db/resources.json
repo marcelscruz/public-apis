@@ -1,5 +1,5 @@
 {
-"count": 2150,
+"count": 2151,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -7735,6 +7735,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://www.valyu.ai",
+        "Category": "Finance"
+    },
+    {
+        "API": "Verkanto",
+        "Description": "EU VAT decisions (reverse charge, rate, invoice note), VIES VAT number checks and numbered invoice PDFs for cross-border EU sales",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://verkanto.eu",
         "Category": "Finance"
     },
     {
