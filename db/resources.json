@@ -1,5 +1,5 @@
 {
-"count": 2154,
+"count": 2155,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6271,6 +6271,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://dropmail.me/api/#live-demo",
+        "Category": "Email"
+    },
+    {
+        "API": "Email Validation",
+        "Description": "Validate one email address or bulk lists: valid, invalid, catch-all, unknown or disposable, with a reason and a recommended action",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://email-validation.org",
         "Category": "Email"
     },
     {
