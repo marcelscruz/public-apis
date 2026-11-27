@@ -1,5 +1,5 @@
 {
-"count": 2151,
+"count": 2152,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -511,6 +511,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://standardcompute.com",
+        "Category": "AI"
+    },
+    {
+        "API": "Straitly",
+        "Description": "OpenAI- and Anthropic-compatible AI gateway with one API key for 100+ models including Claude, GPT, Gemini, Grok and DeepSeek",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://straitly.ai",
         "Category": "AI"
     },
     {
