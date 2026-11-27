@@ -1,5 +1,5 @@
 {
-"count": 2153,
+"count": 2154,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10743,6 +10743,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://peptidelibrary.app/developers",
+        "Category": "Health"
+    },
+    {
+        "API": "PeptideCompare",
+        "Description": "Prices US online clinics charge for prescribed peptides and NAD+, each with its source page and date",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://peptidecompare.co/developers",
         "Category": "Health"
     },
     {
