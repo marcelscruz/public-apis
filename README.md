@@ -1595,6 +1595,7 @@
 | [openFDA](https://open.fda.gov) | Public FDA data about drugs, devices and foods | `apiKey` | Unknown |
 | [Opioid Treatment Directory](https://opioidtreatment.fyi) | Methadone and buprenorphine treatment providers | No | Yes |
 | [Peptide Library](https://peptidelibrary.app/developers) | Peptide research profiles, cited studies and regulatory status, plus a vendor directory and current prices (free key) | No | Yes |
+| [PeptideCompare](https://peptidecompare.co/developers) | Prices US online clinics charge for prescribed peptides and NAD+, each with its source page and date | No | Yes |
 | [Psychologie et Sérénité](https://psychologieetserenite.com/api) | French psychology articles metadata and validated psychological tests catalog | No | Yes |
 | [RRM Academy Research Library](https://rrmacademy.org/connect/) | Physician-curated restorative reproductive medicine research: endometriosis, PCOS, NaProTechnology, fertility awareness | `apiKey` | No |
 | [Verified Supplement Data](https://verifiedsupplementdata.com) | Supplement dosing, form comparisons and drug-nutrient interactions with PubMed citations | No | Yes |
