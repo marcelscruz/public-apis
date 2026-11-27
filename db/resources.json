@@ -1,5 +1,5 @@
 {
-"count": 2146,
+"count": 2147,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13983,6 +13983,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://getxapi.com",
+        "Category": "Social"
+    },
+    {
+        "API": "Groundsocial",
+        "Description": "Public posts, comments, profiles and search from Reddit, X, TikTok, Instagram, YouTube, LinkedIn and 70+ more platforms as JSON",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://groundsocial.dev",
         "Category": "Social"
     },
     {
