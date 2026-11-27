@@ -93,6 +93,7 @@
 ### AI
 | API | Description | Auth | CORS |
 |---|---|---|---|
+| [AdsTurbo](https://adsturbo.ai/open-api) | Video ad generation API: AI actors with lip sync, ad cloning from a reference video, video translation and product images | `apiKey` | No |
 | [Advanced Multilanguage AI Translator (RapidAPI)](https://rapidapi.com/vintarok-vintarok-default/api/advanced-multilanguage-ai-translator-api-with-fast-responses) | AI-powered translator supporting multiple languages with fast, context-aware responses | `apiKey` | Yes |
 | [Agentik](https://www.agentik.cc) | Pay-per-call tools for AI agents over MCP and REST: one API key and one prepaid balance for 3,500+ tools from 165 providers | `apiKey` | Yes |
 | [AI Benchmark Index](https://aibenchmarkindex.com) | AI benchmarks with traceable data, licences and scores | No | Yes |
@@ -2413,7 +2414,6 @@
 | [Linkly](https://linklyhq.com/url-shortener-api) | URL shortener API with branded domains, click tracking, smart redirects, and webhooks | `apiKey` | Yes |
 | [Manyapis](https://manyapis.com/products/short-url) | Free URL shortener API with up to 10 requests per day | `apiKey` | Yes |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` | Unknown |
-| [Spoo.me](https://spoo.me/api) | Free URL shortener with custom alias, max-clicks, password protection and advanced analytics support | No | Yes |
 | [T.LY](https://t.ly/docs) | URL shortener and link management service | `apiKey` | Yes |
 | [TinyURL](https://tinyurl.com/app/dev) | Shorten long URLs | `apiKey` | No |
 | [Urlmskr](https://github.com/Axorax/urlmskr#urlmskr-api) | Easy and fast masked, shortened link creation | No | Unknown |
