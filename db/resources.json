@@ -1,5 +1,5 @@
 {
-"count": 2157,
+"count": 2158,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -13727,6 +13727,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://partners.clickwise.net/",
+        "Category": "Shopping"
+    },
+    {
+        "API": "CompsAPI",
+        "Description": "Sold eBay listings with 3 years of price history, plus sold prices from 12 more marketplaces",
+        "Auth": "apiKey",
+        "Cors": "yes",
+        "Link": "https://compsapi.com",
         "Category": "Shopping"
     },
     {
