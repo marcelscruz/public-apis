@@ -1,5 +1,5 @@
 {
-"count": 2147,
+"count": 2148,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2015,6 +2015,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://funeralcompare.fyi",
+        "Category": "Business"
+    },
+    {
+        "API": "Genaya",
+        "Description": "Read and write a service business's appointments, clients, invoices, estimates, leads and tasks, with webhooks for new events",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://www.genaya.com",
         "Category": "Business"
     },
     {
