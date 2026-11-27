@@ -2139,6 +2139,7 @@
 | [Trash Nothing](https://trashnothing.com/developer) | A freecycling community with thousands of free items posted every day | `OAuth` | Yes |
 | [Tumblr](https://www.tumblr.com/docs/en/api/v2) | Read and write Tumblr Data | `OAuth` | Unknown |
 | [TweetAPI](https://tweetapi.com) | Twitter data API: search, profiles, followers, timelines, lists, communities, posting and DMs | `apiKey` | No |
+| [TwexAPI](https://twexapi.io) | Read public X (Twitter) data: search, profiles, timelines, followers and replies, billed per result | `apiKey` | Yes |
 | [Twitch](https://dev.twitch.tv/docs) | Game Streaming API | `OAuth` | Unknown |
 | [Twitter](https://developer.twitter.com/en/docs) | Read and write Twitter data | `OAuth` | No |
 | [TwitterApi.IO](https://twitterapi.io) | Access Twitter's Real-time & Historical Data with Unmatched Simplicity | `apiKey` | No |
