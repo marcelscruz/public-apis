@@ -1018,6 +1018,7 @@
 | [StopMailing](https://stopmailing.net) | Temporary email addresses with a free, no-signup REST API: create, read messages, live updates (SSE) | No | Yes |
 | [Sweego](https://learn.sweego.io/docs/api-intro) | Self-serve multichannel notification platform for transactional email, SMS, push web& mobile, chat, in-app | `apiKey` | Yes |
 | [Sweep Emails](https://sweepemails.com/) | Reliable email validation API with Free tier | `apiKey` | No |
+| [Temp Mail Agency](https://temp-mail.agency) | Free, zero-signup disposable email REST API with automatic OTP & link extraction across .com, .org.uk & .edu.pl pools | No | Yes |
 | [Temporary and Disposable emails API](https://apyhub.com/utility/boomlify-temp-mail) | This API provides temporary & disposable email addresses | `apiKey` | Yes |
 | [Trueguard](https://trueguard.io) | Trueguard offers API for detecting temporary emails, free-tier abusers and automated bots | `apiKey` | No |
 | [Zyntra](https://docs.zyntra.app/) | Unlimited e-mail inboxes with API access. Catch OTPs, reset links, and sign-up emails in test flows | `apiKey` | Unknown |
