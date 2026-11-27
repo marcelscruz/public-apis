@@ -1,5 +1,5 @@
 {
-"count": 2149,
+"count": 2150,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6535,6 +6535,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://sweepemails.com/",
+        "Category": "Email"
+    },
+    {
+        "API": "Temp Mail Agency",
+        "Description": "Free, zero-signup disposable email REST API with automatic OTP & link extraction across .com, .org.uk & .edu.pl pools",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://temp-mail.agency",
         "Category": "Email"
     },
     {
