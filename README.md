@@ -1892,6 +1892,7 @@
 | [PixelVault](https://pixelvault.dev) | Agent-first image hosting with instant CDN URLs | `apiKey` | No |
 | [PlaceKeanu](https://placekeanu.com/) | Resizable Keanu Reeves placeholder images with grayscale and young Keanu options | No | Unknown |
 | [Poof](https://poof.bg) | Image & video background removal API | `apiKey` | Yes |
+| [Profile Photo Specs](https://narkis.ai/developers) | Profile picture sizes, file limits and formats for 28 platforms and passports, with sources | No | Yes |
 | [Readme typing SVG](https://github.com/DenverCoder1/readme-typing-svg) | Customizable typing and deleting text SVG | No | Unknown |
 | [Remove Background from Images API](https://apyhub.com/utility/image-processor-remove-background) | This API helps you remove background from any image | `apiKey` | Yes |
 | [Remove.bg](https://www.remove.bg/api) | Image Background removal | `apiKey` | Unknown |
