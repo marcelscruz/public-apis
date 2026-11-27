@@ -393,6 +393,7 @@
 | [Fantastic Forms API](https://fantasticforms.com) | REST API for Fantastic Forms — a modern form builder SaaS. Programmatically create forms, list submissions, export data, and manage workspaces / team members | No | Yes |
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | `OAuth` | Unknown |
 | [FuneralCompare](https://funeralcompare.fyi) | Funeral homes and cremation providers, compared by the fees they publish | No | Yes |
+| [Genaya](https://www.genaya.com) | Read and write a service business's appointments, clients, invoices, estimates, leads and tasks, with webhooks for new events | `apiKey` | No |
 | [Gmail](https://developers.google.com/gmail/api/) | Flexible, RESTful access to the user's inbox | `OAuth` | Unknown |
 | [Google Analytics](https://developers.google.com/analytics/) | Collect, configure and analyze your data to reach the right audience | `OAuth` | Unknown |
 | [Instatus](https://instatus.com/help/api) | Post to and update maintenance and incidents on your status page through an HTTP REST API | `apiKey` | Unknown |
