@@ -1,5 +1,5 @@
 {
-"count": 2156,
+"count": 2157,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10415,6 +10415,14 @@
         "Auth": "OAuth",
         "Cors": "unknown",
         "Link": "https://openregistry.sophymarine.com",
+        "Category": "Government"
+    },
+    {
+        "API": "Pandex",
+        "Description": "Official legislation and case law (EU, UK, DE, FR, ES, NL, AT, CH and more): every past version with dates, citations linked to the passage. REST and MCP",
+        "Auth": "",
+        "Cors": "no",
+        "Link": "https://www.pandex.io",
         "Category": "Government"
     },
     {
