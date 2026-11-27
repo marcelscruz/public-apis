@@ -1,5 +1,5 @@
 {
-"count": 2158,
+"count": 2159,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -9263,6 +9263,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://ipapi.is",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "IPDatum",
+        "Description": "Free IPv4/IPv6 geolocation, ASN, and 12-signal VPN/proxy/Tor/cloud/anycast/abuser lookup API with batch support (1,000/day keyless, 50,000/day free key)",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://www.ipdatum.com",
         "Category": "Geocoding"
     },
     {
