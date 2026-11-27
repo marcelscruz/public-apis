@@ -1,5 +1,5 @@
 {
-"count": 2159,
+"count": 2160,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6487,6 +6487,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://resend.com/docs/",
+        "Category": "Email"
+    },
+    {
+        "API": "Sendfinery",
+        "Description": "Check a domain's SPF, DKIM, DMARC and MX records, look up DNS and analyze email headers",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://sendfinery.com",
         "Category": "Email"
     },
     {
