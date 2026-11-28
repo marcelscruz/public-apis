@@ -1,5 +1,5 @@
 {
-"count": 2161,
+"count": 2162,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -335,6 +335,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://kunavo.com",
+        "Category": "AI"
+    },
+    {
+        "API": "LLMTR",
+        "Description": "OpenAI- and Anthropic-compatible LLM API gateway with one prepaid key for models from many vendors",
+        "Auth": "apiKey",
+        "Cors": "unknown",
+        "Link": "https://llmtr.com",
         "Category": "AI"
     },
     {
