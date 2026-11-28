@@ -416,6 +416,7 @@
 | [Redash](https://redash.io/help/user-guide/integrations-and-api/api) | Access your queries and dashboards on Redash | `apiKey` | Yes |
 | [Renidly](https://renidly.com) | Resolve any B2B identityin milliseconds | `apiKey` | Yes |
 | [RestoSignals](https://restosignals.com) | US restaurants and bars 1-6 months before opening, fused from liquor-license, food-permit and business filings and scored | `apiKey` | No |
+| [SaaSCity](https://saascity.io) | Search live SaaS and AI product launches, audit launch readiness, and query 1,600+ startup directories via keyless MCP and NLWeb endpoints | No | Yes |
 | [Skael](https://api.skael.de/en/) | German commercial register data, new registrations, Google Maps businesses and job boards as B2B lead lists with verified work emails | `apiKey` | Yes |
 | [Smartsheet](https://smartsheet.redoc.ly/) | Allows you to programmatically access and Smartsheet data and account information | `OAuth` | No |
 | [SONAR KYB](https://getsonar.report/developers) | Official company register lookups and KYB screening (sanctions, PEP, ICIJ Offshore Leaks, adverse media) as JSON with a source per finding | `apiKey` | No |
