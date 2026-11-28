@@ -1,5 +1,5 @@
 {
-"count": 2163,
+"count": 2164,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -11975,6 +11975,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://www.opensanctions.org/docs/api/",
+        "Category": "Open Data"
+    },
+    {
+        "API": "PetrolCast",
+        "Description": "Official fuel prices by country, with history, forecasts and their accuracy record",
+        "Auth": "apiKey",
+        "Cors": "no",
+        "Link": "https://petrolcast.com",
         "Category": "Open Data"
     },
     {
