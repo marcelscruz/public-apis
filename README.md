@@ -2053,6 +2053,7 @@
 | API | Description | Auth | CORS |
 |---|---|---|---|
 | [Apiwren Amazon Data](https://apiwren.com/amazon-product-api) | Third-party Amazon product search, details, reviews, seller offers and best sellers across 23 marketplaces | `apiKey` | Yes |
+| [Apiwren eBay Data](https://apiwren.com/ebay-api) | Third-party eBay search, active listings, item details and seller profiles across 14 marketplaces | `apiKey` | Yes |
 | [Asin](https://www.asin.dev) | Track Amazon products and prices across 11 marketplaces, with price history, offers and alerts | `apiKey` | No |
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce | `apiKey` | Unknown |
 | [Canopy](https://www.canopyapi.co/) | A modern API for Amazon Data | `apiKey` | Unknown |
