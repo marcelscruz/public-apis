@@ -1,5 +1,5 @@
 {
-"count": 2164,
+"count": 2162,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -10802,14 +10802,6 @@
         "Category": "Health"
     },
     {
-        "API": "PeptideCompare",
-        "Description": "Prices US online clinics charge for prescribed peptides and NAD+, each with its source page and date",
-        "Auth": "",
-        "Cors": "yes",
-        "Link": "https://peptidecompare.co/developers",
-        "Category": "Health"
-    },
-    {
         "API": "Psychologie et Sérénité",
         "Description": "French psychology articles metadata and validated psychological tests catalog",
         "Auth": "",
@@ -15007,14 +14999,6 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://puckapi.com",
-        "Category": "Sports & Fitness"
-    },
-    {
-        "API": "QiuXiaoCe Football",
-        "Description": "Football fixtures, standings, team profiles, xG tactical stats and AI match packs (free tier available)",
-        "Auth": "apiKey",
-        "Cors": "yes",
-        "Link": "https://www.qiuxiaoce.com/data-docs/",
         "Category": "Sports & Fitness"
     },
     {
