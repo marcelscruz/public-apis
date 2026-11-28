@@ -1,5 +1,5 @@
 {
-"count": 2160,
+"count": 2161,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -6575,6 +6575,14 @@
         "Auth": "",
         "Cors": "yes",
         "Link": "https://temp-mail.agency",
+        "Category": "Email"
+    },
+    {
+        "API": "Tempboxy",
+        "Description": "Free disposable .com and .edu.pl temporary email API with automatic OTP code extraction, attachment access and custom TTLs",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://tempboxy.com",
         "Category": "Email"
     },
     {
