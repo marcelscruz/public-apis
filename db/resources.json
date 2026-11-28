@@ -11830,7 +11830,7 @@
         "Description": "Search and read Edgepedia, a free and growing encyclopedia with citations. No key.",
         "Auth": "",
         "Cors": "yes",
-        "Link": "https://www.edgechat.ai/edgepedia",
+        "Link": "https://www.edgepedia.org/",
         "Category": "Open Data"
     },
     {
