@@ -1,5 +1,5 @@
 {
-"count": 2162,
+"count": 2163,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -3119,6 +3119,14 @@
         "Auth": "apiKey",
         "Cors": "yes",
         "Link": "https://madeonsol.com",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "Melega Space",
+        "Description": "Public beta reads for Web3 project discovery, with an endpoint catalogue and platform status",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://www.melega.space/",
         "Category": "Cryptocurrency"
     },
     {
