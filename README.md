@@ -138,6 +138,7 @@
 | [LLMTR](https://llmtr.com) | OpenAI- and Anthropic-compatible LLM API gateway with one prepaid key for models from many vendors | `apiKey` | Unknown |
 | [Machinetutors](https://machinetutors.com/api/) | AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP | `apiKey` | Yes |
 | [Magic Hour](https://magichour.ai/api) | Generate and edit AI videos, images, and audio through a self-serve REST API | `apiKey` | Yes |
+| [MartLLM](https://martllm.com) | OpenAI- and Anthropic-compatible API for GPT, Claude, Gemini, DeepSeek and uncensored models plus image, video and music, billed at provider cost | `apiKey` | Yes |
 | [MessengerX.io](https://messengerx.rtfd.io) | A FREE API for developers to build and monetize personalized ML based chat apps | `apiKey` | Yes |
 | [Neuronto](https://neuronto.com) | Free search over MCP servers, A2A agents, skills and APIs across Agentic Resource Discovery registries | No | Yes |
 | [NLP Cloud](https://nlpcloud.io) | NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more | `apiKey` | Unknown |
@@ -166,7 +167,6 @@
 | [TranscriptFetch](https://transcriptfetch.com) | The transcript API for social media video. Get transcripts at scale from YouTube, TikTok or Instagram. | `apiKey` | Yes |
 | [TranslateMyImage](https://translatemyimage.com) | Translate the text inside JPG, PNG or WEBP images into 9 languages and get the translated image back | `apiKey` | No |
 | [TrustedRouter](https://trustedrouter.com) | OpenAI-compatible LLM API gateway that routes requests to models from many vendors through one API key | `apiKey` | Yes |
-| [UberLLM](https://uberllm.dev) | OpenAI- and Anthropic-compatible API for GPT, Claude, Gemini, DeepSeek and uncensored models plus image, video and music, billed at provider cost | `apiKey` | Yes |
 | [UnoRouter](https://unorouter.com) | OpenAI compatible gateway with one key for every major model provider, automatic failover and a free tier | `apiKey` | Yes |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Unknown |
 | [UpRes](https://upres.ai) | Image, video and speech restoration up to 8K through a self-serve REST API | `apiKey` | No |
