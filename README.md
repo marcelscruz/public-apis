@@ -554,6 +554,7 @@
 | [Kraken](https://docs.kraken.com/rest/) | Cryptocurrencies Exchange | `apiKey` | Unknown |
 | [KuCoin](https://docs.kucoin.com/) | Cryptocurrency Trading Platform | `apiKey` | Unknown |
 | [MadeOnSol](https://madeonsol.com) | Real-time Solana and Robinhood Chain data - KOL trades, deployer reputation, token risk, DEX streams | `apiKey` | Yes |
+| [Melega Space](https://www.melega.space/) | Public beta reads for Web3 project discovery, with an endpoint catalogue and platform status | No | Yes |
 | [Mempool](https://mempool.space/api) | Bitcoin API Service focusing on the transaction fee | No | No |
 | [MercadoBitcoin](https://api.mercadobitcoin.net/api/v4/docs) | Brazilian Cryptocurrency Information | No | Unknown |
 | [Messari](https://messari.io/api) | Provides API endpoints for thousands of crypto assets | No | Unknown |
